@@ -1,0 +1,132 @@
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">ETHICA COMPLEMENTORIA,</title>
+      <title type="sub">Complementier-Büchlein / Darinn Ein richtige Art vnnd Weiſe grundföꝛmlich abgebilddet wird / wie man ſo wol mit hohen Fürſtlichen / als nidrigen Perſonen / auch bey Geſellſchafften / Jungfrawen vnd Frawen Hofzierlich converſiren, reden vnd vmbgehen müſſe. Erſtlich gedruckt zu Hamburg / bey Heinrich Werner</title>
+      <author>
+        <persName>
+          <forename>N.N.</forename>
+        </persName>
+      </author>
+      <respStmt>
+        <persName>
+          <surname>Rockenberger</surname>
+          <forename>Annika</forename>
+        </persName>
+        <resp>
+          <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
+          <date type="importDTA">2018-11-22T15:38:36Z</date>
+        </resp>
+      </respStmt>
+      <respStmt>
+        <orgName ref="http://www.clarin-d.de">CLARIN-D</orgName>
+        <resp>
+          <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+          <ref target="http://clarin.bbaw.de"/>
+        </resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt><edition>Textkritische Ausgabe.</edition></editionStmt>
+    <extent>
+      <measure type="images">89</measure>
+      <measure type="tokens"/>
+      <measure type="types"/>
+      <measure type="characters"/>
+    </extent>
+    <publicationStmt>
+      <publisher xml:id="DTACorpusPublisher">
+        <email>dta@bbaw.de</email>
+        <orgName role="project">Deutsches Textarchiv</orgName>
+        <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+        <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+        <address>
+          <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+          <country>Germany</country>
+        </address>
+      </publisher>
+      <pubPlace>Berlin</pubPlace>
+      <date type="publication">2018-11-22T15:38:36Z</date>
+      <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <p>CC BY-NC-SA 4.0</p>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <notesStmt>
+      <note type="remarkDocument">Vorlage beschädigt, es fehlen die Blätter B4 und B6, Textverlust auf D12a</note>
+    </notesStmt>
+    <sourceDesc>
+      <bibl type="M">Ethica Complementoria. Complementierbüchlein. Hamburg [nicht vor 1643, nicht nach 1647]</bibl>
+      <biblFull>
+        <titleStmt>
+        <title level="m" type="main">ETHICA COMPLEMENTORIA,</title>
+        <title level="m" type="sub">Complementier-Büchlein / Darinn Ein richtige Art vnnd Weiſe grundföꝛmlich abgebilddet wird / wie man ſo wol mit hohen Fürſtlichen / als nidrigen Perſonen / auch bey Geſellſchafften / Jungfrawen vnd Frawen Hofzierlich converſiren, reden vnd vmbgehen müſſe. Erſtlich gedruckt zu Hamburg / bey Heinrich Werner</title>
+          <author>
+            <persName>
+              <forename>N.N.</forename>
+            </persName>
+          </author>
+        </titleStmt>
+        <editionStmt>
+          <edition n="1"/>
+        </editionStmt>
+        <publicationStmt>
+          <publisher><name>Heinrich Werner</name></publisher>
+            <pubPlace>Hamburg</pubPlace>
+          <date type="publication">1647</date>
+        </publicationStmt>
+      </biblFull>
+      <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+        <msIdentifier>
+          <repository>Bayerische Staatsbibliothek München</repository>
+          <idno>
+            <idno type="shelfmark">J.pract. 151#Beibd.2</idno>
+            <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165555442&amp;View=default&amp;db=100&amp;View=default</idno>
+            <idno type="URLImages">http://daten.digitale-sammlungen.de/~db/0003/bsb00033754/images/</idno>
+            <idno type="URN">urn:nbn:de:bvb:12-bsb00033754-8</idno>
+          </idno>
+        </msIdentifier>
+        <physDesc>
+          <typeDesc>
+            <p>Fraktur</p>
+          </typeDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <editorialDecl>
+      <p>Verfahren der Texterfassung: manuell (einfach erfasst).</p>
+      <p>
+          Bogensignaturen: gekennzeichnet;
+          Druckfehler: dokumentiert;
+          fremdsprachliches Material: gekennzeichnet;
+          Geminations-/Abkürzungsstriche: wie Vorlage;
+          Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): wie Vorlage;
+          i/j in Fraktur: wie Vorlage;
+          I/J in Fraktur: wie Vorlage;
+          Kolumnentitel: gekennzeichnet;
+          Kustoden: gekennzeichnet;
+          langes s (ſ): wie Vorlage;
+          Normalisierungen: keine;
+          rundes r (&amp;#xa75b;): wie Vorlage;
+          Seitenumbrüche markiert: ja;
+          Silbentrennung: wie Vorlage;
+          u/v bzw. U/V: wie Vorlage;
+          Vokale mit übergest. e: wie Vorlage;
+          Vollständigkeit: vollständig erfasst;
+          Zeichensetzung: wie Vorlage;
+          Zeilenumbrüche markiert: ja;
+      </p>
+    </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="deu">(Früh-)Neuhochdeutsch</language>
+      <language ident="lat">Latein</language>
+    </langUsage>
+    <textClass>
+      <classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+    </textClass>
+  </profileDesc>
+</teiHeader>
