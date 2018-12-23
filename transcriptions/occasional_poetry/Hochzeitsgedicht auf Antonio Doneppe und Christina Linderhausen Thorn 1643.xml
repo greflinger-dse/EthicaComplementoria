@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.deutschestextarchiv.de/basisformat.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hochzeitsgedicht auf Antonio Doneppe und Christina Linderhausen. Thorn 1643</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/XXX">
+            <surname>Greflinger</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <respStmt>
+          <persName>
+            <surname>Rockenberger</surname>
+            <forename>Annika</forename>
+          </persName>
+          <resp>
+            <note type="remarkResponsibility">Erstellung der Transkription nach DTA-Richtlinien</note>
+            <date type="importDTA"></date>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images">4</measure>
+        <measure type="tokens">[Umfang in Token]</measure>
+        <measure type="types">[Umfang in Types]</measure>
+        <measure type="characters">[Umfang in Zeichen]</measure>
+      </extent>
+      <publicationStmt>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication"></date>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName>Deutsches Textarchiv</orgName>
+          <email>dta@bbaw.de</email>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+          </address>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/de/">
+            <p>Distributed under the Creative Commons Attribution-NonCommercial 3.0 Unported License.</p>
+          </licence>
+        </availability>
+        <idno type="URLWeb">[URL der DTA-Werkpublikation]</idno>
+        <idno type="DTADirName">[Verzeichnisname innerhalb des DTA-Korpus]</idno>
+        <idno type="DTAID">[ID innerhalb des DTA-Korpus]</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Hochzeitsgedicht auf Antonio Doneppe und Christina Linderhausen. Thorn 1643</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Hochzeitsgedicht auf Antonio Doneppe und Christina Linderhausen. Thorn 1643</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/XXX">
+                <surname>Greflinger</surname>
+                <forename>Georg</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <pubPlace></pubPlace>
+            <date type="publication">1643</date>
+            <publisher><name></name></publisher>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Faksmilie in Franz Heiduk (1980)</repository>
+            <idno>
+              <idno type="shelfmark">[Signatur]</idno>
+              <idno type="URLCatalogue">[URL Katalogaufnahme]</idno>
+              <idno type="URLImages">[URL Bilddateien]</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>[Hinweise zu den Transkriptions- und Annotationsrichtlinien]</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">(Früh-)Neuhochdeutsch</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dtae</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <pb facs="#f0001"/>
+    <front>
+      <titlePage type="main">
+        <titlePart type="main">
+          <bibl>Hochzeitsgedicht auf Antonio Doneppe und Christina Linderhausen. Thorn 1643</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Hochzeit-Gedichte.<lb/>
+            Dem Ehrenve&#x017f;ten Achtbarn vnd Wol-<lb/>
+              gelahrten<lb/>
+              Hn: Antonio Doneppe /<lb/>
+              Wolbe&#x017f;taltem <hi rendition="#aq">Secretario</hi> der Ko&#x0364;niglichen<lb/>
+              Stadt Thorn /<lb/>
+              Vnd der<lb/>
+              VielEhren vnd Tugend&#x017f;amen Jungfrawen<lb/>
+              <hi rendition="#aq">CHRISTINA,</hi><lb/>
+              Deß Ehrenve&#x017f;ten vnd Wolwei&#x017f;en<lb/>
+              Herrn <hi rendition="#aq #k">Benedicti</hi> Linderhau&#x017f;en /<lb/>
+              Wolverordneten Gerichtsverwand-<lb/>
+              ten der Ko&#x0364;niglichen Stadt Thorn<lb/>
+              Eheleiblichen Tochter /<lb/>
+            </title>
+            <author>Auffge&#x017f;etzt<lb/> von<lb/> <hi rendition="#aq">Georgio Greblingero,</hi> Auß Regen&#x017f;purg.</author>
+          </titleStmt>
+          <publicationStmt><date><hi rendition="#aq #k">Anno</hi> 1643.</date></publicationStmt>
+        </biblFull></titlePart></titlePage>
+    </front>
+    <pb facs="#f0002"/>
+    <body>
+      <figure/><!-- Zierband -->
+      <div>
+        <p><hi rendition="#in">D</hi>Em im Gehirne nicht &#x017f;o viel des Staubes lieget<lb/>
+          Wie von <choice><abbr>d</abbr><expan>der</expan></choice> Rei&#x017f;e mir / vn&#x0303; der was &#x017f;chwerers wieget<!-- wie-<lb/>(get) --><lb/>
+          An Kun&#x017f;t der Poe&#x017f;i / dann ich / der &#x017f;elbe mag<lb/>
+          Jhr Lieb- geliebtes Paar auff ewern Hochzeittag<lb/>
+          Ein mehrers thun dann ich. Er mag von ewern Ehren<lb/>
+          Vnd hohen Tugenden die Stimme la&#x017f;&#x017f;en ho&#x0364;ren.<lb/>
+          Jch halte die&#x017f;en brauch / was ich nicht gnug&#x017f;am kan<lb/>
+          Beloben / fang ich auch viel lieber gar nicht an /<lb/>
+          Jch wil &#x017f;chon &#x017f;on&#x017f;ten was das nicht ge&#x017f;ungen / &#x017f;ingen<lb/>
+          Vnd mitten ins <hi rendition="#aq">Confect<!-- <g ref="#ctlig">ct</g> --></hi> ein new Gerichte bringen<lb/>
+          Es &#x017f;ind zwar vor genug / doch daß nicht mangel &#x017f;ey<lb/>
+        Vielmehr ein u&#x0364;berfluß / &#x017f;ey meines auch dabey.</p>
+        <p><hi rendition="#in">D</hi>Je Liebe welche &#x017f;ich nicht anders la&#x0364;&#x017f;&#x017f;et nennen<lb/>
+          Als Liebe / giebet vns den Himmel zu erkennen /<lb/>
+          J&#x017f;t de&#x017f;&#x017f;en Frewde Bild. Wer nicht der Liebe Freund<lb/>
+          Dem i&#x017f;t gewißlich wol der Himmel &#x017f;elber feind.<lb/>
+          Durch Liebe lebt die Welt: Wo Liebe nicht zu finden<lb/>
+          Da muß die Ho&#x0364;lle &#x017f;eyn / die Zahlung vn&#x017f;rer Su&#x0364;nden.<lb/>
+          Die Liebe ru&#x0364;hrt von Gott / der alle Men&#x017f;chen liebt /<lb/>
+          Vnd wil geliebet &#x017f;eyn / der vns Gebotte giebt<lb/>
+          Daß man den Nech&#x017f;ten &#x017f;oll nach Jhn &#x017f;o hertzlich lieben<lb/>
+        Als wir vns &#x017f;elber thun / Jm fall wir jhr betru&#x0364;ben
+        <fw type="catch" place="bottom">So</fw>
+        <pb facs="#f0003"/>
+          So wil Er Ra&#x0364;cher &#x017f;eyn. Voll Vo&#x0364;gel i&#x017f;t die Lufft /<lb/>
+          Voll Fi&#x017f;che Teich&#x0027; vn&#x0303; Meer / vol Thire Berg&#x0027; vn&#x0303; Klufft /<lb/>
+          Der Wald / das o&#x0364;de Feldt. Die Erd i&#x017f;t voller Leuthe<lb/>
+          Vnd werden jmmer mehr / vnd &#x017f;tirbt &#x017f;chon eines heute<lb/>
+          Der Morgen bringt es ein. Wo ko&#x0364;mpt diß alles her /<lb/>
+          Die Lufft die Grufft die Erd&#x0027; vnd das ge&#x017f;altzne Meer<lb/>
+          Wird durch die Lieb&#x0027; erfu&#x0364;llt. So keine Liebe wa&#x0364;re /<lb/>
+          Wo wa&#x0364;hren Jhr vnd Wir? Daß vns die Liebe na&#x0364;hre /<lb/>
+          Muß Stock vn&#x0303; Stein ge&#x017f;tehn / vnd dreymal eher Jhr<lb/>
+          Herr <hi rendition="#fr">Bra&#x0364;utigam</hi> &#x017f;ol wol auch ewre <hi rendition="#fr">Scho&#x0364;ne Zier</hi><lb/>
+          Die Tugend volle <hi rendition="#fr">Braut.</hi> Jhr habet Euch verlibet<lb/>
+          Vnd habet wiederumb was Segen liebe giebet.<lb/>
+          Jhr thut wz Men&#x017f;chen thun / vnd la&#x017f;&#x017f;et Sto&#x0364;cke / Stein<lb/>
+          Vnd was nicht lieben wil / auch Sto&#x0364;ck&#x0027; vn&#x0303; Steine &#x017f;eyn.<lb/>
+          Jhr folget der Natur&#x0027; der&#x017f;elben nach zukommen<lb/>
+          Vnd habt des Heydens Spruch Euch wenig angenommen <!-- angenom-<lb/>(men --><lb/>
+          <hi rendition="#fr">Die Eh i&#x017f;t Ach vnd Weh /</hi> Jhr haltet &#x017f;ie fu&#x0364;r Lu&#x017f;t /<lb/>
+          Vnd andre neben Euch / als denen mehr bewu&#x017f;t<lb/>
+          Dann jenen Heyden war / die jhrer Ko&#x0364;pffe lebten /<lb/>
+          Vnd was &#x017f;ie du&#x0364;nckete / der Welt fu&#x0364;r gut erhebten<lb/>
+          Wie bo&#x0364;ß es offte war. Nach dem vnd wie der Mann<lb/>
+          So kriegt er eine Fraw. Nach dem auch Sie daran<lb/>
+          Bey Gott / i&#x017f;t auch jhr Man&#x0303;. Jhr / <choice><abbr>d</abbr><expan>der</expan></choice> bey Gott in gnaden<lb/>
+          Seyd hier mit keiner La&#x017f;t / vielmehr mit Lu&#x017f;t beladen /<lb/>
+          Vnd Sie auch &#x017f;o mit Euch. Wo wu&#x0364;nd&#x017f;chen gelten wil<lb/>
+          Fu&#x0364;r Gold vn&#x0303; was man &#x017f;chenckt / &#x017f;o wu&#x0364;nd&#x017f;che&#x0303; wir &#x017f;o viel:
+        </p>
+        <pb facs="#f0004"/>
+      </div>
+      <div>
+        <head>Wund&#x017f;ch.</head>
+        <lg>
+          <l><hi rendition="#in">L</hi>Abet / lebet / liebet wol</l>
+          <l>Seyd deß Himmels-Segen voll</l>
+          <l>Sehet ewer Kinder Kinder /</l>
+          <l>Hundert Jahre / nichtes minder</l>
+          <l>Es &#x017f;ey ewer / was ihr liebt</l>
+          <l>Geb&#x0027; es Gott / der alles giebt.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Ra&#x0364;tzel.</head>
+        <lg>
+          <l><hi rendition="#in">V</hi>Jerfu&#x0364;&#x017f;&#x017f;ig / Dreyfu&#x0364;&#x017f;&#x017f;ig / Zweyfu&#x0364;&#x017f;&#x017f;ig.</l>
+          <l>Dreyfu&#x0364;&#x017f;&#x017f;ig / Vierfu&#x0364;&#x017f;&#x017f;ig / nie mu&#x0364;&#x017f;&#x017f;ig.</l>
+        </lg>
+      </div>
+      <figure/><!-- Vignette -->
+    </body>
+  </text>
+</TEI>

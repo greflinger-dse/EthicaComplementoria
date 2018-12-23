@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Nr. 4 in Sammelband mit Gelegenheitsdichtungen.
+                    Gedruckt bei Baumann in Breslau, jedoch nicht datiert.
+                    Vermutlich (nach Dünnhaupt) 1639.
+                Panegyrik.</p>
+                <p>In dem Sammelband befinden sich verschiedene GD, teils von Baumann, teils von anderen Druckern, aus unterschiedlichen Jahren.</p>
+                <p>HAB Wolfenbüttel, Signatur Xb 6203 (4)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="1"/>
+            <titlePage type="main">
+                <docTitle>
+                    <titlePart type="main">Dem Durchlauchtigen Hochgebor-<lb/>
+                        nen Fu&#x0364;r&#x017f;ten vnd Herrn / Herrn<lb/>
+                        <hi rendition="#aq; #k">Carl Eusebio,</hi><lb/>
+                        De&#x017f;z Heyl: Ro&#x0364;mi&#x017f;chen Reichs Fu&#x0364;r-<lb/>
+                        &#x017f;ten vnd Regierern deß Hau&#x017f;es Lichten&#x017f;tein<lb/>
+                        von Nicklaßburck in Schle&#x017f;ien / Her&#xeedc;ogen zu Troppaw<lb/>
+                        vnd Vorwaltern der Oberhaubtman&#x017f;chafft in<lb/>
+                        Ober- vnd NiderSchle&#x017f;ien.
+                    </titlePart>
+                </docTitle>
+                <byline>Seinem<lb/>
+                    Gna&#x0364;digen Fu&#x0364;r&#x017f;ten vnd<lb/>
+                    Herrn<lb/>
+                Vberreichts demu&#x0364;ttig&#x017f;t</byline>
+                <docAuthor><hi rendition="#aq"><name type="person">Georgius Greblinger</name>.</hi></docAuthor>
+                <figure><figDesc>Zierband</figDesc></figure>
+                <docImprint>
+                    <pubPlace>Zu Breßlaw</pubPlace>
+                    <publisher>druckts Georg Baumann.</publisher>
+                </docImprint>
+            </titlePage>
+        </front>
+        <body>
+        <pb n="2"/>
+            <figure><figDesc>Zierband</figDesc></figure><lb/>
+            <div><head>Weichnacht Gedancken.</head><lb/>
+            <p><hi rendition="#i">H</hi>Eute ko&#x0364;nnen mir die Augen<lb/>
+                wenig taugen.<lb/>
+                Dann was vns in die&#x017f;er Nacht<lb/>
+                wird gebracht<lb/>
+                Muß ich nur den Glauben la&#x017f;&#x017f;en<lb/>
+                ve&#x017f;te fa&#x017f;&#x017f;en.<lb/>
+                Heute wird mir nichts mein &#x017f;innen<lb/>
+                nu&#x0364;&#xeedc;en ko&#x0364;nnen.<lb/>
+                Einer Jungfraw Niederkunfft<lb/>
+                die Vernunft<lb/>
+                Wann man Jhr gleich die be&#x017f;chreibet<lb/>
+                wenig gla&#x0364;ubet.<lb/>
+                Mit dem Glauben muß ich &#x017f;ehen /<lb/>
+                was ge&#x017f;chehen.<lb/>
+                Mit dem Glauben muß auch dich<lb/>
+                ho&#x0364;ren Jch.<lb/>
+                Glaubens-Ohren-Glaubens-Augen<lb/>
+                heute daugen.<lb/>
+                <fw type="catchword" place="bot-right">Weg</fw>
+                <pb n="3"/>
+                Weg mit ewrem tieffen gru&#x0364;beln<lb/>
+                Allem Vbeln<lb/>
+                Locket Jhr damit herzu /<lb/>
+                Luft vnd Ruh<lb/>
+                Wird vns damit abgeku&#x0364;r&#xeedc;et.<lb/>
+            </p></div>
+            <div><head>ODE.</head><lb/>
+            <lg n="1"><head>1.</head><lb/>
+            <l><hi rendition="#i">N</hi>V wil ich fromm / nicht wi&#xeedc;ig &#x017f;eyn</l>
+                <l>Vnd mit den Hirten gehen</l>
+                <l>Zum Newgebornen Kindelein</l>
+                <l>Das Wunder anzu&#x017f;ehen /</l>
+                <l>Jhr Glaubens-Augen &#x017f;ehet / dort /</l>
+                <l>Liegt ewer Heyland / Tro&#x017f;t vnd Hort.</l>
+            </lg>
+            <lg><head>2.</head><lb/>
+                <l>Erbarmet Euch / &#x017f;ein Zarter Leib</l>
+                <l>Muß in der Krippen liegen /</l>
+                <l>Die Mutter das ermatte Weib</l>
+                <l>Bedawerts zur genu&#x0366;gen.</l>
+                <l>Ach komme doch liebs JE&#x017f;ulein</l>
+                <l>Bewohne meines Her&#xeedc;enß&#x017f;chreyn.</l></lg>
+                <fw type="catchword" place="bot-right">Jch</fw>
+                <pb n="4"/>
+                <lg><head>3.</head><lb/>
+                    <l>Jch wil den&#x017f;elben bu&#xeedc;en auß /</l>
+                    <l>Hinweg du Wu&#x017f;t der Su&#x0364;nden /</l>
+                    <l>Erkie&#x017f;e dir ein ander Hauß</l>
+                    <l>Laß ferner dich nicht finden</l>
+                    <l>Bey mir / das liebe JE&#x017f;ulein</l>
+                    <l>Begehret meines Her&#xeedc;enß&#x017f;chrein.</l>
+                </lg>
+                <lg n="4"><head>4.</head><lb/>
+                <l>Komm /  &#x017f;ey willkommen edler Ga&#x017f;t</l>
+                    <l>Du GOtt vnd Men&#x017f;ch gebohren /</l>
+                    <l>Wol mir! Daß du gewu&#x0364;rdigt ha&#x017f;t</l>
+                    <l>Mich / ha&#x017f;t dir außerkohren</l>
+                    <l>Zu deiner Wohnung meinem &#x017f;chreyn /</l>
+                    <l>Willkommen lieb&#x017f;tes JE&#x017f;ulein.</l>
+                </lg>
+                <lg n="5"><head>5.</head><lb/>
+                <l>Jch habe dich von Her&#xeedc;en gern /</l>
+                <l>Wer wolte GOtt nicht haben?</l>
+                    <l>O Heyland Tro&#x017f;t vnd Morgen&#x017f;tern</l>
+                    <l>Verbleib in mir begraben /</l>
+                    <l>Mit dir wird nichts zu fu&#x0366;rchten &#x017f;eyn</l>
+                    <l>Tru&#xeedc;! Teuffel / Todt / Welt / Su&#x0364;nde /<lb/> Pein.</l>
+                </lg>
+                <fw type="catchword" place="bot-right">Es</fw>
+                <pb n="5"/>
+                <lg n="6">
+                <l>Es wird kein Zinß von dir begehrt</l>
+                    <l>Gieb mir nur Ewigs Leben</l>
+                    <l>Vnd mache mich deß Himmels werth /</l>
+                    <l>Wir&#x017f;t du nur die&#x017f;es geben</l>
+                    <l>So hab Jch was ich &#x017f;uchen &#x017f;ol /</l>
+                    <l>So bin ich Himmelsfrewden voll.</l>
+                </lg>
+            </div>
+            <div><head>An die Mutter JE&#x017f;u.</head>
+                <p><hi rendition="#i">W</hi>Je Muter JE&#x017f;u wie? wie / lieg&#x017f;tu nicht in Wochen?<lb/>
+                    Wie bi&#x017f;tu dann herein in die&#x017f;en Stall gekrochen<lb/>
+                    Mit deinem lieben Kind? Das ko&#x0364;mpt mir &#x017f;elt&#xeedc;am fu&#x0364;r /<lb/>
+                    Die in den Wochen &#x017f;ind / die haben ja bey mir<lb/>
+                    Mit Taffent vmbgehenckt das Bette mit der Wiegen /<lb/>
+                    Dahier i&#x017f;t nichts / dein Kind muß auff dem Futter liegen<lb/>
+                    Daß fu&#x0364;r den Och&#x017f;en i&#x017f;t / du si&#xeedc;e&#x017f;t auff dem Graß<lb/>
+                    Auff einem du&#x0364;rren Hew / wovon der E&#x017f;el aß /<lb/>
+                    Der Ochß vnd E&#x017f;el &#x017f;ind die Nachbarn / die da &#x017f;chawen<lb/>
+                    Was du gebohren ha&#x017f;t / die dir betru&#x0364;bten Frawen<lb/>
+                    Zu Hu&#x0364;lffe kommen &#x017f;ind mit Krippen / Stro vnd Hew.<lb/>
+                    Das gan&#xeedc;e Bethlehem &#x017f;chickt nicht ein Weib herbey<lb/>
+                    Zu fragen / wie dir &#x017f;ey. Das hei&#x017f;t ja &#x017f;ein verla&#x017f;&#x017f;en /<lb/>
+                    Daß hei&#x017f;t mir Betteley / ein Kindt mit Hew vmbfa&#x017f;&#x017f;en /<lb/>
+                    Daß er&#x017f;t gebohren i&#x017f;t / Wie muß es kommen &#x017f;ein<lb/>
+                    Du arme Mutter Du? Es fellt mir etwas ein.<lb/>
+                    Waß dir an &#x017f;olcher pracht ermangelt / daß er&#x017f;e&#xeedc;et<lb/>
+                    O Mutter deine Zucht vom Manne nicht verle&#xeedc;et<lb/>
+                    Vnd Fro&#x0364;mmigkeit. Daß &#x017f;tehet wol &#x017f;o fein<lb/>
+                    Alß Bette / die bey Vns befleckt vnd Seyden &#x017f;ein.
+                </p></div><fw type="catchword" place="bot-right">An das</fw>
+            <pb n="6"/>
+            <div><head>An das liebe Je&#x017f;ulein.</head>
+            <lg n="1"><head>1.</head><lb/>
+            <l><hi rendition="#i">J</hi>E&#x017f;ulein Du bringe&#x017f;t allen</l>
+            <l>Etwas mit von deinem Thron</l>
+                <l>Als ein reicher GOttes Sohn /</l>
+                <l>La&#x017f;&#x017f;e Dir mich auch gefallen</l>
+                <l>Bringe Mir / ich bitte Dich</l>
+                <l>Etwas mit / erfrewe Mich.</l>
+            </lg>
+            <lg n="2"><head>2.</head><lb/>
+            <l>Bringe mir nur die&#x017f;er Her&#xeedc;en /</l>
+                <l>Davids / Salomonis / Jobs /</l>
+                <l>Daß mein thun &#x017f;ey deines lobs /</l>
+                <l>Daß ich klug / vnd allen &#x017f;chmer&#xeedc;en</l>
+                <l>Zuvertragen ma&#x0364;chtig &#x017f;ey.</l>
+                <l>Jo&#x017f;ephs &#x017f;teht auch wol dabey.</l>
+            </lg>
+            <lg n="3"><head>3.</head><lb/>
+            <l>Reichthumb vnd der Scho&#x0364;nheit gaben /</l>
+                <l>Die nichts gutes angericht</l>
+                <l>Wil ich von Dir bitten nicht /</l>
+                <l>Wer ge&#x017f;unden Leib kan haben</l><lb/>
+                <fw type="catchword" place="bot-right">Vnd</fw>
+                <pb n=""/>
+                <l>Vnd &#x017f;ein liebes ta&#x0364;glichs Brodt</l>
+                <l>Hat gewiß &#x017f;ehr &#x017f;chlechte Noth.</l>
+            </lg>
+            <lg n="4"><head>4.</head><lb/>
+            <l>Eines noch i&#x017f;t hoch zubitten /</l>
+            <l>Friede Fu&#x0364;r&#x017f;t / be&#x017f;cher vns doch</l>
+                <l>Die Erlo&#x0364;&#x017f;ung von dem Joch</l>
+                <l><hi rendition="#aq; #i">Martis</hi> vnd von &#x017f;einem Wu&#x0366;tten.</l>
+                <l>Tro&#x0364;&#x017f;te deine Chri&#x017f;tenheit</l>
+                <l>Auff &#x017f;o langes Her&#xeedc;enleid.</l>
+            </lg></div>
+            <figure><figDesc>Vignette</figDesc></figure>
+        </body>
+    </text>
+</TEI>

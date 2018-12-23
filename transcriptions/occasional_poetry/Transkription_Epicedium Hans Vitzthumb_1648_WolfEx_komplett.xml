@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Trauergedicht Greflingers (Hamburg) auf Hans Vitzthumb (Quedlinburg) von 1648,
+               enthalten als letzter Teil (S. 73-75) in einem Funeraldruckes mit mehreren
+               Beiträgern. Eingebunden in Sammelband (nr. 22) mit Funeralschriften auf Hans
+               Vitzthumb</p>
+            <p>HAB Wolfenbüttel, Signatur Da 580 (22).</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <pb n="1"/>
+         <titlePage type="main">
+            <docTitle>
+               <titlePart type="main">Die le&#xeedc;ten Wort Davids<lb/>Auß den 1. Sam.
+                  23.<lb/>Bey<lb/>Hoch Adelichen vnd An&#x017f;ehlichen Begra&#x0364;bnis<lb/>Des
+                  Hoch Edelgebornen / Ge&#x017f;trengen vnd<lb/>Mann-Ve&#x017f;ten Herrn /<lb/> H.
+                  Han&#x017f;en Vi&#xeedc;thumb<lb/> vn Eck&#x017f;tedt / &#xa75b;c. Der Cron
+                  Schwe-<lb/> den <hi rendition="#aq">General-</hi>Lieutenants / &#xa75b;c.
+                  &#xa75b;c.<lb/> Als de&#x017f;&#x017f;en Leichnam mit gebra&#x0364;uchli-<lb/>
+                  chen Ceremonien in der Kirchen S. Benedicti<lb/> zu Qvedlinburg den 8. Martij <hi
+                     rendition="#aq">Anno 1648.</hi>zu &#x017f;einer<lb/> Va&#x0364;ter Grab bracht.
+                  in &#x017f;ein Ruh Gewo&#x0364;lblein<lb/> beyge&#x017f;e&#xeedc;et
+                  worden.<lb/></titlePart>
+            </docTitle>
+            <byline>Außgelegt<lb/> Durch<lb/></byline>
+            <docAuthor><name type="person" ref="http://d-nb.info/gnd/122302516"><hi rendition="#aq"
+                     >IOHANNEM</hi> Hofern </name><hi rendition="aq">D. Pa&#xfb05;oren</hi> vnd <hi
+                  rendition="#aq">Su-<lb/>perintendenten</hi> da&#x017f;elb&#x017f;t.</docAuthor>
+            <lb/>
+            <figure>
+               <figDesc>Vignette</figDesc>
+            </figure>
+            <byline>Gedruckt zu</byline>
+            <docImprint>
+               <pubPlace>
+                  <name type="place">Qvedlinburg</name> / </pubPlace>
+               <publisher> bey <name type="person" ref="http://d-nb.info/gnd/1037505832"/>Joh.
+                  O&#xeec4;eln. </publisher>
+            </docImprint>
+         </titlePage>
+      </front>
+      <body>
+
+         <pb n="73"/>
+         <p><figure>
+               <figDesc>Zierband</figDesc>
+            </figure></p>
+         <p>Grab-Gedichte<lb/> Des weiland Hoch-Edel-Gebornen vnd Ge&#x017f;trengen<lb/> Herrn<lb/>
+            <name type="person">Han&#x017f;en Vietzthumbs</name><lb/> von Eck&#x017f;tedt /<lb/> Der
+            Cron Schweden General Lieutenants / &#xA75B;c.<lb/>
+            <figure>
+               <figDesc>Blättchen</figDesc>
+            </figure><lb/>
+            <hi rendition="#i">H</hi>Jer liegt der tapffer Held / der niemals &#x017f;einen<lb/>
+            Degen<lb/> Vnd Harni&#x017f;ch hat gebraucht / dann rechter Sa-<lb/> chen wegen /<lb/>
+            Der fu&#x0364;r &#x017f;ein Vaterland und de&#x017f;&#x017f;en Freyheit
+            &#x017f;tritt<lb/> Auch manches Vngemach im manchen Streit erlitt /<lb/> Sein Schild vnd
+            Helm war GOtt / dann der wird nie be-<lb/> &#x017f;ieget<lb/> Mit die&#x017f;em hat er
+            auch des Feindes Macht bekrieget<lb/> Vnd offte matt gemacht. Er &#x017f;elb&#x017f;t
+            war &#x017f;einer Schar<lb/> Von einem Helden-Kern ein richtig Exemplar<lb/> Sein
+            Antlitz gab Ge&#x017f;etz&#x0027; Er war bey allen Seinen<lb/> Ein lieber General / kein
+            Schloß von fe&#x017f;ten Steinen<lb/> Kein Graben / keine Macht /
+            be&#x017f;chu&#x0364;tzet einen mehr<lb/> Als &#x017f;einer Vo&#x0364;lcker
+            Lieb&#x0027;. Er &#x017f;chien auß &#x017f;einem Heer<lb/> Wie man vom Turnus
+            &#x017f;chreibt / daß er vor allen andern<lb/> Der gro&#x0364;&#x017f;te &#x017f;ey
+            gewe&#x017f;t / daß von den Alexandern<lb/><fw type="catch" place="bot-center">K</fw><fw
+               type="sig" place="bot-right">Des</fw><pb n="74"/><fw type="columntitle" place="above"><figure>
+                  <figDesc>Blättchen</figDesc>
+               </figure></fw><lb/>Des hohen Schweden-Reichs jetzt auch ge&#x017f;agt
+            kan<lb/>&#x017f;eyn /<lb/>Er gieng mit &#x017f;einem Helm in &#x017f;einem Heer
+            herein<lb/> Wie Ph&#x0153;bus vor dem Mond vnd kleineren Planeten<lb/> Ach daß der
+            grimme Todt kan &#x017f;olche Helden to&#x0364;dten!<lb/> Der gantze Vi&#xeedc;thumbs
+            Stamm i&#x017f;t &#x017f;o von GOTT<lb/> ge&#x017f;chmu&#x0364;ckt<lb/> Das alles
+            Ehren-Lob &#x017f;ich auch auff ale &#x017f;chickt /<lb/> Sie &#x017f;ind von tapfrer
+            Art / als die von Ay waren<lb/> Die vns die Biebel ru&#x0364;hmt / wer war vor wenig Jahren<lb/>
+            <name type="person">Dam Vie&#xeedc;thumb</name> / dem ich auch zu &#x017f;einem
+            Grabe<lb/> &#x017f;ang?<lb/> Wer i&#x017f;t von Jhnen nicht ein Held / ge&#x017f;chickt
+            vnd lang<lb/> Von Fro&#x0364;mmigkeit beru&#x0364;hmt vnd aller Tugent Spiegel /<lb/>
+            Die Fama leget &#x017f;ie mit recht auff ihre Flu&#x0364;gel /<lb/> Vnd bringt
+            &#x017f;ie durch die Welt / O wa&#x0364;r ich ein Poet<lb/> Jch wolte die&#x017f;en
+            Stamm / da wo die Morgenro&#x0364;th&#x0027;<lb/> Ent&#x017f;tehet / und auch da / wo
+            &#x017f;ich die Sonne neiget /<lb/> Vermelden / aber was! der von der Sonnen
+            &#x017f;chweiget<lb/> Thut recht / &#x017f;ie zeugt &#x017f;ich &#x017f;elb&#x017f;t.
+            Nun edler Tugend<lb/> Glantz<lb/> Dein Lohn i&#x017f;t groß / du ha&#x017f;t bey Gott
+            den Ehren Krantz<lb/> Vnd unter uns ein Lob as nimmer wird er&#x017f;terben /<lb/> Ein
+            mehrers kan ein Held bey Men&#x017f;chen nicht erwerben.<lb/> Wie &#x017f;teht die
+            Tapferkeit umb deinen Sarck betru&#x0364;bt<lb/> Die / Fro&#x0364;mmigkeit verbleicht /
+            die &#x017f;o hoch geliebt /<lb/> Es trawren Lieb und Glaub / Geduld und alle
+            Tugend<lb/> Weil er &#x017f;ie allzumal von &#x017f;einer tapfren Jugend<lb/> Biß auff
+            den letzten Blick &#x017f;ehr hertzlich hat gehegt /<lb/> Vnd allen La&#x017f;tern
+            &#x017f;ich von Hertzen widerlegt.<lb/> Nun die&#x017f;er Held i&#x017f;t todt / und
+            &#x017f;o er i&#x017f;t ge&#x017f;torben<lb/> Daß er das Leben hat durch &#x017f;einen
+            Tod erworben /<lb/>
+            <fw type="catch" place="bot-right">Er</fw><pb n="75"/><fw type="columntitle"
+               place="above"><figure>
+                  <figDesc>Blättchen</figDesc>
+               </figure></fw><lb/> Er war nie Vnge&#x017f;tu&#x0364;mm / nun i&#x017f;t er in der
+            Ruh /<lb/> Er &#x017f;chloß &#x017f;ein Augenlicht in bo&#x0364;&#x017f;en Zeiten
+            zu<lb/> Nun i&#x017f;t er wo der Fu&#x0364;r&#x017f;t des Friedens i&#x017f;t / wo
+            Friede.<lb/> Den er mit manchem <choice>
+               <sic>M</sic>
+               <corr>W</corr>
+            </choice>und&#x017f;ch / Gebet vnd feinem Liede<lb/> Von Gott begehret hat. Nun / was er
+            hat begehrt<lb/> J&#x017f;t jhm viel her&#xa75b;licher als er begehrt / gewehrt.<lb/> O
+            wolte wolte Gott / wann hier kein Fried zu hoffen /<lb/> Es
+            &#x017f;tu&#x0364;ndt&#x0027; uns nur die thu&#x0364;r zum Himmelsfrieden offen /<lb/>
+            Der jhm bey die&#x017f;er Zeit des Lebens lang begehrt<lb/> Der i&#x017f;t auch
+            die&#x017f;er Qval und Ang&#x017f;t nicht wenig werth<lb/>
+            <name>Her&#xa75b; Vi&#xeedc;thumb</name> i&#x017f;t davon. Gott hat jhn &#x017f;chnell
+            genommen<lb/> Nach dem er gleichwol war / zu hohem Alter kommen.<lb/> Er &#x017f;tarb in
+            dem Gebet und Lied: Jch danck dir &#x017f;chon<lb/> Durch deinen Sohn<lb/> O Gott
+            fu&#x0364;r deine Gaben /<lb/> Er &#x017f;tarb mit Lob und Danck. Die &#x017f;o ein Ende
+            haben<lb/> Die fahren heilig auff / Er &#x017f;tarb ohn alle Pein /<lb/> Sol &#x017f;o
+            ein frommer Held wol lang geqvälet &#x017f;eyn?<lb/></p>
+         <p>Zu le&#xeedc;ten Ehren ge&#x017f;chrieben und auß<lb/>
+            <name type="place">Hamburg</name> u&#x0364;ber&#x017f;endet<lb/> Vom<lb/>
+            <name type="person" ref="http://d-nb.info/gnd/118718622">Georg Greflinger</name> auß<lb/>
+            <name type="place">Regen&#x017f;purg</name>.<lb/></p>
+         <p><hi rendition="#g">ENDE</hi></p>
+      </body>
+   </text>
+</TEI>
