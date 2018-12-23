@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Status Germaniae</title>
+        <author>Georg Greflinger</author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Annika Rockenberger</authority>
+        <authority>Per Röcken</authority>
+        <pubPlace>Berlin</pubPlace>
+        <date>2011</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Georg Greflinger - Digitale Historisch-kritische Ausgabe sämtlicher Werke und Schriften.</title>
+        <title type="sub">Schriften zum Dreißigjährigen Krieg</title>
+        <respStmt>
+          <resp>Transgraphiert von digitalen Farbfotographien des Berliner Exemplars von</resp>
+          <name>Annika Rockenberger</name>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Berlin</settlement>
+            <repository>Staatsbibliothek zu Berlin - Stiftung Preußischer Kulturbesitz</repository>
+            <collection>Historische Drucke</collection>
+            <idno>Yi 2861</idno>
+            <altIdentifier>
+              <settlement>Bamberg</settlement>
+              <repository>Staatsbibliothek Bamberg</repository>
+              <idno>22/Misc.q.12#9</idno>
+              <note>anderes Exemplar; Titelblatt fehlt; OPAC-Bamberg Permalink: <ref target="http://katalog.ub.uni-bamberg.de/query/10/BV014389801"/></note>
+            </altIdentifier>
+          </msIdentifier>
+          <p>Dünnhaupt Nr. 1.3</p>
+        </msDesc>
+        <bibl>
+          <author>Georg Greflinger</author>
+          <title>Status Germaniae</title>
+          <date>1643</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+      <front>
+        <pb n="1"/>
+        <titlePage>
+          <titlePart>
+            <title><foreign xml:lang="la">STATUS<lb/>GERMANIAE</foreign>.</title>
+          </titlePart>
+          <docImprint>
+            Jm Jahr<lb/><date when="1643">1643</date>.
+          </docImprint>
+        </titlePage>
+      </front>
+      <body>
+        <pb n="2"/>
+        <lb/><head><hi rend="roman"><foreign xml:lang="la">Status Germaniae.</foreign></hi></head>
+        <lg>
+          <l n="1">JCh finge Teutschland dich / du Schawplatz grimer Kriege</l>
+          <l>Deß Zanckes Vatterland vnd viel verfluchter Siege /</l>
+          <l>Du Blutgeetztes Feld / merkc auff / ich singe dich /</l>
+          <l>Du Schawspiel aller Welt / Mein Geist der reget sich</l>
+          <l>Zu flu&#x364;gen in dein leid. Wie aber will ich schreiben /</l>
+          <l>Wird auch <hi rend="roman"><foreign xml:lang="la">Calliope</foreign></hi> mir meine Feder treiben /</l>
+          <l>Die u&#x364;ber deinem fall in grossem Leyde geht /</l>
+          <l>Vnd nichts zureden weiß? Der Ku&#x364;nste Vatter steht /</l>
+          <l>Schawt seine Leyer an weiß nichts damit zumachen /</l>
+          <l>Der gantze <hi rend="roman"><foreign xml:lang="la">Helicon</foreign></hi> ist von <hi rend="roman"><foreign xml:lang="la">Bellonen</foreign></hi> Rachen /</l>
+          <l>Jn Trawrigkeit gesetzt <hi rend="roman"><foreign xml:lang="la">Minerva</foreign></hi> geht betru&#x364;bt /</l>
+          <l>Die sonst geharnischt ist / vnd rechte Kriege liebt.</l>
+          <l>Mit wessen hu&#x364;lffe soll ich dich dann recht beschreiben /</l>
+          <l>Vnd deinen vntergang? Wo wird mein Schiff verbleiben</l>
+          <l>Jn dieser wilden See? Jch neme meinen Weg</l>
+          <l>Auff Glut vnd waffen zu / wo weder Bahn noch Steg</l>
+          <l>Herauß zu kommen ist / wo so viel tausend Stelen /</l>
+          <l>Die durch <hi rend="roman"><foreign xml:lang="la">Bellonen</foreign></hi> Grim sich mu&#x364;ssen lassen qua&#x364;len /</l>
+          <l>Mit jhrer Trawrigkeit verhindern Sinn vnd Hand /</l>
+          <l>Was sag' ich dann von dir / du vormals scho&#x364;nes lLnd?</l>
+        </lg>
+        <lg>
+          <l>Was saget man von dir / vor dem fu&#x364;r andern allen</l>
+          <l>Der stoltzen La&#x364;nder Macht zu Fu&#x364;ssen muste fallen /</l>
+          <l>Die See erschrack vor dir / vnd nu erschrecket dich</l>
+          <l>Dein eygen Schwerdt vnd Fund / der mit dem Donner sich</l>
+          <l>Jn Gleichheit lassen will / du brauchest deiner Kra&#x364;fften</l>
+          <l>Jn deinen eygnen Leib / als wa&#x364;rstu in Gescha&#x364;fften</l>
+          <l>Deß Ka&#x364;ysers von Bysantz. Du wu&#x364;rgst dein Fleisch vnd Blut /</l>
+          <l>Gehst a&#x364;rger vmb mit dir als dir kein Lo&#x364;w nicht thut /</l>
+          <fw type="sig" place="bottom">A ij</fw><fw type="catch" place="bot-right">Jm</fw>
+        <pb n="3"/>
+          <l>Jm fall er grimmig wird / du schleiffest deine Sta&#x364;dte /</l>
+          <l>Daß manche steht als wann sie nie gestanden ha&#x364;tte /</l>
+          <l>Machst eine Stadt auß Koth vnd legest dich hinein /</l>
+          <l>Als woltestu nach Art der alten Teutschen seyn /</l>
+          <l>Bey welchen weder Stadt noch Thurn gewest zu sehen</l>
+          <l>Die stets deß Feindes Aug' in Waffen sahe stehen /</l>
+          <l>Nicht wider sich / wie nu liebst der alten art /</l>
+          <l>So sey / wie sie / nicht dir nur deinen Feinden hart /</l>
+          <l>Die deine Wunden nu mit grossem lachen zehlen /</l>
+          <l>Vnd wann du fast erligst zum Raube dich erwehlen.</l>
+          <l>Doch was? Du ho&#x364;rest nicht / dein selbst erfundner schall /</l>
+          <l>Der druch den Messing eht vnd deiner stu&#x364;cke knall /</l>
+          <l>Verwa&#x364;chset dein Geho&#x364;r / jhr Augen seyd verdorben /</l>
+          <l>Durch ewers Pulvers rauch vnd an Vernunfft gestorben.</l>
+          <l>Wie wann das su&#x364;sse Volck der Beinen in das Feld /</l>
+          <l>Auß jhren Sta&#x364;dten schwa&#x364;rmt jhr vnbewehrter Held /</l>
+          <l>Vnd Ko&#x364;nig todt verbleibt / so sind die Vnterthanen /</l>
+          <l>Jn keiner Ordnung nicht / verlassen jhre Fahnen /</l>
+          <l>Vnd fliegen hin vnd her ermordten selber sich /</l>
+          <l>So eben Vatterland / so ist es auch vmb dich /</l>
+        </lg>
+        <lg>
+          <l>Nach deme die Vernunfft bey dir ist außgerissen /</l>
+          <l>Muß selber deine Feust dein eygen Blut vergiessen /</l>
+          <l>Du bist dein Mo&#x364;rder selbst / stellst deines Schwerdtes Knopff /</l>
+          <l>Nach deinen Feinden zu / die Spitz in deinen Kopff /</l>
+          <l>Als einer ohne Witz. Jst jrgend was zu nennen</l>
+          <l>Jn dir / daß nicht von dir durch morden / rauben / brennen /</l>
+          <l>Ein zeichen hat erlangt? Die Elbe / Weser / Reyn /</l>
+          <l>Maaß / Oder / Donaw / Saal / Pleiß / Havel / Lech vnd Meyn / </l>
+          <l>Hat deines Blutes bach zum Vberguß bewogen /</l>
+          <l>Du bist durch dienen Fund auff in die Lufft geflogen /</l>
+          <l>Jn mitten abgetheilt / du hast dir Hunger bracht /</l>
+          <l>Vnd dich mit deinem Fleisch als anderm saat gemacht /</l>
+          <l>Was Vnnatu&#x364;rlich ist / du hast dich lassen schleiffen /</l>
+          <l>Vnd hast dich selbst geschleifft / du hast dir lassen streiffen /</l>
+          <fw type="catch" place="bot-right">Die</fw>
+        <pb n="4"/>
+          <l>Die Haut vor deinem Leib / vnd hast es selbst gethan /</l>
+          <l>Du hast dein Kind gekocht / was man nicht glauben kan /</l>
+          <l>Vnd demnach ist es wahr / die Todten auß dem Sande</l>
+          <l>Geschar&#xa75b;t / in deinem Bauch begraben in dem Lande /</l>
+          <l>Wo Milch vnd Honig floß / Ach du mein edler Reyn /</l>
+          <l>Gewesen / nu nicht mehr / kanst dessen Zeuge seyn.</l>
+          <l>Jsts mo&#x364;glich einen Tag in dreyssigtausend Seelen /</l>
+          <l>Vnd auch auß einer Stadt vom Liechte nach den ho&#x364;len</l>
+          <l>Zuschicken / solches Volck / das deines Landes ist /</l>
+          <l>Ob welchen Rhaten du ein wahrer Zeuge bist /</l>
+          <l>Du o&#x364;des Magdeburg. Solstu die Vrsach sagen /</l>
+          <l>Du Teusches Land warumb du pflegst auff dich zu schlagen /</l>
+          <l>So weist lauter nichts. Jsts <hi rend="roman"><foreign xml:lang="la">Reputation</foreign>?</hi></l>
+          <l>Ach wol kein andres nicht. Jsts vmb den Lorbeerlohn?</l>
+        </lg>
+        <lg>
+          <l>Man kro&#x364;net solchen nur der fu&#x364;r sein Land gestritten /</l>
+          <l>Deß Landes Feind erlegt / nicht seines Landes mitten /</l>
+          <l>Vnd was es aussen hat. Du frisst dein eygen Marck /</l>
+          <l>Nicht deines Feindes Raub / du bist dein eygen Sarck /</l>
+          <l>Vnd auch dein eygner Todt. Dein Francken ligt begraben /</l>
+          <l>Die Marck ist außgemarckt. Das Beyerland vnd Schwaben</l>
+          <l>Hat Brand vnd Schwerdt gefu&#x364;hlt. Jst Wu&#x364;rtenberg zusehn /</l>
+          <l>Wie siht dein Sachsen auß. Vmb Meissen ists geschehn /</l>
+          <l>Das scho&#x364;ne RautenLand / daß seine Fru&#x364;chte bringet /</l>
+          <l>Vom Menschen Blute mehr als Viehmist u&#x364;berdu&#x364;nget /</l>
+          <l>Wie auch das Schlesien. Dein Stieffkind Bo&#x364;men hat</l>
+          <l>Dergleichen auch gefu&#x364;hlt vnd fu&#x364;hlt noch fru&#x364;h und spat</l>
+          <l>Nechst andern solche Last / es hat auch vrsach geben /</l>
+          <l>Daß dir vnd jhm das Schwerd begehret an das Leben /</l>
+          <l>So tra&#x364;gt es billich mit daß Joch / das es gemacht /</l>
+          <l>Daß es als Schaden fro die Teutschen nicht verlacht /</l>
+          <l>Wie seine Weise sonst / ist etwas u&#x364;berblieben /</l>
+          <l>Das gegen Osten siht / vnd nicht ist auffgetrieben /</l>
+          <l>Betastet ist es schon / so sihe es eben auß /</l>
+          <l>Als mu&#x364;t es noch daran / das grosse Ka&#x364;yser Hauß</l>
+          <fw type="sig" place="bottom">A iij</fw><fw type="catch" place="bot-right">Kan</fw>
+        <pb n="5"/>
+          <l>Kan nicht mit Frieden seyn / was will auch Frieden haben?</l>
+          <l>Viel leiber la&#x364;t man sich in Blut vnd Brand begraben</l>
+          <l>Als daß man ruhig lebt. Der Himmel laß es nicht</l>
+          <l>Geschehen / daß auch dir du Tu&#x364;rckentrutz zerbricht</l>
+          <l>Die Macht / sonst ists geschehn. Die Nachtbarn sitzen stille /</l>
+          <l>Sind Spo&#x364;tter deines Thuns / vnd ist jhr langer wille</l>
+          <l>Zusehen deinen Geist im zuge von der Grufft /</l>
+          <l>Den dein ergrimtes Schwerd so offt herauß berufft.</l>
+          <l>Vnd in die Lufft verjagt / wie lange soll es wa&#x364;ren /</l>
+          <l>O Teutschland daß du dich selb selbest wilst verzehren /</l>
+          <l>Du Mutter der Gewalt / der Sta&#x364;rck vnd Kriegesmacht ?</l>
+          <l><hi rend="roman"><foreign xml:lang="la">Mars</foreign></hi> ist dein eygner Gott / dein Volck hat Tag vnd Nacht</l>
+          <l>Jn Waffenlast gewohnt / es hat von allen Zeiten</l>
+          <l>Begier vnd Lust gehabt / nach ka&#x364;mpffen vnd nach streiten /</l>
+          <l>Nicht aber wider sich / nur wider seinen Feind /</l>
+          <l>Vnd wurde keiner nicht der Teutschen guter Freund /</l>
+          <l>Der nicht mit bitten kam den Frieden abzukauffen /</l>
+          <l>So wuste Teuschland vor deß stoltzen Feindes hauffen</l>
+          <l>Zu za&#x364;men seine Pracht zu legen in den Koth /</l>
+          <l>Wer einen Teutschen sah erschrack vnd wurde Todt</l>
+          <l>Vor seiner Donnerwehr vnd vngemeinen kra&#x364;fften /</l>
+          <l>Sein Spieß an welchen er jhr Zehen kunte hefften /</l>
+          <l>War schrecklich anzusehn. Du Teutschland hast gebracht /</l>
+          <l>Die Trommel fu&#x364;r das Heer / den Donner in die Schlacht /</l>
+          <l>Vnd das was Eysen speyt / vor dem die Thu&#x364;rne springen /</l>
+          <l>Die Mawern sich geneigt dem Sturm zur Bru&#x364;cken bringen /</l>
+          <l>Die wilde See erstar&#xa75b;t / der Wahlfisch suchet grund</l>
+          <l>Ob deines Pulvers knall das dir der Erden schlund</l>
+          <l>Ertheilet vnd auch selbst ob seiner Gabe bebet /</l>
+          <l>Wanne s zum Eyffer geht so zittert was da lebet.</l>
+          <l>Man sihet wie das Dach der Erden stutzend steht /</l>
+          <l>Wan deines Pulvers knall auß deinen Stu&#x364;cken geht /</l>
+          <l>Der grosse <hi rend="roman"><foreign xml:lang="la">Jupiter</foreign></hi> schawt stutzend auß dem Himmel /</l>
+          <l>Vnd wundert u&#x364;ber Blitz vnd ma&#x364;chtiges Getu&#x364;mmel /</l>
+          <fw type="catch" place="bot-right">Das</fw>
+        <pb n="6"/>
+          <l>Das du auff Erden machst / sein Adler zweiffelt schier /</l>
+          <l>Wo recht ein Donner sey im Himmel oder hier.</l>
+          <l>Diß brauchstu wider dich/ bist Meister vnd auch probe</l>
+          <l>Lehrst wider dich den Feind mit deinem eygnem lobe</l>
+          <l>Das dir zu Schande kompt / wann je dein Hertz vnd Muth /</l>
+          <l>Noch wie der alten ist vnd du wilst nichts als Blut /</l>
+          <l>So wu&#x364;rge dich nicht selbst vnd gehe hin zu kriegen /</l>
+          <l>Wo Mahomethens Volck / Bysantz vnd Troja liegen /</l>
+          <l>Da wu&#x364;rge was du kanst / da bringstu Lob davon /</l>
+          <l>Vnd was vor Ehre war die <hi rend="roman"><foreign xml:lang="la">Reputation</foreign>,</hi></l>
+          <l>Da hat man Gelt vnd Gut / zu Kleidern Samt vnd Seiden /</l>
+          <l>Da geht man in das Rohr / da kan man Pfeiffen schneiden /</l>
+          <l>Es mangelt dir ja nicht am Muthe / Krafft vnd Macht /</l>
+          <l>Nur daß der wille hinckt / es hat die schwartze Nacht</l>
+          <l>Nicht alle Helden weg / es gibt noch Ferdinanden /</l>
+          <l>Gustavus / Weymare / Bannier / in deinen Landen /</l>
+          <l>Geh ein die Einigkeit / eyl auff Bysantz hinzu /</l>
+          <l>Vnd treibe seinen Her&#xa75b;n den Bluthund auß der Ruh /</l>
+          <l>Eh' er an dich gera&#x364;th / er weiß jhm deine Sta&#x364;rcke /</l>
+          <l>Dein Siegs gewohntes Schwerd / vnd deine newen Wercke /</l>
+          <l>Wie listig daß du seyst / gib jhme Pillen ein /</l>
+          <l>Die von dem starcken Bley vnd Steinen wichtig seyn /</l>
+          <l>Auff daß er wider spey auß seinem tieffem Schlunde /</l>
+          <l>Was er gefressen hat / bring endlich diesem Hunde /</l>
+          <l>Pech Werg vnd Schweffel ein / so bo&#x364;rstet er entzwey /</l>
+          <l>So wird dein alter Sitz auß seinen Klawen frey /</l>
+          <l>So wird dein leeres Land mit seinem Gut erfu&#x364;llet /</l>
+          <l>Der nackte mit der Pracht der Waschen vmbgehu&#x364;llet /</l>
+          <l>Der leere Sack voll Gold voll Vieh das o&#x364;de Feld /</l>
+          <l>So wu&#x364;rstu wiederumb die Forcht der gantzen Welt /</l>
+          <l>Vnd wer sich tapffer helt wird viel geru&#x364;hmet werden /</l>
+          <l>Mit Fingern seyn gezeigt / hier geht er / der zur Erden</l>
+          <l>So manchen Wascha schlug / es ist ja ewer Land /</l>
+          <l>Das nu der Bluthund helt in seiner grimmen Hand.</l>
+          <fw type="catch" place="bot-right">Befreyt</fw>
+        <pb n="7"/>
+          <l>Befreyt erfrewt durch Streit vnd lang gewohntes Siegen</l>
+          <l>Die arme <choice><sic>Cheistenzahl</sic><corr>Christenzahl</corr></choice> die wie ein Kind im wiegen</l>
+          <l>Herumb getrieben wird / biß es zum schlaffen ko&#x364;mpt /</l>
+          <l>Vnd endlich durch den Schlaff acuh gar sein ende nimbt /</l>
+          <l>Jn zu&#x364;gen ist es schon / erwu&#x364;rge deine Feinde /</l>
+          <l>Dort hastu weder Kind / noch Vatter Bruder Freunde /</l>
+          <l>Die du allhier erschla&#x364;gst / kom kom du gu&#x364;ldne Zeit /</l>
+          <l>Die vnser Land deß Kriegs / Bysantz deß Siegs befreyt.</l>
+        </lg>
+        <p>ENDE.</p>
+        <figure><figDesc>Vignette</figDesc></figure>
+      </body>
+  </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

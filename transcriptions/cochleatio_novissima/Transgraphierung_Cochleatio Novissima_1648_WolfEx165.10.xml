@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng"
+  type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?oxygen RNGSchema="http://www.deutschestextarchiv.de/basisformat.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dtabf">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">ETHICA COMPLEMENTORIA</title>
+                <title type="sub">Complementier-Bu&#x0364;chlein Darin Ein richtige Art vnnd Weise grundfo&#x0364;rmlich abgebildet wird…</title>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Berlin</pubPlace>
+                <date>2013-08-20T15:49:54Z</date>
+                <publisher xml:id="DTACorpusPublisher"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Ethica Complementoria</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="0001"/>
+            <div type="frontispiece"><!-- Titelkupfer -->
+                <figure/>
+            </div>
+            <pb facs="0002"/>
+            <div><!-- typographischer Titel -->
+                <head><hi rendition="#aq">COCHLEATIO</hi><lb/>
+                    <hi rendition="#aq">NOVISSIMA.</hi><lb/>
+                    Das i&#x017f;t /<lb/>
+                    Ware Abbildung<lb/>
+                    der heut zu Tag zu viel<lb/>
+                    blicher Kun&#x017f;t der Lo&#x0364;ff-<lb/>
+                    lerey.<lb/>
+                    So er&#x017f;tlich kur&#xeedc; verfa&#x017f;&#x017f;et /<lb/>
+                    durch den Hochver&#x017f;ta&#x0364;ndi-<lb/>
+                    gen Herrn<lb/>
+                    <hi rendition="#aq">Davidem Seladon O&#x017f;na</hi><gap quantity="1" unit="chars" reason="lost"/><lb/>
+                    <hi rendition="#aq">bruggen&#x017f;em I. V. D.</hi><lb/>
+                    Nun aber an vielen Orten ver<gap reason="lost" unit="chars" quantity="1"/><lb/>
+                    be&#x017f;&#x017f;ert / Durch Herrn<lb/>
+                    <hi rendition="#aq">Gerardum Vogelium Mona</hi><gap quantity="1" unit="chars" reason="lost"/><lb/>
+                    <hi rendition="#aq">&#xfb05;erio VVe&#xfb05;phalum</hi> der Lo&#x0364;fflerey <hi rendition="#aq">pra-</hi><lb/>
+                    <hi rendition="#aq">&#xeec5;icum veteranum.</hi><lb/>
+                    Gedruckt zu Lieb&#x017f;tadt /<lb/>
+                    <hi rendition="#aq">Typis Lambertini Remele</hi><lb/>
+                    Jm ho&#x0364;lzern Lo&#x0364;ffel auff der<lb/>
+                    Rettga&#x017f;&#x017f;en.<lb/>
+                    <hi rendition="#aq">M. DC. XLVIII.</hi>
+                </head>
+            </div>
+            <pb facs="0003"/><!-- vacat -->
+            <pb facs="0004"/>
+            <div type="dedication">
+                <figure/><!-- Zierband --><lb/>
+                <head><hi rendition="#aq">Dedicatio.</hi></head><lb/>
+                <lg><l><hi rendition="#in">J</hi>Hr Damen hoch begabt /</l><lb/>
+                    <l>ge&#x017f;chmucket vn&#x0303; geziert /</l><lb/>
+                    <l>Mit Scho&#x0364;nheit / Ho&#x0364;ffligkeit /</l><lb/> 
+                    <l>vnd w&#x0292; euch &#x017f;on&#x017f;t gebu&#x0364;hrt /</l><lb/>
+                    <l>Ach nehmet großgu&#x0364;n&#x017f;tig an /</l><lb/>
+                    <l>w&#x0292; hie ewer Diener &#x017f;pricht /</l><lb/>
+                    <l>Sein will i&#x017f;t &#x017f;chlecht / d&#x0292; werck</l><lb/>
+                    <l>bleibt doch auf trew ge&#xa75b;ichtet</l>
+                </lg></div>
+                <fw type="sig" place="bottom">);( 2</fw><fw type="catch" place="bottom"><hi rendition="#aq">Au-</hi></fw>
+                <pb facs="0005"/>
+            <div type="preface">
+                <head>
+                    <figure/><!-- Zierband -->
+                    <hi rendition="#aq">Autor ad Le-<lb/>
+                    &#xeec5;orem.</hi>
+                </head>
+                <lg>
+                    <l><hi rendition="#aq"><hi rendition="#in">Q</hi>Vi legis i&#xfb05;a tuam reprehen-</hi></l><lb/>
+                    <l><hi rendition="#aq">do, &#x017f;i mea laudas</hi></l><lb/>
+                    <l><hi rendition="#aq">Omnia &#xfb05;ultitiam &#x017f;i nihil invi-</hi></l><lb/>
+                    <l><hi rendition="#aq">diam.</hi></l>
+                </lg>
+                <p><hi rendition="#aq">Votum eju&#x017f;dem Se-<lb/>
+                ladon.</hi></p>
+                <lg>
+                    <l><hi rendition="#aq">Qui librum &#x017f;crip&#x017f;it com &#x017f;cutis<lb/>
+                    vivere po&#x017f;&#x017f;it</hi></l><lb/>
+                    <l><hi rendition="#aq">Detur pro p&#x0153;na &#x017f;criptori pil-<lb/>
+                        thra puella.</hi></l>
+                </lg>
+            </div>
+            <fw type="catch" place="bottom"><hi rendition="#aq">Ad</hi></fw>
+            <pb facs="0006"/>
+            <div>
+                <figure/><!-- Zierband -->
+                <head><hi rendition="#aq">Ad Au&#xeec5;orem<lb/>
+                    Seladon.</hi></head><lb/>
+                <p><hi rendition="#aq"><hi rendition="#in">E</hi><hi rendition="#i">Xpetis ut detur Seladon<lb/>
+                    tibi pulchra puella<lb/>
+                    Carpitur a&#xfb05; &#x017f;criptis pul-<lb/>
+                    cra puella tuis<lb/>
+                    Hujus judicio, com &#x017f;cribis<lb/>
+                    vera, mereris<lb/>
+                    Pro p&#x0153;na ut detur nulla<lb/>
+                puella tibi.</hi></hi></p>
+                <p><hi rendition="#aq">G. V. Revi&#x017f;or.</hi></p>
+            </div>
+            <fw type="sig" place="bottom">);( iij</fw><fw type="catch" place="bottom">An</fw>
+            <pb facs="0007"/>
+            <div type="preface">
+                <figure/><!-- Zierband --><lb/>
+                <head>An Herrn Se-<lb/>
+                    ladon.</head><lb/>
+                <lg>
+                    <l><hi rendition="#in">A</hi>Ls ich diß ewer Concept<lb/>
+                        Her&#xa75b; Seladon ge&#x017f;ehen</l><lb/>
+                    <l>Wie mir es zugekom&#x0303;en / ich<lb/>
+                        wil es frey ge&#x017f;tehen</l><lb/>
+                    <l>Hab ich erfrewet mich / daß<lb/>
+                        jhr macht offenbahr /</l><lb/>
+                    <l>Vnd bringet an Tag / was<lb/>
+                        vorhin verborgen war /</l><lb/>
+                    <l>Gewiß / wan&#x0303; Ph<hi rendition="#aq">&#x0153;</hi>bus hette<lb/>
+                        mir die ver&#x017f;ta&#x0364;ndnuß geben</l><lb/>
+                    <l>Daß die&#x017f;es &#x017f;cho&#x0364;nes Werck /<lb/>
+                        nach wu&#x0364;rden ko&#x0364;nt erheben</l><lb/>
+                    <fw type="catch" place="bottom">Das</fw>
+                    <pb facs="0008"/>
+                    <l>Das mehr dann Ru&#x0364;hmens<lb/>
+                        wert / &#x017f;o wolte ich auf Papyr</l><lb/>
+                    <l>Das meine Meynung wer /<lb/>
+                        bald &#x017f;e&#xeedc;en nach Gebu&#x0364;hr</l><lb/>
+                    <l>Dannoch ob mein Ver&#x017f;tand<lb/>
+                    &#x017f;ich &#x017f;o hoch nit ka&#x0303; &#x017f;chwingen</l>
+                    <l>Da&#x017f;&#x017f;elbe wie er &#x017f;olte nach<lb/>
+                        Wu&#x0364;rden vorzubringen /</l><lb/>
+                    <l>So weiß ich doch gewiß (ob<lb/>
+                        mirs dannoch ver&#x017f;agt)</l><lb/>
+                    <l>Dannoch daß jhr damit bey<lb/>
+                        vielen Ehr erjagt</l><lb/>
+                    <l>Ein Jungfern &#x017f;piegel mo&#x0364;gt<lb/>
+                        mans wol nennen.</l><lb/>
+                    <l>Darein &#x017f;ie jhre Macul ko&#x0364;n-<lb/>
+                        nen erkennen /</l><lb/>
+                    <l>Welches viel wahre Sachen<lb/>
+                        in &#x017f;ich begreifft</l><lb/>
+                    <fw type="catch" place="bottom">Will</fw>
+                    <pb facs="0009"/>
+                    <l>Will alles mit fleiß be&#x017f;&#x017f;eren<lb/>
+                        was mir betrifft.</l><lb/>
+                </lg>
+                <lb/>
+                <lb/><!-- Spatium, 2 Zeilen -->
+                <p>Auß wohlgemeinten<lb/>
+                    Her&#xeedc;en &#x017f;e&#xeedc;et die&#x017f;es<lb/>
+                <lb/>
+                <lb/>
+                <hi rendition="#aq">F.I.A.C.G.E.R.<lb/>
+                    E.D.I.N.G.</hi></p><lb/>
+            </div>
+            <fw type="catch" place="bottom">Vor-</fw>
+            <pb facs="0010"/>
+            <fw type="pageNum" place="top">3</fw>
+            <div type="preface">
+                <figure/><!-- Zierband --><lb/>
+                <head>Vor&#xa75b;ede<lb/>
+                    An den Großgu&#x0364;n-<lb/>
+                    &#x017f;tigen Le&#x017f;er.</head><lb/>
+                <p>
+                    <hi rendition="#fr"><hi rendition="#in">E</hi>S &#x017f;eyn vngefehr</hi><lb/>
+                    vierzehen Tage groß-<lb/>
+                    gu&#x0364;n&#x017f;tiger Le&#x017f;er daß<lb/>
+                    Jch vnd meine Cameraden<lb/>
+                    die gro&#x017f;&#x017f;e Ehre gehabt vnnd<lb/>
+                    allhier auff ein &#x017f;tattlich / einer<lb/>
+                    vornehmen Damen zu &#x017f;on-<lb/>
+                    derbahrer Ehren angeorden-<lb/>
+                    tes Banquet gebetten vnnd<lb/>
+                    eingeladen &#x017f;eyn worden; Als<lb/>
+                    wir nun gehor&#x017f;amb&#x017f;t da&#x017f;elb-<lb/>
+                    &#x017f;ten er&#x017f;chienen / vnnd von al-<lb/>
+                    <fw type="sig" place="bottom">A ij</fw><fw type="catch" place="bottom">len</fw>
+                    <pb facs="0011"/>
+                    <fw type="pageNum" place="top">4</fw><lb/>
+                    lem Anwe&#x017f;enden Frawen-<lb/>
+                    zimmer wie auch von denen<lb/>
+                    die vns eines &#x017f;olches Glu&#x0364;cks<lb/>
+                    theilhafftig gemacht haben /<lb/>
+                    vber Verdien&#x017f;t gan&#xeedc; wohl<lb/>
+                    empfangen worden / &#x017f;o hat<lb/>
+                    &#x017f;ich auch nicht weniger gezie-<lb/>
+                    men wollen / dann das wir<lb/>
+                    vn&#x017f;erer obligenden Schul-<lb/>
+                    digkeit nach / jhne&#x0303; auch mit nit<lb/>
+                    geringerer Ehrpietung wie-<lb/>
+                    derumb begegneten / zu de&#x017f;-<lb/>
+                    &#x017f;en Bezeigung hat ein jeder<lb/>
+                    von vns &#x017f;ein be&#x017f;tes gethan<lb/>
+                    ma&#x017f;&#x017f;en dann nach gehaltener<lb/>
+                    <hi rendition="#aq">collation</hi> die&#x017f;er An&#x017f;ehnli-<lb/>
+                    chen Ge&#x017f;ell&#x017f;chafft zu &#x017f;onder-<lb/>
+                    bahrer Erge&#xeedc;lichkeit / die&#x017f;er<lb/>
+                    einen zierlichen <hi rendition="#aq">di&#x017f;curs,</hi> jener<lb/>
+                    einen artigen Tan&#xeedc; / jener<lb/>
+                    <fw type="catch" place="bottom">auch</fw>
+                    <pb facs="0012"/>
+                    <fw type="pageNum" place="top">5</fw><lb/>
+                    auch ein kur&#xeedc;weiliches ho&#x0364;ff-<lb/>
+                    liches Spiel angefangen /<lb/>
+                    vnd dadurch &#x017f;eine empfind-<lb/>
+                    liche Frewde / gegen wollge-<lb/>
+                    dachtes Frawenzimmer be-<lb/>
+                    zeugen wollen: Bey &#x017f;olcher<lb/>
+                    Kur&#xeedc;weil i&#x017f;t mir jhren ge-<lb/>
+                    ring&#x017f;ten Diener / <hi rendition="#aq">Seladon</hi><lb/>
+                    von einer vber die ma&#x017f;&#x017f;en<lb/>
+                    Tugend-&#x017f;cho&#x0364;nen Damen /<lb/>
+                    neben andern auch im Ko&#x0364;-<lb/>
+                    niglcihen Spiel anbefohlen<lb/>
+                    worden / daß ich mich auff-<lb/>
+                    machen / vnnd einen Wahr-<lb/>
+                    hafften von der heut zu Tage<lb/>
+                    zuviel vblicher vnd in Zwang<lb/>
+                    we&#x017f;ender Kun&#x017f;t der Lo&#x0364;fflerey<lb/>
+                    die wohlerfahrn-vnnd ge-<lb/>
+                    &#x017f;chwinde Argli&#x017f;tige aller<lb/>
+                    wohlgeu&#x0364;bten <hi rendition="#aq">courta&#x017f;anen,</hi><lb/>
+                    <fw type="sig" place="bottom">A iij</fw><fw type="catch" place="bottom"><hi rendition="#aq">di&#x017f;curs,</hi></fw>
+                    <pb facs="0013"/>
+                    <fw type="pageNum" place="top">6</fw><lb/>
+                    <hi rendition="#aq">di&#x017f;curs, formiren</hi> vnd den-<lb/>
+                    &#x017f;elben ohne allen Schew die-<lb/>
+                    &#x017f;er lieben vnnd lo&#x0364;blichen Ge-<lb/>
+                    &#x017f;ell&#x017f;chafft deutlich / vnd or-<lb/>
+                    dentlich vorbringen &#x017f;olte fu&#x0364;r-<lb/>
+                    wahr ein Befellich daß in ei-<lb/>
+                    ner &#x017f;o Edlen <hi rendition="#aq">Compagney</hi><lb/>
+                    &#x017f;einer Dignita&#x0364;t nach von ei-<lb/>
+                    nen wol beredeten vnnd der<lb/>
+                    Sachen be&#x017f;&#x017f;er erfahrnen /<lb/>
+                    mehr ver&#x017f;tendigen <hi rendition="#aq">oratore,</hi><lb/>
+                    mit be&#x017f;onderer zierlicher Be-<lb/>
+                    red&#x017f;amkeit hette solle&#x0303; herauß-<lb/>
+                    ge&#x017f;trichen werden / alldieweil<lb/>
+                    aber ich de&#x017f;&#x017f;en nicht entla&#x017f;&#x017f;en<lb/>
+                    &#x017f;ein mo&#x0364;gen / &#x017f;ondern je lenger<lb/>
+                    je &#x017f;tercker Befellicht worden<lb/>
+                    mu&#x017f;te ichs in vntertha&#x0364;niger<lb/>
+                    Gehor&#x017f;amb wie ich be&#x017f;t kon-<lb/>
+                    te vnterfangen. Jch hatte a-<lb/>
+                    <fw type="catch" place="bottom">ber</fw>
+                    <pb facs="0014"/>
+                    <fw type="pageNum" place="top">7</fw><lb/>
+                    ber meine rauhe Rede / noch<lb/>
+                    nicht vollig geendet / da beda&#x0303;-<lb/>
+                    cket &#x017f;ich &#x017f;chon / die&#x017f;es hochlo&#x0364;b-<lb/>
+                    liche Frawenzimmer / jhrer<lb/>
+                    angebo&#xa75b;ne&#xa75b; Ho&#x0364;fflichkeit nach /<lb/>
+                    ein&#x017f;endig Begehrens / weil<lb/>
+                    die&#x017f;er gefu&#x0364;hrter <hi rendition="#aq">Di&#x017f;curs,</hi> in<lb/>
+                    vielen Stu&#x0364;cken der Warheit<lb/>
+                    gemeeßzu&#x017f;ein / von jhnen be-<lb/>
+                    funden worden / ich mo&#x0364;chte<lb/>
+                    den&#x017f;elbe&#x0303; / jhne&#x0303; zu ehren zu pa-<lb/>
+                    pier bringen / vnd durch offe-<lb/>
+                    ne Truck <hi rendition="#aq">con&#x017f;ecri</hi>ren vnnd<lb/>
+                    mittheilen. Was &#x017f;olte ich<lb/>
+                    Seladon nun mache&#x0303;? Die-<lb/>
+                    &#x017f;es &#x017f;o Hold&#x017f;eligen Damen<lb/>
+                    ver&#x017f;agen / i&#x017f;t Bawri&#x017f;ch / i&#x017f;t<lb/>
+                    vnho&#x0364;fflich vnd vndanckbar /<lb/>
+                    hingegen die&#x017f;es zu vollnzie-<lb/>
+                    hen / vnd zuver&#xa75b;ichten i&#x017f;t ver-<lb/>
+                    <fw type="sig" place="bottom">A iiij</fw><fw type="catch" place="bottom">me&#x017f;&#x017f;en</fw>
+                    <pb facs="0015"/>
+                    <fw type="pageNum" place="top">8</fw><lb/>
+                    me&#x017f;&#x017f;en ja auch gefa&#x0364;hrlich /<lb/>
+                    doch wolte ich lieber fu&#x0364;r ver-<lb/>
+                    me&#x017f;&#x017f;en gehalten &#x017f;eyn / alß den<lb/>
+                    &#x017f;cha&#x0364;ndlichen Nahmen fu&#x0364;h-<lb/>
+                    ren eines / der wehrten Ge-<lb/>
+                    &#x017f;ell&#x017f;chafft &#x017f;o vngehor&#x017f;amen<lb/>
+                    Dieners vnnd vnho&#x0364;fflichen<lb/>
+                    groben klo&#xeedc;es: Derowegen<lb/>
+                    den folgenden <hi rendition="#aq">Tra&#xeec5;atum</hi><lb/>
+                    zwaren &#x017f;chlecht vnnd rauch<lb/>
+                    auffge&#x017f;e&#xeedc;et habe / aber &#x017f;elbes<lb/>
+                    der Gebu&#x0364;hr nach mit Fleiß<lb/>
+                    zu revidirn vnnd zuverbe&#x017f;-<lb/>
+                    &#x017f;ern / ein &#x017f;olches habe wegen<lb/>
+                    anderen nur Obligender Ge-<lb/>
+                    &#x017f;cha&#x0364;fften / &#x017f;o wenig Zeit als<lb/>
+                    Gelegenheit gehabt; in de&#x017f;&#x017f;en<lb/>
+                    An&#x017f;ehung dann einen von<lb/>
+                    meinen Ti&#x017f;chgeno&#x017f;&#x017f;en / da-<lb/>
+                    mit belu&#x017f;tigen mu&#x0364;&#x017f;&#x017f;en / wel-<lb/>
+                    <fw type="catch" place="bottom">cher</fw>
+                    <pb facs="0016"/>
+                    <fw type="pageNum" place="top">9</fw><lb/>
+                    cher als ein wolgeubter vnnd<lb/>
+                    in die&#x017f;er Kun&#x017f;t der Lo&#x0364;fflerey<lb/>
+                    wohlerfahrner Alter <hi rendition="#aq">pra&#xeec5;i-<lb/>
+                        cus,</hi> &#x017f;ein <hi rendition="#aq">po&#x017f;&#x017f;e</hi> vnd <hi rendition="#aq">velle ex<lb/>
+                            a&#x017f;&#x017f;e</hi> zu <hi rendition="#aq">conte&#xfb05;iren</hi> auch<lb/>
+                    nicht vnterla&#x017f;&#x017f;en hat; Bit-<lb/>
+                    ten demnach Ho&#x0364;ch&#x017f;tflei&#x017f;&#x017f;ig<lb/>
+                    der Großgu&#x0364;n&#x017f;tiger lieber Le-<lb/>
+                    &#x017f;er wolle die&#x017f;e wohlmeinende<lb/>
+                    Arbeit &#x017f;ich nicht mißfallen<lb/>
+                    la&#x017f;&#x017f;en / &#x017f;ondern dargegen &#x017f;ich<lb/>
+                    ver&#x017f;ichert halten / ob &#x017f;chon die<lb/>
+                    Materi / vnnd Rede &#x017f;chlecht<lb/>
+                    grob vnd rauch i&#x017f;t / daß dan-<lb/>
+                    noch &#x017f;elbe gute Nu&#xeedc;barkeit<lb/>
+                    mit &#x017f;ich bringe / nicht daran<lb/>
+                    zweifflend / daß alle vnd jede /<lb/>
+                    welche &#x017f;ich in die&#x017f;em als ei-<lb/>
+                    nem Spiegel nur etwan be-<lb/>
+                    &#x017f;ehen vnd &#x017f;ich Mangelhafft<lb/>
+                    <fw type="sig" place="bottom">A v</fw><fw type="catch" place="bottom">vnd</fw>
+                    <pb facs="0017"/>
+                    <fw type="pageNum" place="top">10</fw><lb/>
+                    vnd beflecket befinden / wer-<lb/>
+                    den&#x017f;ich &#x017f;elb&#x017f;tenbald erkenne&#x0303; /<lb/>
+                    bey zeiten auff den Wege der<lb/>
+                    Ehrbarkeit begeben / vnnd<lb/>
+                    was &#x017f;owohl jhnen als andern<lb/>
+                    vbel an&#x017f;tehet gewiß fliehen.
+                </p><lb/>
+                <p><hi rendition="#aq">H&#x00e6;c hic hoc tempore<lb/>
+                    po&#x017f;ui&#x017f;&#x017f;e &#x017f;ufficiant &amp; qu&#x00e6;<lb/>
+                    in communi praxi &amp; theo-<lb/>
+                    ria ob&#x017f;ervavimus publice<lb/>
+                    cen&#x017f;ur&#x00e6; &#x017f;ubmittimus &amp; &#x017f;i<lb/>
+                    erravimus veniam preca-<lb/>
+                    mur, &#x017f;alvo jure addendi<lb/>
+                    minuendi corrigendi. Le-<lb/>
+                    &#xeec5;or &#x00e6;quus h&#x00e6;c ioco&#x017f;e pro<lb/>
+                    candore &#x017f;uo, &amp; innata di&#x017f;-<lb/>
+                    cretione interpretabitur,<lb/>
+                    malevolum Theonino<lb/>
+                    dente quidque carpentem<lb/>
+                    nihil moramur. Interea va-</hi><lb/>
+                <fw type="catch" place="bottom"><hi rendition="#aq">le &amp;</hi></fw>
+                <pb facs="0018"/>
+                    <fw type="pageNum" place="top">11</fw><lb/>
+                    <hi rendition="#aq">le &amp; plaude. Paulo majora<lb/>
+                        &#x017f;equentur.</hi></p><lb/>
+                <lb/><!-- Leerzeile -->
+                <p><hi rendition="#aq">Signatum</hi> Mu&#x0364;n&#x017f;ter <hi rendition="#aq">1648.<lb/>
+                    Primo &amp; vltimo Maij</hi></p><lb/>
+            </div>
+            <fw type="sig" place="bottom">A vj</fw><fw type="catch" place="bottom">Jn</fw>
+            <pb facs="0019"/>
+            <fw type="pageNum" place="top">12</fw><lb/>
+            <div>
+                <figure/><!-- Zierband --><lb/>
+                <p>
+                    <hi rendition="#fr"><hi rendition="#in">J</hi>N deme wir die</hi><lb/>
+                    heut zu Tage / gar<lb/>
+                    zu viel gebra&#x0364;uchli-<lb/>
+                    che vnd im zwang-<lb/>
+                    we&#x017f;ende Kun&#x017f;t der<lb/>
+                    Lo&#x0364;fflerey / die wolerfahrn vnnd<lb/>
+                    Ge&#x017f;chwindigkeit aller wolgeu&#x0364;b-<lb/>
+                    ter Courto&#x017f;anen vnnd Lo&#x0364;fflern /<lb/>
+                    auch gemeldter Ku&#x0303;&#x017f;t mißbrauch /<lb/>
+                    vnd Nu&#xeedc; / dem gemeinen Frawe&#x0303;-<lb/>
+                    zimmer vor Augen zu&#x017f;tellen vor-<lb/>
+                    habens vnnd gemeint / haltens<lb/>
+                    fur dienlich zu &#x017f;eyn / allhier zu an-<lb/>
+                    fangs &#x017f;elbige gru&#x0364;ndlich zu vn-<lb/>
+                    terrichten vnd zubelehren / woher<lb/>
+                    eigentlich das <hi rendition="#fr">Wo&#x0364;rtlein Lo&#x0364;ff-</hi><lb/>
+                    lerey <hi rendition="#fr">oder Lo&#x0364;fflen</hi> <hi rendition="#aq">derivirt</hi> vnd<lb/>
+                    hergenommen / oder wie es zu<lb/>
+                    deuten vnnd recht ver&#x017f;tanden<lb/>
+                    <fw type="catch" place="bottom">werden</fw>
+                    <pb facs="0020"/>
+                    <fw type="pageNum" place="top">13</fw><lb/>
+                    werden mu&#x0364;&#x017f;&#x017f;e; Er&#x017f;tlich &#x017f;eyn der<lb/>
+                    fal&#x017f;chen Meynung daß es er&#x017f;t-<lb/>
+                    lichen daher ent&#x017f;tanden &#x017f;eyn &#x017f;ol-<lb/>
+                    le / daß gleich wie die Schur&#xa75b;en<lb/>
+                    vnd Leichte Burs auff der Ga&#x017f;-<lb/>
+                    &#x017f;en wol pflegen einen ander / ei-<lb/>
+                    nen La&#xeedc;en oder Fuchs&#x017f;chwan&#xeedc;<lb/>
+                    zum Po&#x017f;&#x017f;en anzuhencken / al&#x017f;o<lb/>
+                    auch einsmals ein leicht&#x017f;inniges<lb/>
+                    Kammerka&#x0364;&#xeedc;lein jhrer Frawen<lb/>
+                    oder Jungfrawen <hi rendition="#aq">Serviteur,</hi> wie<lb/>
+                    mans anje&#xeedc;o nennet / dafu&#x0364;r daß<lb/>
+                    er &#x017f;ie vera&#x0364;chtiglichen herbeygan-<lb/>
+                    gen / vnd jhrer Frawen oder<lb/>
+                    Jungfrawen aber &#x017f;o wol ge-<lb/>
+                    meint habe / daß er &#x017f;ie gerne zu<lb/>
+                    Mann vnnd Kind verhelffen<lb/>
+                    wollen / einen Lepffell zum &#x017f;cha-<lb/>
+                    wernack heimlich auff den Hut<lb/>
+                    ge&#x017f;tecket / vnd damit habe wieder<lb/>
+                    heimgehen la&#x017f;&#x017f;en / die&#x017f;es als es<lb/>
+                    andere Buben erfahren / &#x017f;ollen<lb/>
+                    &#x017f;ie den&#x017f;elben allenthalben fu&#x0364;r ein<lb/>
+                    <fw type="sig" place="bottom">A vij</fw><fw type="catch" place="bottom">Lo&#x0364;ff-</fw>
+                    <pb facs="0021"/>
+                    <fw type="pageNum" place="top">14</fw><lb/>
+                    Lo&#x0364;ffeler angeruffen / vnd das<lb/>
+                    &#x017f;o lang getrieben haben / biß da-<lb/>
+                    ru&#x0364;ber alle die jenige / die den<lb/>
+                    Frawenzimmer &#x017f;o gern vnnd<lb/>
+                    flei&#x017f;&#x017f;ig auffgewartet / &#x017f;eyn her-<lb/>
+                    nacher allgemach Lo&#x0364;ffeler vnd<lb/>
+                    jhre Bedienung <hi rendition="#aq">carachion</hi> vnd<lb/>
+                    getrewe Auffwartung an &#x017f;ich<lb/>
+                    &#x017f;elb&#x017f;ten eine Lo&#x0364;fflerey genennet<lb/>
+                    worden / biß auff den heutigen<lb/>
+                    Tag. Andere aber wollen jhres<lb/>
+                    erachtens etwas na&#x0364;her komme&#x0303; /<lb/>
+                    vnd bewei&#x017f;en auß dem <hi rendition="#aq">Calecu-<lb/>
+                        tio</hi> vnd Wa&#x017f;&#x017f;erquelle der Jung-<lb/>
+                    frawen / daß die&#x017f;es Wo&#x0364;rtlein<lb/>
+                    &#x017f;ey ein We&#x017f;tphali&#x017f;che Wo&#x0364;rtlein /<lb/>
+                    vnd in We&#x017f;tphalen / &#x017f;onderlich<lb/>
+                    auch in dero&#x017f;elbe&#x0303; Haupt-Statt /<lb/>
+                    Mu&#x0364;n&#x017f;ter noch newlich dahero<lb/>
+                    ent&#x017f;tanden / vnd in Brauch kom-<lb/>
+                    men dieweil das Junge Vo&#x0364;lck-<lb/>
+                    lein in gemeldtem We&#x017f;tphalen<lb/>
+                    nunmehr &#x017f;o lecker / auff Liebes<lb/>
+                    <fw type="catch" place="bottom">Sa-<lb/></fw>
+                    <pb facs="0022"/>
+                    <fw type="pageNum" place="top">15</fw><lb/>
+                    Sachen worden / daß wann Sie<lb/>
+                    allein auffs Ka&#x0364;mmerchen / oder<lb/>
+                    auch wol auff o&#x0364;ffenlichen Hoch-<lb/>
+                    zeiten / Kindtauffen / Banquet-<lb/>
+                    ten / Ga&#x017f;tereyen vnd andern Ge<lb/>
+                    &#x017f;ell&#x017f;chafften / oder aber auff o&#x0364;f-<lb/>
+                    fentlichen Ga&#x017f;&#x017f;en vnnd fu&#x0364;r den<lb/>
+                    Thu&#x0364;ren / &#x017f;onderlich vmb die Zeit<lb/>
+                    wann die Nacht-Eulen loß flie-<lb/>
+                    gen / bey&#x017f;ammen ko&#x0364;nnen &#x017f;ich<lb/>
+                    auß einer vnma&#x0364;&#x017f;&#x017f;igen vnd Few-<lb/>
+                    riger Liebe / al&#x017f;o zerher&#xeedc;en Ku&#x0364;&#x017f;-<lb/>
+                    &#x017f;en / das Maul vmb vnd vmb<lb/>
+                    zerlecken / gleich wie ein klein To&#x0364;-<lb/>
+                    richtes Kindtlein den Lo&#x0364;ffel<lb/>
+                    auß dem Honig-Topffe lecket /<lb/>
+                    daß die jenige / &#x017f;o &#x017f;olches gerne<lb/>
+                    thun / derowegen mit den in et-<lb/>
+                    was &#x017f;chimpfflichen Beynamen<lb/>
+                    Lo&#x0364;fflers <hi rendition="#aq">qua&#x017f;i</hi> Lo&#x0364;ffelleckers nit<lb/>
+                    vnbillich genennet werden / dahin<lb/>
+                    dann vn&#x017f;ere &#x017f;chnuptile We&#x017f;t-<lb/>
+                    pha&#x0364;linger noch heute zielen / mit<lb/>
+                    <fw type="catch" place="bottom">den</fw>
+                    <pb facs="0023"/>
+                    <fw type="pageNum" place="top">16</fw><lb/>
+                    den gemeinen Sprichwo&#x0364;rtern /<lb/>
+                    Lecker auß der Ku&#x0364;chen / Jtem<lb/>
+                    er lecke &#x017f;ie mit frieden. Jtem er<lb/>
+                    gibt einen guten Lecker &#xa75b;c.</p><lb/>
+                <p>
+                    Aber es &#x017f;ey die&#x017f;em allen / wie<lb/>
+                    jhm wo&#x0364;lle / man rede von die&#x017f;er<lb/>
+                    vn&#x017f;erer Lo&#x0364;ffeley vnd den darin<lb/>
+                    wohlge&#x00fc;bten <hi rendition="#aq">courti</hi>&#x017f;anen / &#x017f;o<lb/>
+                    &#x017f;chimpfflich als man jmmer kan<lb/>
+                    vnd mag / &#x017f;o i&#x017f;t doch in zwi&#x017f;chen<lb/>
+                    gewi&#x017f;&#x017f;e / daß der leidige Miß-<lb/>
+                    brauch / kein Ding verachtlich /<lb/>
+                    vielweniger die&#x017f;e vn&#x017f;er Kun&#x017f;t<lb/>
+                    der Lo&#x0364;ffley ihrer Dignitet / vnd<lb/>
+                    w&#x00fc;rden ohn machet / derowegen<lb/>
+                    dann die&#x017f;elbe al&#x017f;o zula&#x0364;&#x017f;&#x017f;ig ver-<lb/>
+                    bleibet / wann man ur alle gro-<lb/>
+                    be Mißbra&#x0364;uche hinterle&#x017f;&#x017f;et vnd<lb/>
+                    keine gemeine Hurerey darauß<lb/>
+                    machet / oder auffs wenig&#x017f;te nur<lb/>
+                    guter Vor&#x017f;ichtigkeit &#x017f;ich darin-<lb/>
+                    nen gebraucht: Sintemahlen<lb/>
+                    auff &#x017f;olche Wei&#x017f;e die&#x017f;elbe an-<lb/>
+                    <fw type="catch" place="bottom">ders</fw>
+                    <pb facs="0024"/>
+                    <fw type="pageNum" place="top">17</fw><lb/>
+                    ders nichts i&#x017f;t / als eine anmu&#x0364;h-<lb/>
+                    tige liebes Vbung en&#x017f;tehend auff<lb/>
+                    freundlicher <hi rendition="#aq">conver&#x017f;ation</hi> zwey-<lb/>
+                    er verliebter Her&#xeedc;en / die nicht<lb/>
+                    wi&#x017f;&#x017f;en mit was fu&#x0364;r Freundlich-<lb/>
+                    keit / mit was hold&#x017f;a&#x0364;ligen Ge-<lb/>
+                    berden / vnnd angenehmen vnter<lb/>
+                    Dien&#x017f;tlichkeiten / &#x017f;ie ein Ehren-<lb/>
+                    wort mit der Hand anbringen /<lb/>
+                    vnd &#x017f;ich be&#x017f;ter ma&#x017f;&#x017f;en <hi rendition="#aq">conten</hi>ti-<lb/>
+                    ren ko&#x0364;nnen oder wo&#x0364;llen.</p><lb/>
+                <p>Be&#x017f;tehet al&#x017f;o die&#x017f;elbe Lo&#x0364;ffle-<lb/>
+                    rey / nur auff zweyerley / als nem-<lb/>
+                    lich auff die Per&#x017f;onen / welche &#x017f;ich<lb/>
+                    in der&#x017f;elben <hi rendition="#aq">exerci</hi>ren vnd vben /<lb/>
+                    vnd auff die Vbung &#x017f;elb&#x017f;t / von<lb/>
+                    den Per&#x017f;ohnen wollen wir er&#x017f;t-<lb/>
+                    lich handelen / vnnd deren Be-<lb/>
+                    &#x017f;chaffenheit &#x017f;o viel der Zeit vnd<lb/>
+                    Gelegenheit nach wol m&#x00fc;glich /<lb/>
+                    vnd die&#x017f;es Orts geho&#x0364;rn wird /<lb/>
+                    kundbar machen.</p><lb/>
+                <p>Es &#x017f;eyn aber die&#x017f;elbe Per&#x017f;oh-<lb/>
+                <fw type="catch" place="bottom">nen</fw>
+                <pb facs="0025"/>
+                    <fw type="pageNum" place="top"></fw><lb/>
+                    nen <hi rendition="#aq">indifferenter</hi> alle / brave / Vo-<lb/>
+                    gelbahre / wolte &#x017f;agen vogtbare<lb/>
+                    Damen vnnd Cavallier Jung-<lb/>
+                    frawen vnnd Jung-Ge&#x017f;ellen /<lb/>
+                    Weib vnd Ma&#x0364;nner / Hoch- vnd<lb/>
+                    niedrigen Standes / wie &#x017f;ie Na-<lb/>
+                    men haben / wann &#x017f;ie nur deß<lb/>
+                    Alters vnd der Qualiteten &#x017f;ein<lb/>
+                    daß &#x017f;ie fu&#x0364;r <hi rendition="#aq">capabel pa&#x017f;&#x017f;iren</hi> ko&#x0364;n-<lb/>
+                    nen / die Jungfrawen weiln de-<lb/>
+                    nen ein jeder gerne viel Ehr an-<lb/>
+                    thuet / vnnd allenthalben den<lb/>
+                    Vorzug go&#x0364;nnet vnd giebet / &#x017f;ol-<lb/>
+                    len allhie auch vorher gehen /<lb/>
+                    vnd die ober&#x017f;telle haben / die an-<lb/>
+                    dere aber nach der Ordnung / jh-<lb/>
+                    nen beyge&#x017f;e&#xeedc;et werden.</p><lb/>
+                <p>Die jenige / welche einen gro&#x017f;-<lb/>
+                    &#x017f;en Bauch voll Weißheit ha-<lb/>
+                    ben vnd wie man &#x017f;agt / Graß<lb/>
+                    wach&#x017f;en ho&#x0364;ren / vnnd Haar zer-<lb/>
+                    theilen ko&#x0364;nnen / vnter welchen<lb/>
+                    Hauffen &#x017f;onderlich vn&#x017f;ere Edle<lb/>
+                <fw type="catch" place="bottom">Ve&#x017f;t-</fw>
+                <pb facs="0026"/>
+                    <fw type="pageNum" place="top">19</fw><lb/>
+                Ve&#x017f;t- vnd Hochgelehrte mit ge-
+                ho&#x0364;ren / die&#x017f;elbe machen viel Di-<lb/>
+                    &#x017f;putirens von dem Wo&#x0364;rtlein<lb/>
+                    Jungfraw / vnd le&#x017f;&#x017f;et &#x017f;ich an&#x017f;ehe&#x0303;<lb/>
+                    als wolte ein jeder ein <hi rendition="#aq">&#x017f;pecial-</hi><lb/>
+                    Bißlein vnd etwas &#x017f;onderlichs<lb/>
+                    herauß klauben / <hi rendition="#aq">Antonius Flo-<lb/>
+                        rentinen&#x017f;is</hi> ein vornehmer rechts<lb/>
+                    verkehrter <hi rendition="#aq">in &#x017f;umma &#x017f;ua tit. 2. ci.</hi><lb/>
+                    nennet eine Jungfraw <hi rendition="#aq">virgo,</hi> o-<lb/>
+                    der daß wie <hi rendition="#aq">&#x017f;ecundum Gram-<lb/>
+                        maticam</hi> reden <hi rendition="#aq">virginem,</hi> vnnd<lb/>
+                    &#x017f;e&#xeedc;et / daß <hi rendition="#aq">virgo</hi> &#x017f;o viel &#x017f;ey vnnd<lb/>
+                    hei&#x017f;&#x017f;e / als <hi rendition="#aq">virum agens hoc e&#xfb05; re-<lb/>
+                        pellens.</hi> Die da ra&#xeedc;et vnd kra-<lb/>
+                    &#xeedc;et rei&#x017f;&#x017f;et vnnd bei&#x017f;&#x017f;et / vnd mit<lb/>
+                    Nadeln vmb &#x017f;ich &#x017f;ticht / daß kein<lb/>
+                    Mannsper&#x017f;ohn an Sie kom-<lb/>
+                    men / oder in Leibs Kund&#x017f;chafft<lb/>
+                    mit Jhr gerathe / wie auch in die<lb/>
+                    Flei&#x017f;chkammer Jhr einbrechen<lb/>
+                    kan; Ein ander genant Thomas<lb/>
+                    nimbt das Wo&#x0364;rtlein <hi rendition="#aq">virgo &#x00e0; vi-</hi><lb/>
+                    <fw type="catch" place="bottom"><hi rendition="#aq">rore</hi></fw>
+                    <pb facs="0027"/>
+                    <fw type="pageNum" place="top">20</fw><lb/>
+                    <hi rendition="#aq">rore, vt quod nondum &#x017f;it exper-<lb/>
+                        ta adu&#xfb05;ionem.</hi> Die noch nicht<lb/>
+                    angebrant &#x017f;ey / die noch nicht hi-<lb/>
+                    &#xeedc;ig nicht brautgeil / nicht vbe&#xa75b;auß<lb/>
+                    begierig zum Ki&#xeedc;el / daß i&#x017f;t kur&#xeedc;<lb/>
+                    geredet / de&#x0303; das Zahnflei&#x017f;ch noch<lb/>
+                    nicht jucket / der <hi rendition="#aq">Fulgentius ad<lb/>
+                        probam in Lib. de virg.</hi> will daß<lb/>
+                    das Wo&#x0364;rtlein <hi rendition="#aq">virgo</hi> &#x017f;o viel be-<lb/>
+                    deute als <hi rendition="#aq">virago,</hi> welches <hi rendition="#aq">&#x00e0; viro</hi><lb/>
+                    das i&#x017f;t vom Manne herru&#x0364;hret /<lb/>
+                    der &#x017f;o viel als eine Krafft bedeu-<lb/>
+                    tet <hi rendition="#aq">virago</hi> aber hei&#x017f;t ein krefftigs<lb/>
+                    Blut oder Blum anzudeuten /<lb/>
+                    daß ein Jungfrawe in jhren be-<lb/>
+                    &#x017f;ten Bl&#x00fc;et vnd gru&#x0364;nender Ju-<lb/>
+                    gend nunmehro &#x017f;o reiff als eine<lb/>
+                    Nuß wie man im Sprichwort<lb/>
+                    redet / wie eine &#x017f;cho&#x0364;ne vollkom-<lb/>
+                    mene Blume m&#x00fc;e abgebroche&#x0303;<lb/>
+                    werden / oderi &#x017f;ie falle von jhr<lb/>
+                    &#x017f;elber ab / wie das vns die gemei-<lb/>
+                    ne ta&#x0364;gliche Erfahrung dann kla&#x0364;r<lb/>
+                    <fw type="catch" place="bottom">lich</fw>
+                    <pb facs="0028"/>
+                    <fw type="pageNum" place="top">21</fw>
+                    lich belehret / daß &#x017f;ie die Blumen<lb/>
+                    lieber abbrechen als von &#x017f;ich &#x017f;el-<lb/>
+                    ber afallen la&#x017f;&#x017f;en. Vn&#x017f;ere<lb/>
+                    teut&#x017f;che kluge vnnd junge Naß-<lb/>
+                    wei&#x017f;&#x017f;e <hi rendition="#aq">Singulari&#xfb05;en</hi> die ko&#x0364;nnen<lb/>
+                    auch nicht vorbey &#x017f;ie mu&#x0364;&#x017f;&#x017f;en die<lb/>
+                    Za&#x0364;hne an die&#x017f;en Treck mit rei-<lb/>
+                    ben / e&#xeedc;liche von die&#x017f;en wollen<lb/>
+                    das Jungfraw &#x017f;o viel &#x017f;ey als<lb/>
+                    Gumpfraw <hi rendition="#aq">&#x00e0;</hi> Gumpen / daher<lb/>
+                    dann Gumpel kommen / welches<lb/>
+                    alles nicht vbel getroffen i&#x017f;t.</p><lb/>
+                <p>E&#xeedc;liche aber von die&#x017f;en<lb/>
+                    Na&#x017f;enwe&#xeedc;er / wollen gar mit der<lb/>
+                    Na&#x017f;en in den Koth vnnd &#x017f;e&#xeedc;en<lb/>
+                    vnge&#x017f;chewet / daß Jungfraw &#x017f;ol-<lb/>
+                    le vnd mu&#x0364;&#x017f;&#x017f;e &#x017f;o viel hei&#x017f;&#x017f;en / als<lb/>
+                    Jungefraw auß Vr&#x017f;achen die-<lb/>
+                    weil man &#x017f;onderlich zu die&#x017f;er<lb/>
+                    Zeit das JungfrawenWa&#x017f;&#x017f;er<lb/>
+                    gar &#x017f;elten <hi rendition="#aq">probatum</hi> oder gut vn&#x0303;<lb/>
+                    auffrichtig / befunden / vnd wann<lb/>
+                    man &#x017f;chon gleich wie &#x017f;olche Ju&#x0303;g-<lb/>
+                <fw type="catch" place="bottom">fraw /</fw>
+                <pb facs="0029"/>
+                    <fw type="pageNum" place="top">22</fw><lb/>
+                    fraw / welche keine auffrichtige<lb/>
+                    Jungfraw mehr i&#x017f;t / eine Jung-<lb/>
+                    fraw nennet / &#x017f;o gehet man den-<lb/>
+                    noch &#x017f;iche&#xa75b; / vnd bleibt (: gleich wie<lb/>
+                    jener Bader der vmb aller Ge-<lb/>
+                    fahr willen die Frawen Flietgen<lb/>
+                    nahm / vnd der vermeinten Jung<lb/>
+                    frawen die Ader damit &#x017f;chlug:)<lb/>
+                    gan&#xeedc; au&#x017f;&#x017f;er gefahr / hei&#x017f;&#x017f;e es dan&#x0303;<lb/>
+                    nicht Jungfraw / &#x017f;o mo&#x0364;ge es<lb/>
+                    Jungefraw hei&#x017f;&#x017f;en / daß &#x017f;ey nur<lb/>
+                    ein Buch&#x017f;ta&#x0364;blein mehr ge&#x017f;e&#xeedc;et,<lb/>
+                    vnnd ko&#x0364;nnen Sie al&#x017f;o niemand<lb/>
+                    be&#x017f;chuldigen viel weniger &#x017f;ich ei-<lb/>
+                    niger iniurien beklagen / daß Er<lb/>
+                    jhr mit Zunahmen ange&#x017f;proche&#x0303; /<lb/>
+                    oder einigen Schimpff angethan<lb/>
+                    vnd zugefu&#x0364;gt habe / <hi rendition="#aq">in &#x017f;umma</hi> es<lb/>
+                    &#x017f;cheinet ein jeder will einen<lb/>
+                    Trunck darauß haben / daß go&#x0364;n-<lb/>#nen wir jhnen zwar gerne / blei-<lb/>
+                    ben aber in &#x017f;o weit bey den guten<lb/>
+                    alten Teut&#x017f;chen welche auch kei-<lb/>
+                <fw type="catch" place="bottom">ne</fw>
+                <pb facs="0030"/>
+                    <fw type="pageNum" place="top">23</fw><lb/>
+                    ne Nar&#xa75b;en gewe&#x017f;en / &#x017f;ondern &#x017f;ich<lb/>
+                    auff ein gut Ding / gleich die&#x017f;en<lb/>
+                    klugen newlingen ver&#x017f;tanden ne&#x0303;-<lb/>
+                    nen vnd hei&#x017f;&#x017f;en derowegen / eine<lb/>
+                    Jungfraw <hi rendition="#aq">qua&#x017f;i</hi> Vnfraw <hi rendition="#aq">qu&#x00e6;<lb/>
+                        iam in ip&#x017f;o vigore &#x00e6;tatis circa an-<lb/>
+                        nos nubilis e&#xfb05;</hi> welche je&#xeedc;o rech-<lb/>
+                    tes vollkom&#x0303;enes Alters / Voigt-<lb/>
+                    vnd Mannbahr i&#x017f;t / jhres zei-<lb/>
+                    chens abe&#xa75b; eine rechte Jungfraw<lb/>
+                    die auff der rei&#x017f;e nach dem <hi rendition="#aq">Venus</hi><lb/>
+                    Gebi&#xa75b;g jhren mutwilligen Ro&#x0364;ß-<lb/>
+                    lein noch kein Ey&#x017f;en abgerennet<lb/>
+                    hat.</p><lb/>
+                <p>Findet man al&#x017f;o zweyerley<lb/>
+                    Art / vnd Ge&#x017f;chlechter der Jung<lb/>
+                    frawen / e&#xeedc;liche wie je&#xeedc;t gemel-<lb/>
+                    det / &#x017f;eind rechte Vnfrawen vnd<lb/>
+                    in der warheit auffrichtige Ju&#x0303;g-<lb/>
+                    frawen e&#xeedc;liche aber haben nur<lb/>
+                    den Nahmen / vnd &#x017f;eyn der That<lb/>
+                    nach mehr Jungefrawen. Von<lb/>
+                    die&#x017f;en &#x017f;ein abe&#xa75b;mahln vnter&#x017f;chied<lb/>
+                <fw type="catch" place="bottom">liche</fw>
+                <pb facs="0031"/>
+                <fw type="pageNum" place="top">24</fw>
+                    liche Eigen&#x017f;chafften / dann theils<lb/>
+                    deren ge&#x017f;tehen / vnnd geben &#x017f;ich<lb/>
+                    offentlich dafu&#x0364;r auß daß &#x017f;ie kei-<lb/>
+                    ne Jungfrawen meh&#xa75b; &#x017f;eyn / theils<lb/>
+                    aber ge&#x017f;tehen mit nichten / wolle&#x0303;<lb/>
+                    auch gan&#xeedc; vnnd gar dafu&#x0364;r nicht<lb/>
+                    ange&#x017f;ehen werden / &#x017f;ondern hal-<lb/>
+                    ten &#x017f;ich in allen den Jungfrawen<lb/>
+                    gleich / von denen &#x017f;ie (:weiln der<lb/>
+                    <hi rendition="#aq">Tit. de ventre in&#x017f;piciendo</hi> heut zu<lb/>
+                    tage nicht &#x017f;o wohl meh&#xa75b; <hi rendition="#aq">pra&#xeec5;icirt</hi><lb/>
+                    wird:) &#x017f;chwerlich zu vnter&#x017f;chei-<lb/>
+                    den &#x017f;eyn</p><lb/>
+                <p>Wir Teut&#x017f;chen nennen eine<lb/>
+                    &#x017f;olche Jungfraw recht vnd nicht<lb/>
+                    vnbillich Jungfraw <hi rendition="#aq">fuit,</hi> weil<lb/>
+                    die&#x017f;elbe zwar bey tage / Jung-<lb/>
+                    fraw jhres zeichens &#x017f;eyn will / zu<lb/>
+                    nacht aber durch die Finger &#x017f;ihet<lb/>
+                    vnnd &#x017f;ich <hi rendition="#aq">obiter in tran&#x017f;itu</hi> die<lb/>
+                    W&#x016f;rm&#x017f;t&#x016f;ckige Flei&#x017f;chkammer<lb/>
+                    <hi rendition="#aq">vi&#x017f;itiren</hi> la&#x0364;&#x017f;t.</p><lb/>
+                <p>Vnd die&#x017f;e / weil jhnen bewu&#x017f;t<lb/>
+                <fw type="catch" place="bottom">i&#x017f;t</fw>
+                <pb facs="0032"/>
+                    <fw type="pageNum" place="top">25</fw><lb/>
+                    i&#x017f;t vermo&#x0364;ge offenem Kay&#x017f;erli-<lb/>
+                    chen Rechtens <hi rendition="#aq">idem operari fi-<lb/>
+                        &#xeec5;ionem in ca&#x017f;u fi&#xeec5;o, quod veri-<lb/>
+                        tas in vero</hi> beflei&#x017f;&#x017f;igen &#x017f;ich de&#x017f;&#x017f;en<lb/>
+                    ein&#xeedc;ig vnd allein / wie daß Sie<lb/>
+                    nemblich die&#x017f;es jhr &#x017f;o gar keu-<lb/>
+                    &#x017f;ches Leben nur mit li&#x017f;t bema&#x0364;n-<lb/>
+                    telen mo&#x0364;gen / nehmen allerhand<lb/>
+                    Minen vnd gebehrden an / vnnd<lb/>
+                    bezeigen &#x017f;ich / allen den Jungfra-<lb/>
+                    wen &#x017f;o gleich vnd a&#x0364;hnlich / daß<lb/>
+                    man &#x017f;ie recht jhre Affen / oder<lb/>
+                    nachgea&#x0364;ffte Jungfrawen kan<lb/>
+                    nennen.</p><lb/>
+                <p>Dem gemeine&#x0303; Man / die Au-<lb/>
+                    gen de&#x017f;to be&#x017f;&#x017f;er zuverblenden<lb/>
+                    &#x017f;tellen &#x017f;ie &#x017f;ich &#x017f;o gei&#x017f;tlich heilig /<lb/>
+                    gleich wie eine Nonne / die nie<lb/>
+                    kein Wa&#x017f;&#x017f;er getru&#x0364;bt hat (:wie-<lb/>
+                    wol auch leider die&#x017f;er Zeit die<lb/>
+                    Gei&#x017f;tlichkeit &#x017f;ehr viel abgenom-<lb/>
+                    men:) gehen ta&#x0364;glich zur Kirchen<lb/>
+                    vnd ho&#x0364;ren die H. Me&#x017f;&#x017f;e mit &#x017f;ol-<lb/>
+                <fw type="sig" place="bottom">B</fw><fw type="catch" place="bottom">cher</fw>
+                <pb facs="0033"/>
+                    <fw type="pageNum" place="top">26</fw><lb/>
+                    cher Andacht / daß man &#x017f;ie f&#x00fc;r die<lb/>
+                    allerheilig&#x017f;te muß an&#x017f;ehen / da<lb/>
+                    doch nichts anders bey jhnen v-<lb/>
+                    brig i&#x017f;t / als daß &#x017f;ie deß nachts <hi rendition="#aq">in<lb/>
+                        Le&#xeec5;o,</hi> daß i&#x017f;t gei&#x017f;tlicher wei&#x017f;&#x017f;e<lb/>
+                    davon zu rden / gut Catholi&#x017f;ch<lb/>
+                    &#x017f;eyn vnd mehr von guten wercke&#x0303;<lb/>
+                    als vom Glauben halten. Sie<lb/>
+                    gehen vnd &#x017f;ehen &#x017f;o zu&#x0364;chtig vnnd<lb/>
+                    Maulhenckoli&#x017f;ch vnter &#x017f;ich / wie<lb/>
+                    d&#x0292; Bawri&#x017f;che Frawenzimmer / &#x017f;o<lb/>
+                    man mit Kleyen mi&#x017f;tet / &#x017f;ie the-<lb/>
+                    ten niemand kein Ehr an / gru&#x0364;&#x017f;&#x017f;e-<lb/>
+                    ten niemand / oder &#x017f;prechen kein<lb/>
+                    Wo&#x0364;rtlein wann man &#x017f;ie auch v-<lb/>
+                    ber den Fuß fallen lie&#x017f;&#x017f;e / &#x017f;o keu&#x017f;ch<lb/>
+                    vnd zu&#x0364;chtig wollen &#x017f;ie &#x017f;eyn / eia<lb/>
+                    Gott lohne Jw. will man bey<lb/>
+                    Leuthen &#x017f;einer hand ein wenig<lb/>
+                    Vrlaub geben / einen ehrlichen<lb/>
+                    Brautgriff thun / oder den klei-<lb/>
+                    ne&#x017f;ten Finger nur zwi&#x017f;chen jhren<lb/>
+                    Euenfla&#x017f;chlein (:die doch &#x017f;o vn-<lb/>
+                <fw type="catch" place="bottom">be-</fw>
+                <pb facs="0034"/>
+                    <fw type="pageNum" place="top">27</fw><lb/>
+                    begrieffen &#x017f;eyn / gleich wie ein<lb/>
+                    Krampffe an einer Bad&#x017f;tuben-<lb/>
+                    thu&#x0364;&#xa75b; i&#x017f;t:) will man &#x017f;ich &#x017f;o viel ve&#xa75b;-<lb/>
+                    ku&#x0364;hnen / vnd die ehre nemmen / &#x017f;ie<lb/>
+                    eins auff jhre &#x017f;on&#x017f;t wolbe&#x017f;chna-<lb/>
+                    belten Leff&#xeedc;en zu ku&#x0364;&#x017f;&#x017f;en / &#x017f;o muß<lb/>
+                    man &#x017f;einen blawen wunder ho&#x0364;-<lb/>
+                    ren vnd &#x017f;ehen / &#x017f;o &#x017f;icht man wie<lb/>
+                    &#x017f;elbe &#x017f;ich wehren / &#x017f;ich wenden<lb/>
+                    vnd kehren / &#x017f;ich &#x017f;p&#xa75b;u&#x0364;&#xeedc;en vnd &#x017f;pe&#xa75b;-<lb/>
+                    ren / &#x017f;ie rei&#x017f;&#x017f;en vnd zerren / &#x017f;ie &#x017f;to&#x017f;-<lb/>
+                    &#x017f;en vnd kra&#xeedc;en / gleich wie die Ka<lb/>
+                    &#xeedc;en / &#x017f;ie w&#x00fc;ten &#x017f;ie ra&#x017f;en / &#x017f;ie brau-<lb/>
+                    &#x017f;en / &#x017f;ie bla&#x017f;en / &#x017f;ie &#x017f;chlagen &#x017f;ie bei&#x017f;-
+                    &#x017f;en / &#x017f;ie werffen &#x017f;ie &#x017f;chmei&#x017f;&#x017f;en / &#x017f;ie<lb/>
+                    &#x017f;chnarcken &#x017f;ie &#x017f;chreyen / &#x017f;ie zwi-<lb/>
+                    cken &#x017f;ie &#x017f;peyen / &#x017f;ie rennen &#x017f;ie lauf-<lb/>
+                    fen / &#x017f;ie kleyen &#x017f;ie rauffen / &#x017f;ie d&#xa75b;eye&#x0303;<lb/>
+                    vnd wenden &#x017f;ich vorn vnd hinde&#x0303; /<lb/>
+                    &#x017f;ie &#x017f;chelten &#x017f;ie fluchen / &#x017f;ie tro&#xeedc;en<lb/>
+                    &#x017f;ie pochen / &#x017f;ie &#x017f;t&#xa75b;eben vnd fechten /<lb/>
+                    zur lincken vnd rechten / &#x017f;ie zu&#x0364;r-<lb/>
+                    nen &#x017f;ie drawen / &#x017f;ie hacken &#x017f;ie ha-<lb/>
+                    <fw type="sig" place="bottom">B ij</fw><fw type="catch" place="bottom">wen</fw>
+                    <pb facs="0035"/>
+                    <fw type="pageNum" place="top">28</fw><lb/>
+                    wen / mit Nadeln &#x017f;ie &#x017f;techen / vnd<lb/>
+                    wollen &#x017f;ich rechnen <hi rendition="#aq">&amp;c.</hi> Helt ma&#x0303;<lb/>
+                    nichts dweniger &#x017f;teiffpittlich an /<lb/>
+                    vnd bemu&#x0364;het &#x017f;ich mit freundliche&#x0303;<lb/>
+                    Worten &#x017f;ie dazu zubereden vnd<lb/>
+                    zuerbitten / &#x017f;eyn vnd bleiben alle<lb/>
+                    vnerbitlich / ein jede will jhre Eh-<lb/>
+                    revnd <hi rendition="#aq">reputation</hi> hie viel zu ge-<lb/>
+                    naw in acht nehmen / der Her&#xa75b;<lb/>
+                    (:&#x017f;prechen &#x017f;ie:) la&#x017f;&#x017f;e &#x017f;eine Bitt<lb/>
+                    nur &#x017f;tehen / wir &#x017f;eyn de&#x017f;&#x017f;en nicht<lb/>
+                    begehren / Er halte nur damit ein<lb/>
+                    es i&#x017f;t doch vergeblich / die&#x017f;e Wo-<lb/>
+                    che ge&#x017f;chichts nicht / i&#x017f;t der Her&#xa75b;<lb/>
+                    auch ho&#x0364;ni&#x017f;ch / oder meint jhr daß<lb/>
+                    ich ein Hure &#x017f;ey / &#x017f;chemet jhr euch<lb/>
+                    nicht / <hi rendition="#aq">cum &#x017f;imilibus?</hi> Wann<lb/>
+                    man euch la&#x0364;&#x017f;&#x017f;et das ma&#x0364;ulchen er-<lb/>
+                    weichen / &#x017f;o wollet jhr al&#x017f;o bald<lb/>
+                    weiter vmbgreiffen / weck la&#x017f;&#x017f;et<lb/>
+                    nur wa&#x017f;chen ewere grobe Ta-<lb/>
+                    &#x017f;chen allhie zu na&#x017f;chen / es kan<lb/>
+                    nicht &#x017f;eyn <hi rendition="#aq">&amp;c.</hi>. Sie do&#x0364;rffens auch<lb/>
+                    <fw type="catch" place="bottom">wol</fw>
+                    <pb facs="0036"/>
+                    <fw type="pageNum" place="top">29</fw><lb/>
+                    wol wagen ein nachfolgendes<lb/>
+                    Liedlein vorzu&#x017f;ingen / daß man<lb/>
+                    daß Gebiß vnd die Za&#x0364;hn darauff<lb/>
+                    we&#xeedc;en / vnd das Maul darnach<lb/>
+                    lecken &#x017f;oll / welches Liedlein weil<lb/>
+                    es noch nicht gemein &#x017f;ondern vor<lb/>
+                    kur&#xeedc;er zeit <hi rendition="#aq">ab in certo authore</hi> an<lb/>
+                    Tag kommen / auch wol w&#x00fc;rdig<lb/>
+                    daß es von einem jeden gelernet<lb/>
+                    vnd wol <hi rendition="#aq">pra&#xeec5;ticiret</hi> werde / haben<lb/>
+                    wir es hiebey ge&#x017f;e&#xeedc;et folgender<lb/>
+                    ma&#x017f;&#x017f;en / <hi rendition="#aq">communiciren</hi> wollen.</p><lb/>
+                <p>Lied warumb &#x017f;ich die Jung-<lb/>
+                    frawen nicht ku&#x0364;&#x017f;&#x017f;en la&#x017f;&#x017f;en<lb/>
+                    wollen.<lb/>
+                    <figure/><!-- Notenzeile --><lb/>
+                    Newlich ich ho&#x0364;rte / wie &#x017f;ich be-<lb/>
+                    Daß ich &#x017f;prech jm&#x0303;er / d&#x0292; Frauen-<lb/>
+                    <figure/><!-- Notenzeile --><lb/>
+                <fw type="sig" place="bottom">B iij</fw>
+                <pb facs="0037"/>
+                    <fw type="pageNum" place="top">30</fw><lb/>
+                    <figure/><lb/>
+                    &#x017f;chwerte / ein junges Ma&#x0364;gdlein<lb/>
+                    zimmer / &#x017f;olte gern la&#x017f;&#x017f;en<lb/>
+                    <figure/><lb/>
+                    <figure/><lb/>
+                    vber mich / Jch meyne &#x017f;chlecht<lb/>
+                    ku&#x0364;&#x017f;&#x017f;en &#x017f;ich / Da doch mit Fug /<lb/>
+                    <figure/><lb/>
+                    <figure/><lb/>
+                    es were recht / wann &#x017f;ie &#x017f;ich<lb/>
+                    vnd Vr&#x017f;ach gnug / &#x017f;ich eine<lb/>
+                    <figure/>
+                    <pb facs="0038"/>
+                    <fw type="pageNum" place="top">31</fw><lb/>
+                    <figure/><lb/>
+                    ku&#x0364;&#x017f;&#x017f;en lie&#x017f; &#x017f;en jederman.<lb/>
+                    jede de&#x017f; &#x017f;en weigern kan.<lb/>
+                    <figure/></p><lb/>
+                    <lg>
+                        <head>2.</head><lb/>
+                        <l>Viel wann &#x017f;ie &#x017f;ehen ein Ma&#x0364;gd<lb/>lein &#x017f;tehen</l><lb/>
+                        <l>Die &#x017f;cho&#x0364;n vnd wolge&#x017f;chicket<lb/> i&#x017f;t</l><lb/>
+                        <l>Da i&#x017f;t kein har&#xa75b;en thumku&#x0364;hn als<lb/> Narren</l><lb/>
+                        <l>Machen &#x017f;ie &#x017f;ich dara&#x0303; mit Li&#x017f;t</l><lb/>
+                        <l>Spreche n &#x017f;ie an vnd wolle&#x0303; dan&#x0303;</l><lb/>
+                        <l>Sie bey der er&#x017f;ten Kund-<lb/>&#x017f;chafft ku&#x0364;&#x017f;&#x017f;en auch</l><lb/>
+                        <l>Das bringt kein Lob vnd i&#x017f;t zu<lb/> grob.</l><lb/>
+                        <l>Dazu der leichten Leute rech<lb/>ter Brauch.</l>
+                    </lg><lb/>
+                    <fw type="sig" place="bottom">B iiij</fw><fw type="catch" place="bottom">Wie</fw>
+                    <pb facs="0039"/>
+                    <fw type="pageNum" place="top">32</fw><lb/>
+                    <lg>
+                        <head></head><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l><lb/>
+                        <l></l>
+                    </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <lg>
+                    <head></head><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l><lb/>
+                    <l></l>
+                </lg><lb/>
+                <p>Aber es i&#x017f;t ein altes / das der<lb/>
+                    Mund offt weigert / was das<lb/>
+                    Her&#xeedc;e gerne hette / es i&#x017f;t jhnen<lb/>
+                    mit nichten bedacht / weigern &#x017f;ich<lb/>
+                    vor den Leuthen / das wie ge-<lb/>
+                    &#x017f;agt i&#x017f;t / &#x017f;ie f&#x00fc;r die Leuthe die &#x017f;ie<lb/>
+                    &#x017f;eyn / nicht mo&#x0364;gen ange&#x017f;ehe&#x0303; wer-<lb/>
+                    den / wann aber <hi rendition="#aq">&#x017f;olus cum &#x017f;ola</hi><lb/>
+                    hinter der Th&#x016f;r oder auff der<lb/>
+                    Kammer i&#x017f;t / do&#x0364;rffen wol ein an-<lb/>
+                    ders wagen / dann es bekompt<lb/>
+                    denen die es einmahl gewohnet<lb/>
+                    &#x017f;eyn / das ku&#x0364;&#x017f;&#x017f;en vnd her&#xeedc;en / das<lb/>
+                    ki&#xeedc;elen vnd &#x017f;cher&#xeedc;en viel zu wohl<lb/>
+                    vnd ko&#x0364;nnen gar nicht davon ab-<lb/>
+                    la&#x017f;&#x017f;en / wann &#x017f;ie auch noch eins<lb/>
+                    &#x017f;o maulfrencki&#x017f;ch auß&#x017f;ehen wol-<lb/>
+                <fw type="catch" place="bottom">len.</fw>
+                <pb facs="0046"/>
+                    <fw type="pageNum" place="top">39</fw><lb/>
+                    len. Mann kan aber einer &#x017f;ol-<lb/>
+                    chen nur zum &#x017f;chein / &#x017f;ehr &#x017f;chew<lb/>
+                    vnd &#x017f;chamhaffte vermeinte Ju&#x0303;g-<lb/>
+                    fraw / nicht be&#x017f;&#x017f;er belohnen vnd<lb/>
+                    wider be&#x017f;chamet machen / als<lb/>
+                    wann man jhr folgendes <hi rendition="#aq">Chan-<lb/>
+                        &#x017f;onette</hi> (:welches zu die&#x017f;er vn&#x017f;er<lb/>
+                    Lo&#x0364;fflereykun&#x017f;t zum theil geho&#x0364;rig<lb/>
+                    vnd <hi rendition="#aq">ex eodem in certo autore</hi> hie<lb/>
+                    hin <hi rendition="#aq">transferirt</hi> worden:) zum<lb/>
+                    &#x017f;chimpff vor&#x017f;inget / in welchem<lb/>
+                    ein guter beka&#x0364;dter Freund zu &#x017f;ei-<lb/>
+                    nem ewigen nachruhm jhre<lb/>
+                    <hi rendition="#aq">mores</hi> hat gar artig<lb/>
+                be&#x017f;chrieben.</p>
+                <p>)o(</p><lb/>
+                <fw type="catch" place="bottom"><hi rendition="#aq">Chan-</hi></fw>
+                <pb facs="0047"/>
+                <fw type="pageNum" place="top">40</fw><lb/>
+                <lg>
+                    <head><hi rendition="#aq">Chan&#x017f;onette.</hi><lb/>
+                        An eine doch nur zu&#x0303; Schein /<lb/>
+                        &#x017f;ehr &#x017f;chewe vnd &#x017f;chamhaffte<lb/>
+                        Jungfraw.</head><lb/>
+                    <figure/>
+                    <l></l>
+                </lg>
+                </div>
+                    
+                    <!-- ab hier Beginn der Ethica -->
+                    <pb facs="182"/>
+            <div>
+                <head><hi rendition="#aq">Complemen-<lb/>
+                    tier-<lb/></hi><lb/>
+                    Bu&#x0364;chlein.<lb/>
+                    darinn eine<lb/>
+                    Richtige Art abge-<lb/>
+                    bildet wird / wie man &#x017f;o<lb/>
+                    wol mit hohen / als nidrigen<lb/>
+                    Per&#x017f;ohnen / auch bey Ge&#x017f;ell-<lb/>
+                    &#x017f;chafften vnd Frawen-Zimmer<lb/>
+                    hoffzierlich reden vnd vmb-<lb/>
+                    gehen &#x017f;ol.<lb/>
+                    vermehret<lb/>
+                    Dabey ein Anhang<lb/>
+                    Etlicher Alamodischer<lb/>
+                    Damen Sprich-<lb/>
+                    wo&#x0364;rter.
+                </head>
+            </div>
+            <pb facs="183"/>
+            <div>
+                <lg><head><hi rendition="#aq">Mome!</hi></head><lb/>
+                    <l>Pfy / &#x017f;cha&#x0364;me dich ins Her&#xeedc; / was<lb/>
+                    mag&#x017f;tu doch verlachen /</l><lb/>
+                    <l>Was tau&#x017f;end deiner Art nicht<lb/>
+                        ko&#x0364;nnen be&#x017f;&#x017f;er machen.</l></lg><lb/>
+                <lg><head><hi rendition="#aq">Plato!</hi></head><lb/>
+                    <l>Man will durch die&#x017f;es Buch<lb/>
+                    kein hohes Lob erjagen /</l>
+                    <l>Nur jeden / der nicht weiß ge-<lb/>
+                        &#x017f;chickt zu &#x017f;eyn / was &#x017f;agen.</l></lg><lb/>
+                <lg><head><hi rendition="#aq">Euclio!</hi></head><lb/>
+                    <l>Du wir&#x017f;t dich als ein Nar&#xa75b; viel<lb/>
+                        mehr vmb Geld bemu&#x0364;hen</l><lb/>
+                    <l>Als deinen Sohn ge&#x017f;chickt vnd<lb/>
+                        ho&#x0364;fflich zuerziehen.</l></lg><lb/>
+            </div>
+            <pb facs="184"/>
+            <fw type="pageNum" place="top">191</fw>
+            <figure/><!-- Zierband -->
+            <div type="preface"><head>An den gu&#x0364;n&#x017f;tigen<lb/>
+            Le&#x017f;er.</head>
+                <p><hi rendition="#in">D</hi><hi rendition="#fr">Emnach der Au-</hi><lb/>
+                    thor ge&#x017f;u&#x0364;ret / daß diß Bu&#x0364;chlein von<lb/>
+                    vornehmen ver&#x017f;ta&#x0364;n-<lb/>
+                    digen Leuthen / denen es <hi rendition="#aq">priva-<lb/>
+                        tim</hi> ertheilet / &#x017f;ehr beliebet / Es<lb/>
+                        aber deß Ab&#x017f;chreibens halber<lb/>
+                    mehr &#x017f;chwer als dienlich ange-<lb/>
+                    &#x017f;tanden / als hat mans dem ge-<lb/>
+                    meinen Nu&#xeedc;en / auff derp An-<lb/>
+                    halten / endich zu Druck ver-<lb/>
+                    fertigen wollen / nit groß An&#x017f;e-<lb/>
+                    hen dadurch zuerjagen / &#x017f;onde&#xa75b; d&#x0292;<lb/>
+                    ma&#x0364;nniglich Anleitung hette &#x017f;ich<lb/>
+                    bey Leuten &#x017f;o wol mit Worten<lb/>
+                    <fw type="catch" place="bottom">als</fw>
+                    <pb facs="185"/>
+                    <fw type="pageNum" place="top">192</fw><lb/>
+                    als mit Thaten vor&#x017f;ichtig vna&#x0364;r-<lb/>
+                    gerlich in Ehr vnnd Ruhm zu-<lb/>
+                    verhalten / damit man von an-<lb/>
+                    dern Spi&#xeedc;ko&#x0364;pffen nit auffgezo-<lb/>
+                    gen / oder wol gar hindergangen<lb/>
+                    werde / weil ja / leyder / das <hi rendition="#aq">verba<lb/>
+                        dare</hi> je&#xeedc;t gebra&#x0364;uchlicher vnnd<lb/>
+                    Politi&#x017f;cher hei&#x017f;&#x017f;et / als <hi rendition="#aq">verba fa-<lb/>
+                        cere.</hi></p><lb/>
+                <p>Es i&#x017f;t nit alles Gold was nach<lb/>
+                    dem Golde &#x017f;cheint;<lb/>
+                    Es redet mancher Mund / was<lb/>
+                    &#x017f;ein Her&#xeedc; anders meynt.</p><lb/>
+                <p>Billich i&#x017f;t es zwar / daß wir<lb/>
+                    vn&#x017f;er Leben nit mit Still&#x017f;chwei-<lb/>
+                    gen zubringen / <hi rendition="#aq">veluti pecora,</hi> als<lb/>
+                    das vnvernu&#x0364;nfftige Vieh / wie<lb/>
+                    <hi rendition="#aq">Sallu&#xfb05;ius</hi> recht redet; Jedoch a-<lb/>
+                    ber hat reden &#x017f;eine Zeit / &#x017f;chwei-<lb/>
+                    gen hat auch &#x017f;eine Zeit / &#x017f;agt der<lb/>
+                    Prediger <hi rendition="#aq">Salomo</hi> am 3. <hi rendition="#aq">Cap.</hi></p><lb/>
+            <fw type="catch" place="bottom">Schweig</fw>
+            <pb facs="186"/>
+                <fw type="pageNum" place="top">193</fw><lb/>
+                <lg><l>Schweig vnnd rede wann es<lb/>
+                    Zeit /</l><lb/>
+                    <l>Alles nach Gelegenheit</l><lb/>
+                    <l>Wann man aber reden &#x017f;ol</l><lb/>
+                    <l>Rede man fein kur&#xeedc; vnd wol.</l></lg><lb/>
+                <p>Der gu&#x0364;n&#x017f;tige Le&#x017f;er wolle es<lb/>
+                    im be&#x017f;ten vermercken / die&#x017f;e <hi rendition="#aq">Inten-<lb/>
+                        tion</hi> vnd wolmeynend Gemu&#x0364;th<lb/>
+                    jhm gefallen la&#x017f;&#x017f;en / durch &#x017f;eine<lb/>
+                    <hi rendition="#aq">faven</hi>&#xeedc; dem <hi rendition="#aq">Au&#xeec5;ori</hi> weiter An-<lb/>
+                    laß hierinn zu philo&#x017f;ophiren ge-<lb/>
+                    ben geruhend.</p><lb/>
+                <p><hi rendition="#aq">Valeto, faveto, vigeto.</hi></p><lb/>
+                <p><hi rendition="#aq">Nihil parvum, nihil contemnen-<lb/>
+                    dum.</hi></p><lb/>
+                <lg><l>Es i&#x017f;t kein Kraut &#x017f;o klein / man<lb/>
+                    kan es nu&#x0364;&#xeedc;lich machen /</l><lb/>
+                    <l>Es i&#x017f;t kein Buch &#x017f;o &#x017f;chlecht / es<lb/>
+                        hat was gute Sachen.</l></lg></div><lb/>
+            <fw type="sig" place="bottom">J</fw><fw type="catch" place="bottom"><hi rendition="#aq">Com-</hi></fw>
+            <pb facs="187"/>
+            <fw type="pageNum" place="top">194</fw><lb/>
+            <figure/><!-- Zierband --><lb/>
+            <div n="1"><head><hi rendition="#aq">Complementorium.</hi><lb/>
+                Ho&#x0364;fflichs<lb/>
+                <hi rendition="#aq">Complementier-</hi><lb/>
+                Bu&#x0364;chlein.<lb/>
+                Das er&#x017f;te Capitel.<lb/>
+                Von Vr&#x017f;prung / Art<lb/>
+                vnd Abtheilung die&#x017f;es Com-<lb/>
+                plement-Spiegels.</head><lb/>
+                <p><hi rendition="#in">W</hi>As fu&#x0364;r ein Edler<lb/>
+                    Scha&#xeedc; die <hi rendition="#aq">Philo-<lb/>
+                        &#x017f;ophia</hi> oder Welt-<lb/>
+                    Weißheit &#x017f;ey / kan<lb/>
+                    fa&#x017f;t mit Worten<lb/>
+                    nit gnug&#x017f;amb be&#x017f;chrieben vnnd<lb/>
+                    außgeredet werden; Vnd i&#x017f;t v-<lb/>
+                    ber die&#x017f;e Maß ein Gro&#x017f;&#x017f;es / daß<lb/>
+                    die&#x017f;e GOttes Freunde machet /<lb/>
+                    wie das Buch <hi rendition="#aq">Sapienti&#x00e6;</hi> am 7.<lb/>
+                <fw type="catch" place="bottom">Cap.</fw>
+                <pb facs="188"/>
+                    <fw type="pageNum" place="top">195</fw><lb/>
+                    Cap. v. 14. redet / Nach welcher<lb/>
+                    durch GOtt gegeben wird die<lb/>
+                    GAbe weißlich zureden vn&#x0303; recht<lb/>
+                    zugedencken. Solte &#x017f;ie dann nit<lb/>
+                    auch Men&#x017f;chen-Freunde ma-<lb/>
+                    chen ko&#x0364;nnen?</p><lb/>
+                <p>Diß <hi rendition="#aq">Speculu&#x0303; &#x017f;ine macula</hi> oder<lb/>
+                vnbefleckten go&#x0364;ttlichen Krafft-<lb/>
+                    &#x017f;piegel haben die klugen Alten /<lb/>
+                    vor allen andern Welt-Sachen<lb/>
+                    trefflich ercohret vnd allen Fleiß<lb/>
+                    daran gewendet / wie &#x017f;ie der Tu-<lb/>
+                    gend vnd Weißheit recht g&#xa75b;u&#x0364;nd-<lb/>
+                    liche Kra&#x0364;ffte an &#x017f;ich bringen vnd<lb/>
+                    beu&#x0364;ben mo&#x0364;chten / wie von de&#x0303; wei-<lb/>
+                    &#x017f;en ko&#x0364;nig <hi rendition="#aq">Salomone</hi> gele&#x017f;en / auch<lb/>
+                    beym <hi rendition="#aq">Platone, Ari&#xfb05;otele, Plotino</hi><lb/>
+                    vnd andern zu &#x017f;ehen / vnd in jren<lb/>
+                    Schrifften zufinden.</p><lb/>
+                <p>Weil aber der &#x017f;terbliche Leich-<lb/>
+                    namb die Seele be&#x017f;chwert / vnnd<lb/>
+                    die jr&#xa75b;di&#x017f;che H&#x00fc;tte den ze&#xa75b;&#x017f;trewe-<lb/>
+                    ten Sinn dru&#x0364;cket / wie da&#x017f;&#x017f;elbe<lb/>
+                <fw type="sig" place="bottom">J ij</fw>
+                <fw type="catch" place="bottom">Buch</fw>
+                <pb facs="189"/>
+                    <fw type="pageNum" place="top">196</fw><lb/>
+                    Buch der Weißheit am 9. v. 15.<lb/>
+                    bezeuget als will diß <hi rendition="#aq">Studium</hi><lb/>
+                    der Weißheit vnd Tugend jm-<lb/>
+                    mer vnd ta&#x0364;glich durch taugliche<lb/>
+                    Mittel vnterwie&#x017f;en / vnnd fort<lb/>
+                vnd fort getrieben &#x017f;eyn.</p>
+                <p>Nun i&#x017f;t kein be&#x017f;&#x017f;er Mittel /<lb/>
+                    dardurch man / vermittel&#x017f;t go&#x0364;tt-<lb/>
+                    liches Segens / zum rechten<lb/>
+                    Zweck die&#x017f;er Erka&#x0364;ndtniß ge-<lb/>
+                    langen ko&#x0364;nne / als eben die <hi rendition="#aq">Logi-<lb/>
+                        ca Platonica</hi> oder rechte Ver-<lb/>
+                    nunfft-Kun&#x017f;t / welche bey je&#xeedc;i-<lb/>
+                    gen La&#x0364;ufften gar wenigen Ge-<lb/>
+                    lehrten bekandt / vnd leyder ein<lb/>
+                    &#x017f;el&#xeedc;amer Ga&#x017f;t i&#x017f;t / da doch durch<lb/>
+                    die&#x017f;elbe vn&#x017f;er Ver&#x017f;tand mit ge-<lb/>
+                    wi&#x017f;&#x017f;en <hi rendition="#aq">Principiis</hi> vnd Grundfe-<lb/>
+                    &#x017f;ten <hi rendition="#aq">Demon&#xfb05;rationibus infor-<lb/>
+                        miret</hi> vnnd vergewi&#x017f;&#x017f;ert wird /<lb/>
+                    daß wir dardurch er&#x017f;t zu rechten<lb/>
+                    Men&#x017f;chen werden / vn&#x017f;ere Ver-<lb/>
+                    nunfft recht gebrauchen / alle<lb/>
+                <fw type="catch" place="bottom">Din-</fw>
+                <pb facs="190"/>
+                    <fw type="pageNum" place="top">197</fw><lb/>
+                    Dinge in der Welt auch alle<lb/>
+                    K&#x00fc;n&#x017f;te richtig ver&#x017f;tehen vnd zu<lb/>
+                    Nu&#xeedc;e machen ko&#x0364;nnen / das gu-<lb/>
+                    te vom bo&#x0364;&#x017f;en / das fal&#x017f;che vom<lb/>
+                    wahrem zu vnter&#x017f;cheiden / vnnd<lb/>
+                    mit Jederma&#x0364;nniglichen klu&#x0364;glich<lb/>
+                    zu Ehren vnd Befo&#x0364;rderung zu<lb/>
+                    con&#x017f;erviren; Wie dann &#x017f;o tha-<lb/>
+                    ne Klugkun&#x017f;t jhren Richt&#x017f;chnur<lb/>
+                    auß deß Apollo Hahren in den<lb/>
+                    Her&#xeedc;en der klugen Philo&#x017f;ophen<lb/>
+                    ohn Jr&#xa75b;thumb zu&#x017f;ammen wir-<lb/>
+                    cket / dardurch bey klugen Wan-<lb/>
+                    del vnter Leuthen herf&#x00fc;r blicket /<lb/>
+                    wie ein g&#x00fc;lden Zweig / vnd gla&#x0364;n-<lb/>
+                    &#xeedc;ender demant im Golde / zier-<lb/>
+                    ho&#x0364;fflig / zu jedermans Ahnmu-<lb/>
+                    thigkeit alles außfu&#x0364;hret / &#x017f;onder-<lb/>
+                    lick in <hi rendition="#aq">Ethica,</hi> Sitte- oder Tu-<lb/>
+                    gend-Kun&#x017f;t / welche durch ehr-<lb/>
+                    bahre Ho&#x0364;ffligkeit die Men&#x017f;chen<lb/>
+                    &#x017f;ich zu Freunde machen kan /<lb/>
+                    wann es mit guter Manier vn&#x0303;<lb/>
+                <fw type="sig" place="bottom">J iij</fw><fw type="catch" place="bottom">rech-</fw>
+                <pb facs="191"/>
+                    <fw type="pageNum" place="top">198</fw><lb/>
+                    rechter Art ge&#x017f;chicht / welches<lb/>
+                    man bey die&#x017f;en Zeiten comple-<lb/>
+                    mentiren nennet / hat den Nah-<lb/>
+                    men vom compliren / completi-<lb/>
+                    ren oder erfu&#x0364;llen / erga&#x0364;n&#xeedc;en.<lb/>
+                    Vnnd hei&#x017f;&#x017f;et <hi rendition="#aq">Complementum</hi><lb/>
+                    oder complementiren ho&#x0364;ffliche<lb/>
+                    zierliche Geba&#x0364;hrden Reden vnd<lb/>
+                    Thaten bey Leuthen fu&#x0364;hren / mit<lb/>
+                    ge&#x017f;chickten Sachen angefu&#x0364;llet /<lb/>
+                    &#x017f;ich vnd andern damit zu nu&#x0364;&#xeedc;en<lb/>
+                    vnd zu belu&#x0364;&#x017f;tigen.</p>
+                <p>Wir nennen es nicht vnbillig<lb/>
+                    <hi rendition="#aq">Ethicam Completoriam,</hi> weil<lb/>
+                    diß ho&#x0364;ffliche <hi rendition="#aq">Exercitium</hi> vnd Tu-<lb/>
+                    gend&#x017f;piegel <hi rendition="#aq">in Ethicis</hi> vnd Zucht-<lb/>
+                    Bu&#x0364;chern genennet wird <hi rendition="#aq">Vrba-<lb/>
+                        nitas, Civilitas,</hi> Ho&#x0364;fflichkeit / wel-<lb/>
+                    che lehret / wie man rechte Maß<lb/>
+                    vnnd Wei&#x017f;e im Scher&#xeedc;en zu<lb/>
+                    reden / vnnd anzuho&#x0364;ren halten<lb/>
+                    &#x017f;oll.</p><lb/>
+                <p>Vnd hat die&#x017f;e gleich andern<lb/>
+                <fw type="catch" place="bottom">Tu-</fw>
+                <pb facs="192"/>
+                    <fw type="pageNum" place="top">199</fw><lb/>
+                    Tugenden zwo <hi rendition="#aq">Extrema,</hi> eines<lb/>
+                    <hi rendition="#aq">in exce&#x017f;&#x017f;u</hi> allzuviel machendes<lb/>
+                    La&#x017f;ter <hi rendition="#aq">Scurrilitas</hi> genandt / da<lb/>
+                    mancher Po&#x017f;&#x017f;en-Rei&#x017f;&#x017f;er <hi rendition="#aq">Van-<lb/>
+                        teuer</hi> grobe Zotten vnd Narren-<lb/>
+                    theiding herfu&#x0364;r bringt / meinend /<lb/>
+                    wenn er mit der Saw-Glocken<lb/>
+                    weitlich leuten / mit &#x017f;chimpffli-<lb/>
+                    chen &#x017f;tachlichten Reden ma&#x0364;n-<lb/>
+                    niglichen a&#x0364;rgern vnnd angreif-<lb/>
+                    fen kan / &#x017f;o &#x017f;ey er ein tapffer <hi rendition="#aq">Po-<lb/>
+                        liticus</hi> vnnd Hoffmann / es be-<lb/>
+                    flei&#x017f;&#x017f;igen &#x017f;ich auch etliche gar<lb/>
+                    hierauff / bekommen darin gleich<lb/>
+                    einen <hi rendition="#aq">habitum</hi> du&#x0364;rffen wol gar<lb/>
+                    den <hi rendition="#aq">Pri&#x017f;cianum</hi> Warheit zu re-<lb/>
+                den / &#x017f;chlagen.</p>
+                <p><hi rendition="#aq">Scurr&#x00e6; &#x017f;currilia tra&#xeec5;ant:</hi></p><lb/>
+                <p>Aber man muß &#x017f;olcher Po&#x017f;-<lb/>
+                    &#x017f;enrei&#x017f;&#x017f;er nur lachen vnd mit je-<lb/>
+                    nem &#x017f;agen:</p><lb/>
+                <fw type="sig" place="bottom">J iiij</fw><fw type="catch" place="bottom">Be-</fw>
+                <pb facs="193"/>
+                <fw type="pageNum" place="top">200</fw><lb/>
+                <lg><l>Belach deß Nar&#xa75b;en &#x017f;eine Sa-<lb/>
+                chen /</l>
+                    <l>Dann Narren mu&#x0364;&#x017f;&#x017f;en Po&#x017f;&#x017f;en<lb/>
+                        machen.</l></lg><lb/>
+                <p>Hieher geho&#x0364;ren auch alle Auff-<lb/>
+                    &#x017f;chneider / die von Schlachten /<lb/>
+                    Rei&#x017f;en vnnd Frawen Genu&#x0364;&#x017f;&#x017f;e<lb/>
+                    gro&#x017f;&#x017f;e Flecken &#x017f;chneiden / da &#x017f;ie<lb/>
+                    doch mit Hanß Ha&#x017f;en-Fuß nie-<lb/>
+                    mals einen todten Hund im Fel-<lb/>
+                    de haben &#x017f;ehen ko&#x0364;nnen. Da &#x017f;ie<lb/>
+                    doch etwa mit jenem Mutter-<lb/>
+                    So&#x0364;hnigen die Sta&#x0364;tte auff der<lb/>
+                    Franckfurter Me&#x017f;&#x017f;e in Kupffer<lb/>
+                    ge&#x017f;tochen ge&#x017f;ehen haben. Da &#x017f;ie<lb/>
+                    doch manchmahl nit der Sup-<lb/>
+                    pen weniger deß Flei&#x017f;ches ge-<lb/>
+                    nie&#x017f;&#x017f;en kundten. Solche Auff-<lb/>
+                    &#x017f;chneider aber werden &#x017f;ich in<lb/>
+                    ehrlichen vnd gro&#x017f;&#x017f;en Gelachen<lb/>
+                    &#x017f;chwerlich herfu&#x0364;r thun / dann &#x017f;ie<lb/>
+                    von einem oder andern leichtlich<lb/>
+                <fw type="catch" place="bottom">ko&#x0364;n-</fw>
+                <pb facs="194"/>
+                    <fw type="pageNum" place="top">201</fw><lb/>
+                    ko&#x0364;nnen in jhrer Auff&#x017f;chneyderey<lb/>
+                    erha&#x017f;chet werden. Wie jener /<lb/>
+                    da er &#x017f;agte: Er ha&#x0364;tte die Me-<lb/>
+                    lancholey zu vertreiben / man-<lb/>
+                    che Stunde vmb den Venedi-<lb/>
+                    &#x017f;chen Statt-Graben &#x017f;pa&#xeedc;ieret /<lb/>
+                    da jhn ein Wohlgerei&#x017f;ter frag-<lb/>
+                    te / ob damahls Venedig noch<lb/>
+                    nicht al&#x017f;o ge&#x017f;tanden ha&#x0364;tte als je-<lb/>
+                    &#xeedc;o / merckete der Auff&#x017f;chneider<lb/>
+                    bald / daß er in &#x017f;einer Lu&#x0364;gen ge-<lb/>
+                    fangen wa&#xa75b; / &#x017f;agte aber bald dar-<lb/>
+                    auff: Jch ver&#x017f;prach mich / es<lb/>
+                    war zu Nu&#x0364;rnberg im Sach&#x017f;en-<lb/>
+                    land / woru&#x0364;ber dann auch nicht<lb/>
+                    wenig gelachet wurde.</p><lb/>
+                <lg><l>Man rede daß man kan be&#x017f;te-<lb/>
+                    hen /</l><lb/>
+                    <l>Die Warheit kan durch alles<lb/>
+                        gehen /</l><lb/>
+                    <l>Das Lu&#x0364;gen &#x017f;chimpffet jeder-<lb/>
+                        man</l><lb/>
+                    <fw type="sig" place="bottom">J v</fw><fw type="catch" place="bottom">Drumb</fw>
+                    <pb facs="195"/>
+                    <fw type="pageNum" place="top">202</fw><lb/>
+                    <l>Drumb rede was man glauben<lb/>
+                    kan.</l></lg><lb/>
+                <p/>
+            </div>
+            <!-- folgen die weiteren Kapitel bis Cap. 8, p. 321 -->
+            <pb facs="315"/>
+            <fw type="pageNum" place="top">322</fw><lb/>
+            <figure/><!-- Zierband -->
+            <div>
+                <head>Folget nun der<lb/>
+                    Extract<lb/>
+                    Der verblu&#x0364;mb-<lb/>
+                    ten Reden vnd Spru&#x030a;ch-<lb/>
+                    wo&#x0364;rter &#x017f;o von den Allmod<lb/>
+                    Dahmen gebrauchet werden /<lb/>
+                    auffs flei&#x017f;&#x017f;ig&#x017f;te auß den <hi rendition="#aq">manu<lb/>
+                        &#x017f;criptis</hi> zu&#x017f;ammen<lb/>
+                    getragen.</head><lb/>
+                <list>
+                    <item>1. O geht.</item><lb/>
+                    <item>2. Geht nur hin.</item><lb/>
+                    <item>3. Wie denn.</item><lb/>
+                    <item>4. Drumb war mir das Her-<lb/>&#xeedc;e wol &#x017f;o &#x017f;chwer</item><lb/>
+                    <item>5. Jch gedachte was es &#x017f;on&#x017f;t<lb/> wehre.</item><lb/>
+                    <item>6. Macht euch frey ku&#x0364;hn.</item><lb/>
+                    <fw type="catch" place="bottom">7. Der</fw>
+                    <pb facs="316"/>
+                    <fw type="pageNum" place="top">323</fw><lb/>
+                    <item>7. Der Mon&#x017f;ir wolle nicht<lb/> ho&#x0364;hni&#x017f;ch &#x017f;eyn.</item><lb/>
+                    <item>8. Oh jhr ho&#x0364;ni&#x017f;ch Men&#x017f;ch.</item><lb/>
+                    <item>9. Was bedarf ich ewres Ge-<lb/>ho&#x0364;nes.</item><lb/>
+                    <item>10. Das war ein altes mit<lb/> langem Leibe vnnd kleinen Scho&#x0364;ßgen.</item><lb/>
+                    <item>11. Was bedarff ich ewer<lb/> Ge&#x017f;po&#x0364;tte / geht jhr doch nicht mit<lb/> mir zu Bette.</item><lb/>
+                    <item>12. Jch wolte nit gern / daß<lb/> mirs vbel gienge / oder mir der <lb/> Kopff abfiehle ich blutete mich<lb/> ja zu Tode.</item><lb/>
+                    <item>13. Jhr &#x017f;eyd wol ent&#x017f;chuldi-<lb/>get.</item><lb/>
+                    <item>14. Es hat die Noth nit mit<lb/> euch.</item><lb/>
+                    <item>15. Jn die&#x017f;en Ho&#x017f;en gehets<lb/> nicht.</item><lb/>
+                    <item>16. Seyd mir Gott willkom-<lb/>men ins gr&#x00fc;ne.</item><lb/>
+                    <fw type="sig" place="bottom">O vj</fw><fw type="catch" place="bottom">17. Halt</fw>
+                    <pb facs="317"/>
+                    <fw type="pageNum" place="top">324</fw><lb/>
+                    <item>17. Halt es mir zu gute / daß<lb/> ich hieher greiffe / ich bin es al&#x017f;o<lb/> gewohnet.</item><lb/>
+                    <item>18. Was &#x017f;ol jhme mangeln<lb/> dem lieben Brod / i&#x017f;ts doch fein<lb/> außgebacken.</item><lb/>
+                    <item>19. Er i&#x017f;t contract vnterm<lb/> Hute.</item><lb/>
+                    <item>20. Aber nicht recht.</item><lb/>
+                    <item>21. Was wolt jhr denn wol<lb/> thun / das zuvor nicht gethan<lb/> were.</item><lb/>
+                    <item>22. Jch wil euch fragen / wils<lb/> Gott / wenn ich groß werde / je&#xeedc;t<lb/> bin ich noch zu klein.</item><lb/>
+                    <item>23. Datum alhier in Leipzig.</item><lb/>
+                    <item>24. Walts Gott das i&#x017f;t mein<lb/> er&#x017f;tes mahl.</item><lb/>
+                    <item>25. Darzu bringt jhr mich.</item><lb/>
+                    <item>26. Den Herren in Specie.</item><lb/>
+                    <item>27. Es i&#x017f;t &#x017f;chlecht be&#x017f;tellet.</item><lb/>
+                    <item>28. Ey das war ein <hi rendition="#aq">ab&#x017f;ur-<lb/>di&#x017f;&#x017f;imum.</hi></item><lb/>
+                    <fw type="catch" place="bottom">29. Es</fw>
+                    <pb facs="318"/>
+                    <fw type="pageNum" place="top">325</fw><lb/>
+                    <item>29. Es gehet noch wol hin 6.<lb/> Virtel vor ein Ele.</item><lb/>
+                    <item>30. Er gienge mit ohne alle<lb/> Spiel-Leute.</item><lb/>
+                    <item>31. Es kan auff dißmahl nit<lb/> &#x017f;eyn / das Ma&#x0364;gdlein i&#x017f;t noch zu<lb/> jung.</item><lb/>
+                    <item>32. Er i&#x017f;t &#x017f;chlecht von Quali-<lb/>ta&#x0364;ten.</item><lb/>
+                    <item>33. Der Mon&#x017f;ir i&#x017f;t ein lu&#x017f;tig<lb/> Bu&#x030a;r&#x017f;chgen / er lacht &#x017f;o offt ein<lb/> Kind vom Himmel fa&#x0364;llt.</item><lb/>
+                    <item>34. O nein es kan nit &#x017f;eyn / es<lb/> &#x017f;chla&#x0364;ffet ein Bawer bey mir.</item><lb/>
+                    <item>35. Je &#x017f;eht doch Martha der<lb/> her&#xeedc;t von hinden zu / er hat ge-<lb/>wiß kein Geld.</item><lb/>
+                    <item>36. O nein geht / der Mon&#x017f;ir<lb/> wil nur lo&#x0364;ffeln.</item><lb/>
+                    <item>37. Sieh Ließgen / was zeucht<lb/> jhm der in Sinn.</item><lb/>
+                    <item>38. O nein die Mutter &#x017f;chilt.</item><lb/>
+                    <item>39. Bo&#xeedc; tau&#x017f;end ich hette eß<lb/>
+                    <fw type="sig" place="bottom">O vij</fw><fw type="catch" place="bottom">nit</fw>
+                    <pb facs="319"/>
+                        <fw type="pageNum" place="top">326</fw><lb/>
+                        nit gewu&#x017f;t / der H. habe Danck<lb/> daß er mirs &#x017f;o gu&#x0364;n&#x017f;tig ge&#x017f;aget<lb/> hat.</item><lb/>
+                    <item>40. Der H. ver&#x017f;teiget &#x017f;ich gar<lb/> zu &#x017f;ehr im Proceß.</item><lb/>
+                    <item>41. Nun / nun / fein gelinde<lb/> Wort vnd derbe Schla&#x0364;ge.</item><lb/>
+                    <item>42. Ach der H. ver&#x017f;tehet den<lb/> Proceß nicht.</item><lb/>
+                    <item>43. O geht hin vnnd la&#x017f;t euch<lb/> die Zunge &#x017f;chaben.</item><lb/>
+                    <item>44. Die Hand von der But-<lb/>ten es &#x017f;eynd Wein-Beer drin-<lb/>nen.</item><lb/>
+                    <item>45. Es i&#x017f;t ein &#x017f;chwer Ca&#x017f;us</item><lb/>
+                    <item>46. Das were &#x017f;eins Her&#xeedc;ens<lb/> ein Bru&#x017f;tla&#xeedc;.</item><lb/>
+                    <item>47. Jch lache mich noch zu A-<lb/>&#x017f;cher farben.</item><lb/>
+                    <item>48. Da &#x017f;i&#xeedc;e ich wie eine Flieg<lb/> in der Buttermilch.</item><lb/>
+                    <item>49. Er i&#x017f;t ver&#x017f;chmi&#xeedc;t wie ei-<lb/>ne Fuhrmanns Pei&#xeedc;&#x017f;che.</item><lb/>
+                    <fw type="catch" place="bottom">50. Er</fw>
+                    <pb facs="320"/>
+                    <fw type="pageNum" place="top">327</fw><lb/>
+                    <item>50. Er i&#x017f;t ein Vbiquiti&#x017f;ten<lb/> Schoß.</item><lb/>
+                    <item>51. So ho&#x0364;re ich billich daß der<lb/> HUnd wacker hei&#x017f;t.</item><lb/>
+                    <item>52. Derentwegen wil ich mich<lb/> nicht er&#x017f;techen / ich wil mich doch<lb/> wol ra&#x0364;chen.</item><lb/>
+                    <item>53. Er hei&#x017f;t Stephan nach<lb/> der Großmutter.</item><lb/>
+                    <item>54. Jch nehm jhn vor ein me&#x017f;-<lb/>&#x017f;er vnd wen&#x0303; ich das Brod gleich<lb/> brechen &#x017f;olte.</item><lb/>
+                    <item>55. Schlagt ewre Kinder.</item><lb/>
+                    <item>56. Wer &#x017f;ich fo&#x0364;rchtet ziehe<lb/> einen Pan&#xeedc;er an.</item><lb/>
+                    <item>57. Es hat gute Wege wo<lb/> es eben i&#x017f;t.</item><lb/>
+                    <item>58. Der H. hat &#x017f;elb&#x017f;t ein But-<lb/>terho&#x0364;ßgen er &#x017f;ticht darein wann<lb/> er will.</item><lb/>
+                    <item>59. O jhr gutes Men&#x017f;ch.</item><lb/>
+                    <item>60. O geht vnd wa&#x017f;chet euch /<lb/> das Wa&#x017f;&#x017f;er i&#x017f;t hier wohlfeil.</item><lb/>
+                    <fw type="catch" place="bottom">61. Er</fw>
+                    <pb facs="321"/>
+                    <fw type="pageNum" place="top">328</fw><lb/>
+                    <item>61. Er hat einen Brand.</item><lb/>
+                    <item>62. Er i&#x017f;t noch auß dem alten<lb/> Te&#x017f;tamet.</item><lb/>
+                    <item>63. Jhr brecht der Wahrheit<lb/> trefflich ab.</item><lb/>
+                    <item>64. Wer noch jung were vnd<lb/> hette nicht gefreyet / der hette<lb/> das Ge&#x017f;cha&#x0364;ncke noch zum Be-<lb/>&#x017f;ten.</item><lb/>
+                    <item>65. Jhr do&#x0364;rfft es mir wol f&#x00fc;r<lb/> einen Schoß an&#x017f;chreiben.</item><lb/>
+                    <item>66. Vnd wer hette es gedacht<lb/> daß die Butter &#x017f;o fei$t were vnd<lb/> hat doch keine Schwarte.</item><lb/>
+                    <item>67. Wie ko&#x0364;ndt jhr &#x017f;o ein kal-<lb/>tes Her&#xeedc; haben in &#x017f;o einer war-<lb/>men Stuben.</item><lb/>
+                    <item>68. Macht euch doch frey<lb/> Gru&#x0364;n / daß euch die Ziegen ab-<lb/>fre&#x017f;&#x017f;en,</item><lb/>
+                    <item>69. Es i&#x017f;t &#x017f;o gemein als de<lb/> ge&#x017f;tickten Str&#x00fc;mpffe.</item><lb/>
+                    <item>70. Er i&#x017f;t ein ledener Saalbader.</item><lb/><!-- Saalba- (der. in Zeile daru&#x0364;ber -->
+                    <fw type="catch" place="bottom">71. Es</fw>
+                    <pb facs="322"/>
+                    <fw type="pageNum" place="top">329</fw><lb/>
+                    <item>71. Es i&#x017f;t ein Loch im Hute.</item><lb/>
+                    <item>72. Die M&#x00fc;&#xeedc;e rauchet jhm.</item><lb/>
+                    <item>73. Er &#x017f;paret die Warheit.</item><lb/>
+                    <item>74. Jch dachte was mich<lb/> bie&#x017f;&#x017f;e.</item><lb/>
+                    <item>75. Ewer Wort in Gold ge-<lb/>faßt / der Bawer leugt.</item><lb/>
+                    <item>76. Es gibt der Warheit zu<lb/> zeitlich Feyrabend.</item><lb/>
+                    <item>77. <hi rendition="#aq">Non e&#xfb05; verum</hi> es kan wol &#x017f;eyn.</item><lb/><!-- wol (&#x017f;eyn. in Zeile daru&#x0364;ber -->
+                    <item>78. Er &#x017f;pa&#xeedc;ieret hinter der<lb/> Warheit hin.</item><lb/>
+                    <item>79. Ewer ho&#x0364;ni&#x017f;chen Wort<lb/> bedarf ich gar nicht / aber ewers<lb/> gebens bedarff ich wol.</item><lb/>
+                    <item>80. Behalt den Athem vnnd<lb/> ku&#x030a;hlet eine Suppe damit.</item><lb/>
+                    <item>81. Was i&#x017f;t dem H. mit einem<lb/> d&#x00fc;rren Kran&#xeedc;e gedienet.</item><lb/>
+                    <item>82. Wer hette es gegla&#x0364;ubet /<lb/> wenn jhr es nit ge&#x017f;aget hettet.</item><lb/>
+                    <item>83. Es &#x017f;ind heimbliche Sa-<lb/>chen.</item><lb/>
+                    <fw type="catch" place="bottom">Es</fw>
+                    <pb facs="323"/>
+                    <fw type="pageNum" place="top">330</fw><lb/>
+                    <item>84. Es i&#x017f;t &#x017f;o ver&#x017f;chwiegen<lb/> wie der Bo&#x0364;hmi&#x017f;che Krieg</item><lb/>
+                    <item>85. Seyd jhr von Ho&#x0364;hn&#x017f;tatt.</item><lb/>
+                    <item>86. Ach ich armes einfa&#x0364;lti-<lb/>ges Kind / ich wehre viel zu<lb/> &#x017f;chlecht.</item><lb/>
+                    <item>87. Jch ver&#x017f;tehe den Herrn<lb/> nicht er gebe mir es ge&#x017f;chrieben.</item><lb/>
+                    <item>88. O in Teich mit euch.</item><lb/>
+                    <item>89. Jch hette es &#x017f;o klug nicht<lb/> ko&#x0364;nnen vorbringen.</item><lb/>
+                    <item>90. Lauter Weißheit.</item><lb/>
+                    <item>91. Jch ver&#x017f;teh nit Deut&#x017f;ch.</item><lb/>
+                    <item>92. Jch glaub jhr &#x017f;eyd die<lb/> Weißheit &#x017f;elber.</item><lb/>
+                    <item>93. Wer ko&#x0364;ndte es ho&#x0364;fflicher<lb/> machen?</item><lb/>
+                    <item>94. Er hat ins Ha&#x017f;en&#x017f;chmal&#xeedc;<lb/> getretten.</item><lb/>
+                    <item>95. Er i&#x017f;t vor Bau&#xeedc;en ge&#x017f;cho&#x017f;-<lb/>&#x017f;en worden.</item><lb/>
+                    <item>96. Mein Gott wie erbahr<lb/> &#x017f;pielt jhr.</item><lb/>
+                    <fw type="catch" place="bottom">97. Jhr</fw>
+                    <pb facs="324"/>
+                    <fw type="pageNum" place="top">331</fw><lb/>
+                    <item>97. Jhr backet gar zu grob.</item><lb/>
+                    <item>98. Derenthalben kein Bein<lb/> entzwey / viellieber die Haut.</item><lb/>
+                    <item>99. Jm mittel&#x017f;ten Fen&#x017f;ter.</item><lb/>
+                    <item>100. Greifft mir doch nit hie-<lb/>her ich bin &#x017f;ehr ki&#xeedc;licht.</item><lb/>
+                    <item>101. Jhr habt ewer Lebe Ta-<lb/> kein Lu&#x0364;gen von mir ge&#x017f;ehen.</item><lb/>
+                    <item>102. Er i&#x017f;t nit jung er kan al-<lb/>lein lauffen.</item><lb/>
+                    <item>103. Es i&#x017f;t Huren Arbeit vnd<lb/> wenn es ein Jungfraw gemacht<lb/> hette.</item><lb/>
+                    <item>104. Es i&#x017f;t kein kleines wenn<lb/> ein Pferd in der Wiegen liegt<lb/> vnd ein E&#x017f;el zun Ha&#x0364;upten.</item><lb/>
+                    <item>105. Hat ewer Mutter mehr<lb/> &#x017f;olche kluge So&#x0364;hne.</item><lb/>
+                    <item>106. Es i&#x017f;t kein Kinder Spiel<lb/> wenn alle Leuthe auff Stecken<lb/> reiten.</item><lb/>
+                    <item>107. Jch kan mirs nit imaginiren.</item><lb/><!-- imagi- (niren. in Zeile daru&#x0364;ber -->
+                    <item>108. Er i&#x017f;t ein Amadiß Brud.<!-- d-letter fu&#x0364;r Abbr. --></item><lb/>
+                    <fw type="catch" place="bottom">109. Er</fw>
+                    <pb facs="325"/>
+                    <fw type="pageNum" place="top">332</fw><lb/>
+                    <item>109. Er hat die Amori&#x017f;chen<lb/> Phra&#x017f;es colligiret vnnd perfect<lb/> außwendig gelernet.</item><lb/>
+                    <item><choice><sic>100.</sic><corr>110.</corr></choice> Er i&#x017f;t ein wacker / praver /<lb/> di&#x017f;creter Cavallier.</item><lb/>
+                    <item>111. Es i&#x017f;t bey dem alten Key-<lb/>&#x017f;er auch al&#x017f;o gewe&#x017f;t.</item><lb/>
+                    <item>112. Ach Gott ver&#x017f;orge mich<lb/> mit einem Magi&#x017f;ter der die din-<lb/>te beym Seyler holet.</item><lb/>
+                    <item>113. Jch weiß nichts darvon<lb/> es were mir denn im Schlaff<lb/> widerfahren.</item><lb/>
+                    <item>114. Er i&#x017f;t ein wacker Kerl /<lb/> er gebe ein fein <hi rendition="#aq">Epitaphium</hi> in<lb/> ein Schein Thor.</item><lb/>
+                    <item>115. Er were gut gnug / wenn<lb/> jhm der Kopff nur ein wenig ge-<lb/>wa&#x017f;chen / ge&#xa75b;ollet / blaw ge&#x017f;te&#xa75b;ckt /<lb/> vnd mit Buttermilch abgetruck-<lb/>net were.</item><lb/>
+                    <item>116. Er i&#x017f;t &#x017f;o gar ehrbar wie<lb/> Ba&#x017f;tian.</item><lb/>
+                    <fw type="catch" place="bottom">117. Jhr</fw>
+                    <pb facs="326"/>
+                    <fw type="pageNum" place="top">333</fw><lb/>
+                    <item>117. Jhr &#x017f;eyd gar eingezogen<lb/> wie ein To&#x0364;pffers-Schur&#xeedc; der<lb/> auß den Falten geri&#x017f;&#x017f;en i&#x017f;t.</item><lb/>
+                    <item>118. Die Warheit liegt bey<lb/> jhm zur Herberge.</item><lb/>
+                    <item>119. J&#x017f;ts doch Men&#x017f;chlich es<lb/> haben es vn&#x017f;ere vorfahren auch<lb/> gethan.</item><lb/>
+                    <item>120. Er hat die Warheit <hi rendition="#aq">in<lb/> perpetuum religiret.</hi></item><lb/>
+                    <item>121. Er hat der Warheit<lb/> auff Bru&#x0364;der&#x017f;chafft getruncken.</item><lb/>
+                    <item><choice><sic>112.</sic><corr>122.</corr></choice> die Warheit i&#x017f;t &#x017f;ein<lb/> Bluts-Freund.</item><lb/>
+                    <item>123. Es ko&#x0364;mpt mich an wie<lb/> den Bawren das Aderla&#x017f;&#x017f;en.</item><lb/>
+                    <item>124. Jhr werdet in das Buch<lb/> der Ver&#x017f;chonung ge&#x017f;chrieben<lb/> werden.</item><lb/>
+                    <item>125. Kennet der H. auch vn-<lb/>gebrante A&#x017f;che.</item><lb/>
+                    <item>126. Jhr &#x017f;eyd doch gar zu arg<lb/> auff das liebe Brod.</item><lb/>
+                    <fw type="catch" place="bottom">127. Nun</fw>
+                    <pb facs="327"/>
+                    <fw type="pageNum" place="top">334</fw><lb/>
+                    <item>127. Nun i&#x017f;t der Actus auß /<lb/> nun tan&#xeedc;en die Narren.</item><lb/>
+                    <item>128. Jch ho&#x0364;re nicht wol gehet <lb/> zum andern Ohr.</item><lb/>
+                    <item>129. Al&#x017f;o gehets vns armen<lb/> Dien&#x017f;tma&#x0364;gden alle Jahr was<lb/> Newes vnnd niemahls einen<lb/> Mann.</item><lb/>
+                    <item>130. Das i&#x017f;t eine wolgema&#x0364;&#x017f;te Lu&#x0364;gen.</item><lb/><!-- wolgema&#x0364;&#x017f;te Lu&#x0364;gen. in Zeile daru&#x0364;ber -->
+                    <item>131. Es i&#x017f;t mir &#x017f;ehr Leid / daß<lb/> es nit a&#x0364;rger i&#x017f;t.</item><lb/>
+                    <item>132. Das Ding gibet keinen<lb/> Po&#x017f;&#x017f;en.</item><lb/>
+                    <item>133. Mich deucht gebratene<lb/> Hu&#x00fc;ner vnd gefu&#x0364;lte Tauben &#x017f;ind<lb/> das be&#x017f;te Zugemu&#x0364;&#x017f;e.</item><lb/>
+                    <item>134. <hi rendition="#aq">Salus Mon&#x017f;ir,</hi>  &#x017f;agte Jung-<lb/> fraw Trautgen / als jhr Schoß<lb/> nie&#x017f;ete / ewer Her&#xeedc;lein i&#x017f;t noch<lb/> fri&#x017f;ch / es hat keine Kuhe darauff<lb/> gethan.</item><lb/>
+                    <item>135. Der Mon&#x017f;ir i&#x017f;t trefflich<lb/> anmuthig mit Worten.</item><lb/>
+                    <fw type="catch" place="bottom">136. Er</fw>
+                    <pb facs="328"/>
+                    <fw type="pageNum" place="top">335</fw><lb/>
+                    <item>136. Er &#x017f;aget alles <hi rendition="#aq">breviter</hi><lb/> wenn er etw&#x0292; vorzubringen hat.</item><lb/>
+                    <item>137. Der Mon&#x017f;ir i&#x017f;t mit Ha-<lb/>&#x017f;en&#x017f;chrote ge&#x017f;cho&#x017f;&#x017f;en.</item><lb/>
+                    <item>138. Er agiret einen guten Pi-<lb/>ckelha&#x0364;ring.</item><lb/>
+                    <item>139. Das macht mich lachen.</item><lb/>
+                    <item>140. Er i&#x017f;t ein lu&#x017f;tig B&#x00fc;r&#x017f;ch-<lb/>gen auff Kindta&#x0364;uffen vnd klei-<lb/>nen Hochzeiten / auff gro&#x017f;&#x017f;e wird<lb/> er &#x017f;elten gebetten.</item><lb/>
+                    <item>141. Wir bitten &#x017f;ehr vmb ge-<lb/>lind Wetter.</item><lb/>
+                    <item>142. Er were reich gnug / wen&#x0303;<lb/> er nur viel Geld hette.</item><lb/>
+                    <item>143. Er hat &#x017f;ein Latein in<lb/> Hunds Tagen ge&#x017f;a&#x0364;et / es i&#x017f;t gar<lb/> du&#x0364;nne auffgangen.</item><lb/>
+                    <item>144. Verzeihets mir vnnd<lb/> rechnet es meinem Vnver&#x017f;tande<lb/> zu / wo ich den Herren nit genug <lb/> re&#x017f;pectiret habe.</item><lb/>
+                    <fw type="catch" place="bottom">145. Spi-</fw>
+                    <pb facs="329"/>
+                    <fw type="pageNum" place="top">336</fw><lb/>
+                    <item>145. Spi&#xeedc;ig wie ein Teller /<lb/> rund wie in Ofengabel.</item><lb/>
+                    <item>146. Er hat ein rund Ge&#x017f;ich-<lb/>te wie ein Windhund.</item><lb/>
+                    <item>147. Sein Maul &#x017f;tehet jhm <lb/> wie ein Brau&#x0303;&#x017f;chweigi&#x017f;cher Hut.</item><lb/>
+                    <item>148. Ach dsa Engelko&#x0364;pffen /<lb/> das liebe Ha&#x0364;mmelgen hat ein<lb/> Ma&#x0364;ulgen / wie ein &#x017f;echs Pfen-<lb/>ning Semelgen /</item><lb/>
+                    <item>149. Das Ding i&#x017f;t &#x017f;ehr wol<lb/> gegeben.</item><lb/>
+                    <item>150. Jch bringe es dem H. auf<lb/> aller trewher&#xeedc;igen Ge&#x017f;undheit /<lb/> der Teuffel hole die Fal&#x017f;chen.</item><lb/>
+                    <item>151. Ein Schelm der es bo&#x0364;&#x017f;e<lb/> meint.</item><lb/>
+                    <item>152. Mein ich es bo&#x0364;&#x017f;e &#x017f;o fahrt<lb/> in mich.</item><lb/>
+                    <item>153. Ko&#x0364;nnet jhr doch &#x017f;o fein<lb/> thun wie ein alt Men&#x017f;ch.</item><lb/>
+                    <item>154. Habt jhr es von euch &#x017f;el-<lb/>ber.</item><lb/>
+                    <fw type="catch" place="bottom">155. Da</fw>
+                    <pb facs="330"/>
+                    <fw type="pageNum" place="top">337</fw><lb/>
+                    <item>155. Da &#x017f;i&#xeedc;t Ma&#xeedc;-Dapp wie<lb/> ein Affe de&#xa75b; ein Krau&#x017f;e vmb hat.</item><lb/>
+                    <item>156. O er i&#x017f;t alber er ver&#x017f;te-<lb/>hets nicht.</item><lb/>
+                    <item>157. Er gehet fein &#x017f;achte wie<lb/> die Bawern ins Wirtshauß.</item><lb/>
+                    <item>158. Wenn jhr wolt wie ich /<lb/> &#x017f;o &#x017f;chicket freyer an mich 8. Ta-<lb/>ge will ich euch haben la&#x0364;nger<lb/> nicht.</item><lb/>
+                    <item>159. Wenn ich mich gleich<lb/> were / jhr do&#x0364;rfft euch daran nit<lb/> kehren.</item><lb/>
+                    <item>160. Der H. &#x017f;chma&#x0364;hle nit / mein<lb/> Schnuptuch ko&#x017f;t 9. Gu&#x030a;lden.</item><lb/>
+                    <item>161. Der Haußnar&#xa75b; &#x017f;i&#xeedc;et zu<lb/> Ti&#x017f;che die Ha&#x017f;en lauffen vnter<lb/> den Ba&#x0364;ncken herumb.</item><lb/>
+                    <item>162. Die Dra&#x0364;&#x017f;cher haben<lb/> Feyrabend gemachet / die Flegel<lb/> ligen auff dem Ti&#x017f;che.</item><lb/><!-- cf. Ethica, eines der Beispiele -->
+                    <item>163. Ach nicht doch mit den<lb/> Po&#x017f;&#x017f;en ins Faulbette.</item><lb/>
+                    <fw type="sig" place="bottom">P</fw><fw type="catch" place="bottom">164. Der</fw>
+                    <pb facs="331"/>
+                    <fw type="pageNum" place="top">338</fw><lb/>
+                    <item>164. Der H. greiff in einen<lb/> Winckel.</item><lb/>
+                    <item>165. Mich wundert / daß &#x017f;ich<lb/> der H. in dem Wetter außge-<lb/>machet / daß jhme der Wind nit<lb/> den Bart weggefu&#x030a;hret.</item><lb/>
+                    <item>166. Woher in dem &#x017f;taubich-<lb/>ten Wetter.</item><lb/>
+                    <item>167. O es regnet nur ein we-<lb/>nig vor die Herren.</item><lb/>
+                    <item>168. Die&#x017f;er hat &#x017f;chweinen<lb/> Flei&#x017f;ch gefre&#x017f;&#x017f;en die Bor&#x017f;ten &#x017f;te-<lb/>cken jhme noch im Hal&#x017f;e.</item><lb/>
+                    <item>169. Jhr werdet ja nicht ein<lb/> &#x017f;teinern Her&#xeedc; haben.</item><lb/>
+                    <item>170. Die&#x017f;es &#x017f;ind lauter ver-<lb/>blu&#x030a;mbte / verdeckte / Figuri&#x017f;ch / vn&#x0303;<lb/> Allegori&#x017f;che Sachen die wir nit<lb/> &#x017f;o leicht ver&#x017f;tehen ko&#x0364;nnen.</item><lb/>
+                    <item>171. E&#x017f;&#x017f;et mit vns / &#x017f;schlaffet<lb/> bey vns / &#x017f;o lehrnt jhr vn&#x017f;ers<lb/> Wei&#x017f;&#x017f;e.</item><lb/>
+                    <item>172. Allo E&#x017f;el.</item><lb/>
+                    <fw type="catch" place="bottom">273. Er</fw>
+                    <pb facs="332"/>
+                    <fw type="pageNum" place="top">339</fw><lb/>
+                    <item>173. Er &#x017f;tehet wol / er hat &#x017f;ei-<lb/>ne breite Schuhe an.</item><lb/>
+                    <item>174. Geht / eh ich es euch hei&#x017f;&#x017f;e</item><lb/>
+                    <item>175. Wenn jhr widerkommet<lb/> &#x017f;o kehret euch vmb.</item><lb/>
+                    <item>176. Freylich &#x017f;chadet es dem<lb/> lieben Getreyde wenn es ha-<lb/>gelt.</item><lb/>
+                    <item>177. Sußgen / &#x017f;chla&#x0364;fft der<lb/> Bra&#x0364;utigam bey dir? Nein /<lb/> Mutter er wacht.</item><lb/>
+                    <item>178. Es wird mir gar vbel<lb/> vmb den Nabel.</item><lb/>
+                    <item>179. Solt es nit fein &#x017f;eyn / wen&#x0303;<lb/> ich euch hette vnd jhr mich.</item><lb/>
+                    <item>180. O gewehnet d&#x0292; Ma&#x0364;ul-<lb/>gen zum Dorff Bier.</item><lb/>
+                    <item>181. Jhr &#x017f;olt &#x017f;ie bekommen /<lb/> wils GOtt auff die Weinle&#x017f;e /<lb/> wenn jr tru&#x0364;ben Mo&#x017f;t trincket.</item><lb/>
+                    <item>182. Der Herr neme jm doch<lb/> einen Si&#xeedc;.</item><lb/>
+                    <item>183. Du liber Gott darnach &#x017f;olt
+                    <fw type="sig" place="bottom">P ij</fw><fw type="catch" place="bottom">jhr</fw>
+                    <pb facs="333"/>
+                    <fw type="pageNum" place="top">340</fw><lb/>
+                        jhr nit &#x017f;chelten Fraw Muhme /<lb/> i&#x017f;ts doch Men&#x017f;chlich.</item><lb/>
+                    <item>184. Es i&#x017f;t ein herrlich Ding<lb/> auff der Welt / wenn jhr zwey<lb/> einander lieb haben / vnnd meinet<lb/> es keines nit.</item><lb/>
+                    <item>185. Fein lu&#x017f;tig wie der Hund<lb/> im Ziehborne.</item><lb/>
+                    <item>186. Lu&#x017f;tig einmahl auf einer<lb/> Hand.</item><lb/>
+                    <item>187. Es i&#x017f;t jhme eine Cora&#x017f;i<lb/> in die Ach&#x017f;el gefahren.</item><lb/>
+                    <item>188. Er denckt in &#x017f;einem Sin-<lb/>ne / Salbe &#x017f;ey Butter / es &#x017f;chmie-<lb/>ret &#x017f;ich wohl &#x017f;o / aber es fri&#x017f;t &#x017f;ich<lb/> nicht &#x017f;o.</item><lb/>
+                    <item>189. Es i&#x017f;t in der Ger&#x017f;te ge-<lb/>&#x017f;chehen / es &#x017f;chadet dem Habern<lb/> nichts.</item><lb/>
+                    <item>190. Das i&#x017f;t wahr / wenn<lb/> &#x017f;on&#x017f;t alles wahr were.</item><lb/>
+                    <item>191. Ach du &#x017f;cho&#x0364;ner Leib / d&#x0292;<lb/> du nit &#x017f;olt ein Zudeckbettlein ha-<lb/>ben.</item><lb/>
+                    <fw type="catch" place="bottom">192. Es</fw>
+                    <pb facs="334"/>
+                    <fw type="pageNum" place="top">341</fw><lb/>
+                    <item>192. Es muß ja was &#x017f;eyn d&#x0292;<lb/> den Leuten die Hu&#x030a;ner fri&#x017f;t.</item><lb/>
+                    <item>193. Mein Gott wie mu&#x030a;&#x017f;&#x017f;en<lb/> die Flegel im Himmel zu&#x0364;rnen / d&#x0292;<lb/> der Mann nicht i&#x017f;t ein Dre&#x017f;cher<lb/> worden.</item><lb/>
+                    <item>194. Jch halte der Herr<lb/> &#x017f;chwermert &#x017f;elber er hat die Bie-<lb/>nen verkaufft.</item><lb/>
+                    <item>195. Es muß ja was &#x017f;eyn / d&#x0292;<lb/> den Bawren auff die Ku&#x0364;he<lb/> &#x017f;pringt / wo wolten &#x017f;on&#x017f;t die Ka&#x0364;l-<lb/>ber herkommen.</item><lb/>
+                    <item>196. Jch &#x017f;chie&#x017f;&#x017f;e drein wenn<lb/> ich ein Armbru&#x017f;t hette.</item><lb/>
+                    <item>197. Er &#x017f;eichte wol er wolte<lb/> mir &#x017f;chencken.</item><lb/>
+                    <item>198. Der Herr i&#x017f;t noch gut<lb/> genug er helt noch lange wenn<lb/> er geflicket wird.</item><lb/>
+                    <item>199. Ja / es i&#x017f;t ein fein Ding<lb/> darumb / es hat keine Gra&#x0364;-<lb/>ten.</item><lb/>
+                    <fw type="sig" place="bottom">P iij</fw><fw type="catch" place="bottom">200. Jch</fw>
+                    <pb facs="335"/>
+                    <fw type="pageNum" place="top">342</fw><lb/>
+                    <item>200. Jch hette wohl ge&#x017f;ehn<lb/> &#x017f;agt der Blinde.</item><lb/>
+                    <item>201. Zu ge&#x017f;chehenen Sachen<lb/> &#x017f;ol man das Be&#x017f;te reden.</item><lb/>
+                    <item>202. Man tra&#x0364;gts hier &#x017f;o nit.</item><lb/>
+                    <item>203. Er i&#x017f;t ein Galan von<lb/> Worten vnnd wenig von Tha-<lb/>ten.</item><lb/>
+                    <item>204. Holla was kna&#x017f;tert / &#x017f;ind<lb/> auch Ma&#x0364;uß im Stroh?</item><lb/>
+                    <item>205. Wir wollen ein fri&#x017f;che<lb/> Tonne an&#x017f;tehen.</item><lb/>
+                    <item>206. Jch wa&#x0364;re noch &#x017f;tarck<lb/> genug &#x017f;o ein <hi rendition="#aq">Corpus Iuris</hi> zu tra-<lb/>gen.</item><lb/>
+                    <item>207. Dreymahl drey macht<lb/> das nit eilffe?</item><lb/>
+                    <item>208. Lieber GOtt was den-<lb/>cket die Mutter / bin ich nicht<lb/> &#x017f;chon 16. Jahr alt.</item><lb/>
+                    <item>209. Bewahr vns Gott vor<lb/> Manns Volck / Her&#xa75b; Johannes<lb/> kompt jhr her.</item><lb/>
+                    <fw type="catch" place="bottom">210. Ein</fw>
+                    <pb facs="336"/>
+                    <fw type="pageNum" place="top">343</fw><lb/>
+                    <item>210. Ein wenig tieffer / betru&#x0364;-<lb/>bet aber das Wa&#x017f;&#x017f;er nit.</item><lb/>
+                    <item>211.  Sein Mantel hat &#x017f;o<lb/> viel Falten wie eine Stuben-<lb/>Thu&#x0364;r.</item><lb/>
+                    <item>212. Bin ich noch nicht alt ge-<lb/>nug vnnd weiß doch alles was<lb/> es i&#x017f;t.</item><lb/>
+                    <item>213. Das Feld i&#x017f;t gepflu&#x0364;get /<lb/> es darff nur be&#x017f;a&#x0364;et werden.</item><lb/>
+                    <item>214. Wie ko&#x0364;&#x017f;tlich haben es<lb/> die Hu&#x0364;ner.</item><lb/>
+                    <item>215. Werde ich einmahl eine<lb/> Fraw / ich will mein Tage kei-<lb/>ne Jungfraw wider werden.</item><lb/>
+                    <item>216. O daß es GOtt er-<lb/>barmet / kriege ich doch &#x017f;chon gra-<lb/>we Haare vnnd gehe noch im<lb/> Kran&#xeedc;e.</item><lb/>
+                    <item>217. Sie &#x017f;agen ich lu&#x0364;ge / vnd<lb/> es i&#x017f;t doch wahr / daß ich es<lb/> weiß.</item><lb/>
+                    <fw type="sig" place="bottom">P iiij</fw><fw type="catch" place="bottom">218. Du</fw>
+                    <pb facs="337"/>
+                    <fw type="pageNum" place="top">544.</fw><lb/>
+                    <item>218. Du ha&#x017f;t gut lachen / wa&#x0364;-<lb/>re&#x017f;tu &#x017f;o alt vnnd vnbefreyt wie<lb/> ich / du wu&#x0364;rde&#x017f;t wohl wei-<lb/>nen.</item><lb/>
+                    <item>219. V <!-- Letter nicht eindeutig zuordenbar, ggf. Zierbuchstabe oder Abbr. --> Anna Ma&#x0364;gdigen von<lb/> Harburg.</item></list></div><lb/>
+                    <figure/><!-- Vignette aus Zierblaettchen -->
+            <fw type="catch" place="bottom">Ein</fw>
+                    <pb facs="338"/>
+            <div>
+                <head>Ein Kur&#xeedc;er<lb/>Anhang.<lb/>Vom<lb/>Bettel-Stab<lb/>der Liebe.</head>
+                <figure/><!-- typografische Linie -->
+                <p>Jm Jahr 1648.</p>
+            </div>
+            <pb facs="339"/>
+            <div>
+                <head>An den Le&#x017f;er.</head><lb/>
+                <p>&#x2014; &#x2014; &#x2014; Beko&#x0364;mp&#x017f;tu et-<lb/>
+                    wan Lu&#x017f;t<lb/>
+                    Zu wi&#x017f;&#x017f;en / wer diß hat gemacht<lb/>
+                    vnd gedicht /<lb/>
+                    So weiß ich ga&#xa75b; gewiß / daß di&#xa75b;s<lb/>
+                    nicht i&#x017f;t bewu&#x017f;t /<lb/>
+                    Drumb wann du wir&#x017f;t gefragt /<lb/>
+                &#x017f;o &#x017f;prich / du wei&#x017f;t es nicht.</p>
+            </div>
+            <pb facs="340"/>
+            <fw type="pageNum" place="top">347</fw><lb/>
+            <figure/><!-- Zierband -->
+            <div>
+                <p><hi rendition="#in">W</hi><hi rendition="#fr">Je wunderbah-</hi><lb/>
+                    re Scho&#x0364;nheiten /<lb/>
+                    vnd vberauß gro&#x017f;-<lb/>
+                    &#x017f;e Vortrefflichkei-<lb/>
+                    ten dem Weltbe-<lb/>
+                    lobten Frawenzimmer von dem<lb/>
+                    allzu gu&#x0364;tigen Himmel beygeeig-<lb/>
+                    net vnnd mitgetheilet worden<lb/>
+                    &#x017f;eyn / i&#x017f;t zwar ohne diß bekand-<lb/>
+                    ter / als meine &#x017f;chwache Zunge<lb/>
+                    darthun kan / je dennoch gibt mir<lb/>
+                    Anlaß hierzu die Meynung ei-<lb/>
+                    nes in der Liebe bedienten Ca-<lb/>
+                    valliers / welcher &#x017f;ich gelu&#x030a;&#x017f;ten<lb/>
+                    lie&#x017f;&#x017f;e / alleine blo&#x017f;&#x017f;e Scho&#x0364;nheiten<lb/>
+                    hoch zu achten / die aber mit Tu-<lb/>
+                    gend vermi&#x017f;chten Vortrefflich-<lb/>
+                    keiten gering&#x017f;cha&#x0364;&#xeedc;ig zu machen /<lb/>
+                    <fw type="sig" place="bottom">P vj</fw><fw type="catch" place="bottom">vnd</fw>
+                    <pb facs="341"/>
+                    <fw type="pageNum" place="top">348</fw>
+                </p>
+            </div>
+                   
+                    
+                   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </body>
+    </text>
+</TEI>

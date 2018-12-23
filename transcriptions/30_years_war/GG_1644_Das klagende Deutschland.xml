@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Das klagende Deutschland</title>
+        <author>Georg Greflinger</author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Annika Rockenberger</authority>
+        <authority>Per Röcken</authority>
+        <pubPlace>Berlin</pubPlace>
+        <date>20.07.2011</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Georg Greflinger - Digitale Historisch-kritische Ausgabe sämtlicher Werke und Schriften.</title>
+        <title type="sub">Schriften zum Dreißigjährigen Krieg</title>
+        <respStmt>
+          <resp>Transgraphiert vom Vollfarbdigitalisat von</resp>
+          <name>Annika Rockenberger</name>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Erlangen</settlement>
+            <repository>Universitätsbibliothek Erlangen-Nürnberg</repository>
+            <idno>H00/DISS.A.S 1124 (angebunden Nr. 105)</idno>
+            <altIdentifier>
+              <settlement>Danzig</settlement>
+              <repository xml:lang="pl">Biblioteka Gdanska Polskiej Akademii Nauk</repository>
+              <idno>?</idno>
+              <!-- recherchieren -->
+            </altIdentifier>
+          </msIdentifier>
+          <p>Dünnhaupt Nr. 1.4</p>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart>Das klagende Deut&#x17f;chland.</titlePart>
+        </docTitle>
+        <byline>Auffge&#x17f;etzet<lb/>Vom<lb/><docAuthor>Georg Greblinger</docAuthor>/<lb/>aus
+          Regen&#x17f;purg.</byline>
+        <docImprint> Gedruckt im Jahr Chri&#x17f;ti /<docDate>1644</docDate>. </docImprint>
+      </titlePage>
+      <pb/>
+      <div type="dedication">
+        <p>Denen Ehrnve&#x17f;ten <sic>n</sic><corr resp="AR">u</corr>nd Vornehmen<lb/>Herren<lb/>Herrn <name
+            type="person">David Brauern</name> /<lb/>Herrn <name type="person">Friedrich
+            Goldt&#x17f;chmieden</name> /<lb/>und<lb/>Herrn <name type="person">Johann Gucken</name>
+          /<lb/>Seinen aller&#x17f;eits Hochgeehrten Herrn und<lb/>geneigten Freunden<lb/>Vberreicht
+          es wolmeinend der<lb/>Erfinder.<lb/></p>
+        <p>BE&#x17f;eht der Deut&#x17f;chen Klag / und dencket dann dar<lb break="no"/>gegen
+          /<lb/>Jhr meine Fo&#x364;rderer / was un&#x17f;er Preu&#x17f;&#x17f;en hat<lb/>Bevor die
+          kleine Welt die gro&#x17f;&#x17f;e Dantzger Stadt.<lb/>Vnd laßt der Deut&#x17f;chen Leyd
+          ein wenig euch bewegen.</p>
+      </div>
+    </front>
+    <body>
+      <pb/>
+      <div>
+        <lg>
+          <head>1.</head>
+          <l>ACh mir Armen!</l>
+          <l>Wil &#x17f;ich niemand noch erbarmen /</l>
+          <l>Wil denn keiner die&#x17f;es &#x17f;chlachten</l>
+          <l>Noch betrachten?</l>
+          <l>Ob nicht gnug der Tyranney</l>
+          <l>Vber mich gekommen &#x17f;ey.</l>
+        </lg>
+        <lg>
+          <head>2.</head>
+          <l>Seyd die Schmertzen</l>
+          <l>Sich genahet meinem Hertzen /</l>
+          <l>Zehlet man fa&#x17f;t drey&#x17f;&#x17f;ig Jahre /</l>
+          <l>Rauff die Haare /</l>
+          <l>Heule / heule / deine Pein</l>
+          <l>Sol noch u&#x364;ber drey&#x17f;&#x17f;ig &#x17f;eyn.</l>
+        </lg>
+        <lg>
+          <head>3.</head>
+          <l>Jhr ko&#x364;nnt le&#x17f;en</l>
+          <l>Wer ich vormals war gewe&#x17f;en /</l>
+          <l>Wie &#x17f;ich vor die fremde &#x17f;chmiegte /</l>
+          <l>Wann ich kriegte /</l>
+          <l>Wie der Nachbarn frecher Mund</l>
+          <l>Vber mier erbla&#x17f;&#x17f;et &#x17f;tundt.</l>
+        </lg>
+        <lg>
+          <head>4.</head>
+          <l>Jhr Carthaunen /</l>
+          <l>Pulver / Paucken und Po&#x17f;aunen</l>
+          <l>Seyt jhr nicht von mier erfunden</l>
+          <l>Bley vnd Lunden?</l>
+          <l>ach ich habe &#x17f;ie erdacht /</l>
+          <l>Vnd zur Ruthe mier gemacht.</l>
+        </lg>
+        <fw type="sig" place="bottom">A ij</fw>
+        <fw type="catch" place="bot-right">Was</fw>
+        <pb/>
+        <lg>
+          <head>5.</head>
+          <l>Was die Himel</l>
+          <l>Vber die&#x17f;er Welt Getu&#x364;mmel /</l>
+          <l>Stu&#x364;cke-Donnern vnd Trompeten</l>
+          <l>Hei&#x17f;&#x17f;t erro&#x364;then /</l>
+          <l>Was den Wallfi&#x17f;ch flu&#x364;chtig macht /</l>
+          <l>Das hat meine Witz erdacht.</l>
+        </lg>
+        <lg>
+          <head>6.</head>
+          <l>Alles &#x17f;tundte</l>
+          <l>Zag von Hertzen / blaß vom Munde /</l>
+          <l>Wann ich meine Waffen ru&#x364;hrte /</l>
+          <l>Solche fu&#x364;hrte.</l>
+          <l>Jch &#x17f;chlug manchen ohne Mu&#x364;h /</l>
+          <l>So ich nur von Teut&#x17f;chen &#x17f;chry.</l>
+        </lg>
+        <lg>
+          <head>7.</head>
+          <l>Bitt vnd lauffen /</l>
+          <l>Mu&#x17f;ten von mir Frieden kauffen /</l>
+          <l>Dann es war nach dem kein Hunger /</l>
+          <l>Was der Vnger</l>
+          <l>Aus den tieffen Scha&#x364;chten giebt /</l>
+          <l>Das nun mehr als Gott beliebt.</l>
+        </lg>
+        <lg>
+          <head>8.</head>
+          <l>Kurtz zu machen</l>
+          <l>Wie des edlen Lo&#x364;uen Rachen</l>
+          <l>Vn&#x304; &#x17f;ein Schwantz / ob er &#x17f;chon &#x17f;chertzet /</l>
+          <l>Vns enthertzet /</l>
+          <l>Al&#x17f;o machte mein Ge&#x17f;chrey</l>
+          <l>Mich von vielen Feinden frey.</l>
+        </lg>
+        <lg>
+          <head>9.</head>
+          <l>Ach was Zeiten!</l>
+          <l>Jetzo bin ich allen Leuten</l>
+          <l>Eine Fabel / ein Gela&#x364;chter /</l>
+          <fw type="catch" place="bot-right">Vnd</fw>
+          <pb/>
+          <l>Vnd viel &#x17f;chlechter.</l>
+          <l>Jeder &#x17f;chreyet: Eja da/</l>
+          <l>Das i&#x17f;t ja Germania.</l>
+        </lg>
+        <lg>
+          <head>10.</head>
+          <l>Meine Waffen</l>
+          <l>Pfelgen mich &#x17f;o &#x17f;tarck zu &#x17f;traffen /</l>
+          <l>Vnd wem danck ich doch das plu&#x364;ndern?</l>
+          <l>Meinen Kindern.</l>
+          <l>Scha&#x364;nden / Schind&#x304; / Mord und Brand</l>
+          <l>Kommt von meiner Kinder Hand.</l>
+        </lg>
+        <lg>
+          <head>11.</head>
+          <l>Es bekra&#x364;ncket</l>
+          <l>Wann ein fremder uns be&#x17f;chra&#x364;ncket /</l>
+          <l>Aber wie? wann un&#x17f;re Freunde</l>
+          <l>Werden Feinde /</l>
+          <l>Wie dann nu / wann vn&#x17f;er Kind</l>
+          <l>Sich auff uns in Waffen findt?</l>
+        </lg>
+        <lg>
+          <head>12.</head>
+          <l>All mein &#x17f;ehen</l>
+          <l>Siehet mich umgeben &#x17f;tehen</l>
+          <l>Nicht ein Winckel i&#x17f;t zufinden /</l>
+          <l>Zu ver&#x17f;chwinden.</l>
+          <l>Jeder fa&#x364;llt mier in das Haar</l>
+          <l>Zeiget mier die Todten-Baar.</l>
+        </lg>
+        <lg>
+          <head>13.</head>
+          <l>Meine Kinder</l>
+          <l>Fahret doch mit mier gelinder /</l>
+          <l>Jch bin die / die euch gezeuget</l>
+          <l>Vnd ge&#x17f;a&#x364;uget /</l>
+          <l>Jch bin keine Hundin nicht /</l>
+          <l>Der jhr und die Gurgel bricht.</l>
+        </lg>
+        <fw type="sig" place="bottom">A iij</fw>
+        <fw type="catch" place="bot-right">14. Seyt</fw>
+        <pb/>
+        <lg>
+          <head>14.</head>
+          <l>Seyt jhr Krieger /</l>
+          <l>Seyt jhr dann geborne Sieger /</l>
+          <l>Ach &#x17f;o gehet hin zu &#x17f;uchen /</l>
+          <l>Die euch fluchen /</l>
+          <l>Denen eure Niedrigkeit</l>
+          <l>Das verfluchte Hertz erfreut.</l>
+        </lg>
+        <lg>
+          <head>15.</head>
+          <l>Seht jhr Lachen /</l>
+          <l>Seht den auffge&#x17f;perrten Rachen</l>
+          <l>Vber eure dumme Sitten /</l>
+          <l>Vnd da&#x17f; Wu&#x364;tten /</l>
+          <l>Das jhr unter euch begeht</l>
+          <l>Vnd nicht wider jhres &#x17f;teht.</l>
+        </lg>
+        <lg>
+          <head>16.</head>
+          <l>Ach jhr Meine</l>
+          <l>Denck des wu&#x364;rgens an dem Rheine /</l>
+          <l>Hat er nciht wie Blut geronnen /</l>
+          <l>Vnd der Sonnen</l>
+          <l>Einen Eckel vorgemacht /</l>
+          <l>Habt jhr mehr / als Euch / ge&#x17f;chlachtt?</l>
+        </lg>
+        <lg>
+          <head>17.</head>
+          <l>Nur am Rheine?</l>
+          <l>Denckt des &#x17f;chlachtens an dem Ma&#x364;yne /</l>
+          <l>Denckt der bru&#x364;derlichen Aa&#x364;&#x17f;er</l>
+          <l>An der We&#x17f;er /</l>
+          <l>An der Donaw / Mo&#x17f;el / Maß /</l>
+          <l>Oder / Elbe / was i&#x17f;t das!</l>
+        </lg>
+        <lg>
+          <head>18.</head>
+          <l>Denckt / O qua&#x364;len!</l>
+          <l>Der bey drey&#x17f;&#x17f;ig tau&#x17f;end Seelen /</l>
+          <l>Die jhr durch das Schwert vnd Feuer</l>
+          <fw type="catch" place="bot-right">Vnge-</fw>
+          <pb/>
+          <l>Vngeheuer</l>
+          <l>Habt erwu&#x364;rget in der Stadt</l>
+          <l>Die den Krantz im Wappen hat.</l>
+        </lg>
+        <lg>
+          <head>19.</head>
+          <l>Wer kan &#x17f;agen</l>
+          <l>Wie viel tau&#x17f;end jhr er&#x17f;chlagen</l>
+          <l>Jn dem auß gebrandten Mei&#x17f;&#x17f;en</l>
+          <l>Bey der Blei&#x17f;&#x17f;en /</l>
+          <l>Nahe der bedra&#x364;ngten Stadt /</l>
+          <l>Die den Nahmen Leipzig hat.</l>
+        </lg>
+        <lg>
+          <head>20.</head>
+          <l>Ach jhr Lieben /</l>
+          <l>Es i&#x17f;t nichtes u&#x364;ber blieben /</l>
+          <l>Daß jhr nicht beraubt / be&#x17f;enget</l>
+          <l>Vnd bedra&#x364;nget /</l>
+          <l>Nein das gantze Deut&#x17f;che Land</l>
+          <l>Fu&#x364;hlet euren Mord vnd Brand.</l>
+        </lg>
+        <lg>
+          <head>21.</head>
+          <l>Ach mier Armen /</l>
+          <l>Wen wird mein La&#x17f;t erbarmen /</l>
+          <l>Sol mier nimmer auff der Erden</l>
+          <l>Friede werden /</l>
+          <l>Sol ich dann der &#x17f;trengen Pein</l>
+          <l>Ewig unter worffen &#x17f;eyn!</l>
+        </lg>
+        <lg>
+          <head>22.</head>
+          <l>Fahrt gelinder /</l>
+          <l>Jhr O meine lieben Kinder /</l>
+          <l>Jch bin die / die euch gezeuget</l>
+          <l>Vnd ge&#x17f;a&#x364;uget /</l>
+          <l>Wu&#x364;rget eure Mutter nicht /</l>
+          <l>Wie mir fa&#x17f;t das Hertze bricht.</l>
+        </lg>
+        <fw type="catch" place="bot-right">23. Jhr</fw>
+        <pb/>
+        <lg>
+          <head>23.</head>
+          <l>Jhr &#x17f;eyt Krieger /</l>
+          <l>Ja jhr &#x17f;eyt geborne Sieger /</l>
+          <l>Gehet / gehet hin zu &#x17f;uchen</l>
+          <l>Die euch fluchen /</l>
+          <l>Die auff euch in Waffen &#x17f;tehn /</l>
+          <l>Vnd &#x17f;chon nach den Pforten gehn.</l>
+        </lg>
+        <lg>
+          <head>24.</head>
+          <l>Da erwei&#x17f;et</l>
+          <l>Was man vor &#x17f;o ma&#x364;nnlich prei&#x17f;et /</l>
+          <l>Zeiget eure neuen wercke /</l>
+          <l>Muht und Sta&#x364;rcke /</l>
+          <l>Zeiget jhm / der &#x17f;ich be&#x17f;ternt /</l>
+          <l>Was jhr vnter euch gelernt /</l>
+        </lg>
+        <lg>
+          <head>25.</head>
+          <l>Schlaget nieder /</l>
+          <l>Da erwu&#x364;rgt jhr keine Bru&#x364;der /</l>
+          <l>Keine Mutter / keine Schwe&#x17f;ter /</l>
+          <l>Raubt die Ne&#x17f;ter</l>
+          <l>Die voll Scha&#x364;tze / hier i&#x17f;ts leer /</l>
+          <l>Bringt uns neue Gu&#x364;ter her.</l>
+        </lg>
+        <p>ENDE.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

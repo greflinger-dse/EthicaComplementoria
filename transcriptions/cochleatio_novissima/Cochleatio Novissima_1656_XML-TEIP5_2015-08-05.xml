@@ -1,0 +1,5060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Cochleatio Noviſſima
+iterata atque aucta.
+Das iſt:
+Erneuͤete und
+vermehrte
+Loͤfflerei-Kunſt
+Abgefaſſet durch
+DAvid SEladon I. V. D.
+verbeſſert von
+Gerhard Vogelern.
+mit angefugten
+Bettelſtab der Liebe.
+wie auch der
+Ethica Complementoria.
+Liebſtat
+Bei Lamprecht Raͤmmelern
+auf der Reitgaſſe im Hoͤlzern
+Loͤffel.
+Jm Jare.
+[Linie]
+DIVngfern geht heran! NVn Iſt
+gVt ZeIt zVfreIen:
+Ihr MVſſet eVCh Der Eh fVrVVar
+ſonſt ganz VerzeIhen.
+[aufgeloͤst: 1656]
+[gepruͤft am Original]
+ 
+An den Leſer.
+Wer unbeflekte Luſt den redli-
+chen verkert /
+Jſt ſelbſt verkerter Sinn’ und
+nur beſpottens wert.
+ 
+Zuſchrifft.
+Jhr Damen hochbegabt / geſchmuͤ-
+ket und gezieret /
+Mit Schoͤnheit / Hoͤfligkeit / und
+was euͤch ſonſt gebuͤret.
+Nemt hier großguͤnſtig an / was
+euͤer Diener ſpricht /
+Das Werk iſt ſchlecht / der Sinn
+bleibt doch auf Treuͤ gericht.
+[Linie]
+Autor ad Lectorem.
+Qui legis iſta tuam reprehendo. ſi mea
+laudas
+Omnia ſtultit:am, ſi nihil invidiam.
+Votum ejusdem Seladon.
+Qui librum ſcripſit com ſcutis vivere
+poſſit,
+Detur pro poena ſcriptori pulchra
+puella.
+[Linie]
+Ad Auctorem Seladon.
+Expetis ut detur Seladon tibi pulchra puella,
+Carpetur aſt ſcriptus pulchra puellatuus.
+Hujus judicia, com ſcribus vera, mererius
+Pro poena ut dei ur nulla puella tibi.
+G.V. Reviſor.
+* ij An [das n liegt leicht schraͤg nach rechts unten]
+ 
+[Zierleiste Blaͤttchen]
+An Herꝛn David Seladon
+wie auch
+Den wolgeneigten Leſer.
+ALs mein Herꝛ Seladon ich euͤre
+Schrifft geleſen /
+Die von der Loͤfflerei / die von dem
+Liebeweſen
+Der friſchen Jugend ſpricht: hab
+ich mich hoch erfreuͤt /
+Jch bin beſuͤſt geweſt / ob wer ich
+auſſer Zeit.
+Ach moͤchte mein Verſtand ſo hoch
+ſich koͤnnen ſchwingen /
+Ach moͤcht ich doch genug hier
+ſchreiben / reden / ſingen /
+Was Zuker ſuͤſſe Luft / was Lab-
+ſal / Herzens-Krafft
+Was wunder ſanffte Ruh’ hier
+jungen Menſchen ſchafft
+Dis wolgefaſte Werk: Es handelt
+ſolche Sachen /
+Die auch ein Tierieſch Herz verliebet
+koͤnnen machen.
+[Kustode] Drum
+[Seitenwechsel] [hier bei Google Books schwarze Seite / fehlende Seite; am Original transgraphiert, 23.7.2015]
+[Kolumnentitel] An den Leſer.
+Drum Tadelgern ſei ſtil / laß nun
+dein Befzen ſein /
+Herꝛ Seladon legt hier Preiß
+Ruhm und Ehre ein:
+[E]r treibet von uns weg / das Trau-
+ren Seuͤfzen Klagen
+[d]ie beede Leib und Seel und Geiſt
+mit Kummer plagen /
+Ach wer ſein Herze kraͤnkt und
+ſtets in Sorgen ſchwebt
+Bringt ſich ins dunkle Grab be-
+vor er eins recht lebt:
+[d]ie Traurigkeit ergiebt ſo gar viel
+tauſent Leuͤte
+[d]em Tod (dem Menſchen Feund und
+Wuͤrger) hin zur Beute /
+Und dient doch nirgends zu. Hier
+aber ſchaffet Raht
+Was uns Herꝛ Seladon ſo frei
+beſchrieben hat.
+[D]er Himmel wolle mir ſo tieffe
+Sinne geben /
+[D]aß dieſes ſchoͤne Werk ich koͤnne
+gnug erheben /
+[Kustode] * iij Es
+[Seitenwechsel]
+[Kolumnentitel] An den Leſer.
+Es iſt ja billich wert / daß es groß
+Lob erlangt /
+Weil dis davon es meldt / auff
+ganzer Erde prangt.
+Jſt etwas in der Welt / wovon man
+viel geſchrieben /
+Geſungen und geſagt / ſo heiſſet es
+das Lieben:
+Nur Lieben / Lieben iſts / wovon
+viel Werts gemacht /
+Die Liebe wird mit Fug’ bei
+Menſchen hoch geacht:
+Dieweil den Goͤttern ſelbſt das
+Lieben wolgefallen;
+Dis zeigt das Sonnen-Rad (vor
+den Geſchoͤpffen allen.)
+Wan es nach Winters Zeit ſich
+in die Erd verliebt
+Und jhr durch heiſſen Schein
+Licht / Frucht uñ Leben gibt /
+Daß Gras und Kraut und Baͤum
+und tauſent andre Sachen /
+Daß Vogel / Fiſch und Tier und
+Menſchen gleichſam lachen.
+[Kustode] Und
+ 
+[Kolumnentitel] An den Leſer.
+Und voller Freuͤde ſtehn. Wer
+ſieht im Fruͤling nicht
+Wie paar bei paaren nur auff
+Lieben iſt gericht.
+O hochverlangte Zeit ! dir iſt die
+Lufft gewogen /
+Jhr leichtes Feder-Volk komt ſchon
+ins Geld gezogen /
+Es ſchwinget ſich bereits die Ler-
+che Wolken an/
+Sie ſchwebet ob der Saat und
+ſchreitet was ſie kan.
+Nun hoͤret wie der Specht ſchon
+ruffet ſeinem Weibe.
+Seht doch den Gaͤnſer an / er wil
+der Gans zu Leibe.
+Der aͤnten geiles-Volk / laufft
+alles paar bei paar /
+Und was nur fliegen kan / wird
+friſcher als es war.
+Der heiſſen Liebe Glut macht dort
+den Hanen scharꝛen /
+Seht wie jhm Kam und Mut en-
+zuͤnder iſt / das Narꝛen
+[Kustode] * iiij ſ
+ 
+[Kolumnentitel] An den Leſer.
+Mit ſeiner Huͤnerſchaar’ / iſt ſei-
+ne beſte Luſt;
+Das Lieben iſt ſo gar dem Kuͤ-
+niglein bewuſt.
+Der Pfau trit praͤchtig auff: die
+Kalekutiſch Henne
+Bezeigt wan ſie ſich ſenkt / daß ſie
+den Hanen kenne
+Aus offt erholter Lieb / dan wan
+er ſich auff bruͤſt
+Und mit den Fuͤſſen trapt: ſo iſt
+ſie gleich geruͤſt
+Zuſtillen ſeine Brunſt. Diei Spa-
+zen in den Faͤchern
+Die hegen Lieb und Luſt. Die
+Stoͤrch auf hohen Daͤchern
+Die ſpielen wolvergnuͤgt / den
+ſuͤſſen Firlefanz.
+Der Tauber ſchnaͤbelt ſich und
+trampelt einen Tanz
+Mit ſeinem Taͤuberlein. Rephuͤne-
+lein die girꝛen /
+Nach jhres gleichen art: der Tur-
+tel-Taube kirꝛen
+[Kustode] Erſchalt
+ 
+Erſchalt aus jenem Wald: Hoͤrt
+jz dem Kukuk zu
+Wie rufft er einſiglich und iſt
+faſt ſonder Ruh’?
+Der Zeiſig und die Mes’ auch blut
+und braune Finken
+Erweiſen jhre Lieb in tauſent pin-
+ken / pinken.
+Der Habicht / Sperber / Falk und
+was der Rauber-Art /
+Ob ſie wol grimmig ſein / ſind alle
+doch gepaart.
+Die Stare / Dolen / Kraͤen / die
+haben luſt zuſchwaͤzen
+Sie ſind nicht ſonder Lieb’ : geſtalt
+ſie ſich gern ſezen
+Jn groſſer hauffen ſchaar: Die
+Elſtern / Papagein
+Erweiſen durch die Red’ / daß ſie
+verbulet ſein.
+Rohrdommel / Widehopf / Bach-
+ſtelzen / Rotkelen
+Schwalb / Kraniſch ſ Reiger / meeb’ /
+die Wachteln ſich vermaͤlen
+[Kustode] * v M
+ 
+[Kolumnentitel] An den Leſer
+Mit gleich und gleicher Art. Ca-
+nari Voͤgelein /
+Der Henfling / Nachtigal / wolln
+auch gegattet ſein:
+Es zeiget ſolches an / jhr lieblich
+quintiliren /
+Jhr hoͤheſter Clarin / jhr praͤchtig
+ſolmiſiren /
+Der intervallen Ton / der auch
+den Menſchen zwingt /
+Daß er als faſt verſtuͤrzt / nach
+ſuͤſſer Liebe ringt.
+Der Hirſch reiſt durch den Buſch /
+biß er die Hindin finde:
+Der Tiger iſt bemuͤht und eilet ſehr
+geſchwinde
+Nach ſeiner Tigrin zu. Der Baͤr
+ganz grauſam bromt
+Biß er was ſein Begier / von ſei-
+nem Weib bekomt.
+Der Stier macht ſich herbei / ſobald
+die Kuͤhe bruͤllen /
+Erzeiget ſich ſtark und kek derſelben
+Luſt zuſtillen.
+[Kustode] Der
+ 
+[Kolumnentitel] An den Leſer
+Der mutig-freche Hengſt / die
+Maͤre bald vergnuͤgt /
+Als oft uͤm ſeine Gunſt ſie ſich
+jhm beigefuͤgt.
+Der Bok geſellet ſich zu ſeiner gei-
+len Ziege:
+Das Mutter-Schaͤfflein ſicht /
+Daß es allein nicht liege.
+Der Koͤnig aller Tier’ / der Loͤw
+iſt ſehr verliebt /
+Wie uns ſein Eiferzorn zur Loͤ-
+win klar dargibt.
+Jn Summa / was nur lebt / was
+fleuͤgt / was leuͤfft und gehet /
+Was hinket / kreuͤcht und ſchleicht
+und was ſonst aufrecht ſtehet /
+Was nur den Odem hat / was
+Lufft und See durchſtreicht /
+Was iſt / und was noch wird / ge-
+ſamt der Liebe weicht.
+Waruͤm dan ſolte nicht der Menſch
+mit hohen Gaben
+Des Himmels ausgeziert ſich nicht
+mit Freuͤden laben?
+[Kustode] + vj Es
+ 
+[Kolumnentitel] An den Leſer
+Es muß ja dieſe Welt durch Lie-
+ben nur beſtehn /
+Es were ſchlecht beſtelt / ſolt Lie-
+ben eins vergehn.
+Jnzwiſchen heiß ich dis allein das
+rechte Leben /
+Was wider ſchnoͤde Luſt / die nichts
+bringt dan betruͤben /
+Das rechten Lieben komt vom ho-
+hen Himmel her /
+Es iſt der Tugend Frucht / der
+Jugend Luſt und Ehr.
+Was Gott erſchaffen hat / iſt zwar
+ſehr gut zuſchaͤzen /
+Lufft / Erde / Tag und Nacht / kan
+alle Welt ergezen:
+Sonn / Sterne / Sand uñ Meer /
+Fiſch / Vogel / Tiere-Heer /
+Bezieren dieſes Rund. Doch iſt
+dis noch viel mehr:
+Daß durch des Menſche~ Hand nach
+Gottes hoͤchſten Willen
+Beherſcht wird alles Land / doch
+ſolches zuerfuͤllen /
+[Kustode] Steht
+ 
+[Kolumnentitel] An den Leſer
+Steht nicht in ſeinem Wiz / es
+iſt jhm zugeſelt /
+Das Weib / das liebe Weib / das
+alle Welt erhaͤlt.
+Es iſt der erſte Mann aus roter
+Erd gekommen:
+Gott aber hat das Weib das ſchoͤn-
+ſte Bild genommen /
+Aus ſeiner Seiten Rip / druͤm iſt
+kein Helfenbein /
+Kein Gold ſo ſchoͤn und zart / als
+ein Lieb Weibelein:
+Die ware Gottesfurcht / die keuͤſche
+Zucht im Leben
+Viel Tugend und Verſtand hat jh-
+nen Gott gegeben:
+Des Weibes Freundlichkeit geht
+fuͤr dem Honigſeim /
+Nicht Ambra / Cinamet / mag jhr
+zugleichen ſein /
+Nicht Zuker / Muſcatel / kein Nekar
+dieſer Erden /
+Kein Weirauch / Aloes / noch was
+genant mag werden /
+[Kustode] * vij S#
+ 
+[Kolumnentitel] An den Leſer
+Suͤß / Edel / Koͤſtlich / Schoͤn /
+was voller Glanz und Pracht
+Wird ohn ein frommes Weib /
+fuͤr nichts dan Kot geacht.
+Das halberſtorbne Blut beginnet
+ſich zu regen:
+Der Menſch verjuͤnget ſich / durch
+Gottes milden Segen:
+Wan er aus holder Lieb und ſuͤſ-
+ſer Lebens Luſt
+Legt an / Mund Hand und Herz
+und ruͤrt die Lilgen Bruſt:
+So kan ein friſcher Mann der Ju-
+gend ſich erfreuͤen /
+Des Weibleins das jhn liebt / jhr
+lebenlang mit Treuͤen /
+Schoͤn iſt ſie / weil ſie jung / das
+luͤſtet jhren Mann /
+Sie dorꝛet aber wan das Alter
+komt heran:
+Doch bleibt die Gottes Furcht und
+Zucht in jhrem Herzen /
+Sie troͤſtet Jhn im Kreuͤz und lin-
+dert manche Schmerzen:
+[Kustode] Sie
+ 
+[Kolumnentitel] An den Leſer
+Sie geht dem Mann zur Hand
+und iſt jhm ſtets zur Seit’ /
+Sie wird auch uͤm jhn ſein / in
+ſichrer Ewigkeit.
+Was wer’ auff dieſer Erd / wan
+GOtt nicht hett’ erſchaffen /
+Den ſuͤſſen Menſchen-Troſt? Die
+Spoͤtter moͤgen klaffen /
+Von dieſem edlen Gut! Jch aber
+ſag es frei /
+Daß / wer nicht Lieben wil / kein
+Menſch zunennen ſei.
+Die ſtolze Liebewiz / ließ ſich dit-
+mals vernemen /
+Sie wolt jhr lebenlang ſich keinen
+Mann bequemen /
+Noch an der Seite ſtehn: Was
+aber! hoͤrt doch an!
+Als eins der Coridon der friſche
+Schaͤffers Mann /
+Bei ſeiner Heerde ſaß: kam Liebe-
+wiz gegangen /
+Der Schaͤffer war behend ſie freuͤd-
+lich zuempfangen /
+[Kustode] Le##
+ 
+[Kolumnentitel] An den Leſer
+Legt ſich uͤm jhren Hals und
+ſprach jhr freuͤndlich zu /
+Beruͤrt jhr Wangen-Rund und
+gleich in einem Nu /
+Gab er jhr Kuß auff Kuß: Sie
+ſtraks bezalt jhn wider /
+So gingen ſie mit Luſt am Ufer
+auff und nider.
+Jhr frei ſein / war nun aus. Sie
+folgt jhm an der Hand
+Biß in den nechſten Buſch. Nun
+iſt mir unbekant /
+Was ſie daſelbſt gethan: unnoͤtig
+iſts zufragen /
+Die Sache wird wol kund / vor aus-
+gang wenig Tagen:
+Erwartet in Gedult / ach nur drei
+viertel Jar /
+So ſtehet Thun und Werk ganz
+bloß und offenbar.
+Nachdem zwei Stunden hin / ſah
+ich den Hirten kommen /
+Mit Jungfer Liebewiz: Sie hat-
+ten ſich genommen
+[Kustode] Fein
+ 
+[Kolumnentitel] An den Leſer
+Fein freundlich in die Arm’; Er
+nante ſie mein Herz /
+Mein liebſtes Selichen / mein
+Leben / Freuͤd und Scherz!
+Sie heiß jhn wideruͤm: Mein Herꝛ
+den mir erkoren /
+Der Himmel ſelbſt / mein Schaz /
+der mir zur Luſt geboren /
+Mein Außerwaͤltes Lieb / mein
+trauter Braͤutigam:
+Er wideruͤm mein Kind / mein
+Engelgen / mein Lamm /
+Mein edle Sehaͤfferin: Und noch
+wol hundert Namen
+Gefielen zu der Grund: Biß ſie
+ſo ferne kamen /
+Daß ich nichts mehr erhoͤrt’ / ich
+wundre mich allein /
+Wie doch die Liebewiz ſo freund-
+lich koͤnte ſein.
+Nun achtet fleiſſig auff / jhr Jung-
+fern und Geſellen /
+Wie doch ſo leicht uñ bald ein friſch
+Menſch ſei zu faͤllen /
+[Kustode] #
+ 
+[Kolumnentitel] An den Leſer.
+Oft eh ſichs hett’ verſehn: Die
+zeigt uns Liebewiz /
+Die bald empfunden hat / der
+ſtarken Liebe Hiz’.
+Druͤm foͤrchtet doch die Macht des
+kleinen Bogen-ſchuͤzen /
+Laſt jhr euͤch meine Lehr hier ganz
+und gar nichts nuͤzen /
+So rechnet mir nicht an die
+Schuld und boͤſe Sach’ /
+Wan euͤch die Reuͤ heimkomt
+und was der folget nach.
+Es kan kein Junges-Blut der Liebe
+ganz entgehen /
+Und wer’ er noch ſo keuͤſch: Druͤm
+hat GOtt wol verſehen /
+Daß man ſich gatten ſoll mit
+gleich und gleichem Blut /
+Gleich ehrlich / gleichen Stands /
+gleich Reich auch gleich an mut.
+Hier wird ein jeder Menſch recht
+einen Spiegel haben /
+Befindet er ſich dan mit was ge-
+ringen Gaben
+[Kustode] Sehr
+ 
+[Kolumnentitel] An den Leſer.
+Sehr ſchwarz und ungeſtalt im
+Gwiſſens Angeſicht
+Von der Natnr zur Suͤnd und
+Schande zugericht:
+Der ſchaue fleiſſig zu / daß eine Tu-
+gend-Sache
+Sein Heßligkeit und Fehl belobt
+und lieblich mache:
+Wer ungemein geziert / ſchoͤn /
+weiß und Tugend-vol /
+Dem zeigt auch Seladon / wes er
+ſich halten ſol.
+Er bleib im Tugend pfat / und weich
+auff keine Seite;
+Es iſt die groͤſte Luſt / daß eins frei-
+muͤtig ſtreite
+Entgegen Fleiſch und Blut / dem
+Teuͤfel und der Welt /
+Daruͤm iſt Weiß und Schwarz /
+hier jeden fuͤrgeſtelt.
+Das Gute ſol man thun / das Boͤſe
+ſol man haſſen /
+Wol dem / der Unterſcheid hierin
+wol weiß zufaſſen
+[Kustode] W
+ 
+[Kolumnentitel] An den Leſer.
+Wer ſich im Suͤndenſchlam uͤm-
+welzt in dieſer Zeit /
+Wird haben Angſt und Qual in
+finſtrer Ewigkeit.
+
+Aus wolgemeinten Herzen
+ſezte dieſes
+
+Liebſtat / am Sem-
+pers Tage / 1656.
+
+E.I.A.C.G.E.R.
+E.D.I.N.G.
+ 
+[Kolumnentitel] I.
+[Zierband]
+Vorꝛede
+An den Großguͤnſtigen
+Leſer.
+ES geſchahe vor weni-
+ger Zeit / großguͤn-
+ſtiger Leſer / daß ich
+nd meine Cameraden
+die groſſe Ehre ge-
+habt / alhie auff ein ſtatlich / einer
+vornemen Damen zu ſonderbarer
+Ehre angeordnetes Banquet gebe-
+ten und eingeladen zuwerden:
+Als wir nun gehorſamſt daſelbſt
+erſchienen / und von allen anweſen-
+den Frauenzimmer / wie auch von
+denen / die uns eines ſolchen Gluͤks
+teilhafftig gemachet haben / uͤber
+Verdienſt ganz wol empfangen
+worden / ſo hat ſich auch nicht we-
+[Kustode] A n##
+ 
+[Kolumnentitel] Vorꝛede.
+niger geziemen wollen / den daß wir
+unſer obligende~Schuldigkeit nach /
+jhnen auch mit nicht geringer Ehr-
+erbietung widerum begegneten / zu
+deſſen Bezeigung hat ein jeder von
+uns ſein beſtes gethan / maſſen dan
+nach gehaltener Collation dieſer
+anſehenlichen Geſelſchafft zu ſon-
+derbarer Ergezligkeit / dieſer einen
+zierlichen Diſcurs / jener einen arti-
+gen Tanz / einander ein kurtzwei-
+liges hoͤfliches Spiel angefangen /
+und dadurch ſeine empfindliche
+Freude / gegen wolgedachtes Frau-
+enzimmer bezeugen wollen.
+Bei ſolcher Kurzweil iſt mir
+jhren geringſten Diener / Seladon
+von einer uͤber die maſſen Tugend-
+ſchoͤnen Damen / neben andern auch
+im Koͤniglichen Spiel anbefolen
+worden / daß ich mich auffmachen /
+und von der heut zu Tage / zu viel
+uͤblichen / und in zwang weſender
+Kunſt der Loͤfflerei / von wol er-
+fahrenheit / geſchwind und Argli-
+[Kustode] ſtigkeit
+[Seitenwechsel] [schwarze Seite / fehlende Seite bei GoogleBooks, transgraphiert nach Original, 23.7.2015]
+[Kolumnentitel] Vorꝛede.
+ſtigkeit aller wolgeuͤbten Courti-
+ſanen einen warhaften Diſcurs
+formiren / und denſelben ohn allen
+ſcheu dieſer lieben und loͤblichen Ge-
+ſellſchafft deutlich / und ordentlich
+vorbringen ſolte / fuͤrwar ein Be-
+felich der in einer ſo edlen Compa-
+gnei ſeiner Dignitaͤt nach von einen
+wolberedten / nnd der Sachen beſſer
+erfarnen / mehr verſtaͤndigen Ora-
+tore mit beſonderer zierlicher Be-
+redſamkeit hette ſollen heraus ge-
+ſtrichen werden / aldieweil aber ich
+deſſen nicht entlaſſen ſein moͤgen /
+ſondern je laͤnger je staͤrker befeli-
+chet worden / muſte ich mich deſſen
+in unterthaͤnigen Gehorſam wie ich
+beſtens konte unterfangen.
+¶ Jch hatte aber meine rauhe Rede
+noch nit voͤllig geendet / da bedankete
+ſich ſchon dieſes hochloͤbliche Frau-
+enzimmer / jhrer angebornen Hoͤf-
+ligkeit nach / einſtaͤndig begerend /
+weil dieſer gefuͤhrte Diſcurs / in
+vielen Stuͤken der Warheit gemeß
+[Kustode] A ij zu ſeyn /
+[Seitenwechsel]
+[Kolumnentitel] Vorꝛede.
+zu ſein / von jhnen befunden worden /
+ich moͤchte denſelben / jhnen zu Ehren
+zu Papir bringen / und durch offenen
+Truk conſecriren und mitteilen.
+Was ſolte ich Seladon nun
+machen? Dieſes ſo holdſeligen Da-
+men verſagen / iſt baͤuriſch / iſt un-
+hoͤflich und undankbar / hingegen
+dieſes zu volziehen / und zu verꝛich-
+ten iſt vermeſſen / ja auch gefaͤrlich /
+doch wolte ich lieber fuͤr vermeſſen
+gehalten ſein / als den ſchaͤndlichen
+Namen fuͤren eines / der werten
+Geſellſchafft ſo ungehorſamen Die-
+ners und unhoͤflichen groben Klo-
+zes: Derowegen ich den folgenden
+Tractat zwar ſchlecht uñ rauh auff-
+geſezet habe / ſelben aber der Gebuͤr
+noch mit fleiß zu uͤberſehen und zu
+verbeſſern / wegen anderer mir obli-
+gender Geſchaͤffte ich weder Zeit
+noch Gelegenheit gehabt: in deſſen
+Anſehung dan einen von meinen
+Tiſchgenoſſen ich damit beluſtigen
+muͤſſen / welcher als ein wolgeuͤbter /
+[Kustode] und
+ 
+[Kolumnentitel] 4 Vorꝛede.
+und in dieſer Kunſt der Loͤfflerei
+wolerfarner alter Practicus, alles /
+ſo viel jhm von dieſer Kunſt wiſ-
+ſend / gar willig und gern in die
+Feder gefaſſet / und iz zum Truk
+befoͤrdert hat: Wir bitten dem-
+nach hoͤchſtfleiſſig der groſtguͤnſtige
+liebe Leſer wolle dieſe wolmeinende
+Arbeit jhm nicht mißfallen laſſen /
+ſondern dagegen ſich verſichert hal-
+ten / ob ſchon die Materi und Rede
+ſchlecht / grob und rauh iſt / daß
+dannoch ſelbe gute Nuzbarkeit mit
+ſich bringe / nicht daran zweiflend /
+daß alle und jede / welche in dieſem
+als einem Spiegel nur etwan ſehen /
+und ſich mangelhafft und befleket be-
+finden / werden ſich ſelbſt bald er-
+kennen / beizeiten auff den Weg der
+Erbarkeit begeben / und was ſo wol
+jhnen als andern uͤbel anſtehet ge-
+wiß fliehen und vermeiden.
+Hæc hic hoc tempore poſuiſſe
+ſufficiant, &#x0026;
+&#x0026; theoria obſervavimus pu#
+[Kustode] A 3 cc
+ 
+[Kolumnentitel] 6 Vorꝛede.
+cenſuræ ſubmittimus, &#x0026; ſi erravimus
+voniam precamur, ſalvo jure ad-
+dendi, minuendi, corrigendi. Lector
+æquus hæc jocosè pro candore ſuo,
+&#x0026; innata diſcretione interpretabitur.
+Malevolum, Theonino dente quid-
+que carpentem nihil moramur. In-
+terea vale &#x0026; plaude. Paulo majora
+ſequentur.
+Signatum Muͤnſter 1648.
+primo &#x0026; ultimo Maij.
+[Kustode] Jn
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 7
+[Zierband Blaͤttchen]
+JN dem wir die heut zu Tage
+gar zu viel gebraͤuchliche / und
+im zwangweſende Kunſt der
+Loͤfflerei / die wolerfarenheit und
+geſchwindigkeit aller wolgeuͤbter
+Courtiſanen und Loͤffler / auch ge-
+melter Knnſt mißbraͤuche und nuz /
+dem gemeinen Frauenzimmer vor
+Augen zu ſtellen vorhabens und ge-
+meinet / halten wir dienlich zu ſein /
+anfangs ſelbige gruͤndlich zu unter-
+richten und zu beleren / wo eigent-
+lich das Woͤrtlein Loͤfflerei oder
+Loͤffeln hergenommen / oder wie es
+zu deuten / und recht verſtanden
+werden muͤſſe.
+Etliche ſeind der falſchen mei-
+nung / daß es erſtlich daher entſtan-
+den ſein ſolle / daß gleich wie die
+Schurzen und leichte Burße auff
+der Gaſſe wol pflegen einander /
+einen Laz oder Fuchsſchwanz zum
+[Kustode] A iiij P#
+ 
+[Kolumnentitel] 8 Loͤfflerei Kunſt.
+Poſſen anzuhengen / alſo auch eins-
+mals ein leichtſinniges Kammer-
+kaͤzlein jhrer Frauen oder Jung-
+frauen Auffwaͤrter / (wie mans an
+jezo nennet /) dafuͤr daß er ſie ver-
+aͤchtlich vorbei gegangen / (es aber
+mit jhrer Frau oder Jungfrau ſo
+wol gemeinet habe / daß er jhnen
+gern zu Man und Kind verhelffen
+wollen /) einen Loͤffel zum ſchawer-
+nak heimlich auff den Hut geſteket /
+und damit habe wider heimgehen
+laſſen / dieſes als es andere Buben
+erfaren / ſollen ſie denſelben allent-
+halben fuͤr einen Loͤffeler ausgeruf-
+fen / und das ſo lang getriben haben /
+biß daruͤber alle die jenige / die dem
+Frauenzimmer ſo gern und fleiſſig
+auffgewartet / ſeind hernach alge-
+mach Loͤffeler und jhre Bedienung
+Carachion und getreue Auffwar-
+tung an ſich ſelbſt eine Loͤfflerei
+genennet worden / biß auff den heu-
+tigen Tag.
+Andere aber wollen jhres er-
+achtens
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 9
+achtens etwas naͤher kommen / und
+beweiſen aus dem Calecutio und
+Waſſerquelle der Jungfrauen /
+daß dieſes Woͤrtlein ſei ein Weſt-
+phaliſch Woͤrtlein / und in Weſt-
+phalen / ſonderlich auch in deroſel-
+ben Hauptſtat Muͤnſter noch neu-
+lich dahero entſtanden / und in
+Brauch kommen / dieweil das junge
+Woͤlklein in gemeldetem Weſtpha-
+len nunmehr ſo Leker / auff Liebes-
+Sachen worden / daß man ſie allein
+auffs Kaͤmmerchen / oder auch wol
+auff oͤffentlichen Hochzeiten / Kind-
+tauffen / Banqueten / Gaſtereien
+und andern Geſelſchafften / oder
+aber auff oͤffentlichen Gaſſen und
+fuͤr den Tuͤren / (ſonderlich uͤm die
+Zeit / wan die Nachteulen loß flie-
+gen /) beiſammen / koͤnnen ſie ſich
+aus einer unmaͤſſigen und feuriger
+Liebe alſo zerherzen / kuͤſſen / das
+Maul uͤm und uͤm zerleken / gleich
+wie ein klein toͤrichtes Kindlein den
+Loͤffel aus dem Honigtopfe leket#
+[Kustode] A v
+ 
+[Kolumnentitel] 10 Loͤfflerei Kunſt.
+daß die jenige / ſo ſolches gern thun /
+derowegen mit den in etwas ſchim-
+pfliche~Beiname~Loͤfflers / als wolte
+man ſagen Loͤffellekers nit unbillich
+genennet werden / dahin dan unſere
+ſchnuptile Weſtphaͤlinger noch heut
+zielen mit den gemeinen Spruͤch-
+woͤrtern / Leker aus der Kuͤchen;
+Jtem / Er leke ſie mit frieden. Jtem /
+Er gibet einen guten Leker / etc.
+Dieſem allen aber ſei wie jhm
+woͤlle / man rede von dieſer unſer
+Loͤffelei / und den darin wolgeuͤbten
+Courtiſanen ſo ſchimpfflich als man
+jmmer kan und mag / ſo iſt doch in
+zwiſche~gewiß daß der leidige Miß-
+brauch / kein Ding veraͤchtlich / viel-
+weniger dieſe ~uſere Kunſt der Loͤf-
+felei ihrer Dignitet und Wuͤrde
+ohn mache / derowegen dan dieſelbe
+alſo zulaͤſſig verbleibet wan man
+nur alle grobe Mißbraͤuch hinter-
+laͤſſet / und keine gemeine Hurerei
+daraus machet / aber auff das we-
+###### nur unter Vorſichtigkeit ſich
+darin
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 11
+darin gebrauchet: Sintemal auff
+ſolche weiſe dieſelbe anders nichts
+iſt / als eine anmutige Liebes uͤbung
+entſtehend aus freundlicher Con-
+verſation zweier verliebter Herzen /
+die nicht wiſſen mit was fuͤr Freu~d-
+lichkeit / mit was holdſeligen Ge-
+berden und angenemen Unterdienſt-
+lichkeiten ſie ein Ehrenwort mit der
+Hand anbringe~/ und ſich beſter maſ-
+ſen vergnuͤgen koͤnnen oder woͤllen.
+Beſtehet alſo die ſelbe Loͤfflerei
+nur auff zweierlei / als nemlich auff
+den Perſonen / welche ſich in der ſel-
+ben uͤben / und auff der uͤbung ſelbſt /
+von den Perſonen wollen wir erſt-
+lich handeln / und deren Beſchaffen-
+heit ſoviel der zeit und gelegenheit
+nach wol muͤglich / und dieſes Orts
+gehoͤren wird / kundbar machen.
+Es ſein aber dieſelbe Perſonen
+ohn Unterſcheid / alle huͤbſche / ſchoͤne
+erwachſene Vogelbare (wolte ſagen
+Vogtbare) Damen und Cavaliere /
+Jungfrauen und Junge-Geſellen
+[Kustode] A vj W
+ 
+[Kolumnentitel] 12 Loͤfflerei Kunſt.
+Weiber und Maͤnner hoch- und ni-
+dringen Standes / wie ſie Namen
+haben / wan ſie nur des Alters und
+der Qualiteten ſein / daß ſie fuͤr
+Capabel paſſiren koͤnnen: die Jung-
+frauen weil denen ein jeder gern viel
+Ehre anthut / und allenthalben den
+Vorzug goͤnnet und giebet / ſollen
+alhie auch vorher gehen / und die
+Oberſtelle haben / die andere aber
+nach der Ordnung / jhnen beigeſezet
+werden.
+Die jenige / welche einen groſſen
+Bauch voll Weißheit haben / und
+wie man ſaget: Graß wachſen und
+Floͤhe farzen hoͤren / und Haar zer-
+teilen koͤnnen: Unter welchen Hauf-
+fen ſonderlich unſere Edle / Veſt-
+und Hochgelehrte mit gehoͤren / die-
+ſelbe machen viel diſputirens von
+dem Woͤrtlein Jungfrau / und laͤſ-
+ſet ſich anſehen / als wolte ein jeder
+ein Specialbißlein / und etwas
+ſonderliches heraus klauben.
+Antonius Florentinenſis, ein vor-
+nemer
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 13
+nemer Rechtsverkerter in ſumma
+ſua tit. 2. ci. nennet eine Jungfrau
+virgo, (oder daß wir ſecundum
+Grammaticam reden virginem, )
+und ſezet daß virgo ſo viel ſei und
+heiſſe / als virum agens, hoc eſt re-
+pellens. Die da razet und krazet /
+reiſſet vnd beiſſet / und mit Nadeln
+uͤm ſich ſticht / daß keine Mans-
+perſon an ſie kommen / oder in Lei-
+bes kundſchafft mit jhr geraten / wie
+auch in die Fleiſchkammer jhr ein-
+brechen kan.
+Ein ander / genant Thomas /
+nimt das Woͤrtlein virgo à virore,
+ut quod nondum ſit experta aduſtio-
+nem. Die noch nicht angebraut ſei /
+die noch nicht hizig / nicht brautgeil /
+nicht uͤberaus begirig zum Kizel /
+das iſt kurz geredet / den das Zan-
+fleiſch noch nicht juket.
+Fulgentius ad probam in lib. de
+virg. wil daß das Woͤrtlein virgo,
+ſo viel bedeute als virago, welches
+à viro, das iſt / vom Manne her
+[Kustode] ruͤ
+ 
+[Kolumnentitel] 14 Loͤfflerei Kunſt.
+ruͤret / der ſoviel als eine Krafft be-
+deutet / virago aber heiſt ein kraͤffti-
+ges Blut oder Blume / anzudeuten /
+daß eine Jungfrau in jhrer beſten
+Bluͤte und gruͤnender Jugend mm-
+mer ſo reiff als eine Nuß / wie man
+im Spruͤchwort redet / wie eine
+ſchoͤne volkommene Blume muͤſſe
+abgebrochen werden / oder ſie falle
+von jhr ſelber ab / wie uns dan ſol-
+ches die gemeine taͤgliche Erfarung
+klaͤrlich beleret / daß ſie die Blumen
+lieber abbrechen / als von ſich ſelber
+abfallen laſſen.
+Unſere teutſche kluge und junge
+Naſ-weiſe Singulariſten, (Sonder-
+linge/) die koͤnnen auch nicht vorbei /
+ſie muͤſſen die Zaͤne an dieſen Drek
+mit reiben / etliche von dieſen wollen /
+daß Jungfrau ſoviel ſei als Gump-
+frau / à Gumpen / daher dan Gumpel
+kommen / welches alles nicht uͤbel
+getroffen iſt.
+Etliche aber von dieſen Naſenwe-
+zern / wollen gar mit der Naſe in den
+Kot / und ſezen ungeſcheuet daß
+[Kustode] Jung-
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 15
+Jungfrau ſolle und muͤſſe ſovil heiſ-
+ſen / als Junge Frau / aus urſache /
+dieweil man ſonderlich zu dieſer zeit
+das Jungfrauenwaſſer gar ſelten
+probatum /oder gut uñ auffrichtig)
+befinde / und wan man gleich eine
+ſoclhe Jungfrau / welche keine auff-
+richtige Jungfrau mehr iſt / eine
+Jungfrau nenne / ſo gehe man den-
+noch ſicher / und bleibt (gleich wie
+jener Bader der um aller Gefahr
+willen die Frauen Fliete nam / und
+der vermeinten Jungfrau die Ader
+damit ſchlug) ganz auſſer Gefahr /
+heiſſe es dan nit Jungfrau / ſo moͤge
+es Junge Frau heiſſen / das ſei nur
+ein Buchſtaͤblein mehr geſezet / und
+koͤñen ſie alſo niemand mehr beſchul-
+dige~/ viel weniger ſich einer injurien
+beklagen / daß Er jhr mit Zunamen
+angeſprochen / oder einigen ſchimpff
+angethan und zugefuͤget habe.
+Jn Summa es ſcheinet / ein jeder
+wil einen Trunk daraus haben / das
+goͤnnen wir jhnen zwar gern / bleiben
+[Kustode] aber
+ 
+[Kolumnentitel] 16 Loͤfflerei Kunſt.
+aber in ſo weit bei den guten alten
+Teutſchen / welche auch keine Nar-
+ren geweſen / ſondern ſich auff ein gut
+Ding / gleich dieſer klugen Neu-
+lingen verſtanden / nennen und heiſ-
+ſen derowegen eine Jungfrau / quaſi
+Unfrau quæ nam in ipſo vigore æta-
+tis circa annos nubilis eſt, welche
+jez rechten volkommenen Alters /
+Voigt- und Manbar iſt / jhres
+Zeichens aber eine rechte Jung-
+frau / die auff der Raͤiſe nach dem
+Venus-Gebirge jhren mutwilligen
+Roͤßlein noch kein Eiſen abgerennet
+hat.
+Findet man alſo zweierlei Art
+und Geſchlechte der Jungfrauen /
+ezliche wie jezgemeldet / ſeind rechte
+Unfrauen / und in der Warheit
+auffrichtige Jungfrauen / etliche
+aber haben nur den Namen / und
+ſeind der That nach mehr Junge-
+Frauen.
+Von dieſen ſeind abermal unter-
+ſchiedliche Eigenſchafften / dan
+[Kustode] theils
+ 
+[Kolumnentitel] Loͤfflerei Kunſt. 17
+theils deren geſtehen / und geben ſich
+offentlich dafuͤr aus / daß ſie keine
+Jungfrauen mehr ſein / theils aber
+geſtehen mit nichten / wollen auch
+ganz und gar dafuͤr nicht angeſehen
+werden / ſondern halten ſich in allen
+den Jungfrauen gleich / von denen
+ſie (weil der Tit: de ventre inſpi-
+ciendo heut zu Tage nicht ſo wol
+mehr practiciret wird) ſchwer zu
+unterscheiden ſein.
+Wir Teutſchen nennen eine ſolche
+Jungfrau recht und nicht unbillich
+Jungfrau fuit, (Jungfer geweſen/)
+weil dieſelbe zwar bei Tage / Jung-
+frau jhres Zeichens ſein wil / zu
+Nacht aber durch die Finger ſihet /
+und ſich obiter in tra~ſitu die Wurm-
+ſtichtige Fleiſchkammer viſitiren
+laſſet.
+Und dieſe / weil jhnen bewuſt iſt /
+vermoͤge offenen Kaͤiſerlichen Rech-
+tens idem operari fictionem in caſu
+ficto, quod veritas in vero befleiſſi-
+gen ſie ſich deſſen einig und allein /
+[Kustode] wie
+[Seitenwechsel]
+[Kolumnentitel] 18 Loͤfflerei Kunſt.
+wie ſie nemlich dieſes jhr ſo gar keu-
+ſches Leben nur mit liſt bemaͤnteln
+moͤgen / nemen allerhand Minen und
+Geberden an / und bezeigen ſich al-
+len den Jungfrauen ſo gleich und
+aͤnlich / daß man ſie recht jhre Af-
+fen / oder nachgeaͤffete Jungfrauen
+nennen kan. Solch ein verzumpfen
+Maͤgdgen war etwa Jungfer
+Suſgen / von der Georg Greflin-
+ger meldet:
+Sip / ſprach Suſannichen / und hielt das
+Maul in falten /
+Gind als nach der Koͤſt / und dankte kei-
+nem nicht /
+Wieviel ſie gruͤſſeten. Bald fiel ſie auffs
+Geſicht:
+Da ſchrie ſie / Zippel! Ha! kan der das
+Maul zerſpalten.
+¶ Dem gemeinen Mañ die Augen
+deſto beſſer zu verblenden / ſtellen ſie
+ſich ſo geiſtlich / heilig / gleich wie
+eine Nonne / die nie kein Waſſer ge-
+truͤbet hat (wiewol auch leider dieſer
+[Kustode] Zeit
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 19
+Zeit die Geiſtlichkeit ſehr viel ab-
+genommen / wie Sal. von Golan
+dergleiche~ gedenket / wan er in einem
+Verslein alſo ſchreibet:
+Eine Nonne war nie muͤſſig / #che ſie wolte
+muͤſſig ſein /
+#leſt ſie einen ſtarken Bruder / ſie zu-
+laufen / zu jhr ein.)
+gehen taͤglich zur Kirche / und hoͤren
+die H. Meſſe mit ſolcher Andacht /
+daß man ſie fuͤr die allerheiligſte
+muß anſehen / da doch nichts anderſt
+bei jhnen uͤbrig iſt / als daß ſie des
+nachts in Lecto, das iſt geiſtlicher
+weiſe davon zu reden / gut Catholiſch
+ſein / und mehr von guten werken als
+vom Glauben halten.
+¶ Sie gehen und ſehen ſo zuͤchtig
+und Maulhenkoliſch unter ſich wie
+das Bairiſche Frauenzimmer / ſo
+man mit Kleien maͤſtet / ſie thaͤ-
+ten niemand einige Ehre an / gruͤſ-
+ſeten niemand / oder ſprechen kein
+Woͤrtlein / wan man ſie uͤber den
+[Kustode] Fu#
+[Seitenwechsel]
+[Kolumnentitel] 20 Loͤfflerei Kunſt.
+Fuß fallen lieſſe / ſo keuſch und zuͤch-
+tig wollen ſie ſein / Eja GOTT
+lone ju!
+¶ Wil man bei Leuten ſeiner Hand
+ein wenig urlaub geben / einen ehr-
+lichen Brautgriff thun / oder den
+kleineſten Finger nur zwiſchen jhren
+Evenflaͤſchlein (die doch ſo unbe-
+griffen ſein / gleich wie eine Kram-
+pfe an einer Badſtubentuͤr iſt)
+wil man ſich ſoviel erkuͤnen / und
+die Ehre nemen / ſie eins auff jhre
+ſonſt wolbeſchnabelte Leffzen zu
+kuͤſſen / ſo muß man ſeinen blauen
+Wunder hoͤren und ſehen / ſo ſihet
+man wie ſelbe ſich weren / ſich wen-
+den und kehren / ſich ſpruͤzen nnd
+ſperꝛen / ſie reiſſen und zerꝛen / ſie
+ſtoſſen und krazen / gleich wie die
+Kazen / ſie wuͤten ſie raſen / ſie brau-
+ſen ſie blaſen / ſie ſchlagen ſie beiſſen /
+ſie werffen ſie ſchmeiſſen / ſie ſchnar-
+chen ſie ſchreien / ſie zwiken ſie ſpeien /
+ſie rennen ſie lauffen / ſie kleien ſie
+rauffen / ſie drehen und wenden /
+[Kustode] ſich
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 21
+ſich vorn und hinden / ſie ſchelten
+und fluchen / ſie trozen ſie pochen /
+ſie ſtreben und fechten / zur linken
+und rechten / ſie zuͤrnen ſie drauen /
+ſie haken ſie hauen / mit Nadeln
+ſie ſtechen / und wollen ſich rech-
+nen / ꝛc.
+¶ helt man nichts deſto weniger
+ſteiff bitlich an / uñ bemuͤhet ſich mitt
+freundlichen Worten ſie dazu bere-
+den und zu erbitten / ſeind und bleibe~
+ſie alle unerbitlich / eine jede wil jhre
+Ehre und Reputation hie viel zu ge-
+nau in acht nehmen / der Herꝛ (ſpreche~
+ſie) laſſe ſeine Bitte nur ſtehen /
+wir begeren deſſen nicht / Er halte
+damit ein / es iſt doch vergeblich /
+dieſe Woche geſchicht es nicht / iſt
+der Herꝛ auch hoͤniſch / oder meinet
+jhr / daß ich eine Hure ſein / ſchaͤmet
+jhr euch nicht / cum ſimilibus? Wan
+man euch laͤſſet das Maͤulchen
+erweichen / ſo wollet jhr alſobald
+weiter umgreiffen / weg laſſet
+nur waſchen euere grobe Taſchen /
+[Kustode] alhie
+[Seitenwechsel]
+[Kolumnentitel] 22 Loͤfflerei Kunſt.
+allhie zu naſchen / es kan nicht
+ſein / ꝛc.
+¶ Sie doͤrffen es auch wol wagen
+ein nachfolgendes Liedlein vorzu-
+ſingen / daß man das Gebiß und die
+Zaͤne darauff wezen und das Maul
+darnach leken ſol / welches Liedlein
+weil es noch uicht gemein / ſonderen
+vor kurzer Zeit ab incerto Authore
+an Tag kommen / auch wol wuͤrdig /
+daß es von einem jeden gelernet und
+wol practiciret werde / haben wir es
+hiebei geſezet / und folgender maſſen
+mit-teilen wolle.
+¶ Lied /
+Warum ſich die Jungfrauen
+nicht kuͤſſen laſſen
+wollen.
+[Kustode] Neulich
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 21
+[Notensatz]
+Neulich ich hoͤrte /
+Daß ich ſprech immer /
+[Notensatz]
+[Notensatz]
+wie ſich beſchwerte /
+das Frauenzimmer /
+[Notensatz]
+[Kustode] Ein
+[Seitenwechsel]
+[Kolumnentitel] #4 Loͤfflerei Kunſt.
+[Notensatz]
+Ein ju~ges Maͤgdlein uͤber mich /
+Solte gern laſſen kuͤſſen ſich /
+[Notensatz]
+[Notensatz]
+ich meine ſchlecht /
+da doch mit fug' /
+[Notensatz]
+[Kustode] Es
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 25
+[Notensatz]
+Es were recht / wan ſie ſich
+Und urſach gnug / ſich eine
+[Notensatz]
+[Notensatz]
+kuͤſſen lieſſen jederman.
+jede deſſen weigern kan.
+[Notensatz]
+[Kustode] B N#u
+[Seitenwechsel]
+[Kolumnentitel] 26 Loͤfflerei Kunſt.
+¶ 1.
+NEulich ich hoͤrte / wie ſich beſchwerte /
+Ein junges Maͤgdlein uͤber mich:
+Daß ich ſprech immer / das Frauenzimmer /
+Solte gern laſſen kuͤſſen ſich:
+Jch meinte ſchlecht / es were recht /
+Wen ſie ſich kuͤſſen lieſſen jederman /
+Da doch mit fug / und urſach gnug /
+Sich eine jede deſſen weigern kan.
+2.
+Viel wan ſie ſehen ein Maͤgdlein ſtehen
+Die ſchoͤn und wolgeſchiket iſt
+Da iſt kein harꝛen / tumkuͤhn als Narꝛen
+Machen ſie ſich daran mit liſt /
+Sprechen ſie an und wollen dan
+Sie bei der erſten Kundſchafft kuͤſſen auch
+Das bringt kein Lob und iſt zu grob
+Dazu der leichten Leute rechter Brauch.
+3.
+Wie ſol man koͤnnen dsa kuͤſſen goͤnnen
+Einen den man niemals gekant /
+Viel ohne ſcherze / meinen das Herze
+Habe man ſtraks auff ſie gewant
+Wen einen Kuß / uns zum verdruß /
+Sie haben ſchlecht genug kaum angebracht
+Sie bilden fein / jhn gaͤntzlich ein
+Daß man was ſonderlichs von jhnen macht.
+4.
+Mancher ſcharff zielet wie er uns ſtielet
+Bald einen Kuß ohn unſern Dank
+[Kustode] Er
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 27
+Er ruͤhmt ſich deſſen / und iſt vermeſſen
+Macht uns bei Leuten einen Stan#
+Der hat nicht Ruh und immerzu
+Bei uns um einigen Kuß ſtets anhelt
+Wirds jhm erlaubt / alsdan er glaubt
+Daß er ſtrak ſei der Liebſte auff der Welt.
+5.
+Mancher kan ſchwazen / ſpricht groſſe Frazen
+Er ſchwert bei Himmel und bei Hoͤll
+Er liebet herzlich / und bittet ſchmerzlich
+Vmb einen Kuß / ein ſolch Geſell
+Meinet daß man ſtrak glaube dran
+Da doch St. Lucas ſchreibet nicht davon
+Den es iſt gar / offt nicht halb waar /
+Viel luͤgen gleichwol / ob ſie ſchweren ſchon.
+6.
+Mancher probieret eine / und ſpuͤret
+Wie willig ſie ſei zu der Sach
+Wan er dan krieget / was jhn begnuͤget
+So achtet er ſie nichts darnach
+Weigert man ſich / ſo gibt man Stich
+Vnd rechnet es fuͤr ein Vnhoͤflichkeit
+Ja daß man ſei / ſehr ſtolz dabei
+Er ſchmaͤlt und haͤngt die Lippen langezeit.
+7.
+Wen den bekanten / oder verwanten
+Ein Kuß erlaubet wird allein
+So will ſich eben auch mit angeben
+Der ſo fremd  iſt und dringt ſich ein
+Acht man das nicht / bald er die Pflicht
+[Kustode] Ein
+[Seitenwechsel]
+[Kolumnentitel] 28 Loͤfflerei Kunſt.
+Eins Cavaliers an uns wol gar vergiſt
+Thut uns kein Ehr / laͤſtert uns mehr
+Vnd in Abweſen unſer ſpoͤttiſch iſt.
+8.
+Gleich einem Affen / und ungeſchaffen
+Jſt mancher von Geſicht und Maul
+Jſt volgeſaͤuffet / beſchmuzt betreuffet
+Voller Granaten / ſtinkend faul.
+Hat wie ein Baͤr / Tazen ſo ſchwer
+So breit und hart als wie Waſchhoͤlzer ſein:
+Begeret doch / zu kuͤſſen noch
+Auff jhren Mund ein ſaͤuber Jungfraͤulein.
+9.
+Naſen als Hoͤrner / Baͤrte wie Doͤrner
+Sehn wir am Kopff und Munde ſtehn
+Daran noch eben die Tropffen kleben
+Ein Maul voll groſſer ſchwarzer Zaͤhn
+Mir ſtund das Haar / zu Berge gar /
+Als ich ſo einen neulich nur anſah
+Was muͤſt ich thun / wan er mich nun
+Kuͤſſen wolt / und mit etwan kaͤme nah.
+10.
+Drum ſol man wiſſen / wen man ſich kuͤſſen
+Kuͤſſen und Herzen laſſen ſol.
+Nicht jeden trauen / recht wol zu ſchauen /
+Den Leute ſeind offt Schalkheit vol /
+Auch eine Dam / an jhrem nam
+Vnd Ehren einen Flek bekommet bald
+Die nun iſt weis' / ſihe zu mit fleiß
+Wie ſie im kuͤſſen ſich behutſam halt.
+[Kustode] Es
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 29
+¶ Es iſt aber ein altes / daß der
+Mund offt weigert / was das Herze
+gern hette / es iſt jhnen mit nichten
+bedacht / weigern ſich vor den Leu-
+ten / daß wie geſagt iſt / ſie fuͤr die
+Leute die ſie ſeind / nicht moͤgen an-
+geſehen werden / wan aber ſolus
+com ſola (Haͤnsgen mit Gretgen)
+hinter der Thuͤr / oder auff der
+Kammer iſt / doͤrffen ſie wol ein
+anders wagen / dan es bekomt denen
+die es einmal gewonet ſein / das
+kuͤſſen und herzen / das kuͤzeln und
+ſcherzen viel zu wol / und koͤnnen gar
+nicht davon ablaſſen / wan ſie auch
+noch eins ſo maulfraͤnkiſch ausſehen
+wollen.
+¶ Man kan aber einer ſolchen nur
+zum ſchein / ſehr ſcheu und ſcham-
+haffte vermeinte Jungfrau / nicht
+beſſer belonen und wider beſchamet
+machen / als wau man jhr folgendes
+Chanſonette (welches zu dieſer
+unſer Loͤfflerei-Kunſt zum theil
+gehoͤrig / und von vorig-ungenanten
+[Kustode] B iij Autore
+[Seitenwechsel]
+[Kolumnentitel] 30 Loͤfflerei Kunſt.
+Autore alhier geſezet und geordnet
+worden) zum Schimpff vorſin-
+get / in welchem ein guter bekanter
+Freu~d zu ſeinem ewigen Nachruhm
+jhres Mores (Sitten und Gebraͤuche)
+gar artig beſchrieben hat.
+¶ Chanſonette.
+An eine (doch nur zum Schein)
+ſehr ſcheue und ſchamhaffte
+Jungfer.
+[Blaͤttchen]
+[Kustode] Jung-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 31
+[Notensatz]
+Jungfrau was moͤgt jhr euch
+[Notensatz]
+[Notensatz]
+ziehen / daß jhr pflegt vor
+[Notensatz]
+[Kustode] B iiij Mir
+[Seitenwechsel]
+[Kolumnentitel] 32 Loͤfflerei Kunſt.
+[Notensatz]
+Mir zu fliehen / gleich wie
+[Notensatz]
+[Notensatz]
+eine ſcheue Hinde /
+[Notensatz]
+[Kustode] Wie
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 33
+[Notensatz]
+Wie ein Haaß den Hund und
+[Notensatz]
+[Notensatz]
+Winde / jage~uͤber aus geſchwinde.
+[Notensatz]
+[Kustode] B v Jun-
+[Seitenwechsel]
+[Kolumnentitel] 34 Loͤfflerei Kunſt.
+¶ 1.
+Jungfrau was moͤgt jhr euch ziehen /
+Daß jhr pflegt vor mir zu fliehen /
+Gleich wie eine ſcheue Hinde /
+Wie ein Haaß / den Hund und Winde
+Jagen / uͤberaus geſchwinde.
+2.
+Warum wolt jhr euch verſteken /
+Wie ein Wild das in die Heken
+Sich verkreucht / vor aͤngſten bebet /
+Wan ein rauſchend Windlein ſchwebet /
+Alſo jhr in Furchten lebet.
+3.
+O laſt euch vor mir nicht grauen
+Jch hab keine Loͤwenklawen.
+Bin ich nicht wie ein Baͤer ſo grimmig
+Auch nicht raſend / ungeſtimig
+Wie ein Tigertier Zornſinnig.
+4.
+Jhr pflegt euch recht zugebaren
+Wie ein Kind von ſieben Jaren
+Gleich als ſeind euch fremd die Sachen
+Was jhr mit dem Mann ſolt machen
+Jch muß ſolcher Torheit lachen.
+5.
+Da ich euch doch offt geſehen
+Hie und dort ſpazieren gehen
+Wie jhr an der Hausthuͤrſchwellen
+Abends ſpat mit den Geſellen /
+Euch ſo freundlich koͤnnet ſtellen.
+[Kustode] 6. Eure
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt.
+6.
+Eure Stolzheit / euer Prangen
+Guͤldne Ketten / Perlein Spangen
+Theure Kleider / hohe Kragen
+Werdet jhr darum nicht tragen
+Euer Mutter zu behagen.
+7.
+Jhr ſpazieret / tanzt und ſpringet /
+Vnd die Zeit damit verbringet /
+Euer hoͤflich buken / neigen /
+Schwerz und Gaukelwerck deßgleichen
+An euch viel ein anders zeigen.
+8.
+Eurer loͤffeln / Haͤnde klopffen
+Halſen / kuͤzeln / kuͤſſen / ſtopffen
+Schmuzerlachen / ſchmazen / leken
+Ohrenzupffen / ſchimpffen / geken
+Was pflegt hinter dem zu ſteken.
+9.
+Anders nichts als daß jhr eben
+Euch nicht wolt ins Cloſter geben
+Wer nicht blind iſt kan wol ſchauen
+Daß jhr gleich wie ſonſt Jungfranen
+Euch lieſt gern mit einem trauen.
+10.
+Frag ich / was ſprecht jhr geſchwinde /
+Daß jhr ſeid der sach ein Kinde /
+Da jhr doch ſeid gnugſam muͤndig
+Zum Haußhalten gar ausbuͤndig
+Vnd ſonſt vielen Sachen kuͤndig.
+[Kustode] B vj 11. Seid
+[Seitenwechsel]
+[Kolumnentitel] 36. Loͤfflerei Kunſt.
+11.
+Seid geſchikt zu allen Dingen
+Man kan bald in euch was bringen
+Darum bitt ich euch nunmere
+Laufft doch vor mir nicht ſo ſehre
+Jhr habt deſſen keine Ehre:
+12.
+Jch wil herzen euch und kruͤken
+Lieben / laben / puzen / ſchmuͤken /
+Ehren / nehren und hoch achten
+Hegen / pflegen / euer wachten
+Wollet ſolches doch betrachten.
+13.
+Jhr hoͤrt daß ich meine Dinge
+Fein naruͤrlich vor euch bringe
+Jch verkauff euch keine Brillen
+Kurz und gut nach meinem Willen /
+Den viel Wort den Sat nicht fuͤllen.
+14.
+Gut teutſch red ich von den Sachen /
+Kan nicht viel uͤmſtaͤnde machen 7
+Wollet mich dennoch nicht haſſen /
+Sondern lieben guter maſſen /
+Wolt ihr nicht / ſo moͤgt jhrs laſſen.
+¶ Und dieſes iſt alſo genug von die-
+ſem Geſchlecht / das ander iſt aber-
+mal unterſchiedlicher Natur / jhrer
+etliche hangen an eine~Mann allein 7
+[Kustode] und
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 37
+und werden / darum in den alge-
+meinen Kaiſerlichen Rechten Con-
+cubinæ genaͤnnet / etliche aber der
+vermeinten Jungfrauen / machen
+ſich gemein / und werden Philoco-
+maſiæ das iſt / Gelochſchweſtern
+genennet / die mit unten und oben
+liegen / dergleichen war etwa jene / de-
+rer Sal. von Golau gedencket:
+Eine Jungfer ward zur Hur' / ei / was
+mehr ? der groſte Hohn
+Jſt / ſie ſol nun Buſſe thun: dan ſie laͤſt
+doch nicht davon.
+dieſe werden auch genennet charito-
+niæ puellæ, quæ ex Platonis diſciplina
+viventes gratiam venalem habent,
+nemini negant ſi modi argentum
+dat. die niemand Bitte verſagen /
+wan ſie nur Geld ſehen / oder wie
+man etwan davon zu reden pfleget
+die klein Geld verdienen / und ſich
+mit der Fauſt ernaͤren / darauff ſie
+ſitzen / ꝛc. Solche aber achten es
+gering / daß jhnen jhr Kraͤntzlein
+[Kustode] B vij genom-
+[Seitenwechsel]
+[Kolumnentitel] 38 Loͤfflerei Kunſt.
+genommen worden / ſeind deßwegen
+vielmehr erfreuet / weil ſie nachmals
+(wie gemeldet) jhren Gewin und
+Nuzen ferner ſuchen koͤnnen / wie
+folgendes Verslein deß mehr genan-
+ten S. G. bejahet:
+Wan euch wird die Jungferſchafft/
+Jungfer wo benommen /
+Troͤſtet euch / weil jhr hiemit Kundſchaft
+habt bekommen.
+¶ Es begegnete ohngefehr eine ſol-
+che Jungfrau auff offener Straſſe
+oder Gaſſe einem fremden Corti-
+ſanen / als derſelbige jhrer anſichtig
+ward / ſprach er mit gar leiſen halb
+teutſchen Worten zu jhr alſo / einen
+guten Morgen Giffru / ſol ich bi ju
+ſchlapen? Die Jungfrau (ſcilicet)
+antwortete / ich kan es nicht ver-
+ſtehen / Er replicirte. Giffru ich
+wil ju geben en Ducat / die Jung-
+frau ſolches hoͤrende / gab mit auf-
+gehabender Hand und ausgeſtrekten
+Fingern (welcher vier neben dem
+[Kustode] Dau-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 39
+Daumen waren) zu einer Loſung /
+wieviel Ducaten ſie begerte / folgen-
+der maſſen zu jhm ſprechend: Was
+ſaget mein Herꝛ?
+¶ Aus dieſen bleiben etliche in jh-
+ren Haͤuſern / laſſen niemand zu ſich
+als vorneme Herꝛn Cavaliers / Rit-
+ters / Edelleute / und ſonſt reiche
+Stuzer / die ganz Seiden und Sam-
+meten Roͤke / und Kleider / wie im-
+gleichen allerhand Kleidodien und
+ſtatlich Geſchmeide uͤm und an ſich
+haben / die vor ein jedes Raͤißlein
+einen Roſenobel oder Ducaten jh-
+nen in die Fauſt ſtechen / dahero ſie
+nicht unbillich Roſenobolares, Duca-
+tenales genaͤnnet werden / das heiſt
+Roſenobel Junfern / Ducaten
+Huren / und was dergleichen /jhrer
+Ehren anſtaͤndige /) Namen mehr
+ſein moͤchten.
+¶ Etliche aber begeben ſich in offene
+Hurenhaͤuſer / und werden proſti-
+bula, das iſt / Zazenſtiffts-Fruͤnd-
+nerin / oder Jungfraͤuliche Leib-
+guardi. [Kustode] Andere /
+[Seitenwechsel]
+[Kolumnentitel] 40 Loͤfflerei Kunſt.
+¶ Andere / vagiren drauſſen auff
+dem Lande / auff den Doͤrffern und
+Kirchmeſſen / in den luftigen Wie-
+ſen und Waͤldern / werden daher
+pecora campi, geſchleiert Wildpret /
+geſchleierte Wachteln / Nymphæ
+ſylveſtres, Nymphæ nemorales &#x0026;
+campeſtres rechte Waldgoͤttinen /
+die das Graß mit dem Hindern ab-
+mehen / Jtem Diobolares, halb
+Bazen Maͤgdlein / die nemlich nicht
+ſo gar theuer / damit ſein / ſondern
+mit einem Schilling oder etliche /
+ja mit einem halben Bazen friedig
+ſein / ꝛc. die meiſten ſchlachten wol
+gar der Pholoe nach / welche uns
+vorgemelter S. v. Golau in dieſen
+Verßen beſchreibet:
+Pholoe mag lange denken / dennoch wird
+ſie ſchwerlich wiſſen /
+Wan ſie / wo ſie / und wie ofte / der und je-
+ner kam zu kuͤſſen /
+Keiner iſt wol weg geweiſt / der jhr
+gleich nicht hat gelohnt /
+Auſſer dem / der ſeinen Mund / ſelbſt
+bedenklich hat verſchont.
+[Kustode] Dieſe
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 41
+¶ Dieſe und dergleichen mehr / wie
+ſie auch Namen haben / dieweil ſie
+in jure fuͤr meretrices und offent-
+liche Huren gerechnet / und gehalten /
+juxta l. ablears, [Paragrafenzeichen] ait prætor. l.
+palam. ff. de his qui not. infamil.
+[Paragrafenzeichen] non eſt ff. de re. N. diſt. 34.
+c. 36. c. meretrices. 32. quæſt. 4.
+pflegen gemeinlich mit dem ſtaupbe-
+ſem am pranger abgeſtrafft zu wer-
+den / gehoͤren unter die Zal unſer
+Loͤfflerei mit genoſſen oder angehoͤ-
+rige ganz nicht / ſondern wir wollen
+dieſelbe / als beruͤchtigte Leute von
+uns alhier ausdruͤklich ab- und aus-
+geſondert haben / ꝛc.
+¶ Mit den Concubinen aber / als
+da ſein die Edelfrauen / der Grafen
+und Herꝛen (Conteſſen genant)
+die buleriſchen der Edelleute auff
+dem Lande / der Domherꝛen / Vica-
+rien und Pfaffenkellerin / und das
+Erbare Geſchlecht zuſammen / hat
+es weit ein andere Beſchaffenheit /
+wollen auch dieſelbe alhie ungern
+[Kustode] aus-
+[Seitenwechsel]
+[Kolumnentitel] 42. Loͤfflerei Kunſt.
+ausſchlieſſen / ſintemal ſie beſagter
+maſſen nur einem allein anhangen:
+Und derowegen fuͤr beruͤchtigt oder
+unehrlich nicht gehalten werden
+koͤnnen / den uͤm eines Mannes
+willen / wird keine zur Hure / je mehr
+je beſſer / ſecundum Authent. vetu-
+larum informantium &#x0026; ſeducentium
+juvenculas fol. lacerato, ſpatio
+nigro ff. zwiſchen Pfingſten und
+Paſchen / ꝛc.
+¶ So iſt auch gewiß / daß concubi-
+natus (das Beiſchlaffen /) in Jure
+Civili, (dem algemeinen Gebrauch
+nach /) heutigen Tages wird zu-
+gelaſſen / tot. tit. ff. de concubin.
+Aus welchen geboren wird filius
+naturalis (ein Baſtart Sohn)
+welcher perſubſequens ad matrimo-
+nium legitimiret wird / und mit
+den andern Ehelichen Kindern zu
+gleicher Erbſchafft gehet. Novel.
+89. th. 8. daß er auch in den Lehen-
+Guͤtern ſuccedieret / Secundum Gail.
+2. obſ. 141. Daher den ein ſolches
+[Kustode] ehr-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 43
+ehrliches Geſinde der Concubinen
+das Beneficium erhalten / daß ſie
+nach dem Zunamen jhrer Herꝛn
+nechſten teils genennet werden / wie
+ſolches jener Bader und Schrepffer
+wol obſerviret / welcher / als etliche
+aus dieſer Matreſſen Compagnei /
+wider aus dem Bad gehen wolten /
+ſeinen Dienern zurieff / Langet der
+Frau Conteſſen von Schwarzen-
+walde ein Tuch / langet der Edel-
+Frauen von Finſterloch ein Tuch /
+langet der Franen von Wettingen
+ein Tuch / langet der Frauen von
+Grumbach ein Tuch / ꝛc. als welche
+alle miteinander / gute liebe getreue
+Concubinen / vornemer Herꝛen
+und Domherꝛen Frauen gewe-
+ſen.
+¶ Es were noch wol mehr von die-
+ſem Geſchlecht zu ſchreiben / als
+nemlich von jhrer groſſen Argli-
+ſtigkeit und jhrer getreuen Liebe /
+dan ſie entweden nichts als alles
+was Nagelloß iſt / ausgenommen
+[Kustode] alte
+[Seitenwechsel]
+[Kolumnentitel] 44 Loͤfflerei Kunſt.
+alte Schuͤſſelkoͤrbe / Hakemeſſer-
+ſtiele / Bonenſtroh / Spindelkoͤrbe /
+Rips Raps / alte Keſſel / Feder-
+wiſch / Beſem / Nußklaben / alten
+Schmeer und Federn von den Huͤ-
+nern / aber nicht von Gaͤnſen / oder
+was ſie ſonſt nicht wol koͤnnen an
+Tag bringen / die urſache iſt / ſie ha-
+ben jhre Herꝛen viel zu lieb / lieben
+ſie mehr als jhre eigene Ehre und
+Scham / (quia uſque adeo cumu-
+latis honoribus &#x0026; pudicitia abſunt
+gravatæ, das iſt: ſie ſein ſo voller
+Ehre und Scham ab gingen ſie da-
+mit ſchwanger / gleich wie ein Krebs
+mit Baumwolle /) derowegen ſie
+dan ſo wol auff jhre Dinge lugen /
+(acht haben /) und wie es beſtens
+muͤglich ist / ſich argliſtiger Weiſe
+befleiſſigen / daß ſie jhren Herꝛen
+wider ins Herz kommen / ſintemal
+jhnen dieſes eine unfelbare maxima
+iſt / komſt du jhm in das Herz / du
+komſt jhm auch wol in den Sekel /
+zuverſtehen da der Saame in iſt /
+[Kustode] da
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 45
+da man die Leute mit bezalet / ex L.
+nim Guͤlden und Gelt / das du fin-
+deſt. C. de nun num. pecun. wollen
+derhalben dieſelbe vorbei gehen / und
+zu den Weibern ſchreiten.
+¶ Unter den Weibern werden hier-
+mit verſtanden unſere junge Wit-
+frauen: (wiewol dieſelbe der freien
+aͤnlichen Liebes-uͤbung halber bil-
+lich den jungfrauen beigeſezet wer-
+den muͤſſen) von denen die H.
+Schrifft ausdruͤklich gebietet / daß
+man ſich jhrer annemen / und das
+Werk der Barmherzigkeit an jhnen
+nicht vergeſſen ſolle. Und daß ſon-
+derlich in dieſen unfriedſame~ Zeiten
+da faſt eine jede vorneme Witwe /
+wil lieber in jhrem freien Stande
+verbleiben / als jhre Freiheit uͤm
+jhren Mann verkauffen / vor dieſem
+haben ſie die Furcht der Uneinigkeit
+ſelbſt taͤglich in der Ehe empfunden /
+und in einer Dienſtbarkeit gelebet /
+jhr Mann ſeliger begurnete und
+bekurnete ſie alle Stunden / und
+[Kustode] konte
+[Seitenwechsel]
+[Kolumnentitel] 46 Loͤfflerei Kunſt.
+konte demſelben nichts zu dank ma-
+chen.
+¶ Nach dem ſie nun wider frei
+worden / leben ſie in gutem Friede /
+ohn Hader und Zank / jhnen iſt
+Freude die fuͤlle / und lieblich We-
+ſen taͤglich in jhren Haͤuſern / wer-
+den anjez von den allervornemſten
+auffs aller freundlichſt carechiret /
+(geliebet /) uͤben ſich auch in der
+Loͤfflerei / der eine iſt noch beliebter
+als der ander / und wil ſich ein jeder
+mit ſeiner Hoͤflichkeit / mit ſeinen
+holdſeligen Geberden muͤglichſten
+fleiſſes bei jhr einvettern und ein-
+drehen.
+¶ Vor dieſem muſten ſie ſich ſchmuͤ-
+ken und zieren jhrem Mann allein
+zugefallen / und bei demſelben ſtets
+zu Hauſe / wie eine Schneke ſein /
+nunmer aber / moͤgen ſie die aller-
+beſte Courtiſanen und Lofflers
+auserwelen / von denen / der eine
+eine Caroße mit 4. der ander mit 6.
+Pferden / fuͤr die Tuͤre ſchiket / zu
+[Kustode] ſich
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 47
+ſich in den Luſtgarten holen laͤſſet /
+und mit derſelben auffs Land ſpa-
+zieren / hinans faͤhret / hieraus dan
+zu erſehen / was maſſen ſich die
+Weiber und Witwen auch in der
+Cochleation Kunſt zu exerciren wiſ-
+ſen: Unlaͤngſt hielte ein guter be-
+kanter Witwer / bei einer Witwen /
+uͤm die Ehe an / die gab jhm nach
+etwas Wortwechſelung / dieſen end-
+lichen Beſcheid:
+J / j / es muͤſte mich ſehr wunderlich ge-
+luͤſten /
+Es were wol mein Freund / wan wirs nit
+beſſer wiſten.
+Mit euch iſt nichts gethan /
+Jhr ſeid zu Venus-Sachen /
+Ein ausgedoͤrter Hahn /
+Was ſolt ich mit euch machen?
+¶ Von dieſen Weibern aber der
+Gebuͤr nach zu handlen / haben wir
+ſo wenig Zeit als Gelegenheit /
+wollen derwegen nur mit wenigen
+beruͤren das jenige / welches uns zu
+[Kustode] unſerm
+[Seitenwechsel]
+[Kolumnentitel] 48 Loͤfflerei Kunſt.
+unſerm Vorſaz am nechſten dienlich
+iſt / nnd folgen hierauff unterſchied-
+liche opiniones (Meinungen) und
+controverſiæ, (Streitſachen)
+ſo eins oder andern Mangels hal-
+ber pflegen eroͤrtert zu werden / wel-
+che zu ſonderlicher Anleitung und
+Nuz herbei geſezet und entſchloſſen
+werden.
+¶ Carpocrates ein Heidniſcher Phi-
+loſophus hat gelehret / die Weiber
+uͤerall muͤſten gemein ſein / die-
+ſem haben hernach Beifall geben /
+die Nicolaiter Teſte hiſt. Eccl. lib. 3.
+c. 29. welchen gefolget die Ana-
+baptiſten und Widertaͤuffer / biß
+auff den heutigen Tag / daß alſo die
+Gemeinſchafft der Weiber / wie
+vielen traͤumenden nicht etwas neu-
+es / ſondern von Alters hero bei vie-
+len Voͤlkern im zwange geblieben /
+und algemaͤhlich auff jhre Nach-
+koͤmlinge biß an uns kommen iſt /
+wie daſſelbe bezeugen Didor. lib. 1.
+cap. 1. Alex. lib. 1. cap. 1. Cœlius
+Rhod. lib. 1. c. 18. [Kustode] Und
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 49
+¶ Und gewiß iſt es und unlaͤugbar /
+daß auch Cabades Koͤnig in Per-
+ſien 7 welcher fuͤr wenig Zeit gleich
+wie Edgerius ſchreibet lib. 4. Den H.
+Nicolaum noch vor einen Gott ver-
+ehret hat / ſichere leges und Geſeze
+geben / darin den Maͤnnern verguͤn-
+ſtiget und zugelaſſen worden / mit
+einem jeglichen Weibe ohn unter-
+ſcheid zu bulen.
+¶ Mahomet der Tuͤrkiſche Geſez-
+geber hat faſt desgleichen Geſez in
+ſeinem Alcorano / vermoͤge deſ-
+ſen noch auff den heutigen Tag
+ein jeder Mann in Tuͤrkei mag 12.
+Weiber haben / und uͤber das
+noch ſo viel Maͤgde auff der Stroͤhe
+halten / als jhnen geliebet / atteſtan-
+te Sylvio. c. 56. Polyd. de invent.
+rer. lib. 7.
+¶ Wir aber / die wir nunmer biß
+auff das Ende der Welt kommen 7
+und von Jaren zu Jaren / ſo wol an
+Kraͤfften als Guͤtern immer ab-
+nemen / und deswegen nicht ſo BE-
+[Kustode] C ſtand-
+[Seitenwechsel]
+[Kolumnentitel] ####
+ſtand / wie unſere Vorfahren laͤnger
+ſein / mehr den eine Frau zu conten-
+tiren (vergnuͤgen /) halten von
+ſolcher Gemeinſchafft nichts ſonder-
+liches / und damit dieſelbe ſoviel
+muͤglich bei uns verhuͤtet werde / ſo
+werden biß auff dieſe Stunde / hin
+und wider ſoviel Hurenhaͤuſer ver-
+guͤnſtiget / in welchen / ſonderlich
+zu Rom / zu Venedig / Antwerpen /
+Bruͤſſel / Amſterdam / Coͤllen und
+zu Muͤnſter / und in andern auch
+groſſen (alwo nemlich das Huren-
+hauß verbrant / und die Aſche uͤber
+alle geflohen) vornemen teutſchen
+Staͤte~ mehr / taͤglich etliche tauſend
+Courtiſanen an ſtat der Weiber
+verkaufft und bedungen werden /
+das man an denſelben Oertern wol
+gleich ſoviel Hurenwirte / als Flei-
+ſcher / Beker und Brauer finden
+mag.
+¶ Nichts deſto weniger aber / ſo
+koͤnnen wir unſere Frauen nicht
+ansſchlieſſen / wir koͤnnen ſie aus
+[Kustode] der
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 51
+der Negotiation und Handlung
+ganz nicht entperen / gleich wie wir
+dan ſehen / daß in den groſſen Anſee-
+oder Handel- auch andern Staͤten /
+ſonderlich da viel Studenten /
+Scribenten und Clerici zu Plaz
+ſein / viel fremde und Auslaͤnder
+aus Spanien und Frankreich / ꝛc.
+zuſammen kommen / die Weiber die
+nechſte und beſte Handlung treiben /
+und ſich uͤberalle maſſen wol darein
+uͤben.
+¶ Und dieſes / weil es am Tage und
+mehr dan notori, kund und offenbar
+iſt / ſo bedarff es auch nicht viel be-
+weiſens / ſed ſola ſufficit allegatio l.
+ſi adulterium cum inceſſu. [Paragrafenzeichen] idem
+Pollioni, ff. adl. jul. de adult. Dabei
+wir es auch beruhen laſſen.
+¶ Uber das / iſt einem Mann unmuͤ-
+glich / daß er im~er zu Hauſe ſize / ſeine
+kleine Hauſarbeit beſtelle / oder ſonſt
+der Gebuͤr nach / alle ſeine Sachen
+beobachte / und wie es ſich geziemet
+ſeiner Hausfrauen ein genuͤge~leiſte /
+[Kustode] C ij dero-
+[Seitenwechsel]
+[Kolumnentitel] 52 Loͤfflerei Kunſt.
+derowegen iſt zu Recht ganz wol
+verſehen / daß auch zu deſſen Behuff
+ein wol qualificirter Procurator
+kan beſtellet werden / derſelbige
+onera (Beſchwerungen) verꝛichte
+l. 28. ff. de neg. geſt. c. nu. final. X.
+de proc. in 6. und es gilt alle gleich /
+was fuͤr einen wir dazu erwelen
+wollen / wan derſelbe nur (ad annos
+diſcretionis) uͤber ſeine 25. Jare
+kommen / wiewol auch de jure civili
+(nach der FrauenLuſt / und eigenen
+Belieben /) zulaͤſſig iſt / in dieſer
+Sache zu Zeit der Not / wan man
+keine ſtaͤrckere uñ beſſere haben kan /
+einen dazu erwelen / der nur ſeine 14.
+Jare erꝛeicht / ſecundum [Paragrafenzeichen] juſta
+inſtit. qui ex cauſ. man. L. 12. C. de
+procur. Dieſer aber hat ſich wol
+vorzuſehen / (ne quid vi. me#uve
+aut dol#cauſa, &#x0026;c.) Daß er nicht
+mit Gewalt / gleich wie ein Hund
+in die Kirchtuͤre ſich eindringe /
+al# dieweil auff ſolchen Fall da er
+wolte Betrug und Argliſt zugleich
+[Kustode] und
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 53
+und auff einmal brauchen / er ent-
+weder am Leben oder nach wilkuͤr
+des Richters mag abgeſtraffet wer-
+den. P.H.O. Caroli V. art. 118. &#x0026; ſecq.
+Vogel. c. 6. lit. 9. ad conſt. Carolin.
+muß derhalben ſothaner vorgeſaͤzter
+Procurator fuͤrnemlich ſich der
+Herꝛn Medicorum Regel gemaͤß
+verhalten / welche lautet:
+Nur nicht zuwenig / nicht zuviel /
+Die Mittel maß' erꝛeicht das Ziel:
+Wer ſchreitet uͤber Maß und Ziel /
+Der machet ein verdorben Spiel.
+¶ Jnſonderheit aber iſt hoch noͤtig /
+daß uͤber ſothane Verꝛichtung eine
+Verſchreibung und Verordnung
+auffgezet / und ſelbiger einverleibet
+werde / daß nemlich der Gewalt-
+geber / jhm Vollmaͤchtigern volkom-
+mene Macht und Gewalt erteile /
+daß jhm alles und jedes zuhandeln /
+zuthun und zulaſſen / frei geſtellet
+ſei / und daß alles / was alſo gehan-
+delt worden / er jederzeit pro rato
+[Kustode] C iij (##
+[Seitenwechsel]
+[Kolumnentitel] 54 Loͤfflerei Kunſt.
+fuͤr bekant / gut und angenem) hal-
+ten wolle / als were es in Perſon von
+jhm ſelbst verꝛichtet worden.
+¶ Auch iſt zuverſehen und auszu-
+dingen / daß Sachwaltern ſeiner
+treuen und fleiſſigen Verꝛichtung
+wegen / ein ſatſamer Recompens
+(Vergeltung) und gebuͤrende Er-
+gezligkeit in baarem Gelde werde;
+dan ein treuer Arbeiter iſt ſeines
+Lohnes wert / und wer wil des H.
+Grabes uͤmſonſt huͤten?
+¶ Zudem / wan der Gewaltgeber
+nicht kuikeriſch ſondern fein Koſt-
+frei iſt / erlanget er deſto ehe / was
+ſeinem lieben Weibgen noͤtig iſt /
+auch hat er ſich fuͤrohin deſto kuͤner
+zugetroͤſten / und zuverſichern / daß
+jhm ferner ausgeholffen und er in
+jhr Arbeit entſezet werde / laut des
+Verſes:
+Die ganze weite Welt /
+Gehorcht allein dem Gelt /
+Vnd was das Gelt begeret /
+Das wird jhm bald gewaͤret.
+[Kustode] Und
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 55
+Und ſonſt der Franz-Mann
+ſaget:
+Qui à florin, roußin, Latin,
+Partout il trove le chemin. das iſt:
+Ein Mann von Pferd und Gold und
+lauffigem Latein /
+Komt jeden Weg hindurch / und allent-
+halben ein.
+Muß derowegen der Gewaltgeber
+bei jhm ſelbſt reiflich erwegen / daß
+es eine groſſe und hohe Gutthat ſei /
+die jhm erzeiget werde / und muß er
+in ſolchem Fall nichts ſparen / den
+was muß mancher nicht thun / uͤm
+der lieben Wurſt willen? Und wer
+wird ſolch eine ſo offt widerholete
+Arbeit uͤmſonſt volbringen? Es
+heiſſet ja:
+All unſer Sinn und Mut /
+Steht nur auf Gelt und Gut.
+Und gleichwie er ſeine Reiſen
+auch offt mit groſſer Leibes und
+Lebens Gefahr antrit / aus Hoff-
+nung gnter Nuzen und Vorteil
+zuſchaffen; Eben alſo Bevolmaͤch-
+tigter / muß er nicht faſt unzehlich
+[Kustode] C iiij v###
+[Seitenwechsel]
+[Kolumnentitel] 56 Loͤfflerei Kunſt.
+vielmal in die Tieffe fahrn / da noch
+Liecht noch Schein zuſpuͤren / muß
+ſich mit ganzem Leibe / ja alle ſeinen
+Gliedmaſen regen und bewegen /
+und gleichſam (als ein wolbeſtaͤltes
+Urwerck) nimmer ſtill ſein / biß
+das Weibgen / nach jhrem Wol-
+gefallen beguͤtiget worden / uͤm deß-
+wegen iſt je ganz billich / daß er auch
+ſeiner Arbeit wuͤrcklich genieſe / und
+ergezet werde.
+¶ Wird aber der Mann hiezu ſei-
+nen / oder eines andern Diener be-
+ſeligen / ſo derſelbe in ſchaden neben
+vorgedachtem Procuratore geriete /
+und wie des Muͤllers Hund zu Aff-
+huppe wider zu Hauß ohn ſchwanz
+kaͤme / ſo kan derſelbe committens &#x0026;
+conſtituens ex actione de ſervo cor-
+rupto &#x0026; damno dato beleget und
+belanget werden / und iſt gehalten
+den Schaden voͤllig zu erſtatten.
+¶ An dieſem Ort kan auch wol
+fuͤglich gefraget werden / ob auch
+ein Mann ſein Weib verkauffen /
+[Kustode] oder
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 57
+oder einem andern auff gewiſſe Zeit
+wol verleihen koͤnne / dieſes wollen
+etliche behaupten / und auffs aͤuſſer-
+ſte verfechten / ex Ariſt. 1. po. 2. &#x0026;
+3. Item ex l. 9. C. de rei vindic. l. fer-
+vum 21. ff. de manumiſſ. Tiraq. de
+retract. in p. 7. n. 15. &#x0026; ad l. connub. 1.
+per tot. l. 8. &#x0026; 9. ff. de commod. hievon
+hat unſer guter Freund Joſeph Cor-
+nelius von Frauenliſt / als ein ſehr
+gelaͤhrter Mann / in ſeinem Hanrei-
+ſtuzer / uͤber alle maſſen ſchoͤn und
+ausfuͤrlich geſchrieben: dahin wol-
+len wir den wolgeneigten Leſer ge-
+wieſen haben.
+¶ Wir aber begeren unſere Naſe
+daran nicht zu reiben / maſſen uns
+beſſer bewuſt / daß keiner gern ſein
+Weib und Pferd einem andern lei-
+het / und ſolches beſchlagen / und nach
+eines jeden gefallen bereiten laͤſſet /
+inmittels iſt gewiß und unlaͤngbar /
+daß jhm vergoͤnnet iſt dieſelbe zu
+vertauſchen / in l. r. tot. tit. de rer.
+perm. welches dañoch cum mica ſalis
+[Kustode] C v muß
+[Seitenwechsel]
+[Kolumnentitel] 58. Loͤfflerei Kunſt.
+muß verſtanden werden / als nem-
+lich auff Hochzeiten im Tanz / ſonſt
+ander Geſtalt nicht / einem guten
+Freunde aber / mag er ſie uͤberlaſſen
+doch / nicht weiter als das gemeine
+Sprichwort lautet / [griechisches Zeug]
+[mehr griechisches Zeug]
+¶ Dan alſo wird geleſen / daß So-
+crates einer von den allerklugſten
+Philoſophen ſeine Xantippen einem
+gute Freunde verguͤnſtiget habe /
+wie desgleichen der Cato ſein Weib
+dem Hortenſio, referente Laertio,
+l. 2. in vita Socratis. item Appiano
+l. 2. bell. civ. Daher dan bei den
+Spartanern / das Geſez entſtan-
+den / daß einer mit des andern Weib
+wol frei und oͤffentlich moͤchte
+bulen / wans nur mit des Manns
+Conſens und Bewilligung geſchehe /
+atteſtante Cicerone, lib. 1. de inven-
+tione, welches dannoch heut zu Tage
+auch wol ſine conſenſu martiti (ohn
+Bewilligung des Ehemannes) ge-
+uͤbet und getrieben wird / doch thut
+[Kustode] der
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 59
+der jenige / dem das Weib alſo aus
+Freundſchafft uͤbergelaſſen wird /
+ſehr wol und kluͤglich / wan er den
+Mann zum Recompens ein ehrli-
+ches Honorarium zum geringſten
+wider verſpricht / den alſo enziehet
+er ſich der Straffe / und kan fuͤr kei-
+nen Ehebrecher beſchuldiget und an-
+geklaget werden / quia mercede in-
+terveniente meretricium &#x0026; ſimonia-
+cum eſt, cap. ord. &#x0026; cap. 5. nonulli. 1.
+quæſt. 1. Conſuetudo autem cum
+meretrice quam fornicationem ſim-
+plicem DD. noſtri appellant, quæ
+mercede interveniente fit, ab adulte-
+rio diverſa eſt, &#x0026; illius pœnam jura
+non definivere, L. 1. 3. [Paragrafenzeichen] 2. ff. ad. L.
+jul. de adult.
+¶ So mag auch ein Mañ ſein Weib
+den Creditoribus (oder Schuldher-
+re~/) wol hypothecæ loco, (an Pfan-
+desſtat /) verſezen / l. 1. in princ. l 15.
+[Paragrafenzeichen]. 1 ff. de pig. &#x0026; hypot. quia Domini
+veri oppignorare poſſunt res quas-
+cunque lib. 6. Cod. quæ res pig.
+[Kustode] C vj obiig.
+[Seitenwechsel]
+[Kolumnentitel] 60 Loͤfflerei Kunſt.
+oblig. l. 13. ff. de pig. &#x0026; hypot. Der
+Creditor aber darff jhrer nicht ge-
+brauchen / es were dan / daß man
+ſich hieruͤber vorhin ausdruͤklich
+vergliechen / ut vigore talis clauſulæ
+quarentigiatæ in continenti in hypo-
+thecata bono ſeſe immittere &#x0026; poſſi-
+dere eadem poſſit, daß nemlich der
+Verpfaͤnder / dem Schuldherꝛn /
+das verpfaͤndete Gut (als das
+Weib /) alſobald / als eigentuͤmlich
+uͤberlaſſen und zubeſizen / uͤbergeben
+hette: Dan auff ſolchen Fall mag
+er ſie gebrauchen nupt. l 1. [Paragrafenzeichen]. 8. l. 3.
+[Paragrafenzeichen]. 3 ff. Nautæ caupon. ſtab. muß aber
+ſonderlich acht haben / daß er fein
+hoͤflich und ſanfft mit dem Fraͤugen
+uͤmgehe / damit das Sigillum inſtru-
+mento appenſum nicht verlezet
+werde / doͤrffte ſonſt der urſachen
+halber wol in eine wuͤrkliche Straffe
+genommen werden / wie wir deſſen
+ein ſtarkes Præjudicium haben an
+den Kaufherꝛnn zu Coͤlln / der von
+der Frankforter Meſſe kommen /
+[Kustode] und
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt 61
+und das Sigillum an ſeiner Frauen
+Jnſtrument verlezet befunden / ſich
+daruͤber beim Magiſtrat hefftig
+beklaget / und der jenige / welcher
+es verlezet / in merkliche Straffe ge-
+nommen worden.
+¶ Wir kommen nun zu den vorhin
+angedeuteten Procuratorn der alſo
+(in re uxoria) im Frauen Hemde
+gebrauchet werden ſol / derſelbe
+Procurator wird noch mit vielen
+andern Namen genennet / und viel-
+mal Capellan / Vicarius inquilinus
+Hanßhan / Haußgenoß / ungeſol-
+deter Subſtitut / Verwalter / Ehe-
+helffer / Helffer und Helffershelffer
+geheiſſen / und muß alzeit præcisè
+und ohnlaͤngſt hinterhalten ad fa-
+ciendum das iſt / geſchwind / fertig
+ſein / ſo offt und vielmal die Frau
+ſeiner begeret / ſeines Troſts und
+Huͤlffe vonnoͤten hat / es were den
+ſache / daß der natuͤrlichenn Vnmoͤ-
+glichkeit nach / weder Troſt noch
+Huͤlffe jm moͤchte zuflieſſen / ſo iſt er
+[Kustode] C vij ###
+[Seitenwechsel]
+[Kolumnentitel] 62 Loͤfflerei Kunſt.
+auff ſolchen Fall / nach aller DD.
+(Rechts-Gelaͤhrten) einhelligen
+Meinung entſchuldiget / l. 11. l. 36. ff.
+de act. empt. l. 25. ff. contrah. empt. l 2.
+ff. ſi cert. pet. Dan (in re uxoria) im
+Frauen hemde / ha~delt man ehrlich /
+auff gut trauen und glauben.
+¶ Darum muß ein jeder in ſolchen
+Verꝛichtungen ſein beſtes thun / und
+wie man ſaget den Wirt par beza-
+len / dan ſie koͤnnen nicht borgen /
+oder langen Verzug leiden / oder
+aber da einige Verſaͤumnis  / Verzug
+oder Hindernuß dazwiſchen koͤmt /
+iſt man ſchuldig / jhnen davon inter-
+eſſe &#x0026; cenſum (Verſaͤumnis und
+Schaden) zuerſezen / und ſie beſter
+maſſen zu befriedigen. Etenim tam
+in bonæ fidei quam juris ſtricti alio-
+quin contractibus, uſuræ ex mora et-
+iam debentur, jure Canonico l. 24.
+ff. de præſcript. verb. l 11 ff de uſur. ex
+mor. ergo etiam fructus &#x0026; omnes ac-
+ceſſiones. l. 28. ff. de uſur. &#x0026; mor. Geſt.
+de mora. c. 3. n. 18. e#á obligationem
+[Kustode] ad
+[Seitenwechsel]
+[Kolumnentitel] ###########
+ad intereſſe inducit l. 8. quod cert.
+loc. arg. l. 22. ff. ſi cert. petatur.
+¶ Diß aber wird eigentlich fuͤr den
+Verzug gerechnet / wan nemlich
+der conſtituens maritus (der Ehe-
+man ſelbſt) oder deſſen conſtitutus
+procur. (verordneter Aushelffer)
+um die Gebuͤr und ſchuldige Pflicht
+beſcheidenlich angeredet / und zu
+Ablegung derſelbe~ angemanet wor-
+den / und dannoch ſolches zu gebuͤ-
+render Zeit nicht verꝛichtet / was er
+ſchuldig / auff ſolche weiſe iſt derſelbe
+verhafft den verzug / mit Zinſen /
+oder wie es beſtens anderer Geſtalt
+geſchehen mag (daß nemlich / was
+damal verſaͤumet dupliciret uñ beſ-
+ſer gemachet werde) zuerſezen uñ zu
+belegen / deſſen Verordnung / der diſ-
+cretion eines gerechten unparteiſche~
+Richters anbetrauet wird / juxta l. 3.
+in fin. ff. de mor. l. 5. ff. ſi cert. petatur.
+Menoch. de arb. jud. q. 220. n 28.
+¶ Wiewol aber hingege~ viel excepti-
+ones und limitationes (Ausfluͤchte)
+auff den Plan gebracht werden 7
+[Kustode] ka#
+[Seitenwechsel]
+[Kolumnentitel] 64 Loͤfflerei Kunſt.
+kan aber erſtlich dawider nichts
+helffen noch ſtat haben / daß inter-
+dictum ne quid in loco ſacro, wie
+auch / ne quid in loco publico vel in
+itinere fiat, dieweil eben die Kauff-
+leute und andere wegfertige Her-
+ren / „ie raͤuſen oder ſchiffen / daſſelbe
+allenthalben in oͤffentlichen Herber-
+gen / oder auch wol vielmal auff oͤf-
+fenlichen landſtraffen ohn einige
+Nachfrage fleiſſig uͤben und trei-
+ben. Und alſo viel weniger das /
+ne quid in flumine publico # ripave
+fiat, dieweil es die Fiſcher und das
+ruchloſe Geſindlein die Schiff-
+burſch nicht viel beſſer / ſondern
+aͤrger machen; So hilfft auch kein
+Feſt-noch Faſttag / alle Tage Feir-
+ und Werktage / ja die Nacht ſelber
+ſeind bequem / daß man in und an
+denſelben ſolche Thaten anſtelle /
+einrichte und treibe: Alhie gelten
+keine Ferien / keine Arnzeit / noch
+einige Kirchenmeſſen / dieſe That
+muß immer getrieben ſein / nit nach
+[Kustode] den
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 65
+den Geſezen der Rechtsgelehrten /
+ſondern nach Ordnung der (Medi-
+corum, und) Leibarzte / die uns
+dan deſſen gewiſſe Regeln und Ge-
+bote fein ordenlich vorgeſchrieben
+haben: als nemlich NB. in codem [Paragrafenzeichen].
+Bis in die edendum.
+Bis in nocte tangendem inſtrumentum.
+Bis in Septimana ſaltandum juvenibus.
+Bis in menſe cucurbitandum ſenibus.
+Welches die jenige / die nur das
+geringſte gelernet / wol verſtehen /
+und denen / die es auch zu wiſſen be-
+geren / fein natuͤrlich erklaͤren und
+beibringen koͤnnen / ꝛc.
+¶ Jſt aber ganz unnoͤtig / daß man
+hiezu Calender wolle gebrauchen /
+und allemal zu ſehen / ob es auch im
+guten Zeichen ſtehe / dan alle Men-
+ſchen ſein Luͤgner / wie die H.
+Schrifft redet / vielmehr dan der
+Calender / ſo vo~ den Menſche~ gema-
+chet iſt / ſo hat auch gleichfals alhie
+keinen raum exceptio loci non tuti,
+[Kustode] wan
+[Seitenwechsel]
+[Kolumnentitel] 66 Loͤfflerei Kunſt.
+wan man ſich nur um einen Salvum
+conductum und guten freien Paß
+ad Cameram (puta charitatis) be-
+wirbet / c. accedens 4. ut lit. non
+cont. late Coler. de proceſſ. execut.
+p. 4. c. 1. 170. wobei dan ſonderlich
+zu beobachten / daß demſelben Paß
+der Terminus paſſiren und repaſ-
+ſiren / expreſè und deutlich mit
+einverleibet werde / damit man habe
+non tantum veniendi, ſed &#x0026; rece-
+dendi conceſſionem, ſo wol einen
+freien Ab- als Zutritt / juxta Me-
+noch. 2. arb. jud. quæſt. concluſ. 4.
+&#x0026; 136. und das / wegen ſonderlicher
+Urſache weil etliche Maͤnner zwar
+zu Anfang und bei erſter Ankunfft
+jhre Procuratores comiter und ganz
+freundlich empfangen / hernach
+aber / ſo ſie jhre Sachen verꝛichtet /
+und wider weggehen wollen / die-
+ſelbe ganz undankbarlich / ſchlecht
+und uͤbel tractiren.
+¶ Jm geringſten darff man ſich
+nicht behelffen mit der Ausflucht
+[Kustode] oder
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 67
+Entſchuldigung / Sc. Vellejani den
+Weibern zugefallen geben / ut in-
+firmitati ipſarum conſulatur, (daß
+man nemlich frage / ob es jhre
+Schwachheit auch vertragen koͤn-
+ne /) maſſen dan die gewiſſe Erfa-
+rung darthut / daß kein Weib ſo
+kraͤnklich ſei / welche dieſe Action
+nicht koͤnne erleiden / oder derſel-
+ben beiwonen / geſtalt das Verslein
+bezeuget und belehret / daß es ein
+nichtig ding / den Kranken fragen /
+ob er wolle geſund ſein / dan er
+ſpricht:
+Frag keinen Kranken nicht / ob er geſund
+wil ſein?
+Bring lieber bald herbei das Heil fuͤr
+ſeine Pein.
+¶ Es moͤchte aber ein Weib alzu
+unbeſcheiden ſein / gar kein Diſcre-
+tion brauchen und immer mit of-
+fenem Sake fertig ſtehen / und den
+Mann / oder dero Procuratores
+viel zuviel auffodern wollen / So hat
+[Kustode] man
+[Seitenwechsel]
+[Kolumnentitel] 68 Loͤfflerei Kunſt.
+man auff ſothanen Fall noch eine
+gute Ausflucht / die uns zu dem
+Ende im Rechten vorbehalten / als
+nemlich / ne reus conveniatur ulte-
+rius niſi in id quod facere preſt. 1. 3.
+ff. de except. Vermoͤge welchen wir
+uͤber vermoͤgen nicht moͤgen be-
+ſchweret werden / und gleich wie
+nun dieſe exceptio zugelaſſen iſt /
+wird uns auch gleichfals zu rechte
+verſtattet / eine gebuͤrliche Wider-
+holung genant / replicatio, dieſer
+folgen duplicatio und triplicatio,
+und werden folgends in hoc paſſit
+die Termini ſo lang multipliciret /
+biß endlich die Partheien ſich gut-
+willig ſubmittiren, l. 2. [Paragrafenzeichen]. de except.
+[Paragrafenzeichen]. 1. &#x0026; ſeq. inſtitut. de replicat. und
+ſolches directè wider den uͤblichen
+praxin Cameræ imperialis, welcher
+expreſsè verbietet / daß in dilatoriis
+ultra duplicationem, und in den
+preemptoriis ultra triplicationem
+nicht ſolle und moͤge procediret wer-
+den / ordin. Cameræ pag. 3. tit. 22. [Paragrafenzeichen].
+[Kustode] Wo
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 69
+Wo aber &#x0026; tit, 29. in fin. Conſt. pro-
+vinc. Sax. p. 1. tit. 18.
+¶ Hingegen und alſo auch die
+Maͤnner / welche der Frauen ver-
+ſchonen / und zu den Maͤgden gehen /
+werden deshalber nicht alſo fort
+unehrlich / maſſen dan ſie ſich hierin
+der Exempel der Alten koͤnnen ge-
+brauchen / und damit genugſam ver-
+taͤdigen / welche dan viel mal unſer
+Muͤtter verſchonet / mit Maͤgden
+ſich beholffen / oder ſonſt mit andern
+im Neſt geleget / deſto weniger aber
+dadurch einige Verleumdung auff
+ſich gezogen haben.
+¶ Derowegen den ſochen Falls im
+gemeinen Recht keiner Frau geſtat-
+tet wird jhren Mann des Ehe-
+bruchs zu beſchuldigen und an zu
+klagen. l. 1. C. ad l. jul. de Adult.
+doch darff ſie wol querelam de inof-
+ficioſo Teſtamento wider jhn vor-
+bringen / wan er ſeine Haus-Arbeit
+zu vielmal verſaͤumet / und dieſelbe
+ſeiner Schuldigkeit nach nicht ver-
+[Kustode] richte#
+[Seitenwechsel]
+[Kolumnentitel] 70 Loͤfflerei Kunſt.
+richtet Nov. 118. c. 1. &#x0026; 4. Etenim
+juxta ſanctionem pontificus maritus
+inſuper tenetur uxori ad reddendum
+debitum, &#x0026; è contra uxor marito c.
+tua nos X. de jurejurando.
+¶ Jſt aber der Mann zu hizig / hat
+ſich die Frau ſeiner zu groſſer Be-
+gierlichkeit billich zu beklagen / und
+iſt alsdan der Frauen leicht geholf-
+fen / der Mann kan an die Maͤgde /
+oder an andere gute Leute verwieſen
+werden / maſſen ſonſt keine andere
+Rechte von dergleichen ſeltenen und
+ſelzamen Begebenheiten verordnet
+zu ſein befunden werden / l. ex his. ff.
+de leg.
+¶ Solte derowegen der Mann
+(nach dem Sprichwort: Varietas
+delectat,) ein niedlich extra Biß-
+gen verſuchen wollen / ſo iſt billich /
+daß er ſeinen Weibgen dergleichen
+geſtatte; und ſolcher Geſtalt koͤnte
+ein Wechſel / (zumal wen beeder-
+ſeits guter Wille dabei iſt) wol zu-
+gelaſſen werde~ / nach dem Verslein:
+[Kustode] Wil
+[Seitenwechsel]
+[Kolumnentitel] #############
+Wil der Herꝛ / daß ſeine Frau / jhre Magd
+jhm lege bei /
+Muß er / daß der Knecht zur Frau / moͤge
+kriechen / ſtellen frei.
+Den wer kan immer einerlei eſſen /
+und deſſen nit muͤde werden? daruͤm
+mag einer wol zuweile~ etwas frem-
+des ſuchen / doch muͤſte er zuſehen /
+daß es jhm nicht ergehe / als jenem /
+dem ſeine Nachbarin in die Augen /
+hernach gar ins Herz kame / ſo / daß
+der Tag und Nacht gelegenheit ſuch-
+te / ſeine geile Luͤſte anzubringen.
+Nachdem uͤm beiderſeits Zeit be-
+ſtimmet worden / und dieſer Wechſel
+fuͤrgehe~ ſolte / eroͤffnet dieſe ehelich
+Frau / jhrer Nachbarin jhres Man-
+nes unkeuſches begeren / gab jhr
+auch dieſen Unterꝛicht / daß ſie uͤm
+ernante Zeit an den beſtimten Ort
+ſich fuͤgen und im wenigſten ſich
+nichts merken ſolte laſſen; Wel-
+ches geſchehen / hat der Mann
+(unvermerkt des Betrugs /)
+[Kustode] ofters
+[Seitenwechsel]
+[Kolumnentitel] 72 Loͤfflerei Kunſt.
+ofters geſaget; ei wie wol ſchmeket
+das junge Huͤnerfleiſchgen! und ſol-
+ches ſo oft getrieben / biß er des
+Handels muͤde worden; Nachge-
+hends / da er ſeinen etwas alten
+Muͤttergen / wider beigewonet / hat
+ſie jhm zu den Betwerken angerei-
+zet / mit vermelden / er ſolle jhm jez
+das junge Huͤnerfleiſchgen auch wol
+ſchmeken laſſen / worauf er den Be-
+trug gemerket / und hinfort das
+ausſchweifen nicht mehr gebrau-
+chet  hat. Alhier erginge es dem
+guten Buler / nach des Poeten
+Verslein:
+Bei der Nacht und Modenſchein
+Scheinen alle Jungfern fein.
+an dem lieben Muͤttergen aber traf
+folgends ein:
+Not kan alte Weiber zwingen /
+Daß ſie wie die Boͤke ſpringen.
+Und hieraus erſcheinet war ſein /
+was unſer P. S. von Golau ſaget /
+[Kustode] daß
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 73
+daß nemlich nicht an Schoͤnheit al-
+lein der Luſten hafte / ſondern ins
+gemein das Fuͤlen das beſte in dem
+Spiele ſei / nach dem Verslein:
+Jeder wil beim Weiber nemen / meiſtens
+auff die Schoͤnheit zielen /
+Da doch nochmals nichts am ſehen / mei-
+ſtes lieget an dem Fuͤlen.
+Demnach aber ſich leider alzuofft
+befunden / daß etliche (wo nicht
+die meiſten) Weiber gar zu un-
+verſchaͤmt ſein / und ſtets und ohn
+unterlaß des algemeinen Troſtes
+jhrer Maͤnner begeren / alſo / daß
+ſie ſelbe fort fuͤr fort aufwiegeln und
+aus der Stange fechten wollen;
+weil es aber meiſtens den Maͤnnern
+unmuͤglich iſt / alzeit mit geſpanne-
+ten Bogen und auffgelegtem Pfeil
+ſich zuweren und jhrer ſo offten Be-
+gierligkeit genuͤge zuleiſten / als
+mag und muß man in uͤbrigen es
+billich dabei bewenden laſſen / was
+jener nicht uneben geſprochen:
+[Kustode] D Gallus
+[Seitenwechsel]
+[Kolumnentitel] 74 Loͤfflerei Kunſt.
+Gallus Gallinister quinis ſufficit unus,
+at ter quinque viri non ſufficiunt
+Mulieri.
+Nur mit einem einzeln Hahne / mehr dan
+fuͤnffzehn Huͤnelein
+Sind vergnuͤget: Fuͤnffzehn Maͤnner /
+einer Hur' nicht genugſam ſein.
+¶ Es muß aber das Weib auch zu
+frieden ſein / wan der Mann halb
+und halb paſſiren kan / maſſen es
+doch nach des Owenus Verslein
+gehet / da er ſpricht:
+Wer zalt ſein Weib alzeit? wer bleibt
+nicht ſchuldig jhr?
+Kein Man bezalt ſein Weib mit harter
+Muͤnze ſchier.
+Wo er auch einsmals com pleno
+ſacco, (mit vollem Beutel /) zu
+Hauſe kaͤme / ſolle das Weib nicht
+gar beſchiſſen ſein / ſich lang noͤtigen
+und bitten laſſen / ſondern frei waker
+und beſcheidentlich ſich untergeben /
+in Betrachtung / daß in cauſis ſum-
+maniis, (in Haͤndeln die nicht langen
+[Kustode] Verzug
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 75
+Verzug leiden /) wie hier in con-
+tinenti (ohn viel weigern) absque
+ſtrepitu judicij de ſimplici &#x0026; plano
+muͤſſe gehandelt werden / ut docet
+Zanger, tract. de except. c. 2. n. 5.
+doch ſol der Man auch nicht ſobald
+zufahren / (gleich dem Bauer in
+die Stiefeln /) ſondern mit kuͤſſen
+und herzen / mit loͤffeln und ſcher-
+zen / mit kribeln und krabeln / mit
+haͤlſen und ſchnaͤbeln / das Spiel
+anfangen / uͤm das Weigen auff-
+zumuntern / nach dem Rhat des
+Pareus / und dem Sprichwort:
+Wen Man und Weib viel kuͤſſen /
+Scherzen und Spielen / ſo wird end-
+lich ein Niderlaͤndiſcher Krieg dar-
+aus / und ſo dan erfolget gewuͤnſche-
+te ausbeute / nach des S. von Golau
+Verſen:
+Wan der Man ſein Weiblein kuͤſſet / und
+das Weib ſcherzt mit dem Mann /
+Weil ſie alſo beiden ſpielen: Wer hat doch
+den Nuz daraus?
+[Kustode] D ij Er
+[Seitenwechsel]
+[Kolumnentitel] 76 Loͤfflerei Kunſt.
+Er das Weib! dan ſie empfaͤnget / traͤget
+Buͤrden ſonder Scheue /
+Leget abe / kommet wider / holet mehr und
+traͤgt aufs neue.
+Derowegen jhr lieben Weibergen /
+ſeid nicht wie die hart-maͤulichen
+Pferde / an welcher man faſt die
+Arme verꝛaͤnken muß / ehe ſie ſich
+eins wenden laſſen / folget vielmehr
+der Virna nach / von welcher der
+jezgenante Poet meldet:
+Virna ſagt: Jhr Morgenſtern ſei jhr
+Man; jhn anzubliken /
+Vnd jhn ins Geſicht zuſehn / legt ſie ſich
+gern auf den Ruͤken.
+Dem jenigen aber dem gar der Hen-
+ker gefluchet iſt / kan man nicht beſ-
+ſer begegnen /
+als dat man den Dudenkop /
+ſette een paar Hoͤrner op:
+de da nich kan / de blife davan /
+een Hanrei moet he waͤrden.
+¶ Wir wollen derowegen ſothane
+Geſellen / weil ſie viel weniger zu
+[Kustode] dieſen
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 77
+dieſer unſer Loͤfflerei / als den H.
+Eheſtand geſchikt ſein / und unter
+die Loͤffler mit nichten gerechnet
+werden koͤnnen / hinweiſen in einen
+alten Marſtall / oder Suſternhauß /
+darein etwa ein hauffen alter Be-
+ginnen verſamlet ſein / daß ſie da-
+ſelbſt das Loch verwaren / da die
+alte Metkens den Belz auff heben /
+und aus den weitbrummende Ge-
+ſchuͤze / die grobe Criminalkugeln
+durchfliegen laſſen: Schreiten da-
+mit zum uͤberꝛeſt dieſes unſers er-
+ſten Teils / als nemlich zu dem Alter
+und Schoͤnheit / welche an unſern
+Loͤfflern erfordert werden.
+¶ Wie alt und wie ſchoͤn aber unſe-
+re Loͤffler eigentlich ſein ſollen / da-
+von haben abermal unſere Naß-
+weiſe / hochgelehrte nicht einerlei
+Meinung / die Medici halten da-
+fuͤr / und ſezen / daß ein Maͤgdlein
+oder Jungfrau erſt anſahe manbar /
+und zu der Loͤfflerei geſchikt zu
+werden / wan ſie 14. Jahre erꝛeichet /
+[Kustode] D iij weil
+[Seitenwechsel]
+[Kolumnentitel] 78 Loͤfflerei Kunſt.
+weil mit demſelben vierzehen Jare
+gemeinlich calor nativus, wie ſie
+reden / erſt beginnet macht zu ge-
+winnen / und hernach von Tage zu
+Tagen / je laͤnger je mehr / zu zu-
+nemen / daß dadurch algemeiniglich
+alles bei denſelbigen zunimt / immer
+groͤſſer und volkommener wird /
+biß daß jhnen anhebet das Zahn-
+fleiſch zu juken / da werden ſie
+Brautgeil / und uͤberaus begierig
+zum Kuͤzel / daß der Ariſtoteles
+nicht unbillich ſo wol meinend / die
+Eltern warnet / daß ſie um dieſe Zeit
+jhrer Toͤchter wol acht haben / und
+dieſelbe auffs fleiſſigste verwaren
+ſollen / dan es gewiß iſt / was jener
+in folgenden Rythmis (Reimen)
+meldet:
+Cum nux rubeſcit, juvenis cu~ virgo pubeſcit,
+tunc nux vult fragi, tunc virgo ſtipute ta~gi.
+Wan eine Nuß ſieht rot am Strauch /
+Der Jungfer Bauch vo~ Haar wird rauch;
+Den iſt recht Zeit / die Nuß zubrechen /
+Der Jungfer auch der Staar zuſtechen.
+[Kustode] Den
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 79
+¶ Den wie ein Fußgaͤnger der dur-
+ſtig iſt / ſezet ſie ſich an das nechſte
+Waſſer / und trinket / und nim~et an /
+was jhr werden kan. Sir. c. 26. v. 15.
+Und iſt einmal gewiß und war /
+was Georg Greflinger in ſeinen
+Verſen meldet:
+Laͤſt die Jungfer ſich beringen /
+So laͤſt ſie ſich ſelbſt bedingen.
+Die Geſchenke nimt und gibt;
+Wird geliebt / und iſt verliebt.
+Und ferner ſpricht er:
+Jungfern die ſich wollen paaren /
+Sind ſehr uͤbel zubewaren.
+Jungfern die Mann iſtiſch ſind /
+Brechen durch / wie Flut und Wind.
+¶ Die Herꝛn Juriſte~ / und inſonder-
+heit die Canoniſte~ / (die auch ſonder-
+lich gute Loͤffler mit geben / und zu
+hieſiger Zeit der Praxi ſich fein wiſſe~
+zu accomõdiren / dieſelbe) wolle~ / daß
+ein Junger Geſel zum geringſten
+muͤſſe 14. Jare alt ſein / eh er ſich un-
+ter die Zal der Loͤffler geben koͤnne /
+Ein Maͤgdlein oder Jungfrau ſei /
+[Kustode] D iiij dazu
+[Seitenwechsel]
+[Kolumnentitel] 80 Loͤfflerei Kunſt.
+dazu alt und geſchikt genug / wan
+ſie nur das 12. Jar erꝛeichet habe /
+in princ. inſtit. quib. mod. tut. fin. l.
+ult. C. quando tutor. eſſe deſinat.
+Novell. 100. c. 2. maſſen den jhnen
+bewuſt iſt / quod in quibusdam
+malitia ſuppleat ætatem, das iſt /
+die eine eh kuͤzlicht werde / als die
+andere / c. puberes X. de deſponſ.
+impub.
+¶ Die Lateiner nennen dieſe puel-
+lam virgunculam, ut quæ nondum
+ad juſtam ætatem eſt provecta. Die
+Franzoſen un' fille tempromvere,
+wir Teutſchen aber eine fruͤzeitige /
+einen halbgewachſenen Friſchling /
+ein Bak-Fiſchlein: Und die War-
+heit zu reden / ſeind die Bakfiſchlein /
+die delicateſten / dan dieweil dieſel-
+bige noch unmuͤndig / und des Kuͤ-
+zels unerfaren / haben viel Dinges
+von jhren Muͤttern / Schweſtern
+und andern zeitigen Jungfrauen
+geſehen und gehoͤrt / nicht wiſſend /
+was das Weſen in ſich begreiffe /
+[Kustode] nach
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 81
+nach dem aber jhnen das Zankfleiſch
+hebt an zu juken / ſo denken ſie den
+Sache~ beſſer nach / meinen es muͤſſe
+notwendig ſo ſein uñ geſchehen / wer-
+daruͤber ſo applicabel / ſo tracta-
+bel / ſo kuſſibel und ſubjectibel / ſo lieb-
+lich und freu~dlich / daß nichts anmu-
+tigers auff der ganzen Welt jhnen
+koͤnne und moͤge widerfaren. Nur /
+ꝛc. Und dieſe Anmut und delicateſte
+bleibet an jhnen / biß ſie 28. Jare
+alt werden / ſo bald ſie aber uͤber die
+30. kommen / vergehet die Anmut /
+bekommen alte Geſichter / und wer-
+den algemach mit unter das alte
+Eiſen gerechnet.
+¶ Die Weiber und Witwen / koͤn-
+nen auch mit hinlauffen / biſ daß ſie
+42. oder 43. Jare alt ſein / als den
+hoͤren ſie auch in das alte Regiſter /
+und werden mit der Zeit ſo ſchrum-
+pflich / als eine alte Furmans-
+Taſche / das ſelbe nirgend beſſer zu
+dienlicher ſein: Als daß man ſie
+neben andern alten Baß-Fidelen /
+[Kustode] D v
+[Seitenwechsell]
+[Kolumnentitel] 82. Loͤfflerei Kunſt.
+die die Saͤiten / ſamt dem Stege
+verloren haben / nach Nobis-Krug
+durch Wechſel uͤbermache / daß ſie
+daſelbſt Federwiſche verkauffen.
+¶ Dagegen die Maͤnner und alte
+Geſellen / die man Hageſtelzen zu
+heiſſen pfleget / koͤnnen als mit ma-
+chen / biß jhnen die Hoſenlummen /
+wie den Jacobs-Bruͤdern / und das
+Gehirn im Kopfe ſchlottert / wie
+ſiedende Erbſen in einem Haſen /
+alsden wird jhnen der Appetit ver-
+gehen / des Loͤfflens vergeſſen / und
+viel ein anders betrachten.
+¶ Wir Junge Geſellen aber / von
+20. 21. 22. 23. 24. 25. 26. 27. 28. 29.
+30. 31. und 32. Jaren geben die be-
+ſten Courtiſanen und Loͤffler / dan
+in uns iſt die rechte bluͤende Juge~d /
+der rechte Kern / Krafft und Macht
+alles zu thun / was von uns begeret
+wird / denen nichts verdrieſſet.
+Wir Geſellen merken auch:
+Wie den Jungfern ſei zu Mute /
+Wir thun jhnen viel zu gute /
+Mit Dem / was fuͤr Jungfern taug:
+[Kustode] Jz mit
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 83
+Jz mit Raht / dan mit der That /
+Wen die Not dan iſt am groͤſten /
+Hilfft ein gut Geſel am beſten /
+Weil er was im Beutel hat.
+Wir Geſellen ins gemein /
+Hoch die Jungfern ehren / preiſen /
+Jhnen Lieb und Dienſt erweiſen /
+Vnſern Armen ſchlieſſen ein /
+Sprechen jhnen freundlich zu /
+Herzen / kuͤſſen / ſcherzen / lachen /
+Jhnen Luſt und Kurzweil machen /
+Stellen jhr Gemuͤt zur Ruh.
+Wir koͤnnen geharniſcht reiten /
+Fuͤr die Damen fechten / ſtreiten /
+Sind in Krieges-Zeit jhr Schuz /
+Jſt dan aber Friede dar /
+Sind wir Troͤſter jhrer Herzen /
+Rechte Arzte jhrer Schmerzen /
+Vnd jhr Magenpflaſter gar.
+Wir ſind jhre Federn / Dint /
+Auch ganz jhre Kammerſchreiber /
+Jhre beſten Zeitvertreiber /
+Helffer zu Geſchlecht und Kind:
+Jhr Confect und Marcipan /
+Wuͤrſte recht zu jhren Schinken /
+Vnd zu jhren Tuͤren klinken /
+Was man ſonſt mehr denken kan.
+Soviel nun vom Alter / welches zu
+der Loͤfflerei erfodert wird.
+[Kustode] D vj ##
+[Seitenwechsel]
+[Kolumnentitel] 84 Loͤfflerei Kunſt.
+¶ Von der Schoͤnheit koͤnten wir
+wol ein ganzes Buch von ſchreiben /
+auch wol, ohn groͤſſe Muͤhe eine
+ganze volkommene Bibliothec von
+lautern ſchoͤnen Sermonen und
+Liedern zuſammen tragen / darein
+die Cavaliers oder Loͤfflers / die
+Schoͤnheit jhrer Damen / und hin-
+widerum die Damen jhrer Cava-
+lire bald auff dieſe / bald auff eine
+andere Weiſe und Art / hoͤchlich
+loben und artlich ausſtreichen.
+¶ Aber dieſelbe ſo eigentlich zu be-
+ſchreiben / daß es jedermaͤnniglich
+vergnuͤge iſt unmuͤglich / Sintemal
+es gewiß iſt / und auß der taͤglichen
+Erfahrunge befindlich / daß nun-
+mehro die Cavaliers / ſo curios da-
+mit ſein / als eben die eigenſinnige
+Damen / wiſſen nicht / wie ſie es
+laͤnger haben wollen. Die Haar
+ſollen nicht zu krauß / noch zu glat /
+nicht zu gelb / und nicht zu weiß /
+nicht zu braun / und nicht zu ſchwarz /
+und doch ſchoͤn ſein / das Angeſicht
+[Kustode] ſol
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 85
+ſol nicht zu ſchoͤn / auch nicht zu hes-
+lich / nicht zu glat / auch nicht zu
+runzlicht ſein / daß man ſich darein
+nicht verirꝛe / die naſe nicht zu groß /
+und nicht zu ſpizig / und doch auch
+nicht zu plat / die Leffzen nicht zu rot /
+und auch nicht zu blau / die Wangen
+nicht zu dik / und nicht zu mager /
+nicht zu rot / und nicht zu bleich /
+ſondern als der Venus jhre gewe-
+ſen ſein / die Zaͤne nicht zn gelb /
+und nicht zu ſchwarz / nicht zu breit /
+und nicht zu lang / auch nicht al zu
+weit von einander / ſondern fein or-
+dentlich / wie Palliſaden ſtehen /
+die Ohren nicht zu weit / und nicht
+zu lang / auch nicht alzuweit von-
+einander / ſondern fein ordentlich /
+nicht zu klein / und nicht zu groß /
+und die fein feſt am Kopffe ligen /
+die Bruͤſte ſollen nicht zu ſteiff ſein /
+doch auch nicht zu ſchlapp / wie eine
+Sakpfeiffe / daß ſie jhnen halb unter
+den Armen hinhangen / dan ſie be-
+foͤrchten ſich / daß das Vaß / wan es
+[Kustode] D vij nicht
+[Seitenwechsel]
+[Kolumnentitel] 86 Loͤfflerei Kunſt.
+nicht ſo dike / wie vorhin geweſen iſt /
+muͤſſe gewiß angeſteket ſein / die
+Haͤnde und Arme auch die ſollen
+nicht zu plump / nicht zu rauch /
+nicht zu hart / und doch auch nicht
+alzu weich ſein / die Ruͤke nicht zu
+krum / die Lenden nicht zu ſchmal /
+wie eine Schnizelbank / damit ſie
+fein feſt darauff ligen koͤnnen / doch
+daß ſie auch raum im Bette haben.
+¶ Gleicher maſſen auch die Dame~ /
+Frauen und Jungfrauen / keiner iſt
+jhnen mehr gerecht oder nach jhrem
+Sinn wol proportioniret erſchaf-
+fen / der eine iſt zu ſchmal / der ander
+zu rauh und zu kaal / der eine zu jung
+und zu friſch / der ander zu traͤg uñ zu
+riſch / der eine zu unſubtil / der ander
+zu laut oder zu ſtill / der eine iſt gehl /
+der ander ſihet ſcheel / der eine iſt
+zu faul / der ander hat ein vil groſſes
+Maul / der ein zu lahm / der ander
+zu wild oder zu zahm / der eine zu
+ſchmal / zu duͤk / der ander hat kein
+Geſchik / in ſumma / Es iſt keiner /
+[Kustode] der
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 87
+der es jhnen recht treffen koͤnne:
+Derowegen ſie ſein Manns oder
+Weibsperſonen / wan ſie nicht gar /
+wie das Bild zu Riedelsheim / (wel-
+ches die Muͤken der geſtalt beſchiſ-
+ſen / daß es die Bauren nicht anbeten
+wolte~ /) verachtet ſein wolle~ / muͤſſen
+zu frieden ſein / wan ſie fuͤr halb und
+halb paſſiren koͤnne~ / wan ſie ſein halb
+from / halb ehrlich / halb klug / halb
+thoͤricht / halb ſehend / halb blind / halb
+Mutter / halb Kind / halb Grill / und
+halb zuͤchtig / halb falſch / halb auff-
+richtig / halb dik und halb ſchmal /
+halb rauch und halb kaal / halb ſtill /
+halb kraͤzig / halb ſchweigend / halb
+ſchwaͤzig / halb ſauber / halb ſchmuzig /
+halb erbar / halb trozig / halb lang nñ
+halb rund / halb krank / und halb ge-
+ſund / halb link / halb recht / halb runz-
+lich / halb ſchlecht / halb gehend / halb
+hinkend / halb riechend / halb ſtin-
+kend / oder wie ſie nur ſein / halb
+Engel / halb Teuffel / ſo gilt es gleich /
+wir ſchliſſen ſie gar nicht aus / dan
+[Kustode] ##
+[Seitenwechsel]
+[Kolumnentitel] 88 Loͤfflerei Kunſt.
+ſie geben die beſten Loͤffler / und
+zwar / ſo es recht betrachtet wird / ſo
+iſt ſchoͤn nicht ſchoͤn / ſondern das
+liebſte iſt das ſchoͤnſte / dan wie je-
+ner Poet ſinget. So iſt
+Bulers Aug offt gar ein Schalk /
+Meint die Eule ſein ein Falk 
+Vnd ein Fuchs ein Jgelsbalg /
+Liebe faͤlt nach jhrem Sinn
+So bald auff was anders hin /
+Als auff ein ſchoͤn Roſenblat
+Wie man offt zu ſehen hat:
+kraͤmer loben jhre Wahr /
+Jedem Narꝛn gefaͤlt ſo gar
+Seine weiß auch immerdar
+Wen die Venus auff die Naſ
+Brillen 3ezet / meinet daß
+Alle Mehren Engel ſein
+Wolten gern auch ins gemein /
+Daß man gleich wie ſie ſo toll
+Alles wie ſie preiſen ſoll
+Solche ſein der Torheit voll.
+¶ So viel nun geredet von dem
+erſten Teile der Loͤfflerei / als von
+den Perſonen / die ſich darein uͤben /
+belangend aber den andern Teil /
+[Kustode] als
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 89
+als nemlich / die Loͤfflerei / und dero
+uͤbung ſelbſt / beſtehet ſolches Exer-
+citium in zweien principiis ex amo-
+re nimirum, &#x0026; ex quadam neceſſi-
+tate, ans der Liebe / und einer be-
+ſondern Notwendigkeit / dieſe ſo
+aus einer beſonderen Notwendigkeit
+entſtehet / nicht unbillich genant
+cochleatio neceſſaria, das iſt / eine
+notwendige Loͤfflerei / iſt widerumb
+zweierlei Art und Eigenſchafft /
+die eine iſt cochleatio neceſſaria
+propriè ſic dicta, ſo warhafftig not-
+wendig iſt / die andere aber impro-
+priè ſic dicta, welche zwar de an-
+ſehen nach gleicher maſſen notwen-
+dig / dennoch mehr auff Gewinn und
+Vorteil gerichtet iſt / wir wollen
+dieſelben Species nacheinander or-
+denlich vornemen / examiniren / und
+etwas weiter erklaͤren.
+¶ Die Loͤfflerei ex amore (aus
+Liebe) uͤben fuͤrnemlich und in-
+ſonderheit / alle Damen und Cava-
+liere / ſie ſein Eheloß oder nicht /
+[Kustode] ##
+[Seitenwechsel]
+[Kolumnentitel] 90. Loͤfflerei Kunſt.
+ohn unterſcheid / und kan keiner exi-
+mirien / oder ſich enziehen / es were
+dan / daß er der Macht und Gewalt
+Cupido (des Gottes der Liebe /)
+und deſſen Frau Mutter der Venus
+(oder Luſtinne /) ganz zu widerſezen
+ſich unterſtehen wolle / welches un-
+muͤglich iſt / und den Menſchen in
+ſo weit fehlet / daß auch die Goͤtter
+ſelbſt nicht ſicher geweſen ſein / wie
+ſolches aus folgenden Verſen / deren
+Melodei (Weiſe) jederman bekant /
+klaͤrlich erhellet.
+Dan dieſes iſt der Zwek / dahin wir alle
+denken /
+Dahin wir Tag und Nacht / die leichten
+Sinne lenken /
+Wan wir erwachſen kaum / ſo muß gelie-
+bet ſein /
+Sol anders nicht der Menſch in kurzen
+gehen ein.
+Der hohe Himmel liebt / den tieffen Schooß
+der Erden /
+Die Lufft pflegt mit der See / ſehr oft ver-
+maͤlt zuwerden /
+Daß beide ſchwanger gehn / diß macht der
+liebe Band /
+Daß Tag und Nacht alzeit / ſie bleiben in
+Beſtand / [Kustode] Vnd
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 91
+Vnd wechſeln friedlich uͤm. Die Zeiten tau-
+ſchen abe /
+Mit hoͤchſter Einigkeit: Die Sonne ſteigt
+herabe /
+Macht daß ſich alles liebt / der Widder
+und der Stier /
+(Darin ſie iezund laͤufft /) ſind gar ver-
+bulte Tier /
+##### ſolchs ein jeder weiß: die Zwillinge
+die wollen /
+Daß wir zu dieſer Zeit / uns auch uͤmfangen
+ſollen /
+Vnd gehen paar bei paar; der ſilberblaße
+Mond /
+Heiſt uns dem folgen nach / deß wir noch
+ungewont.
+Dieweil die Jungfrau bleibt / das liebe
+Sternen-blinken /
+Das lehret uns / wie wir / der Liebſten ſollen
+winken.
+Jn Summa / was in ſich / Lufft / See und
+Erde helt /
+Das heiſſet lieben uns / und freundlich
+ſein geſeit.
+Seht wie der Eppich kan die gruͤnen Arme
+ſchlingen /
+Wie er den Baum umringt / fuͤr Lieb’ jhn ſo
+zuzwingen:
+Merkt / was die Welt thut / das buleriſche
+Kraut
+[Kustode] Wie
+[Seitenwechsel]
+[Kolumnentitel] 92 Loͤfflerei Kunſt.
+Wie ſie jhr bruͤnſtiglich / den Stengel
+anvertraut /
+Vnd ſich feſt an jhn haͤngt. Die ſtummen
+Waſſer-Scharen /
+Die Strudeln durch den Strand / bei hun-
+dert tauſent paaren;
+Wie auch das Lufft-Volk thut / da man-
+che Frau und Man
+Sich ſchnaͤbeln zuͤchtiglich / uͤm ſuͤſſe H###
+zeit an.
+Diß iſt die ſuͤſſe Luſt / die aus dem Himmel
+brachte /
+Den heiſſen Jupiter / die jhm zum Stiere
+machte /
+Der hochverliebte GOTT / ließ ſeinen
+Nectar ſtehn /
+Geſtalt er muſte fort / auff Liebe-weide
+gehn.
+Man kennet keinen GOtt / der nicht geliebet
+hette /
+Diß iſt der Liebe Kunſt / ſie lieben uͤm die
+wette:
+Der unverſchaͤmte Pan / helt ſeine Sirinx
+feſt /
+Eh wird Neptun ein Pferd / als er die
+Ceres laͤſt.
+Die Kugelrunde Welt / muß unbeſtralet
+liegen /
+Wan Phoebus liſtig meint / die Daphne zu-
+betriegen /
+[Kustode] Wie-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 93
+Wiewol vergebens nur: die Winde reiſ-
+ſen loß /
+Wan Eolus ſich legt / in ſeiner Liebſten-
+Schooß.
+¶ Die andere aber cochleatio neceſ-
+ſaria propriè dicta, die rechte not-
+wendige Loͤfflerei / die an ſich ſelbſt
+nothwendig iſt / ſelbige iſt alleiin
+uͤblich bei und unter den Eheleuten /
+die viel Lehenguͤter beſizen / dan ein
+ſolcher Vaſallus, wan er keine Man-
+liche Erben hat / muß ſich beſorgen /
+daß er alle ſeine angewante Muͤhe
+und Koſten umſonſt angewendet /
+und ſolches zu Nuz eines frembden /
+und daß alle Lehenguͤter hinwider
+auff andere fallen / ſolchen fals wird
+des Lehentragers getreues Ehe-
+weib gleichſam notwendig gezwun-
+gen aus Chriſtlicher Wolmeinung /
+und Vorſorge das Leben beim
+Namen und Geſchlecht zu erhalten /
+einen fein-ſtarken / friſch-jungen
+Longolium oder Nazianzenum (wie-
+wol es nicht an der groͤſſ gelegen /
+[Kustode] ##
+[Seitenwechsel]
+[Kolumnentitel] 94 Loͤfflerei Kunſt.
+dan kleine Fuͤchſe haben auch groſſe
+Schwaͤnze / juxt. Olorin. in tract. de
+imper. mul. verſ. retro &#x0026; ante) cæte-
+ris paribus auszuſehen / und denſel-
+ben anch bißweilen mit vorwiſſen
+des Manns mit Geſchenk und
+freundlicher Carechion alſo beliebet
+zu machen / daß er jhr hingegen ſo-
+viel Zeug zum jungen Sohn wider
+gibet / damit ſie jhren Mann er-
+freuen / und ſich eine perpetuam
+manſionem conciliirn und erhalten
+koͤnne / und dieſer wolmeinentlicher
+alter Brauch hat ſeinen Grund in
+Goͤttlicher H. Schrifft / vermoͤge
+deſſen / daß ein Bruder oder Freund
+dem andern wol mag den Saamen
+erweken / wie zu leſen iſt / 5. Moſe
+c. 25. 5. biß 10.
+¶ Darum laſſen wir uns nicht ir-
+ren an dem was der H. Auguſtinus
+in contrarium ſchreibet / (welcher
+wil / daß beſſer ſei ohn Erben aus die-
+ſer Welt zu ſcheiden / als aus ver-
+bottner Beiwonung Erben ſuchen)
+[Kustode] ſondern
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 95
+ſondern ſehen vielmehr auff den al-
+gemeinen Nuzen / auch daß den ge-
+meinen beſten daran groß gelegen
+ſei / damit dergleichen vorneme alte
+Geſchlechter erhalten / mit nichten
+aber an Manſchafft abnemen moͤge~ /
+l. 6. [Paragrafenzeichen]. 2. de bon. damn. welches gar
+herꝛlich mit vielen exemplis illuſtrirt
+Lather de ce#ſ. l. 3. c. 3. per tot.
+¶ Solches alles hat der vorneme
+Jtalianer wol beherziget / welcher /
+als er geſehen / daß er neben ſeiner
+Frauen keine Frucht ſchaffete / fuͤr
+rathſam erachtet / daß ſeine Frau pro
+acquirenda prole (zu Erhaltung
+ſeines Namens und Geſchlechts)
+einen Subſtitum validum adjungi-
+ren ſolte / der jhr gleich wie ein
+wolverſuchter Quakſalber den
+Staar ſtechen / und ſie fruchtbar
+machen koͤnte / fuͤrwar ein guter
+Raht / auch hat gemeldeter Jtalia-
+ner ſich beſſer bei der Subſtitution,
+und zu Erhaltu~g ſeines Geſchlechts
+vorgenommen modree befunden /
+[Kustode] als
+[Seitenwechsel]
+[Kolumnentitel] 96 Loͤfflerei Kunſt.
+als jener Edelman / welcher zu
+Muͤnſter in Weſtphalen ſeine
+Frau ſimuliren ließe / als were ſie
+ſchwanger / deroſelben um die ver-
+meinte Zeit der Geburt ein Kind-
+lein kauffte / damit der aus dem Rau-
+nenbuch auskaͤme / und ein groſſer
+Vater ſein moͤge / welches dennoch
+nicht lang verborgen blieben / ſon-
+dern bald hernach mit groſſem
+Schimpff kundbar worden / jenes
+aber ſo gluͤklich und wol ausgeſchla-
+gen / als die Frau ##n algemeinen
+Weiblichen Gebrauch nach ſich
+nicht lang widerſezete / ſondern gut-
+willig darein ergeben / einen jungen
+teutſchen Edelman / der alda in loco
+ſtudirte / fuͤr andern dazu erwelet
+hat / welcher auch auff teutſchen
+Glauben ſich Rittermaͤſſig bezei-
+get / das onus, ſo jhm aufflag dapf-
+fer verꝛichtet / und den Staar in ſo
+guter und bequemer Zeit getroffen /
+daß ſie nicht allein bald ſchwanger
+worden / und nach neun Monaten
+[Kustode] einen
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 97
+einen wolgeſtalten jungen Herꝛn / ge-
+boren / ſondern dermaſſen abgerich-
+tet / daß ſie hernach gar fruchtbar
+worden iſt / ſich wol zu bequemen /
+zuſtellen / und unter den Mann zu
+ſchiken gewuſt. Doch aber dem
+guten Herꝛn der Weg eroͤffnet / und
+mit der Zeit eine gute Zal der Kin-
+der bezeuget / es auch an der Auſſer-
+ziehung deroſelben nicht ermangeln
+laſſen / weil jhm dan wol bewuſt /
+daß der aͤlteſte nicht ſein Sohn
+war / ſondern von beſagtem Teut-
+ſchen Edelman ausgewirket wor-
+den / hat er ſelbigen in ein Kloſter
+geſtoſſen / und geiſtlch gemachet /
+welcher ſich in ſeinem geiſtlichen
+Stande / dermaſſen wol geſchiket /
+daß er in kurzem ein Biſchoff / her-
+nach ein Cardinal / und endlich
+ne quid homini bene nato deeſſet,
+gar Papſt erwelet worden / wie ſol-
+ches mit mehren umbſtaͤnden zu
+leſen / bei Johann. Wolff. rom. 2.
+R. M.
+[Kustode] E Dahin
+[Seitenwechsel]
+[Kolumnentitel] 98 Loͤfflerei Kunſt.
+¶ Dahin dan auch gezielet Solon
+und Licurgus beide vorneme Re-
+genten und Geſazgebere in Grichen-
+land / welche wie oben gemeldet /
+zugelaſſen haben / daß einer / der
+ſeiner unvermoͤgenheit wegen ſein
+Werk nicht volbringen konte / einem
+andern die groſſe Ehre goͤnnen moͤ-
+ge / und denſelben dazu erwelen / daß
+er in ſeiner bluͤenden Jugend / die
+Arbeit fuͤr jhm verꝛichte / und ſeine
+Stelle ritterlich vertrete / modo
+quod naſceretur, non diceretur alie-
+num notante Cornel Agrippa. in lib.
+de vanit. ſcient. Und ein ſolcher
+verdienet ein groß GOttes Lohn /
+den er hilfft beides ſein ganzes
+Vatterland / ſeine Freundſchafft /
+Stamm und Geſchlecht / erhalten /
+welche wie oben geſaget iſt / in Ver-
+mehrung / Kind und Kindeskinder
+beſtehet / Argum. l. liberos 229. ff. de
+verb. ſign.
+¶ Derowegen auch vielleicht Ju-
+lius Cæſar / der erſte Roͤmiſche
+[Kustode] Kaiſer
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 99
+Kaiſer zu ewigen ſeinen Nachruhm
+omnium mulierum vir, aller Weiber
+Troͤſter geneñet worden / daher daß
+er der Unvermoͤgenheit der Maͤnner
+zu huͤlff kommen / den Weibern aber
+mit Raht und That beigeſtanden.
+Teſte Sueton. in vit. Cæſar. c. 51.
+¶ Were es aber ſache / daß dieſes
+nicht helffen / und die Weiber ebener
+maſſe~ / wie vorhin unfruchtbar blie-
+ben / muß man dieſelben nacher Ba-
+den ins warme Bad / oder auch nach
+dem Heilbrunnen ſchiken / dem ver-
+gangen / wird man gewiß erfaren /
+daß jhnen geholffen worden / dan es
+ſchreiben die Medici wunderlich von
+der groſſen Fruchtbarkeit und Wir-
+kung deroſelben an den Weibern /
+und ſonderlich von dem Warmen-
+bade zu Baden / ſchreibet ein vor-
+trefflicher gelehrter Poggius Flo-
+rentinus an den Leonardum Are-
+tinum. Alſo: Nulla in orbe terra-
+rum balnea ad fœcunditatem mu-
+lierum magis accommodata eſſe.
+[Kustode] E 2 Inn##
+[Seitenwechsel]
+[Kolumnentitel] 100 Loͤfflerei Kunſt.
+Innumerabilem multitudinem nobi-
+lium &#x0026; ignobilium ducenta millia
+paſſuum eo venire, non tam voletu-
+dinis, quam valetudinis cauſa. O-
+mnes amatores, omnes procos, qui-
+bus in delitiis vita eſt poſita, eo con-
+currere, ut fruantur rebus concupitis
+multas fœminas corporum ſimulare
+ægritudines, com animo laborent,
+omnibus unam mentem eſſe triſti-
+tiam fugare, quærere hilaritatem.
+Non de communi dividundo agere,
+ſed de communicando diviſa, und
+ſothane Baͤder werden auch conci-
+liatrices amorum geheiſſen / weil ſie
+die Weiber ſo fruchtbar machen /
+und denſelben ſobald zu Kindern
+helffen / als etwa ſonſt einige gute
+andere Materi / Recept oder Arze-
+nei immer thun kan oder mag / un-
+angeſehen auch viele melancholici
+Catones ſolche heilſame Baͤder al-
+zeit ſchmaͤhen: Hingegen aber deſ-
+ſen lieben Weibgen geholffen / der
+wird ſich hieruͤm gnugſam zu bedan-
+ken haben. [Kustode] Jn
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 101
+¶ Jn unverhofftem Fall / da dieſes
+auch nicht helffen / und die Wuͤr-
+kung durch einen etwa Fatalſchluß
+verhindert wuͤrde / ſo koͤnnen ſie
+nicht beſſer thun / als daß ſie dieſelbe
+Weiber auff eine wolbeſtaͤlte Uni-
+verſitaͤt ſchiken / da allerhand vor-
+neme Studioſi von allen Faculteten
+beiſammen ſein / die werden alsden
+den Tit. de vent. inſpiciendo fleiſſig
+durchklauben / die urſache jhrer Un-
+fruchtbarkeit gleichſam mit ſpizigen
+Fingern außgruͤbeln / dan ſie ver-
+ſtehen gemeinlich ſich auff die Affe-
+cten und zufaͤllige Krankheiten der
+Weiber / die Juriſten und Theolo-
+ganten / wie man ſie nennet Cate-
+chiſmi-Bruͤder / eben ſo wol / als die
+Studioſi medicinæ, und werden mit
+geringer Muͤhe und Arbeit die
+Unfruchtbarkeit hinweg nemen / ſie
+werden denſelben / ſothanes Cliſtier-
+ſtechen / welches das ganze Gebluͤt
+reinige / alle boͤſe Materi und We-
+ſen / welches der Fruchtbarkeit zu
+[Kustode] E iij wi##
+[Seitenwechsel]
+[Kolumnentitel] 102 Loͤfflerei Kunſt.
+wider iſt / austreiben / immittelſt
+auch zweiffelt nicht daran / es wer-
+den vorgedachte Herꝛn Studioſi ſo-
+viel guter Wuͤrkungen / bei jhnen
+verlaſſen / daß ſie fruchtbarlich ge-
+nug zu Haus kommen.
+¶ Es gehoͤren auch hieher unſere alte
+Venus-Ritter / und nunmero be-
+tagte Altvaͤter / dieſe ſ ſo jhnen eins-
+mals die alte Raptus (Schalkheit
+und Rizel /) wider ankommen / daß
+ſie der Eheſtand ein wenig plaget /
+den ſeind ſie viel toͤller / als die junge
+Leker / nemen ein ſchoͤn und junges
+Maͤgdlein / wolle~ alsdan die Haͤnde
+wider anſchlagen / ſo bald aber das
+Eiſen in wenig Tagen abgereñet iſt /
+hat die Freude ein Ende / den Wei-
+bern haben ſie zwar viel eingebildet /
+aber das Pulver iſt verſchoſſen /
+muͤſſen derohalben notwendig zulaſ-
+ſen / daß jhnen ein ander Mann / der
+es beſſer kan / zu huͤlffe kaͤme / das
+jenige / ſo ſie verſaͤumet / getreu ver-
+richte / welche dan zu zeite~ dermaſſen
+[Kustode] faul
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 103
+faul ſein / daß ſie gleich wie Epime-
+nides piger, biß zu Mittag zu Bette
+ligen und ſchnarchen / ſo aber das
+Weib anfahet zu ſcherzen uñ zu ſpie-
+len / jhren Mann aus der Faulheit
+einwenig auffzumuntern / und luſtig
+zu machen / da grimmen und knurꝛen
+ſie den Kazen gleich von ſich / und
+koͤnnen nicht leiden / daß jhre Weiber
+ſie mit einem Finger anruͤhren / ſon-
+dern brauchen unterſchiedliche Diſ-
+curſe / und Ausfluͤchte / die guten
+Weibergen zubeguͤtigen / und ſagen:
+Ei laſſet mich mit friede~ / laſſet mich
+ſchlaffen / was iſt diß vor eine Tor-
+heit / was begeret jhr / betet ein Va-
+ter unſer dafuͤr / es iſt nuͤzlicher.
+¶ Deſſen allen unerachtet die Frau
+fodert jhre Gebuͤr / jhren Mann fol-
+gender geſtalt antwortende: Ja ja /
+koͤnt jhr dan nicht? ſchaͤmet euch /
+viel Worte fuͤllen den Sak nicht / es
+muß fleiſch da ſein / das Ding friſſT
+kei Heu / laͤſſet ſich mit Worten
+nicht abſpeiſen / wolt jhr dan nicht /
+ſo muß es ein ander thun / cunnus
+[Kustode] E iiij ###
+[Seitenwechsel]
+[Kolumnentitel] 104 Loͤfflerei Kunſt.
+caret auribus, und die Worte faren
+einem in Leib nicht / ꝛc.
+¶ Alsdan muß der alte krafftloſe
+Socius gedultig zuſehen / daß es in
+der That vorgemeldeter maſſen ge-
+uͤbet und mit jhm vorgenommen
+werde / und ein ander / der das Loͤf-
+feln beſſer gelernet / ſeine Stelle
+erſeze.
+¶ Etliche von dieſem Alten haben
+bißweilen das groſſe Donum patien-
+tiæ, und koͤnnen alles gedultig tra-
+gen / auch weil ſie ſehen / daß es ganz
+nicht zu aͤndern ſei / befehlen ſie die
+Sache GOtt und guten Leuten /
+laſſen die Frau unten und oben li-
+gen / biß ſie vergnuͤget wird / und
+troͤſten ſich damit / daß nunmero in
+der Welt / die Hoͤrner ſo gemein
+ſeind / und faſt kein Hauß mehr an-
+zutreffen / darein man nicht zum
+wenigſten einpar finde: Mancher
+iſt ſo ſanfftmuͤtig und in der Liebe
+zu ſeinem Weibe alſo vernarꝛt /
+verſtriket und gefangen / daß / ob er
+[Kustode] wol
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 105
+wol von andern hoͤret / ja wol mit
+Augen ſiehet / wie jhm ſein Weib
+Haus halte / er doch ſolches noch
+glauben / noch wehren mag / wie je-
+ner Jeke thaͤt / den Owenus be-
+ſchreibet:
+Des Weibes Vnthat ſieht der liebend
+Ehman nicht /
+Den wer da liebet recht / dem blinzelt
+ſein Geſicht.
+Sieht oder hoͤrt er was / das wider ſein
+lieb-Kind
+Das glaubet er doch nicht: die Lieb iſt
+taub und blind.
+Andere aber von den abgematteten
+Senioribus, welche das Donum pa-
+tientiæ nicht haben / denen wan
+ſie vorgemeldetem allem zuſehen
+muͤſſen / lauffet das Gehirn im
+Kopff herum / wie das Quekſilber /
+ſehen ſo ſuͤß / gleich wie ein Eſſig-
+krug / ſo freundlich wie ein Dorn-
+buſch / ſo lieblich wie ein Bok / und
+doͤrffen dannoch nicht ſagen / uxor
+quid facis? gnaͤdige Frau was
+[Kustode] E v machſt
+[Seitenwechsel]
+[Kolumnentitel] 106 Loͤfflerei Kunſt.
+machſt du? werden dieſer Sachen
+halben aus innerliche~ ſchmerzen der
+geſtalt verwandelt / daß ſie ausſehe~ /
+wie ein ju~ger Teufel / der weder Tag /
+weder Nacht Ruhe hat / daher wuͤn-
+ſchet und fluchet er ſeinem Weibe
+und Huren-Hengſten alles Ungluͤck
+auf den Kopff: Aber ſolches ſchadet
+den alten Narꝛen ganz nit / ſie ſolten
+die junge Weiber ungevexieret laſ-
+ſen / welche ſind unſers Bukes we-
+dergaden / wie die Weſtphaͤliſcher
+ſagen / ſondern vielmehr auff das
+Grab / oder zum wenigſten auff des
+Juvenalis Spruͤchlein gedenken /
+welcher da ſchreibet:
+– Coitus jam longa oblivio, vel ſi
+Coneris, jacet exiguus com ramice nervus
+&#x0026; ſi vel media palpetur nocte jacebit.
+und iſt ſchon der Geiſt willig / ſo
+bleibet doch das Fleiſch ſchwach / al-
+les iſt vergeblich / dan die gute Her-
+ren koͤnnen den Textum in l. fora-
+men [Paragrafenzeichen]. doce ancillam. ff. de vent.
+[Kustode] inſpi-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 107
+inſpiciendo, &#x0026;c. nicht mehr vol-
+bringen.
+¶ Es bedenket zwar mancher Alter /
+und redet in ſich ſelbſt: Ob ich gleich
+bin ein alter Mann / ſo komt mirs
+doch bißweilen an / gibet ſeine~ Weibe
+die ſchoͤnſten Worte / herzet / kuͤſſet /
+leket und beiſſet / ſoviel im muͤglich /
+thut dadurch an Tage / daß er gern
+wolte / ſi poſſet, in meinung / ſie da-
+durch zu begnuͤgen / aber alles ſagen
+iſt vergebens / kuͤſſen iſt nur ein ab-
+wiſchen / cum facie abluta tollantur
+&#x0026; oſcula ſputa: Ach jhr gute alte
+Degen-Knoͤpffe / es muß Fleiſch da
+ſein / ſoviel / biß es jhnen begnuͤget /
+erlangen ſie das nicht / iſt jhnen im
+Rechten erlaubet / ſich zu dem zu
+wenden / wo von ſie es gewiß zuge-
+warten haben / per c. ſi tu abſtines. q.
+2. welcher in einer Hize zween Naͤgel
+ſchmiden kan / wie ſolches vorlaͤngſt
+geweiſſaget / Barbat. in cap. prudent.
+de off. del. n. 19. Folget aus vorge-
+henden / daß die Studioſi kuͤnſtlich /
+[Kustode] E vj ##
+[Seitenwechsel]
+[Kolumnentitel] 108 Loͤfflerei Kunſt.
+die alte Maͤnner aber ſchlecht mit
+der Loͤfflerei ſich behelffen koͤn-
+nen.
+¶ Die lezte Art der Loͤfflerei / als
+nemlich / Cochleatio neceſſaria im-
+propriè ſic dicta, die geſchicht nur
+wie oben geſaget / mehrenteils um
+den Nuzen und Gewinſt halben /
+und das vel reſpectu maritorum,
+wan nemlich der Mann aus Ar-
+mut oder um Ehre und Wuͤrden
+halben einem vornemen reichen
+Herꝛn / oder ſonſt ſeiner Obrigkeit
+das Weib dargibet / oder aber re-
+ſpectu ipſorum cochleatorum wan
+ſonderlich ein guter redlicher Wa-
+gehalß im fremden Landen / in Jta-
+lien / Frankreich / und ſonſtwo herum
+ziehet / nicht viel uͤbrig zu verzeren
+hat / und deswegen einen guten
+Reuterdienſt gern thut / damit ſie
+jhm hinwider mit einem ſtuͤke Gel-
+tes an den Halß werffen moͤgen /
+und er alſo zu leben habe: Daß
+aber dieſe Art der Loͤfflerei zulaͤſſig
+[Kustode] ſei /
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 109
+ſei / defendiren viel vorneme Philo-
+ſophi / und deren Vater Ariſtoteles
+ſelbſt in Ethicis.
+¶ Darum ſehen wir auch / daß ſel-
+bige nicht allein in geruͤrten fremden
+Laͤndern geſchicht / ſondern auch
+nunmero bei uns Teutſchen inſon-
+derheit auff denen Univerſiteten hin
+und wider ein algemeiner Gebrauch
+wird / Es kommet alda mancher
+armer Teufel / der wenig im Beutel
+hat / und ſo elend daher gehet / wie
+die theure Zeit ſelber / ſo er aber
+bei eines oder andern Kauffherꝛn
+Frauen / derer Man ſeiner Ge-
+ſchaͤffte halber vielmal / oder zum
+wenigſten zweimal des Jars nach
+den Meſſen raͤiſet / ſich weiß zu in-
+ſinuiren und beizumachen daß die-
+ſelbe eine Hoffnung auff jhr seze /
+und in abweſen jhres Manns
+Huͤlffe und Beiſtand bei jhm ſuche /
+iſt dem bald geholffen / alsdan kan
+er das eine Kleid nach dem andern
+machen laſſen / daß eine statlicher
+[Kustode] E vij ###
+[Seitenwechsel]
+[Kolumnentitel] 110 Loͤfflerei Kunſt.
+als das ander / weiß auch nicht wie
+er ſich laͤnger halten ſol.
+¶ Wir wiſſen deſſen unterſchied-
+liche Exempel / haben auch die jenige
+wol gekant / welche nirgends anders
+als von ſothanen bedienten Lohn 1.
+2. 3. 4. Jahre lang gelebet haben / biß
+endlich jhnen der Handel verdroſſen /
+und deßwegen wider in jhr Vater-
+land ziehen muͤſſen.
+¶ Aus dieſem allem abzunemen /
+daß manche Kauff- oder andere
+Frau (welche viel beſſers und weit
+mehrer wert iſt / als daß ſie in den
+Kram oder Gewand-Laden jhre
+Schoͤnheit und Jugend ablegen und
+zubringen ſolle) auch gegen keine
+Belonung / ſich den Rok in die Fal-
+ten ſtechen laͤſſet. Quod quia noto-
+rium probatione non indiget, exem-
+pla ſunt odioſa.
+¶ Wir ſehen an den fruchtbaren
+Baumen / daß ſie zwar viel und
+mancherlei Aeſte und Zweige ha-
+ben / aber gemeiniglich nur einen
+[Kustode] Stamm
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 111
+Stamm und einerlei Wurzel / da-
+ſelbſt die ſchoͤne Aeſte und Zweige
+heraus sprieſſen. Alſo iſt auch dieſe
+unſere Loͤfflerei / und dero uͤbung /
+ob dieſelbe gleich jezbeſchriebener
+maſſen viel Species hat / und unter-
+ſchiedlicher Art uñ Eigenſchafft iſt /
+ſo hat ſie doch nur einen Stamm uñ
+Wurzel / aus denen ſie enſpringet /
+und jhren anfang nimmet / welches
+iſt das Geſicht / dan wie im anfange
+dieſes Tractats zu leſen / iſt die Loͤf-
+lerei nichts anders / als eine anmu-
+tige Liebes-uͤbung enſtehend aus
+freundlicher Converſation zweier
+verliebter Herzen / ꝛc. Sollen aber
+zwei Herzen oder Perſonen gegen
+einander ſich lieben / muͤſſen ſie ſich
+zu vorderſt geſehen haben / ſintemal
+unmuͤglich geachtet wird / daß einer
+lieben ſolte was er niemals geſehen.
+¶ Jſt alſo die erſte Staffel der
+Loͤfflerei viſus, das Geſicht / daher
+komt daß die Weiber und Jung-
+frauen / den ganzen Tag ſo fleiſſig
+[Kustode] und
+[Seitenwechsel]
+[Kolumnentitel] 112 Loͤfflerei Kunſt.
+und unverdroſſen in den Laden / und
+vorn in den Tuͤren ſizen / (oder aber
+gleich den Fenſter-Kazen den leich-
+ten Schneider-Geſellen) immer
+fuͤr dem Fenſter ligen / und zu-
+ſchauen / was fuͤr Cavalliere und
+hurtige Courtizanen vorbeigehen /
+und ſonderlich / ſo einer jhnen gefaͤl-
+let / ach! da gehen ſie immer vor
+der Tuͤre hinweg / biß ſie die Not
+dazu zwinget / naͤhen und kluͤppeln /
+ſtechen und ſtriken auffs allerfleiſ-
+ſigſte / ſo lang biß derſelbe vorbei
+paſſiret / und ſie der groſſen Hoͤflich-
+keit nach am freundlichſten begruͤſ-
+ſet hat / alsden wird jhnen das Herz
+ſp groß / daß ſie vor freuden nicht
+arbeiten koͤnnen / da ſtehet dan die
+Knuͤppellade / da liget der Rham
+und das Nehkuͤſſen / und mag arbei-
+ten wer wil / jhr Fleiß hat ein Ende /
+hingegen unſere Courtizanen und
+Loͤffler / laſſen an jhrem fleiße nichts
+ermangeln / gehen und lauffen von
+einer Straſſe zu der andern / die
+[Kustode] ganze
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 113
+ganze Stat durch / aus der einen
+Kirche in die ander / guken in alle
+Winkel zur rechten und zur linken /
+ob ſie keine Dame koͤnnen ins Ge-
+ſicht bekommen / die jhren Augen
+gefalle / ſo bald ſie nun das Gluͤk
+ergriffen / eine in jhre Augen ge-
+faſſet / ſonderlich in der Kirche
+(welche ſie nicht um Lazari / ſon-
+dern Marthæ willen beſuchen /)
+unter dem Amt der H. Meß oder
+Predig / ſchaͤmen ſich ganz nicht /
+ſondern ſehen immerzu / und ſchlagen
+von ſothaner Perſon kein Auge ab /
+wan man ſie auch mit der Fauſt ins
+Geſicht ſchluͤge / ſeind ſo auffmerk-
+ſam und andaͤchtig nicht auff die
+Meſſe oder Predig / ſondern auff
+das liebe Kinde / welches ſie geſehen
+haben / ſo bald nun die Jungfer alles
+vermerket / und wider auff den
+Geſellen ein Auge hat / bißweilen
+ganz ſich auffrichtet / daß der be-
+truͤbte Courtiſan / ſie deſto beſſer
+beſchauen koͤnne / alsdan meinet er /
+[Kustode] hab#
+[Seitenwechsel]
+[Kolumnentitel] 114 Loͤfflerei Kunſt.
+habe den groͤſſeſten Narꝛe~ gefreſſen /
+bildet ſich vielmehr ein / als es in der
+That iſt beſchaffen / gehet nicht eh
+aus der Kirche / dieſelbe Dame gehe
+den vorher / welcher dan ſie auff dem
+Fuße folgen / und nit ehe verlaſſen /
+eh und bevor ſie gar wol in acht ge-
+nommen / wo ſie wonet und ſich
+auffhelt.
+¶ Wan nun das Haus der geſtalt
+wol ins Geſicht genommen wor-
+den / aͤuget man weiters / ob daſelbſt
+Wein gezapfet werde / oder ein
+Kramlade ſei / ſolchen Falls bedarff
+es keine groſſe Weitlaͤufftigkeit / iſt
+Wein da zu Plaz / gehe~ ſie des Orts
+offt und vielmal / daß ſie bekant ge-
+nug werden / iſt aber ein Kram- oder
+Gewand-Laden alda / fragen ſie
+nach Waren und Farbe~ / die niemals
+kein Auge geſehen hat / einer wil ein
+par Handſchuh / der ander ein par
+Struͤmpfe / dieſer und jener unbe-
+kanter Farbe habenn / ſeind dieſelbe da
+nicht zubekommen / iſt der begerte
+[Kustode] color
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 115
+color unter denen Waaren nicht zu
+finden / bitten auffs fleiſſigſte man
+moͤge jhnen zugefallen ſolches ver-
+ſchreiben / haben alsdan um den an-
+dern / dritten und vierten Tag gute
+urſache zufragen / ob die Waaren
+nit ankommen / biß ſie das Gluͤk an-
+treffen / daß ſie den Weibern und
+Toͤchtern jhr Anligen ſelbſt offen-
+baren koͤnnen / es moͤgen die Seiden
+Struͤmpffe / und das verſchriebene
+Gut ankommen oder nicht / gilt jh-
+nen eins / was ſie geſucht / haben ſie
+bereits gefunden.
+¶ Jſt aber keine Handlung im Hau-
+ſe / werden dieſe Loͤffler auch bald ein
+ander Loch finden / wonet ein vor-
+nemer Advocat daſelbſt / dan haben
+ſie Streitſachen mit jhren Freunden
+und Verwanten / fragen den Gelehr-
+ten um Rath / ſcil. &#x0026;c.
+¶ Hat wo ein Orangiſt ſeine Wo-
+nung / der eine ſchoͤne Tochter hat /
+wird ſich bald ein benachbarter Cour
+tiſan oder Loͤffler / und Secretarius
+[Kustode] ###
+[Seitenwechsel]
+[Kolumnentitel] 116 Loͤfflerei Kunſt.
+bei derſelben einſtellen / begeren die
+Muſic zu lernen / die Orgel oder
+Laute (der Jungfrauen meinen
+ſie) zu ſchlagen / die Sache iſt
+ſchon klar / indem ſie den Vater
+ſeiner Kunſt halben loben und prei-
+ſen / wan ſie ſchon nicht groß iſt /
+vexiren und ſcheeren die Mutter /
+neben der Tochter /  und ſolches heiſ-
+ſet die Laute greiffen / und den
+Tactum halten.
+¶ Wonet aber ein hocherfahrner
+Medicus alda / haben ſie bald einen
+oder andern Spiritum vel extractum
+zu beſichtigen / ob derſelbe richtig /
+ſimuliren jez dieſe / jez jene Krank-
+heit / begehren ſich unter deſſen Cur
+zu geben / und jhnen ein Diet oder
+conſilium medicum vorzuſchreiben /
+aber es iſt jhnen allen nicht um
+Euer / ſondern um Euer Frauen
+und Tochter Huͤlffe zu thun / dieſelbe
+wird geſucht / kommen gemeinlich /
+wan der Doctor nicht zu Hauſe /
+oder jhne~ auf der Gaſſe begegnet iſt /
+[Kustode] ###
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 117
+in Summa / nichts iſt jhnen zu
+wider / wan ſie auch es warnemen
+ſolten / wan es in dem ſtark regnen
+wil / damit ſie dem Regen entwei-
+chen / und jhre Zuflucht zu ſelbigem
+Hauſe ſuchen moͤgen / welches ſo
+artig hergehet / daß es der fuͤnffte
+kaum merken kan / iſt der Anſchlag
+wol gegluͤket / gehet kein Tag vorbei /
+daß ſie nicht dahin gehen und reu-
+ten / ſehen / ob die Sache klar / und
+das Herzgen allein ſei / alda gehet
+es an ein krazen und ſcharꝛen / an ein
+neigen und buken / an ein greuliches
+Kuͤßwerffen / daß die Glaßfenſter
+davon zerſpringen moͤgen: So die-
+ſes alles nun vorgangen / ſehen ſie
+ſich uͤmher uͤm / ob nicht irgends
+in der Nachbarſchafft ein gut be-
+quemes Hauß / da Bier und Wein
+gezappfet wird / gefunden werde /
+aus dem ſie erſehen koͤnnen / wer
+dort aus- und eingehe / ligen ſo lang
+Tag und Nacht an den Fenſtern /
+biß daß ſie eine gute redliche Waͤ-
+[Kustode] ſcher####
+[Seitenwechsel]
+[Kolumnentitel] 118 Loͤfflerei Kunſt.
+ſcherꝛin / Naͤterin / oder Steifferin /
+bei denen gemeiniglich die Ehre auff
+glaͤſern Stelzen gehet / ertappen /
+oder eine alte Poſtilione / welche an
+dem Ort wol gehoͤret / und gelitten
+iſt / denen ſie eine Miſſive oder Lie-
+besbrieff / neben allerhand ſchoͤnen
+Deſcretionen einhaͤndigen / und
+ſchreiben an die Dame / daß die
+Stralen jhrer ſchoͤnen Augen / jhr
+Herze dermaſſen verlezet / jhnen un-
+muͤglich ſei laͤnger zu leben / und nit
+die Ehre zu genieſſe~ / dieſelbe Schoͤn-
+heit weiter zu beſchauen / und jhrer
+uͤberaus groſſen Freundlichkeit
+fruchtbarlich zu genieſſen / darum
+legen ſie ſich nider zu jhren Fuͤſſen /
+und bitten demuͤtiglich / beikommen-
+de Favor und Diſcretion von jhren
+Schlaven willig zu empfahen / ſeine
+groſſe Affection dabei zu vermerke~ /
+und dieſelbe nur damit zu belegen /
+und wider zu verdienen / Zeit / Ort
+und Gelegenheit zu nemen und zu de-
+putieren / (zubeſtimmen /) wo er ſeine~
+[Kustode] Herz-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 119
+Herzgen und ſeiner Gebieterin / der
+Gebuͤr nach ſicherlich hinwider auf-
+warten moͤge.
+¶ Hingegen unſere Frauen und
+Jungfrauen / welche ſich leicht com-
+moviren (bewegen) laſſen / nemen
+das Schreiben / und darein gemelte
+Diſcretion mit Freuden an / rumini-
+ren (betrachten) dieſe Herzbrechende
+Worte mit fleiß / und halten es fuͤr
+eine Todſuͤnde / wan ſie denſelben ſo
+hochverliebte~ Herꝛn Loͤffler ohn Troſt
+lieſſen / darum ſezen ſie ſich wider ni-
+der / uñ antworte~ ſolcher geſtalt / daß
+ſie nicht Worte genug finden koͤnne~ |
+zu beſchreiben die Freude / die ſie aus
+dem Schreiben geſchoͤpffet / und daß
+ſie der groſſen Ehren nicht wuͤrdig /
+die jhnen von ſothanen Herꝛ in uͤ-
+berſchikung eines ſo lieben Favors
+und Diſcretion widerfaren / wel-
+ches ſie mit einem herzlichen Kuße
+empfangen / und ſolches hinwiderum
+mit getreuer Affection / zu verdienen
+nicht unterlaſſen woͤlle / Zeit / Ort
+[Kustode] und
+[Seitenwechsel]
+[Kolumnentitel] 120 Loͤfflerei Kunſt.
+und Gelegenheit aber zu benennen /
+bey jhr zukommen / were jhr aus
+Forcht jhrer Eltern und Maͤnner
+nicht wol muͤglich / weil auch noch
+nicht kund und bewuſt / ob ſolches
+ſuchen ehrlich gemeinet ſei / dan ſie
+(die hoͤflichen Jungfern in E:)
+wollen gern alles in Ehren thun /
+was jhrer Reputation wol gebuͤ-
+ren koͤnte:) bitten derohalben noch
+zur Zeit (damit der Loͤffler noch
+etwas Hoffnung behalten moͤge)
+ſie damit zu verſchonen / biß daß es
+ohn einige Suſpicion (argwohn)
+fuͤglich geſchehen koͤnne: Welches
+dannoch muͤglichen fleiſſes zu be-
+foͤrdern / ſie nicht unterlaſſen wolle /
+immittelſt wuͤrde bald an Tag kom-
+men / ob ſein verlangen ſo groß ſei /
+als es im Schreiben abgebildet iſt /
+wan dem alſo / wuͤrde er nicht vorbei
+gehen / zu Bezeugung deſſen / in
+dieſer oder jener Kirche jhrer zu
+warten / hinder ſie ſizen / oder unfern
+davon knien / endlich auch dieſelbe
+[Kustode] nacher
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 121
+nacher Hauſe bei der hand verlei-
+ten / auff der Gaſſe jhnen bißweilen
+zu begegnen / damit ſie durch des
+Courtizanen  Gegenwart und An-
+ſehen / auch in etwos erfreuet wer-
+den / und da der Herꝛ Loͤffler / die
+groſſe Muͤhe wuͤrde auff ſich ne-
+men / ſie zu zeiten mit dergleichen
+beliebenden Schreiben zu ehren / und
+zu erfreuen / moͤchte er ſich ver-
+ſichern / daß ſolches nicht lange, un-
+beantwortet / verbleiben ſolle.
+¶ Wie ſolches unter andern eines
+Spielmans und Bildhauers Toch-
+ter reſpectivè auch wol zu practi-
+ciren wiſſen / und mit dergleichen
+Schreiben den Loͤfflern zu begeg-
+nen / artiglich gelernet haben / de
+quo palam fides facta eſt. (worauff
+Treu und Glaube bald geſchloſſen /
+und ſie jhrem Wunſche nach / mit
+jhren Galanen / offt und viel / oben
+und unten gelegen.)
+¶ Nechſt ſolcher vorhergehender
+Brieff-Wechſelung / und in ſolcher
+[Kustode] F ver
+[Seitenwechsel]
+[Kolumnentitel] 122 Loͤfflerei Kunſt.
+vermeinter Hoffnung / und geſchoͤpf-
+ter Phantaſei lauffen die Weiber
+und Jungfrauen gleich als bezau-
+bert herum / verabſaͤumen nichts /
+was zu Bezeugung jhres verlan-
+gens dienet / ſehen einen bequemen
+Ort aus / an welchem ſie in ſelbiger
+Kirche ſizen / damit der eine den an-
+dern fein unvermerket ſtets an-
+ſchauen moͤge / und alſo ſeine groſſe
+Liebe in etwas vermerken koͤnne.
+¶ Darum dan kein Tag verlaufft /
+daß ſo wenig die Frauen / als Jung-
+frauen / wie auch die Courtiſanen /
+in die Kirche zu gehen / verſaumen /
+hoͤren die Meſſe / die Predig / des
+Nachmittags aber die Complet
+nicht umb des H. Crenzes willen /
+ſondern daß ſie nur geſehen werden /
+man ſie beſchriebener maſſe dem
+Kirchendienſt beiwonen / ſezen ſie
+ſich erſtlich in eine gute Poſitur / ge-
+be~ ſich in die Andacht (inſonderheit /
+die ſo ex familia Dominus vobiſcum
+berꝛuͤren) aber ſolche weret nit lang /
+[Kustode] ſondern
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 123
+ſondern ziehen das Maͤulchen ſo
+zierlich / koͤnnen ſo lieblich Schmuͤ-
+zerchen machen / laͤcheln und liſtig
+kuͤſgens werffen / ſo artig den Kopff
+drehen und bewegen / (die J. L. W.
+und K. Jungfern ungemeinet /)
+gleich wie die Weſtphaͤliſche Frauen
+und Jungfrauen / wen ſie #### jhren
+Fe####### daher ſchreiten / neigen
+uñ biegen ſich gegen einander / ſchla-
+gen beweglich die Haͤnde auff die
+Bruſt / und ſeuffzen herzlich / ſtellen
+und geberden ſich ſo verliebet / wie
+nechſt vorhin geruͤret / ſie werffen die
+Haar / ſchmuͤken die Haͤnde / huſten
+uñ humſchen chum chum / damit der
+gute Loͤffler / ſo hinter oder nicht
+weit von jhr sizet / und auffpaſſet /
+ſehe~ uñ ſpuͤre~ moͤge / daß ſie ſeiner im
+Gebet gedenke / wenden ſich oft ganz
+uͤm / damit die ſchoͤne Handſchuhen /
+das statliche Pater noſter oder Ro-
+ſenkranz / die wolgeſchnitene Bra-
+ſiletten von Barnſtein / wie das die
+Modo mitbringen / von Goldſande /
+[Kustode] F ij oder
+[Seitenwechsel]
+[Kolumnentitel] 124 Loͤfflerei Kunſt.
+oder ander koͤſtlicher Materi gegoſ-
+ſen ſein / auch geſehen werden moͤ-
+gen / bald ziehen ſie die Handſchuhe
+ab / und ſtreichen mit der Hand ſich
+uͤms Angeſicht / kuͤſſen damit un-
+vermerkt das Ding / welches jhnen
+von jhren Serviteurs zukommen /
+anzudenken / daß jhm wan er ſelbſt
+zu jhr komt / weit ein anders und
+beſſers widerfahren ſolle / deßglei-
+chen thun ſie auch / an den verguͤl-
+derten Buͤchern und andern Sa-
+chen: welche groſſe Andacht / ſo
+ſie in der Kirche fuͤhren / zu be-
+ſchreiben / undienlich und nicht wol
+muͤglich iſt.
+¶ Wan dan dieſes Gaukelwerk
+nun ein Ende hat / und dieſe beide
+verliebte / an jezo von einander aus
+der Kirche mit ach und weh geſchei-
+den: und die Dame nicht anders
+verſpuͤrte / daß dieſer Loͤffler ſeine
+Liebe continuiret (fortſezet /) auch
+ſeinen Gehorſam voͤllig leiſtete /
+sezet ſich dieſelbe bald nider / und
+[Kustode] ſchrei-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 125
+ſchreibet wie hoͤchlich ſie ſich erfreu-
+et habe / mit ſolchen Worten / welche
+zu Papir zu bringen / und zu wider-
+holen verbotten iſt / bekraͤfftigen
+jhre brennende Liebe immer mehr
+und mehr / componiren (dichten)
+gegen einander ein ganz duzend Lie-
+der / das eine trefflicher / dan das
+ander / weil ein jeder Narꝛ in dieſem
+Paſſu gern etwas ſonderliches ha-
+ben wil / dahero dan notwendig er-
+folget / daß das eine Jar nach dem
+andern / ſo vieler Complementen /
+Lieder und Liebesbeſchreibungen /
+der eine Secretair de l'cour, dan ein
+ander Arcadia der Graͤfin von
+Pembrok / Liebes-Gefaͤngnuß /
+dan dieſer und jener Tractat von
+Liſander und Kaliſten / und was
+deren mehr / zu Tag gegeben wer-
+den / daraus unſere Damen ſo wol
+fundiret werden / daß nicht allein
+innerhalb wenig Zeit ſie den Stylum
+wol faſſen / ſondern auch uͤber das
+an guter Manier und Sitten / ſo
+[Kustode] F iij behend
+[Seitenwechsel]
+[Kolumnentitel] 126 Loͤfflerei Kunſt.
+behend und wol zunemen / ſo lieblich /
+ſo freundlich / ſo luſtig / und mit ei-
+nem Wort / ſo accomodabel wer-
+den / daß man ſich billich zuerfreuen /
+und uͤber ſo geſchwinder Zunemung
+zum hoͤchſten zu verwundern hat;
+wie ein ſolches Lieb- und Lehrfaſ-
+ſendes Jungferchen / uns S. G.
+beſchreibet:
+Sie kan jhr Maͤulchen kuͤnſtlich falten /
+Sip / ſagt ſie / und knipt ſolches ein /
+Schad / daß ſie nicht kan Waſſer halten:
+Sie muß ja etwas ſchadhafft ſein;
+Sonſt ziert ſie ſich ausbuͤndig wol /
+Wie eine groſſe Jungfer ſol.
+¶ Jn uͤberschikung der Briefe gehet
+unſern Jungfern keiner mit Arg-
+liſtig- und Geſchwindigkeit zuvor /
+dan ſie wiſſen ſich zierlich damit zu
+behelffen: Erſtlich pflegen ſie den
+Courtizanen laſſen anzuzeigen / daß
+er ſein Schreiben an dem und dem
+Ort / unter die Bank / fuͤr jhrer Tuͤr /
+oder zwiſchen die Fenſter-Laden
+heimlich / des Abends ſpaͤt verſteken
+[Kustode] woͤlle /
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 127
+woͤlle / alsdan wuͤrde er folgenden
+Abends uͤ[steht Kopf]m ſelbige Zeit / daſelbſt
+die Antwort widerum hingeleget
+finden / oder aber da das verꝛaten
+wuͤrde / befelen ſie andermals jhre
+Schreiben in einem Ball einzunaͤ-
+hen / und dan durch ein hierzu offen-
+gelaſſenes Fenſter / zu Nachts in diß
+oder jenes Gemach zu werffen / als
+wollen ſie folgenden Abends die
+Antwort um ſelbe Stunde in einem
+Schnuptuch eingewikelt / aus eben
+demſelben Fenſter hinaus werffen /
+mit ſolcher Behendigkeit / daß es
+keiner vermerken koͤnne: Und was
+ſie hinzwiſchen mehr vor ein Model
+und Weiſe gebrauche~ / welches / wen
+alles nach der laͤnge / wie ſich billich
+gehoͤren ſolte / beſchreiben wuͤrde /
+wolle ſich dieſes unſer Tractaͤtlein
+gar zu weit erſtreken und auffwach-
+ſen / wir aber wollen uns deſſen aus-
+fuͤrliche Erklaͤrung auff eine andere
+Zeit (de quo proteſtatur) omni me
+liori modo vorbehalten haben.
+[Kustode] F iiij Wird
+[Seitenwechsel]
+[Kolumnentitel] 128 Loͤfflerei Kunſt.
+¶ Wird nun immittelſt eine Comoͤ-
+di / oder ein Schauſpiel agiret / oder
+aber ein Ballet geſpielt / iſt kein
+Wunder / daß dieſe unſere Damen
+ſich daſelbſt fleiſſig einſtellen / maſ-
+ſen wie Ovidius ſchon zu ſeiner zeit
+davon geſchrieben / Ludi quoque
+ſemina præbent nequitæ, und jhnen
+bekant / daß dergleichen Schau-
+ſpiele groſſen Anlaß geben / die an-
+gefangene Courtoiſei und Freund-
+ſchafft zu erweitern und fortzuſezen /
+dan in ſolcher Verſamlung ſtehet
+den Loͤfflern frei / ſich bei jhren
+Damen nider zu ſezen / ein Flaſche
+Wein holen zu laſſen / und damit
+ſie beſſerer Geſtalt zu tractiren /
+moͤgen ſie mit den Jungfern unge-
+ſcheuet reden / ſcherzen und ſchimpf-
+fen / jhnen die Haͤnde kuͤſſen / und
+ſonſt jhre groſſe Liebes Paſſion
+kund machen und bekraͤfftigen.
+¶ Noch groͤſſere Freiheit und An-
+laß haben dieſe unſere Jungfrauen
+und Junge Geſellen auff den Hoch-
+[Kustode] zeiten /
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 129
+zeiten / wiſſen ſich ſo bei zudringen /
+daß ſie notwendig darauff geladen
+werden muͤſſen / wan ſie nun alda
+erſcheinen / machen ſie es ſo gut ſie
+immer koͤnnen / damit ſie bei jhr
+liebſtes Herzgen zu ſizen kommen /
+und denſelben / wie ſie jhrentwegen
+anhero erſcheinen ſein / mit abermal
+Herzbrechenden Worten zuverſte-
+hen geben.
+¶ Die Loͤffler haben die Freiheit /
+die Damen auff jhren Schoß zu ſe-
+zen / jhnen an die Bruͤſte zu greiffen /
+einen Ehrengriff zu thun / Jn Sum-
+ma / mit den Haͤnden / Knien und
+Fuͤſſen loͤffeln ſie gegen einander / ſo
+lang / daß die Jungfrauen und
+Frauen ſo amoroͤs, ſo verliebt und
+begierig gemachet werden / daß ſie
+daruͤber / wie das offtmal geſchicht /
+in Ohnmacht gefallen ſein / und biß
+ſolches Accidens vorbei iſt / ſich
+der Geſelſchafft enthalten muͤſ-
+ſen.
+¶ Si autem lupus adhuc ſit in fabula.
+[Kustode] F v iſt
+[Seitenwechsel]
+[Kolumnentitel] 130 Loͤfflerei Kunſt.
+iſt Vater und Mutter / der Mann
+oder ſonſt ein ander guter Freund
+oder Verwanter annoch zugegen /
+vor welchen ſie billich ſich ſcheuen
+und ſchaͤmen ſolle~ / alsdan muß das
+Auge das beſte thun / wiſſen die die-
+biſche Blize ſo begierlich und anmu-
+tig zu ſchieſſen / uñ damit die getreue
+Affection heimlich zu declariren /
+daß es der fromme Mañ oder Ver-
+wanter mit nichten ſpuͤren kan / ſie
+trinken einander heimlich und oͤf-
+fentlich zu / obſerviren den Ort wol /
+daran ſie die Leffzen geſezet hat / den
+ſie wol zwanzigmal kuͤſſen / eh und
+bevor ſie das wenige / was in dem
+Geſchirꝛ hinterblieben ausleeren
+wollen / ſie werffen einander mit
+Confecturen / Zuker und Nuͤſſen /
+wiſſen das mit einem Knipgen / ſo
+artig und gewiß beizubringen / daß
+es den Mund vorbei allezeit den
+Jungfern in den Schoß faͤllet / da-
+durch zu bezeugen / daß es darum
+allein zu thun / was darunter ver-
+[Kustode] borgen
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 131
+borgen ſteket / uñ dieſes alles treiben
+ſie ſo lang / biß daß der Tanz den
+einsmals wird angefangen.
+¶ Da muß dan der buklichte Harf-
+fen Peter geſchwind auff ſein / und
+nicht lang faulenzen / dan durch
+das Tanzen erlanget der Courtiſan
+oder Loͤffler ganz volkommene
+Freiheit mit der Seinigen aber-
+mal zu reden / Sie zu herzen und
+zu kuͤſſen / zu leken und zuſchmuͤken /
+daß mancher eine halbe Stunde
+am Maul behaͤngen bleibet / dieſe
+Kuͤſſe aber / deſto anmutiger zu
+machen / haben teils dieſe Jnven-
+tion / und laſſen ſonderliche runte
+Loͤffelkuͤchlein zurichten mit Am-
+bra oder Muſces angeleget / welche
+ſie bei waͤrenden Tanzen im Munde
+halten / dadurch wie gemeldet / den
+Kuß deſto anmutiger zu machen /
+wan ſie aber wiſten / was Mar-
+tialis von dieſen mit Ambra ange-
+laͤgten Kuͤſſen ſchreibet lib. 2. epi. 12.
+[Kustode] halten
+[Seitenwechsel]
+[Kolumnentitel] 132 Loͤfflerei Kunſt.
+halten wir gewiß dafuͤr / die gute
+Herꝛn Cochleatores wuͤrden derſel-
+ben nimmer gebrauchen / unſere
+Damen auch / wuͤrden bedenken tra-
+gen / ſich mit dergleichen perfumir-
+ten Leffzen anruͤren zu laſſen / es
+pfleget gar gefaͤhrlich zu ſein / den
+Finger zwiſchen Bark und den
+Baum zu ſteken / darum laſſen wir
+gern einem jeden Narꝛn ſein Kappe
+gefallen.
+¶ Bei / unter / und zwiſchen dieſem
+Tanzen / kan man einen Chriſtlichen
+Trunk thun / ſein Herz mit einem
+Becher vol Spaniſchen Wein la-
+ben / und ex bona charitate auff
+Bruͤder- und Schweſterſchafft he-
+rum trinken / biß der ander Tanz
+hervor koͤmt / da ſeind ſie ungewiſ-
+ſer Hand / da gibet es blinde Griffe /
+unten und oben / doch unvermerket /
+irꝛen hin und wider / wie ein irꝛendes
+Schaͤflein / biß daß der hierzu wol
+abgerichtete Diener / oder Junge /
+oder Einſchenker / den Tiſch / darauff
+[Kustode] die
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 133
+die Liechter ſtehen / ganz uͤber einen
+hauffen wirft / und alſo die Liech-
+te außleſchet / alsdan lauffet ein
+jeder und eilet zu dem Ort / da-
+ſelbſt wie Virgilius ſchreibet lib. 1.
+Æneid.
+– Cythara crinitus Iopas
+perſonat, humana docuit quod maximus
+Adam, ſc.
+und nach dem dieſer Tanz gleichfals
+wol und gluͤklich geendet / und die
+Liechte wider angezuͤndet ſein / dan
+fuͤren unſere Courtizanen / die Toch-
+ter dem Vater / oder der Mutter /
+die Frau aber jhrem Mann wider
+zu / mit einer ſolchen Grace und
+Freundſeligkeit / daß beides der
+Vater und gute fromme Mann ſich
+deſſen am hoͤchſten bedanket / dieſes
+nemen unſere Loͤffler pro confeſſo
+(fuͤr bekant) an / ſuchen ferner die
+gewuͤnſchete Gelegenheit / inſinui-
+ren ſich moͤglichſten fleiſſes / und
+unter dem Schein begerter Freund-
+[Kustode] F vij ſchaff##
+[Seitenwechsel]
+[Kolumnentitel] 134 Loͤfflerei Kunſt.
+ſchafft / ſauffen ſie dieſelbe ſo toll und
+vol / daß ſie von dannen nacher Hauſe
+eilen muͤſſen / unter deſſen ſtellen ſich
+zwar unſere Frauen und Toͤchter / als
+muͤſten ſie den trunkenen Vater den
+beſchenketen Mann / wie billich /
+nach Hauſe begleiten / laſſen ſich
+aber algemach einreden und erwei-
+chen / daß ſie noch eine Zeitlang bei
+dieſer Freude verbleiben / und den
+lang-gewuͤnſchten Segen empfan-
+gen moͤchten / wan ſie aber zu denſel-
+ben nicht fuͤglichen Plaz ermaͤchti-
+gen koͤnnen / wegen allerhand Ver-
+hinderung / ſo ſich hinzwiſchen pfle-
+gen zuzutragen / nemen ſie von ei-
+nander pro forma, (nur zum ſchein /)
+einen freundlichen Abſcheid / beſchei-
+den ſich an diß Ort oder in jenes
+Haus jhrer getreuen Poſtilionen uñ
+Waͤſcheriñen / alwo Sie ohn langes
+cunctiren (verziehen /) zuſammen
+kom~en / und den Diener nach Wein /
+die Magd und Waͤſcherin aber hin
+und wider Confect / und andere
+[Kustode] Sachen
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 135
+Sachen zu holen / hinausſchiken / biß
+daß ſolus com ſola allein verbleibet /
+was ſie aber daſelbſt tractiren /
+(handeln /) wird ausfolgender Be-
+ſchreibung erhellen / und kan ein
+jeder dieſer Handlung ein wenig
+weiter nachdenken.
+¶ Folgenden Tages / weil der Va-
+ter / oder der Mann / den vorigen
+Tag zu viel getrunken / und alsdan
+unluſtig iſt / und deswegen nicht
+wider zur Hochzeit gehen wil / bittet
+die Frau oder die Tochter Urlaub /
+gehet allein dahin / maſſen jhnen un-
+muͤglich iſt zu Hauſe zu bleiben / weil
+der vorige Tag jhnen viel zu gut ge-
+than hat / und laͤſſet alsdan die wol-
+geuͤbte Courtiſanos deſſen aviſiren /
+(berichten) welche alsbald ſich wider
+einſtellen / zu denſelben an Tiſch-
+geſellen / jhnen zutrinken / vorſchnei-
+den / und ſonſt jhnen zu ſonderlichen
+Ehren allerhand Wein uñ Getraͤn-
+ke / ſampt etlichen Schuͤſſeln mit
+Confect / und eingemachten Ge-
+###### beiholen und vorbringen
+[Kustode] ####
+[Seitenwechsel]
+[Kolumnentitel] 136 Loͤfflerei Kunſt.
+oder aber zum wenigſten / (wie das
+zu Muͤnſter in Weſtphalen der
+Brauch mitbringet) den Koyt mit
+Jngber und allerhand Kraͤutern
+zugemacht / erwaͤrmen laſſen /
+und alſo den Jungfern zutrinken /
+und dieſelbe tractiren: welches
+ſo lang waͤret / biß der Tanz
+wider angefangen iſt / alwo das ſo
+vorigen Tags angefangen iſt / alwo
+das ſo vorigen Tags angefangen /
+mit allem fleiſſe fortgesezet und zu
+ende / ad ulteriorem effectum ge-
+bracht wird / ſie ſind nicht unbe-
+ſcheiden / daß ſie das Gelach erſt
+brechen ſollen / ſondern bleiben bis
+zum lezten Mann / und wan das
+gute ſpringen und ſauffen bald ein
+Ende hat / nimt einer dieſer unſer
+Loͤffler die ſaͤmtliche Herꝛn Muſi-
+canten mit ſich / und begleitet alſo
+die liebe Dame mit ſo anmutiger
+Muſic / biß zu dero Logiment / da
+ſie den entweder die Mutter mit
+freundlicher Dankſagung / oder aber
+[Kustode] der
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 137
+der Mann mit ſonderlichen Freu-
+den von ſeinen Haͤnden empfaͤhet /
+ſonderlich aber / ſo der Mann be-
+lebet iſt / und der Courtiſan ein gu-
+ter frommer Herꝛ iſt / weiß Er nicht
+mit was zierlichen Worten er da-
+von proteſtiren ſol / daß nemlich die
+geſchehene Ehre gar zu groß ſei / die
+ſeiner Fraue und an dero jhm ſelbſt
+mit / von den Herꝛn geſchehen / be-
+danket ſich fuͤr den geſtrigen Rauſch
+auffs hoͤchſte / und es werde ſeine
+Schuldigkeit anders nicht zulaſſen /
+als daß er neben ſeiner Frau den
+Herꝛn einnoͤtigen / und damit den-
+ſelben als wider ſeinen Willen vel
+quaſi, gleichfals ins Hauß hinein
+zu ziehen / alwo der gute Mann
+aufftragen laͤſſet / dann muß an
+Confect / Apffel und Birn / an Ca-
+ſtanien / Marcipan und Zuker-
+brot / und was des Dings mehr
+iſt / nichts ermangeln / neben an-
+dern Confecturen wird auch ein
+guter Limburgiſcher Kaͤſe geſezet
+[Kustode] (dar-
+[Seitenwechsel]
+[Kolumnentitel] 138 Loͤfflerei Kunſt.
+darauff der Wein wol ſchmeken
+ſol / weil aber die Frau nicht gern
+ſihet / daß viel davon gegeſſen wer-
+de / aldieweil er uti ſcriptum le-
+gimus
+abbreviat ſocium quem diligit illa,
+immer kleiner wird und abnimt / ſo
+widerꝛedet ſie ſolches mit fleiß bei-
+des hiemlich und oͤffentlich / daß ſie
+davon nicht viel eſſen ſolten / den
+der Keſe ſei nicht gut (ad coitum)
+zu verdaͤuen / ſchade der Geſund-
+heit / und ſei gegen die Nacht un-
+dienlich.
+¶ So muß man die Courtiſanen
+empfangen / ſo muß man ſeinen
+Corrivalen und ſeiner Frauen gute
+Freunde und Goͤnner tractiren /
+darum lauffet / ſchaffet auff / holet
+Wein her / ſchenket friſch ein / und
+ſeit unverdroſſen / ſcritum eſt enim,
+Jhr ſollet unterthaͤnig ſein den
+Courtiſanen und Pflegern euer
+[Kustode] Weiber
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 139
+Weiber und Kinder / und wider die-
+ſelbe nicht murꝛen / ſondern gedultig
+und freigebig ſein cum hilarem da-
+torem diligat Dominus.
+¶ Endlich wen es nun zeit iſt von
+dannen zu ſcheiden / und dieſer unſer
+nunmero corrivalis (Herze~s-Freu~d)
+auffſtehet / und gebuͤrlicher maſſen
+ſeine Abſchied nemen wil / dan bittet
+der Mann ſein beſtes / er moͤge noch
+eine halbe Stunde ſich bei jhnen auf-
+halte~ / beides jhn und ſeine Frau oder
+Tochter mit ſeiner Gegenwart und
+anmuͤtigen Diſcurs etwas ergoͤzen /
+weil es noch fruͤzeitig zum ſchlaffen /
+aber dieſer laͤſt ſich nicht weiter auf-
+halten / (den er offt kommen wil) da-
+rum entſchuldiget er ſich auffs hoͤch-
+ſte und hoͤflichſte / verſpricht dabei /
+daß er auff ein andermal die Freiheit
+nemen / und ſie wider beſuchen wol-
+le / damit erlanget dieſer Courtiſan
+einen freien Zutrit ins Haus / iſt
+weiterer Gelegenheit unbeduͤrfftig /
+nur daß er auffmerket / wan der
+[Kustode] Mann
+[Seitenwechsel]
+[Kolumnentitel] 140 Loͤfflerei Kunſt.
+Mann aus- und eingehet / damit
+er die Frau und Tochter allein zu
+Hauſe finde.
+¶ Wan nun bei ſo geſtalten Sa-
+chen jhnen der Weg eroͤffnet iſt /
+daß ſie ungeſcheuet hinein gehen
+moͤgen / nemen ſie alsbald eine gute
+Abrede / erdenken allerhand Strata-
+gemata und indicia, wie ſie fuͤglich
+hie und dort zuſammen kommen
+moͤgen / geben diß und jenes Zeichen
+von ſich / damit der gute Herꝛ /
+wan er vorbei paſſiret / alsbald an
+denſelben abnemen moͤge / daß Vater
+und Muter / oder auch der Mann
+nicht zu Hauſe ſei / und derhalben
+an jez Gelegenheit genug bei der-
+ſelben einzukeren / bei welcher bei-
+derſeits gewuͤnſchter Zuſammen-
+kunfft das Haͤnslein und Annelein /
+oben auff jhren Gemach enter præ-
+ſenter allein ſein / das arme Leben
+(wie man ſaget) angehet / da ziehet
+die Loͤfflerei aus den Augen durch
+alle Glieder des Leibes / und occu-
+[Kustode] piret
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 141
+piret (beſchweret) vor erſt die
+Zunge / daß man nicht anders reden
+hoͤret / als mein Herzgen / mein
+Schaͤzge~ / mein allerliebſtes Kind /
+mein einzig auserweltes / aller-
+liebſtes Herz / meine Freundin /
+meine Goͤttin / mein Huͤnichen / mein
+Haͤnichen / mein Schweinchen / mein
+Schwaͤnchen / mein tauſend Teu-
+felchen / und was der Drawelei
+mehr iſt.
+¶ Sie verblendet weiters alle Sin-
+ne / nimt die Vernunfft ſelbſt ge-
+fangen / daß die Damen ſich laſſen
+zerkuͤſſen / das Maul zerleken / die
+Zunge und Leffzen zerbeiſſen / und
+dergeſtalt ausſaugen / daß ſie
+ſchwerlich in die Poſitur widerum
+gebracht werden koͤnnen und aus-
+ſehen / wie ein alter runzelichter
+Beutel / den ein alte Vittel wol
+ſechzig Jare an der Taſche getragen
+hat / bleiben an einander hengen /
+wie ein Vogel an der Leimſtange /
+ziehen auch das Maul und Zunge
+[Kustode] nicht
+[Seitenwechsel]
+[Kolumnentitel] 142 Loͤfflerei Kunſt.
+nicht von einander / biß daß Haut
+und Haar mit abgehet / wan ſie ſich
+nun lang geleket und gebiſſen / ſo
+wollen ſie Maulſalbe und Loͤffel-
+ſchmier haben / aber von ſelbiger
+Cur muß man auff eine andere Zeit
+und Gelegenheit weitlaͤufftiger
+handeln.
+¶ Den Leibesgliedern ſelbſt thut
+die Loͤfflerei ſolchen Gewalt an / daß
+ſie zittern und beben / ſich laſſen be-
+gruͤbeln / begrabeln / betaſten / be-
+greiffen befuͤlen / derowegen ſie ſich
+ſo inbruͤnſtig uͤmfaſſen / die Arme /
+Haͤnde / Beine und Fuͤſſe ſo feſt und
+ſtark durch einander flechten / daß
+alſo davon zu reden / die beſte ſechs
+braune Pferde / ſo an jez in Muͤn-
+ſter ſeind ſie kaum von einander zie-
+hen koͤnten / kurz davon zu reden / die
+Loͤfflerei verfuͤret ſie ſo weit / daß
+ſie ſich laſſen den Rok in die Fal-
+ten ſtechen / und die Paradeisaͤpffel
+von den naſchenden Zizenmelkern
+### betaſten / daß ſie nicht leicht
+[Kustode] Wan
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 143
+¶ Wan es ſich einsmals zutruͤge /
+daß dieſer Courtizan nach genom-
+menem Abſchiede die benante Zeit
+verſaͤmen oder ausbleiben wuͤrde /
+machen ſie es wie ſie immer koͤnnen /
+ſchiken jhre Poſtilion die Waͤſcherin
+oder auch die Magd hinaus / zu deſ-
+ſen Logiment / laſſen jhm ſagen / daß
+alda fremde Briefe ankom~en / welche
+er um dieſe und jene Stunde in per-
+ſona abfodern moͤchte / wan dieſer
+Anſchlag zu grob / laſſen ſie jhm des
+Vaters oder Manns Gruß anmel-
+den / und dabei freundlich begeren /
+daß nicht zu vergeſſen / was er zu
+verꝛichten angenommen / ſchiken da-
+bei zum Poſſen / vel quaſi ein Kar-
+tenblat / mit viel und wenige Augen /
+darauß dan der gute Her bald ab-
+nimt / daß er uͤm dieſe und jene Zeit
+ſich einſtellen / und was er vorhin
+bei der Jungfrauen oder Frauen vi-
+leicht aus Schwachheit verabſaͤu-
+met / mit aller Moͤglichkeit erſezen
+muͤſſe / bisweilen beſcheiden ſie ſich
+[Kustode] hinau#
+[Seitenwechsel]
+[Kolumnentitel] 142 [sic!] Loͤfflerei Kunſt.
+hinaus in die Gaͤrten / darein ein
+gutes wolbemaletes Luſthaus nicht
+ohne Urſach iſt / geſezet / oder nacher
+S. Mauriz / laſſen den Courtiſanen
+erbitten / daß er unbeſchwert Dinte /
+Federn und Papir mit ſich hinaus ne-
+men / und bewuſtes Liedlein oder
+Liebsbrieff / in gelegenen Sa-
+chen / auch an einen guten Freund
+(welches ſie den Vater oder Mann /
+ungern vertraueten) auffſezen und
+conſcribiren wolle / alſo werden die
+Poſtilion und Botſchaffts-Trager
+betrogen / und jhnen die Augen ver-
+blendet / wan nun zu beſtimter Zeit
+der Courtiſan com ſuo calamo ver-
+handen / muß die Magd nach der
+Stat gehen / um eine Kanne Wein
+zu holen / in dem ſolches geſchicht /
+ſchreibet dieſer gute Copiſt und
+Scribent / nicht auff Papir / ſondern
+auff guten unbereiten Pergament /
+kuͤnſtlich / ſo grobe marginalia, daß
+ſie im Jar zween / oder drei ſelbſt
+#### oder ſtehen koͤnnen.
+[Kustode] Aus
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 145
+¶ Aus vorgehenden allein iſt zu er-
+ſehen / wie die Courtiſanen gegen die
+Damen / und die Damen hingegen
+vielmehr aller argliſtig- und be-
+trieglichkeit / ſich in uͤbung der Loͤff-
+lerei gebrauchen / es koͤmt leider zu
+weit / daß auch weder Vater oder
+Mutter / weder Mann jhnen ſol-
+ches Fals cohibiren, und einhalten
+koͤnne / wan er derſelben auch ein
+Jnſtrument / wie jener / von Eiſen
+und Stahl gemachet anhinge / were
+es doch nur vergeblich / dan ſie ſeind
+Fuͤchſe Art / Wie wiſſen mehr Loͤcher
+als eins / laſſen ſich wider jhren
+Willen nicht bewaren / wan auch
+der Mann ſeine Frau ſo wol ver-
+warete / als Acriſius ſeine Da-
+neam / welche er in einen hohen und
+feſten Thurn einſchlieſſen laſſen /
+juxta Hor. lib. 2. od. 16. ja ſie auch
+an die Seite hinge / wie eine Fuhr-
+mans-Taſche / werden ſie dannoch
+einen falſchen Rath finden / einen
+jeden zu betriegen / es iſt ware / die
+[Kustode] G ###
+[Seitenwechsel]
+[Kolumnentitel] 146 Loͤfflerei Kunſt.
+ſich nicht einſchlieſſen oder bewaren
+laͤſt / ſondern reiſſet aus wie Schaͤf-
+fen-Leder / wie das etliche taͤglich
+offt erfahren haben: Exempel deſſen
+weren zwar unzaͤlbar einzufuͤren /
+iſt aber nicht unſers vornemens /
+wer ſelbe zu leſen bedacht / der ſchla-
+ge nach Roman. Joan. Pauli in lib.
+Schimpff und Ernſt / Boccat. in
+Cento novell. p. z. in der 8. Tagreiſe
+hiſt, 8. n. 200. woſelbſta er alles aus-
+fuͤhrlich zubefinden hat.
+¶ Solchen Betrugs und Argli-
+ſtigkeit haben nicht noͤtig unſere
+Frauen und Jungfrauen Teutſcher
+Nation / ſonderlich / die ſo an Herꝛn
+Hoͤfen ſeind / auf den Univerſitaͤten /
+in den vornemen Handels-ſtaͤten
+ſich auffhalten / da entweder / die
+Herꝛn und Profeſſores vielmal
+in Legation-Sachen verſchiket
+werden / oder aber dieſe Kauff-
+herꝛn / jhrer Negotiation und Hand-
+lung zu treiben / etliche mal im
+Jare auff verſcheidene Meſſen ver-
+[Kustode] raͤiſen /
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 147
+raͤiſen / hin und wider in weite Laͤn-
+der ziehen / handeln / kauffen / jhre
+Schulden eintreiben / offt nicht al-
+lein etliche Wochen und Monat /
+ſondern auch etliche Jare ausblei-
+ben / dieſelbe Damen haben eine beſ-
+ſere Occaſion / ſeind auch ſicherer
+jhre Sachen zu effectuiren (zu vol-
+ziehen /) dan dieweil der Mann al-
+zulang auſſen bleibet / behilfft ſich
+die Clytemneſtra bißweilen mit den
+Dienern / eine mit einem guten Stu-
+denten / eine andere mit einem guten
+Scribenten / welche ſpizige Federn
+haben / ſonſt auch mit einem guten
+Hoͤfling / gleich wie wir ſehen an
+der Helena / des Menelai Gema-
+lin / welche in Abweſenheit jhres
+Mannes /
+– prorſus ne ſola jaceret
+Hospitis eſt tepido nocte recepta ſinu.
+nicht gern allein ſchlaffen wol-
+te / einen andern fremden Herꝛn
+zur Geſelſchafft angenommen /
+[Kustode] g ij u##
+[Seitenwechsel]
+[Kolumnentitel] 148 Loͤfflerei Kunſt.
+und die Zeit damit vertrieben hat /
+biß zu des Mannes Widerkunfft.
+¶ Etlicher Kauffherꝛen Toͤchter
+und Frauen / machen es heut zu
+Tage / gar zu grob und zu gemein /
+ſie haben eigene und ſonderliche Kuͤſ-
+ſen / die ſie in Abweſenheit des
+Manns ins Fenſter laͤgen / und den
+ganzen Tag hinauß ſehen / biß daß
+der liebe getreue vorbei paſſiret /
+von dem ſie den Segen mit verlan-
+gen erwarten ſecundum gloſſ. in c.
+abſit. 11. q. 3. cap. Scripturis diſtinct.
+96. ſo bald ſie deſſen gewar werden /
+ruffen ſie ungeſcheuet. Wo hinaus
+Herꝛ Jacobus / wie iſt der Herꝛ
+ſo gar ſtolz / daß er gute arme Leute
+nicht mehr kennen wil / behuͤte Gott /
+mein Mann iſt nach Frankfurt
+verꝛaͤiſet / komt in vierzehen Tagen
+nicht wider / bitte kommet gegen
+Abend / und helffet mir den Laden
+zu machen / ꝛc.
+[Kustode] Eine
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 149
+¶ Eine andere machet es der ge-
+ſtalt etwa zierlicher / und ſpricht:
+Eja GOtt lone Ju / wie iſt der
+Herꝛ ſo uͤber die maſſe hoffaͤrtig /
+daß er vorbei gangen / und gute
+Leute nicht einmal gegruͤſſet / unſer
+Enniken und unſer Johannes / ſeind
+faſt wol fuͤnff oder ſechs Tage
+ſchwerlich krank geweſen / wolt jhr
+nicht eins kommen ſie zu beſuchen /
+der Vater iſt verꝛaͤiſet / und ich bin
+nur allein zu Haus / kommet ein /
+und ſehet wie es mit jhnen beſchaf-
+fen iſt / ꝛc. Aber es iſt jhnen uͤm die
+Huͤlffe der Kinder nicht zuthun /
+denen mag es gehen wie es woͤlle /
+wan ſie nur Troſt empfangen moͤ-
+gen.
+¶ Etliche aber ſind noch hoͤflicher
+als die vorgemeldete / geben vor /
+daß der Mann habe jhnen allerhand
+ſchoͤnen Waren von Sartin und
+Atlaß / allerhand ſchoͤn Gewand /
+allerhand Lind von Frankfurt oder
+aus Holland geſchiket wolle nach
+[Kustode] G iij ach#
+[Seitenwechsel]
+[Kolumnentitel] 150 Loͤfflerei Kunſt.
+acht Tagen auch ſelber hinuͤber kom-
+men / und mehr Waren mit ſich
+bringen / er wolle nach ſeinem belie-
+ben einsmals dieſe Waren beſehen /
+ob etwan dabei were / welches jhm
+dienete / das beſehen hette er uͤm-
+ſonſt com ſimilibus, blad laͤſſet ſich
+der Herꝛ gefallen / koͤmt zu der
+Frauen / viſitiret jhr den Kram-
+Laden ſo fleiſſig / daß weder Schim-
+mel / weder Spinwebe darein ver-
+bleiben moͤge / circa prædicta eſſent
+quidem multa notabilia, ſed quia
+odioſa ſunt reſtringenda. wird der
+Leſer alſo vor dismal zu er taͤg-
+lichen Erfarung und Ubung hinver-
+wieſen juxta illud:
+Explicit explicuit cætera praxis habet.
+¶ Damit nun dieſe unſere Rede /
+dieſe unſere wolmeinende Arbeit /
+nicht nur einen ſchlechten receſſui
+gleich ſei / ſondern auch etwa Lehre /
+Unterꝛicht und Troſt in ſich begreif-
+fen / ſo wollen wir vornemlich und zu
+[Kustode] vorderſt
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 151
+vorderſt alle Haͤußvaͤter getreu-
+lich vermanet haben / daß ſie zu
+Hauſe bleiben / oder da es ja noͤtig
+zu raͤiſen / die Frauen mit ſich fuͤh-
+ren / oder aber wan der Mann
+allein ausraͤiſen wil / ſeine Haus-
+Arbeit bevor und zuerſt wol ver-
+richte / und dannoch ſo bald es
+jmmer muͤglich wider heim kom-
+me / ſintemal gewiß iſt / ſoviel mal
+die Maͤnner ausraͤiſen / ſo viel-
+mal vergeſſen jhrer die Weiber /
+und man jhnen dan das Fleiſch he-
+bet an zu juken / nemen ſie / was
+da iſt / ꝛc. Deſſen ein Exempel zu
+leſen iſt bei dem Nevi. lib. 4. num.
+88. von der Dejanira / wie aͤng-
+ſtiglich ſie klaget um die viel-
+faͤltige / und viel zu lange Ab-
+weſenheit jhres Herꝛn / daß ſie
+gleich / einer Witwen ſei / und die
+Wolluͤſte wie andere Weiber von
+jhrem Manne nicht genieſſen moͤge /
+den ſie ſaget:
+[Kustode] G iiij Vir
+[Seitenwechsel]
+[Kolumnentitel] 152 Loͤfflerei Kunſt.
+Vir mihi ſemper abeſt, &#x0026; conjuge notior
+hoſpes
+Monſtraque terribiles perſequiturque
+feras
+Ipſa domo vidua votis operoſa pudicis
+Torqueor, infeſto ne vir ab hoſte cadat.
+vide ulterius idem. ibid. nu. ſeq.
+¶ Laſſet euch das Exempel jenes
+Schmides ja ſtets im Gedaͤchtnuͤs
+und fuͤr Augen ſchweben / von wel-
+chem S. von Golau ſchreibet:
+Ein Schmid verließ ſein Weib / war auſ-
+ſen manches Jar;
+Jn deſſen war der Knecht nnd dieſes
+Weib ein Paar:
+Als wider kam der Schmid / da teilten ſie
+die Stelle /
+Fuͤr Meiſter Arbeit’ der / und jener fuͤr
+Geſelle.
+¶ Die Weiber ſeind nicht alle ſo
+zuͤchtig / wie des Fulvij Torquati
+ſeine Gemalin / weiland zu Rom
+geweſen / dan dieſe hat ſich in der
+Zeit / als jhr Mann uͤber die eilff
+[Kustode] Jare
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 153
+Jare in Krieges Verꝛichtung ge-
+weſen / niemal ſehen laſſen / ſondern
+allezeit ein einſames Leben gefuͤret /
+auch keine Mansperſon uͤber acht
+Jare alt in jhr Haus zukommen ge-
+ſtattet. Alſo beſchreibet Sal. von
+Golau jene fromme Frau / derer
+gleichwol unter tauſenden / kaum
+eine zufinden.
+Proba ward von einem Buler uͤm die
+Gunſt geſprochen an;
+Weil ſie / ſprach ſie / meines Mannes / ſo
+befrage vor den Mann.
+¶ Wo findet man anjez ſolche
+Frauen? weil ſich alle Dinge in der
+Welt / alſo hat ſich auch die Erbar-
+keit der Weiber / geaͤndert / biß-
+weilen aber thun ſie nichts ohn ur-
+ſach / den ſo jhr Maͤnner auch viel-
+mal die Treue vergeſſet / und buͤten
+been ſpoelet (wie die Hollaͤnder
+ſagen / und) mit ledigem Beutel
+zu Hauſe kommet / (welches ſie bald
+vermerken) koͤnnen die Frauen hin-
+[Kustode] E v ####
+[Seitenwechsel]
+[Kolumnentitel] 154 Loͤfflerei Kunſt.
+widerum ſie mit gleicher maſſe be-
+zalen / poteſt enim conditionem
+viri ſui ſequi, naturaque mulierum
+ad vindictam eſt admodum pro-
+clivis &#x0026; ſic paria delicta mutua com-
+penſatione tolluntur. l. 39. &#x0026; ibid.
+Barthol. ff. ſolut. matrim. c. 6. fin. X.
+de adult. l. 39. ff. de dol. mal. l. 57.
+ff. de conrrah. empt. iſt derhalben
+beſſer / daß Mann und Frau ſel-
+ber jhre Notdurfft verꝛichten / als
+andere Coadjutores zu zulaſſen /
+dazu auch den Frauen keine Ur-
+ſache gegeben werden muß / juxta
+præd. educta.
+¶ Die alten Seniores, auch die
+nunmehro in dieſer unſer Loͤff-
+lerei Profeſſores emeriti ſein wol-
+len / warnen wir hiemit inſonder-
+heit / daß ſie die junge Weiber-
+gen ungevexiret laſſen / aus urſa-
+chen / wie oben ausfuͤhrlich ver-
+meldet / oder aber ſo ſie bereits ein
+junges Weib genommen / jhr Haus-
+Arbeit wol verꝛichten / ſonderlich
+[Kustode] auch
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 155
+auch ſich huͤten fuͤr den falſchen
+Propheten / die man Studenten
+nennet / ſie ſeind entweder Do-
+ctores, Licentiati, Candidati,
+Magiſtri, Secretarij, Subſtituti
+und Scribenten / ſo lang ſie auff
+Univerſitaͤten / Gymnaſiis ſtudi-
+ren / oder aber / auff Canzeleien /
+Rath- und Notariat-Stuben co-
+puren und ſchreiben / practiciren
+nichts anders / als wie ſie euere
+junge Frauen und Toͤchter in ca-
+meram charitatis (in die Loͤffel-
+Zunfft /) einfuͤhren moͤgen (wel-
+ches nicht allein dieſen alten Senio-
+ribus, ſondern auch den andern zu-
+befaren ſtehet) daſſelbe ehrlieben-
+de Geſindlein / iſt ſo raubgierig /
+nach euer und euerer Weiber Eh-
+re / jhnen widerſtehet nichts / den
+was ſie nur anfangen oder erden-
+ken / das gelinget alles miteinan-
+der / dan ſie koͤnnen ſich freund-
+lich geberden / from und eingezogen
+ſtellen / als weren ſie liebe Engelein /
+[Kustode] G vj ſeind
+[Seitenwechsel]
+[Kolumnentitel] 156 Loͤfflerei Kunſt.
+ſeind doch rechte Teufel ex fructibus
+eorum cognoſcetis eos, ſie zerbre-
+chen den Haſen / und laſſen euch die
+Scherben leken. Und wen jhr ſchon
+euere Weiber in einen eiſern Korb
+einſchlieſſen lieſſet / wie Muͤnſter.
+Coſmograph. l. 4. von dem Tamer-
+lanes der Skiten Koͤnige ſchreibet /
+beu euch ſtets fuͤhrete / ſo ſeind ſie
+dannoch unſicher von dieſen Raub-
+voͤgeln / darum dan ein jeder Hauß-
+vater fuͤr ſeiner Tuͤr mit guͤldenen
+Buchſtaben ſchreiben mag den alten
+bekanten Teutſchen Verß:
+Wer wil daß in ſeinem Hauſe / Frau und
+Tochter bleibe rein /
+Laſſe keine wuͤſten Saͤue / Tauben / noch
+Studenten ein.
+den ſie haben von Jugend auff ge-
+lernet / aus dem Terentius / quod
+non ſit vitium adoleſcentem ſcortari,
+ein wenig Huren ſtehe nicht uͤbel /
+und aus dem Euripidis / daß ein
+alter Mann und ein junges Weib
+[Kustode] ſich
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 157
+ſich nicht wol zuſammen ſchiken / es
+werde dan das Weib von andern zu-
+weilen getroͤſtet.
+¶ Wan dan die Studioſi autorita-
+tom Doctorum, wie ſie ſagen / haben /
+vermeinen ſie ein Werk der Barm-
+herzigkeit daran zu veruͤben / auch
+ein Gottes Lohn zu verdienen /
+bringen jhre Sachen ſo hoch / und
+vermeinen zu vertheidigen / daß die
+Hurerei in jure zulaͤſſig ſei / wen
+einer ſchon eine Meze mit ſich ins
+Hauß braͤchte / und auff ſeine
+Schlaffkammer gefuͤret hette / dan-
+noch der Haußwirt ſolche von den
+Stube / welche er den Studenten
+verheuͤret hette / nicht abjagen doͤrff-
+te / angeſehen ſolchen zu bedenken
+gebuͤret / quod ſtudioſus non poſſit
+caſtus vivere, und kein Bokfinke ſei /
+der auff dem Baum herum tanzet.
+Secund. Bald. in l. ædem. C. de
+locat. &#x0026; cond. Albert. in l. non
+aliter. ff. de uſu &#x0026; habit. Pet. Rebuff.
+in comm. ad auth. habitam. C. ne
+[Kustode] G vij fil pro
+[Seitenwechsel]
+[Kolumnentitel] 158 Loͤfflerei Kunſt.
+fil. pro pat. &#x0026; de privil. univerſ. p.
+1. c. 2.
+¶ Derowegen wan jhr ſehet / daß
+jhre Jungen oder Poſtilionen zu
+eueren Weibern und Toͤchtern ab-
+und zugehen / gedenket frei / daß
+das Ende nah / und das es uͤm
+ſie / und jhre Ehre allein zu thun
+ſei / daruͤm bauet vor / und ſchaffet
+dergleichen Poſtboten ab / auff
+daß jhr nicht zu ſpaͤt mit dem Eu-
+ripide klaget / malarum fœmina-
+rum introitus me perdidit, quæ
+mihi vel potius filiabus, &#x0026; fœminæ
+meis loquentes hos blandè perſua-
+ferunt ſermones &#x0026;c. d. i. Alte Huren
+und Kuplerinnen / haben durch
+offters beſuchen und durch jhre
+ſchmeichleriſche Reden / mein Haus
+befleket / meine Frau und Toͤchter
+in Spot / und Schand geſezet / ja
+mich uͤm Ehre und guter Namen
+gebracht.
+¶ Goͤnnet euren Weibern uñ Toͤch-
+tern auch nicht / daß ſie auff allen
+[Kustode] Hoch-
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 159
+Hochzeiten / Abendtaͤnzen und Co-
+mœdien / auch Balleten ſich finden
+laſſen / und wie man ſaget / die Naſe
+in allen Loͤchern haben / Es iſt ein
+altes Sprichwort / daß Vorwiz
+machet Jungfrauen theuer / und
+was dieſe Comœdien vor Frucht
+bringen / ſolches iſt aus vielen
+Exempeln abzunemen / inſonderheit
+laſſes jhnen nicht zu / daß ſie viel den
+Ovidius von Kunſt der Liebe /
+im Amadiß / in den Complementen /
+Liebes-Buͤchern und Hiſtorien ob-
+gemeldet / auch im geringſten nicht
+in des Boccaccii zwei hundert
+Hiſtorien leſen und ſtudiren / dan
+ſie ſolten ſonſt die Praxin und
+den Stylum bald faſſen / und euch
+zuſehend betriegen / derohalben fol-
+get gegebenem Rath und Cau-
+tel / damit jhr die Hoͤrner / ſo euch
+taͤglich zugelaͤget werden / vermei-
+den koͤnnet.
+¶ Die junge Weiber und Jung-
+frauen (die Muͤnſteriſchen aber
+[Kustode] ung
+[Seitenwechsel]
+[Kolumnentitel] 160 Loͤfflerei Kunſt.
+ungemeinet) wollen wir zum Be-
+ſchluß auch gewarnet / und gleich-
+ſam gebetten haben / daß ſie alle vor-
+gesezte Puncten mit Fleiß beher-
+zigen / und ſoviel immer muͤglich /
+ſich huͤten wollen / nicht allein vor
+den obgeſezten Raubvoͤgeln / Stu-
+denten und Scribenten / ſondern
+auch fuͤr allerhand fremden Nation /
+als da ſein Jtaliaͤner / Spaniarden /
+Hollaͤnder / Portugieſen / Man-
+tuaner / und inſonderheit fuͤr denen
+alzuviel eindringenden Franzoſen /
+welche / weil wir Teutſche in jhren
+Laͤndern / allenthalben das Præ
+haben / und von jhren Frauen und
+Jungfrauen fuͤr allen Nationen
+ſehr geprieſen und geliebet werden /
+hinwider trachten / und nichts an-
+ders bedenken / als wie ſie uns einen
+ſchimpff wider anthun / und die
+Ehre haben moͤgen / fuͤr ſo manch
+tauſend par Hoͤrner / die jhnen von
+uns Teutſchen werden auffgeſezet /
+[Kustode] Euch
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 161
+Euch mit einem Kindskopff wider
+vorm Sterz zuwerffen.
+¶ Huͤtet euch vor den allen / weil
+ſie alle Heimlichkeit / ſo jhr in euer
+liebe und loͤffeln gedenket und ge-
+brauchet / reveliren / und dieſelbe
+beſchriebener maſſen / dadurch ins
+offen koͤmt / euch mit Fingern nach-
+weiſen / dahero auch die Bettel-
+jungen auff der Gaſſe / wiſſen aus-
+druͤklich zu reden und zu benennen /
+daß die oder die Frau / den und den
+Serviteur, Auffwarter und Cour-
+tiſan habe: Darum laſſet dieſe alle
+faren / und haltet es zum wenigſten /
+mit den guten redlichen Teutſchen /
+welche auch den Weg nacher Kin-
+derhauſen wiſſen / und koͤnnen
+ſchweigen / wan jhnen Barmherzig-
+keit widerfaren iſt / welches donum
+den andern gar ſelten mit gegeben
+worden / oder aber / da noch einer
+oder ander iſt / der es mœritiret
+(wuͤrdig iſt /) und der auch einen
+ſo guten Elenbogen zu ſchweigen
+[Kustode] erlanget
+[Seitenwechsel]
+[Kolumnentitel] 162 Loͤfflerei Kunſt.
+erlanget hat / daß jhr jhm euere
+Jungfrauſchafft / euere Ehre und
+Liebe ſicher anvertrauen duͤrffen /
+ſo wollet doch zum wenigſten hin-
+fuͤro aller Vorſichtigkeit euch be-
+fleiſſen / und ſoviel muͤglich ingeheim
+loͤffeln / damit es nicht jederman
+bekant werde / maſſen dan jhr aus
+dieſem Tractaͤtlein abnemen moͤget /
+daß durch euere Unvorſichtigkeit
+auch die allergeheimeſte Sachen
+ans Liecht kommen und offenbar
+werden / wie dieſes aber geſchehen
+ſolte / davon were wol außfuͤhrlich
+zu tractiren / weil aber die Unter-
+weiſung heimlich zu lieben / vor die-
+ſem durch einen in kurze Form gezo-
+gen / auch unlaͤngſt in offenen Druk
+gegeben / wollen wir dieſelbe noch
+zum Beſchluß allhie widerholen /
+und damit dieſe unſere wolgemeinte
+Arbeit ſchlieſſen / wir geloben und
+verſprechen / nach aller Muͤgligkeit /
+noch ein weit mehrers hiernechſtens
+an den Tag zubringen / um den loͤf-
+[Kustode] lichen
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 163
+lichen Frauenzimmer ferner zudie-
+nen und zuvilfahren / inzwiſchen
+befehlen und ergeben wir uns der
+Frauen und Jungfrauen hoher
+Gunſt und Wolgewogenheite / (die
+wir hiedurch bei denſelbigen erlan-
+get haben /) demuͤtigſt / verbleiben
+auch in allen beliebten Gelegenhei-
+ten auffzuwarten / wan ſie unſer
+beduͤrfftig / und ſo offt ſie es von uns
+begeren werden / erboͤtig.
+Vnterweiſung heimlich
+zu lieben.
+Jm Thon:
+Wer fragt darnach / ꝛc.
+1. WEil wir zerſtreut / durch Neid und
+Zeit /
+Vns heimlich muͤſſen meinen /
+Weil du fuͤr mir / Vnd ich fuͤr dir /
+Ganz feindlich ſol erſcheinen /
+Weil mir dein Licht / das Herze nicht /
+Von Augen wird geriſſen:
+So hoͤre zu / du meine Rhu
+Was dieſes ſol verſuͤſſen.
+[Kustode] 2. Man
+[Seitenwechsel]
+[Kolumnentitel] 164 Loͤfflerei Kunſt.
+2. Man zwingt den Mund / des Herzen-
+grund
+Verbleibt in ſeiner Schranken /
+Man ſchweiget ſtill / Vnd denket viel /
+Wer haͤmmet die Gedanken?
+Hab acht / wie ich / mich wider dich
+Jn allen / wie ich / mich wider dich
+Jn allen wil geberden /
+Wan wir allein / nicht koͤnnen ſein /
+Das wirs nicht ſchuldig werden.
+3. Du ſolſt auff mich / wie ich auff dich
+Die Augen laſſen ſchieſſen /
+Als wan du mich / als wan ich dich /
+Nicht gerne wolte wiſſen /
+Du ſolſt fuͤr mir / wie ich fuͤr dir /
+Niemals ein zeichen geben /
+Als ſolſt du mir / als ſolt ich dir
+Zu Lieb und Willen leben.
+4. Verhoͤnt man mich / enthalte dich /
+Kein Wort fuͤr mich zuſprechen /
+Entferbe nicht / dein Angeſicht /
+Vnd laſſe dir nicht brechen
+Den treuen Sinn / denk aber hin /
+Vnd was ſie ſagen wollen /
+Geb’ alles ein / as Ja und Nein /
+Biß ſie es laſſen ſollen.
+5. Sagt jemand dir / viel neues fuͤr /
+Von mehr als vierzig Damen /
+Die ich nach dir / verpflichte mir /
+So ſolſt du ſie benamen /
+So gut du weiſt / die Schoͤnſte heiſt
+Eliſa / die fuͤr allen /
+[Kustode] Vor
+[Seitenwechsel]
+[Kolumnentitel] Loͤfflerei Kunſt. 165
+Vor vierzig mir mit Zucht und Zier
+Sol bleiben mein Gefallen.
+6. Weil deine Tuͤr / geſchloſſen mir /
+Vnd ich vorbei muß gehen /
+Weil dir fuͤr mir / und mir fuͤr dir
+Verboten iſt zuſtehen /
+So ſein dein Sinn ſtets wo ich bin
+Mein Herze thut dergleichen /
+Es ſei hinfort / an dich mein Wort /
+Durch Band und andre Zeichen.
+7. Geh’ ich vorbei / So red’ ich frei /
+Du wirſt die Zunge kennen /
+Jch werde diech / du wider mich
+Jn fremden Namen nennen /
+Der Seladon ſei deine Kron
+Eliſa meine Freude /
+Jch deine Ruh / dein ganzes Du /
+Du meiner Augen weide.
+8. Werff ich die Hand auff deine Wand
+Vnd du kanſt ſolches ſehen /
+So iſts ein Gruß / ſo iſts ein Kuß /
+Du wirſt hergegen ſtehen /
+Auff deine Bruſt / auff meine Luſt /
+Die Schlanken Finger legen /
+Jn heiſſer Pein mir dankbar ſein /
+Die Herzen zubewegen.
+9. Es ſol kein Gruß / es ſol kein Kuß
+Zu andern nicht geſchehen /
+Der nicht auff dich O du mein Jch /
+Sol aus dem Herzen gehen /
+[Kustode] ####
+[Seitenwechsel]
+[Kolumnentitel] 166 Loͤfflerei Kunſt.
+Den du allein biſt all mein Schein
+Vnd Stern / der mich Magneten
+Nach ſich bewegt / ja ſo verpflegt
+Wie Phoebus die Planeten.
+10. Wan ich mit Gruͤn / gebunden bin /
+Jſt Hoffnung dich zuſehen /
+Das Gold bedeuͤt / daß ich erfreuͤt /
+Schwarz / ſol fuͤr Wehmut ſtehen /
+Der weiſſe Schein / bedeuͤtet Rein
+Die ungeferbte Liebe /
+Leibfarb und Rot / iſt Muͤh und Not /
+Blau / daß mich was betruͤbe.
+11. Diß meine Zier / wird dir von mir
+Zur Vnterꝛichtung geben /
+Biß uns die Zeit / die nicht gar weit
+Vergoͤnt ein beſſer Leben /
+Da ſonder Scheu / wir beide  frei:
+Nach Willen moͤgen lieben /
+Diß hat zu dir / du meine Zier /
+Dein Seladon geſchrieben.
+[Zierstuͤck]
+[Kustode] Ein
+[Seitenwechsel]
+[Kolumnentitel]
+</p>
+      </body>
+  </text>
+</TEI>
