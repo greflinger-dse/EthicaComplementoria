@@ -1,0 +1,6 @@
+2019-01-25
+* added file transc_ferrando-dorinde_1644_SUBGoettingen_Poet-Germ-2759.txt
+* file was copy-and-pasted from .docx file Transgraphierung_Ferrando Dorinde_Göttinger Exemplar_2016-06-09.docx
+* placeholder characters were automatically replaced with correct characters, changes tracked
+* transcription is not complete; stops at page 18
+* .docx will be deleted when upload of .txt file to GitHub complete
