@@ -4,3 +4,29 @@
 * placeholder characters were automatically replaced with correct characters, changes tracked
 * transcription is not complete; stops at page 18
 * .docx will be deleted when upload of .txt file to GitHub complete
+2019-01-26
+* added file GG_Gelegenheitsdichtung_Trauer_Hamburg_1652.txt
+* file was converted from .rtf to .txt manually
+* \ as marker for line break was removed automatically
+* seems to be transcription errors in file, must be proof read
+* added file GG_Gelegenheitsdichtung_Weihnachtgedancken Zweidruck_1639.txt
+* added file GG_Gelegenheitsgedicht_Hochzeit_1643.txt
+* both were automatically converted from .rtf to .txt with TextEdit
+* both need checking for spelling and overall transcription quality
+* added Kasualgedicht_GG_1638_Johann Georg Herzog zu Sachsen.txt
+* file was automatically converted from .doc to .txt using MS word, encoding UTF-8
+* experimented with using OxGarage for conversion directly to TEI P5 but didn't yield the expected result, probably bc. too little layout information in the original .doc file
+* file needs proof reading and check of transcription quality
+* added file Ethica 1728_2017-10-12.txt
+* automatically converted from .docx to .txt using MS Word
+* was unexpectedly complete transcription of 1728 edition of Ethica
+* conversion incomplete, comments and highlights weren't taken with
+* since it is in almost finial stage, it should be considered for publication on DTA soon
+* two .docx files Ethica 1728_2017-10-03.docx and Ethica 1728_2017-10-12.docx for same 1728 edition were uploaded to repository for proofing, will be deleted afterwards
+* changed folder structure in repository, moved all Ethica related transcriptions into individual folders for each edition
+* general deliberation: should .docx and similar files be put in GitHub repo?
+* pro: everything related to the project is kept in the same place
+* contra: .docx etc. don't version control; it's also a lot of files bc. of manual 'versioning'
+* contra: it looks messy and isn't necessarily useful to anyone
+* solution? only put final version there in a versionable format (.txt or .xml)
+* store other versions (historical versions) in local folder for archiving?
