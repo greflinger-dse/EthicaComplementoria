@@ -30,3 +30,14 @@
 * contra: it looks messy and isn't necessarily useful to anyone
 * solution? only put final version there in a versionable format (.txt or .xml)
 * store other versions (historical versions) in local folder for archiving?
+2019-01-30
+* status check of file GG_1644_Das klagende Deutschland.xml
+* transcription seems to be complete
+* match to DTA base format and send on
+* file needs to be moved to Greflinger repository; doesn't belong in Ethica repository
+* status check Status Germaniae_1643_Transkription.xml
+* transcription seems to be incomplete
+* check bibliographical information and source for transcription
+* match to DTA base format and send on
+* file needs to be moved to Greflinger repository; doesn't belong in Ethica repository
+* created log file for both files above for proofing stage (should be done after format conversion)
