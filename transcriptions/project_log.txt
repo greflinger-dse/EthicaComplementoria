@@ -41,3 +41,38 @@
 * match to DTA base format and send on
 * file needs to be moved to Greflinger repository; doesn't belong in Ethica repository
 * created log file for both files above for proofing stage (should be done after format conversion)
+2019-02-12
+* created GitHub organisation "Greflinger-DSE" meaning Greflinger Digital Scholarly Edition
+* imported "Ethica Complementoria" repository from (https://github.com/arockenberger/EthicaComplementoria)
+* deleted folders containing:
+  * "occasional_poetry"
+  * "other_texts"
+  * "poetry"
+* deleted all files from folder "ethica_complementoria" that were not versionable:
+  * .docx
+  * .xlsx
+  * .odt
+  * .pdf
+* created TEIheader for A1 using the CLARIN-D Metadatenformular zur Aufnahme einzelner Ressourcen from http://www.deutschestextarchiv.de/dtae/submit/clarin
+* TEIheader file is stored in folder "1643_A1" with filename "TEIheader_1643.xml"
+* TEIheader file is sent via email to DTA
+* digital object of original print from Staatsbibliothek Bamberg has been sent as .pdf file via email to DTA
+* DTA confirms taking care of editing the digital object file according to their specifications
+* on 2019-01-29 confirmation of use of digital object received via email from Staatsbibliothek Bamberg
+* TO-DO: permissions and other administrative documents, including emails must be saved securely at some place. Where?
+* renamed folder "Aufsatz_AR_Ethica Complementoria Stemma und Überlieferung_editio_2016" to "print-history"
+* latest version is article01_KORR_AR_2017-12-05.xml and was renamed to rockenberger_print-history-ethica_version1.xml
+* deleted all other versions of this file (pre-versioning state)
+* rename file from collation results b_group_2017-11-22.csv to output_collation-results_test-b-group.csv
+* deleted old version collation results b_group.csv
+* moved folder "notebook" into "print-history" since it contains collation
+* moved files for collation from folder "test_material_for_analysis" into folder "notebook"
+* deleted clones of 2 text files "B4-2.txt" and "B6-2.txt"
+* TO-DO for later: short and precise filenames for .xml files in transcriptions
+* Cochleatio Novissima_1656_XML-TEIP5_2015-08-05.xml renamed C1_cochleatio_1656_BSB-Pogerm-236.xml
+* C1_cochleatio_1656_BSB-Pogerm-236.xml was edited last on 2015-08-05
+* TO-DO: check file status of C1_cochleatio_1656.xml, add info in file as comment <!-- -->
+* Löfflerey-Kunst 1648 Exemplar SBB PK Yz 1551.xml renamed B2_cochleatio_1648_SBB-PK-Yz1555.xml
+* B2_cochleatio_1648_SBB-PK-Yz1555.xml was edited last unknown. Contains only transcript of title page of Berlin State Library copy
+* Transgraphierung_Cochleatio Novissima_1648_WolfEx165.10.xml renamed B2_cochleatio_1648_HAB-165-10.xml
+* introduced naming of transcripts in the following style: ID_shorttitle_year_libraryID_shelfmark. shelfmarks do not contain periods, instead use hyphens where needed
