@@ -76,3 +76,7 @@
 * B2_cochleatio_1648_SBB-PK-Yz1555.xml was edited last unknown. Contains only transcript of title page of Berlin State Library copy
 * Transgraphierung_Cochleatio Novissima_1648_WolfEx165.10.xml renamed B2_cochleatio_1648_HAB-165-10.xml
 * introduced naming of transcripts in the following style: ID_shorttitle_year_libraryID_shelfmark. shelfmarks do not contain periods, instead use hyphens where needed
+* dynamic bibliography in Zotero group library (https://www.zotero.org/groups/189709/georg_greflinger__digitale_archiv_edition)
+* TO-DO: create schema for how print history was – and is – created using different tools and sources, sketch workflow
+* IDEA: modify style for Zotero in order to be able to export to a format like BibTex so that it can be mapped on <bibl> from TEI P5
+* (https://citationstyles.org/) (https://github.com/citation-style-language)  
