@@ -1,0 +1,2895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://diglib.hab.de/rules/dtd/teiP5/tei.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main"> Ethica Complementoria – Versuch einer
+					bibliographisch-stemmatologischen Rekonstruktion der Überlieferungverhältnisse </title>
+				<author>
+					<name>
+						<surname>Rockenberger</surname>
+						<forename>Annika</forename>
+					</name>
+					<ptr target="GND: http://d-nb.info/gnd/142877131" type="gnd"/>
+					<orgName>Universitetet i Oslo</orgName>
+					<orgName> Institutt for litteratur, områdestudier og europeiske språk </orgName>
+					<address>
+						<addrLine>Postboks 1003, Blindern, NO-0315 Oslo</addrLine>
+					</address>
+					<email>annika.rockenberger@ilos.uio.no</email>
+					<email>arockenberger@gmail.com</email>
+				</author>
+				<respStmt>
+					<persName>
+						<name>
+							<surname>Steyer</surname>
+							<forename>Timo</forename>
+						</name>
+					</persName>
+					<resp>TEI-konforme Kodierung</resp>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Elektronische Ausgabe nach TEI P5</edition>
+			</editionStmt>
+			<publicationStmt>
+				<!-- <idno type="werk-ID">ebooks/ed0000738</idno> -->
+				<!-- <idno type="ppn">NOCH VERGEBEN</idno> -->
+				<publisher>
+					<name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+					<address>
+						<street>Lessingplatz 1</street>
+						<name type="city">Wolfenbuettel</name>
+						<postCode>D-38299</postCode>
+						<name type="country">Germany</name>
+					</address>
+				</publisher>
+				<date>2017</date>
+				<availability status="restricted">
+					<p> Available at <ref target="http://diglib.hab.de/ebooks/ed000378/start.htm "
+							>(c) Herzog August Bibliothek Wolfenbüttel</ref>
+					</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Text basiert auf einer Wordvorlage.</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p> Erstellt als Beitrag zur Reihe "Wolfenbütteler Notizen zur Buchgeschichte". </p>
+			</projectDesc>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head> Die <hi rend="italic">Ethica Complementoria</hi> – Versuch einer
+				bibliographisch-stemmatologischen Rekonstruktion der Überlieferungverhältnisse </head>
+			<div>
+				<p>
+					<quote>
+						<hi rend="italic">Dinge zu bezweifeln, die ganz ohne weitere Untersuchung
+							jetzt geglaubt werden, das ist die Hauptsache überall.</hi>
+					</quote>
+					<lb/>
+					<lb/> Georg Christoph Lichtenberg </p>
+			</div>
+		</front>
+		<body>
+			<div n="1" type="chapter">
+				<head>Einleitung</head>
+				<div n="1.1" type="section">
+					<head>Allgemeines</head>
+					<p> Mit den nachstehenden Ausführungen<note type="footnote"> Einen Teil der dem
+							folgenden Aufsatz zugrundeliegenden Recherchen habe ich im Rahmen eines
+							Digital Humanities Stipendiums der Herzog August Bibliothek Wolfenbüttel
+							im August und September 2013 angestellt. Für kritische Hinweise zu
+							früheren Fassungen dieses Aufsatzes danke ich herzlich Per Röcken
+							(Berlin), Nina Maria Evensen (Oslo) und Christian Janss (Oslo). </note> verfolge ich im Wesentlichen zwei Zielsetzungen: Zum
+						einen lege ich argumentativ die chronologische Abfolge sowie die
+						stemmatisch-genealogischen Beziehungen der Druckausgaben der <hi
+							rend="italic">Ethica Complementoria</hi> des 17. und frühen 18.
+						Jahrhunderts dar. Zum anderen dient eine solche Rekonstruktion – mittelbar –
+						als Grundlage für Erwägungen zur Wahl der Textgrundlage einer künftigen
+						Edition der <hi rend="italic">Ethica</hi>. </p>
+					<p> Vornehmlich geht es mir darum, die bibliographisch-textgeschichtliche
+						Forschung zu einer der am häufigsten neu- und nachgedruckten
+						deutschsprachigen Komplimentierlehren der Frühen Neuzeit ein gutes Stück
+						voran zu bringen, indem ich das Verhältnis der einzelnen Ausgaben zueinander
+						und ihre Abhängigkeit voneinander mit bibliographisch-druckanalytischen
+						sowie textkritischen Methoden (Heuristik und Kollation) zu ermitteln
+						versuche. Ich werde dabei einige der in der Forschung kursierenden
+						Einschätzungen zur Überlieferung der <hi rend="italic">Ethica</hi>-Drucke
+						als fehlerhaft oder empirisch nicht belastbar zurückweisen können. </p>
+				</div>
+				<div n="1.2" type="section">
+					<head>Die Ethica Complementoria</head>
+					<p> Die <hi rend="italic">Ethica Complementoria</hi>, oder auch <hi
+							rend="italic">Complementierbüchlein</hi>, gehört zur Gattung der
+							Anstandsliteratur.<note type="footnote"> Vgl. <bibl> Karl-Heinz Göttert:
+								Anstandsliteratur. In: Historisches Wörterbuch der Rhetorik. Hg. v.
+								Gert Ueding. Tübingen 1992, Bd. 1, S. 658–675 <ptr type="opac"
+									cRef="032159250"/>
+							</bibl>. </note> Der verhältnismäßig kurze deutschsprachige Text
+						enthält praktische Anleitungen in Form von Erläuterungen und Exempla zur
+						situationsbezogenen Konversation – oder allgemein: zum normkonformen
+						Verhalten – vor allem bei Hofe. Sein Adressatenkreis sind junge,
+						unverheiratete Männer der emporstrebenden Schicht eines akademisch
+						gelehrten, kaufmännischen Bürgertums (oder niederen Adels). </p>
+					<p> Verteilt auf acht Kapitel enthält die <hi rend="italic">Ethica</hi> nach
+						einem einleitenden Traktat über Tradition und Funktion des Komplimentierens
+						im sozialen Kontext sieben Kommunikationssituationen: Komplimente bei Hofe
+						(vor allem in hierarchisch asymmetrischen Konstellationen), Komplimente bei
+						Wahlen oder Abstimmungen, bei Gesellschaften, bei Hochzeitsgesellschaften,
+						für den Umgang mit unverheirateten Frauen (‚Jungfrauen‘), Komplimente beim
+						gesellschaftlichen Tanz sowie Komplimente zur Haushaltsführung. Durchsetzt
+						ist der Prosatext mit Versen in deutscher und – zu einem geringeren Teil –
+						lateinischer sowie vereinzelt in griechischer und französischer Sprache. </p>
+					<p> Es gibt wenig Forschung zur frühneuzeitlichen Anstands- und
+						Komplimentierliteratur im Allgemeinen<note type="footnote"> Immer noch
+							einschlägig ist die umfassende Studie von <bibl> Manfred Beetz:
+								Frühmoderne Höflichkeit: Komplimentierkunst und Gesellschaftsrituale
+								im altdeutschen Sprachraum. Stuttgart 1990 (Germanistische
+								Abhandlungen. 67) <ptr type="opac" cRef="025374737"/>
+							</bibl>. Einen knappen Forschungsüberblick geben <bibl> Manfred Beetz:
+								Komplimentierbuch. In: Reallexikon der deutschen
+								Literaturwissenschaft. Hg. v. Klaus Weimar. Berlin, New York 2000,
+								Bd. 2, S. 321–323 <ptr type="opac" cRef="319295842"/>
+							</bibl> sowie <bibl> Dietmar Till: Komplimentierkunst. In: Historisches
+								Wörterbuch der Rhetorik. Hg. v. Gert Ueding. Tübingen 1998, Bd. 4,
+								S. 1211–1232 <ptr type="opac" cRef="252642740"/>
+							</bibl>. – Neuere literatur-, sprach- und kulturwissenschaftliche
+							Beiträge versammelt das Themenheft <bibl> „Rhetorik und Höflichkeit“ des
+								Internationalen Jahrbuchs für Rhetorik (31, 2012). Hg. v. Manfred
+								Beetz <ptr type="opac" cRef="733292070"/>
+							</bibl>; vgl. weiterführend auch <bibl> Cathrin Hesselink: Artige
+								Schmeichelei oder schuldige Höflichkeit? Komplimentieren im 17. und
+								18. Jahrhundert. In: Das literarische Lob. Formen und Funktionen,
+								Typen und Traditionen panegyrischer Texte. Hg. v. Norbert P. Franz,
+								Georg Braungart, Bernd Engler und Volker Kapp. Berlin 2014
+								(Schriften zur Literaturwissenschaft. 36), S. 175–192 <ptr
+									type="gbv" cRef="798180366"/>
+							</bibl>; <bibl> Der gepflegte Umgang. Interkulturelle Aspekte der
+								Höflichkeit in Literatur und Sprache. Hg. v. Dorothee Kimmich u.
+								Wolfgang Matzat. Bielefeld 2008 <ptr type="opac" cRef="555665933"/>
+							</bibl>; <bibl> Philippe Micha: „Der Endzweck einer veritablen
+								Politesse muss tugendhaft sein“. Fortune et infortunes des notions
+								cicéroniennes de decorum et d’honestum dans l’Allemagne du baroque
+								tardif et de la Frühaufklärung. In: Études Germaniques 241.1 (2006),
+								S. 5–47 <ptr type="opac" cRef="726311316"/>
+							</bibl>; <bibl> Die Kunst der Aufrichtigkeit im 17. Jahrhundert. Hg. v.
+								Steffen Martus u. Claudia Benthien. Tübingen 2006 (Frühe Neuzeit.
+								114) <ptr type="opac" cRef="511464258"/>
+							</bibl>; <bibl> Henriette Burmann: Die kalkulierte Emotion der
+								Geschlechterinszenierung: Galanterierituale nach deutschen
+								Etikette-Büchern in soziohistorischer Perspektive. Konstanz 2000
+									<ptr type="gbv" cRef="316273600"/>
+							</bibl>; <bibl> Manfred Beetz: The Polite Answer in Pre-Modern
+								Conversation Culture. In: Historical Dialogue Analysis, Hg. v.
+								Andreas H. Jucker und Gerd Fitz. Amsterdam 1999, S. 139–166 <ptr
+									type="gbv" cRef="270151540"/>
+							</bibl>; <bibl> Manfred Beetz: Leitlinien und Regeln der Höflichkeit
+								für Konversationen. In: Geselligkeit und Gesellschaft im
+								Barockzeitalter. Hg. v. Wolfgang Adam. Wiesbaden 1997
+								(Wolfenbütteler Arbeiten zur Barockforschung. 2), S. 563–579 <ptr
+									type="opac" cRef="755546121"/>
+							</bibl>; <bibl> Manfred Beetz: Negative Kontinuität: Vorbehalte
+								gegenüber barocker Komplimentierkultur unter Altdeutschen und
+								Aufklärern. In: Europäische Barock-Rezeption. Hg. v. Klaus Garber.
+								Wiesbaden 1991 (Wolfenbütteler Arbeiten zur Barockforschung. 20), S.
+								281–301. <ptr type="opac" cRef="340244682"/>
+							</bibl>
+						</note> und zur <hi rend="italic">Ethica Complementoria</hi> im Speziellen.
+						Eine Edition der <hi rend="italic">Ethica</hi> ist ein Desiderat.<note
+							type="footnote"> Wird derzeit erarbeitet von der Autorin. Als
+							dringliches Desiderat bereits benannt von <bibl> Manfred Beetz:
+								Anstandsbücher und Kommunikationslehren der Frühmoderne als
+								gesellschaftsethische Wegweiser. In: Editionsdesiderate zur Frühen
+								Neuzeit. Hg. v. Hans-Gert Roloff. Amsterdam 1997, Bd. 2, S. 729–738.
+									<ptr type="opac" cRef="756413168"/>
+							</bibl>
+						</note> Lediglich eine (unvollständige und z.T. fehlerhafte) chronologische
+						Darstellung der Drucküberlieferung findet sich in den Personalbibliographien
+						des Barock.<note type="footnote">
+							<bibl> Gerhard Dünnhaupt: Georg Greflinger (1620?–1677). In:
+								Personalbibliographien des Barock. Bd. 3: Franck–Kircher. Hg. v.
+								dems. Stuttgart 1991 (Hiersemanns bibliographische Handbücher. 9),
+								S. 1680–1751 <ptr type="opac" cRef="032925530"/>
+							</bibl>. Einen ersten bibliographischen Überblick zu
+							Komplimentierliteratur und verwandten Gattungen verschafft <bibl> Hugo
+								Hayn: Die deutsche Räthsel-Litteratur. Versuch einer
+								bibliographischen Uebersicht bis zur Neuzeit: Nebst einem
+								Verzeichnisse deutscher Loos-, Tranchir- und Complimentir-Bücher.
+								In: Centralblatt für Bibliothekswesen 7/12 (1890), S. 516–556 <ptr
+									type="opac" cRef="129462659"/>
+							</bibl>. Ausgaben der Ethica und der mit dieser zusammen gedruckten
+							Löfflerey-Kunst sind – mitunter innerhalb des Werkverzeichnisses zu
+							Georg Greflinger – ebenfalls nachgewiesen in: <bibl> Bibliotheca
+								Germanorum Erotica et Curiosa. Verzeichnis der gesamten deutschen
+								erotischen Literatur mit Einschluß der Übersetzungen, nebst
+								Beifügung der Originale. 3., ungem. verm. Aufl. München 1912–1929,
+								Bd. 1: A–C, S. 661–662 <ptr type="opac" cRef="131780662"/> , Bd. 2:
+								D–G, S. 669–670 <ptr type="opac" cRef="131780700"/> , sowie Bd. 4:
+								L–M, S. 227–231 <ptr type="opac" cRef="131780743"/>
+							</bibl>. </note>
+					</p>
+				</div>
+				<div n="1.3" type="section">
+					<head>Zum Vorgehen</head>
+					<p> Ich werde zunächst <ref type="intern" target="#hd6">(2)</ref> die
+						Materialgrundlage (die überlieferten <hi rend="italic">Ethica</hi> -Drucke
+						sowie die bibliographischen Informationen aus Katalogen und Verzeichnissen)
+						in Form einer chronologischen Übersicht bibliographisch-druckanalytisch
+							beschreiben.<note type="footnote"> Ich orientiere mich hierbei vor allem
+							an <bibl> Fredson Bowers: Principles of Bibliographical Desription.
+								[With An] Introduction by G. Thomas Tanselle. 5. Aufl. New
+								Castle/Delaware (USA) 1994. (St. Paul’s Bibliographies. 15) <ptr
+									type="opac" cRef="148263291"/>
+							</bibl> und <bibl> Philip Gaskell: A New Introduction to Bibliography.
+								Oxford 1972 <ptr type="opac" cRef="153458348"/>
+							</bibl> sowie an <bibl> Christoph Weismann: Die Beschreibung und
+								Verzeichnung alter Drucke. Ein Beitrag zur Bibliographie von
+								Druckschriften des 16. bis 18. Jahrhunderts. In: Flugschriften als
+								Massenmedium der Reformationszeit. Hg. v. Hans-Joachim Köhler.
+								Stuttgart 1981 (Spätmittelalter und Frühe Neuzeit. Tübinger Beiträge
+								zur Geschichtsforschung. 13), S. 447–614. <ptr type="opac"
+									cRef="028637127"/>
+							</bibl> – Auf dem jetzigen Stand der Forschung lässt sich noch keine
+							allen Ansprüchen genügende Bibliographie erstellen; die hier beigegebene
+							hat mithin vorläufigen Charakter und ist im Rahmen der Vorarbeiten zur
+							digitalen Edition der Ethica entstanden: sie soll zunächst nur die
+							vorhandenen Bibliographien und Verzeichnisse korrigieren und erweitern.
+						</note> Diesem Abschnitt folgt <ref type="intern" target="#hd43">(3)</ref>
+						die schematische Darstellung der von mir rekonstruierten Überlieferung: das
+						Stemma. Hiervon ausgehend werde ich die chronologischen und genealogischen
+						Relationen der <hi rend="italic">Ethica</hi> -Drucke diskursiv
+						rekonstruieren. Hierbei werde ich im Besonderen auf die textlichen
+						Bearbeitungen und Erweiterungen eingehen (<hi rend="italic">Varianz</hi>).
+						Ich stelle sodann meine Überlegungen zur Überlieferung der <hi rend="italic"
+							>Ethica</hi> im 17. Jahrhundert diskursiv vor, wobei ich (i) für eine
+							<hi rend="italic">Revision der Ausgabenchronologie</hi> – wie sie von
+						Gerhard Dünnhaupt (zuletzt 1991) vorgeschlagen wurde – argumentiere und (ii)
+						eine Unterteilung der Überlieferung in sechs distinkte Überlieferungsgruppen
+						(A–F) vornehme. In aller Kürze werde ich sodann <ref type="intern"
+							target="#hd54">(4)</ref> für eine <hi rend="italic">Revision der
+							Autorschaftszuschreibung</hi> an Georg Greflinger argumentieren und <ref
+							type="intern" target="#hd55">(5)</ref> einige Überlegungen zur Wahl des
+						Editionsgegenstands für eine zukünftige Edition der <hi rend="italic"
+							>Ethica</hi> vor dem Hintergrund der revidierten
+						Überlieferungsgeschichte anstellen. </p>
+				</div>
+			</div>
+			<div n="2" type="chapter">
+				<head>Materialgrundlage</head>
+				<div n="2.1" type="section">
+					<head>Status quo</head>
+					<p> Grundlage jeder Rekonstruktion der Überlieferungsgeschichte von Drucken sind
+						die originalen Exemplare. Wo diese nicht mehr vorhanden sind, greifen wir
+						auf Abschriften derselben, Editionen, fotomechanische Reproduktionen oder
+						bibliographische Beschreibungen in Katalogen oder Verzeichnissen zurück. </p>
+					<p> Es lassen sich 32 Ausgaben der <hi rend="italic">Ethica</hi> im 17. und
+						frühen 18. Jahrhundert ermitteln;<note type="footnote"> Die in der
+							Bibliographie angeführte Ausgabe eines Komplimentierbuchs von 1727 ist
+							hier nicht mitgezählt. Zur Diskussion <ref type="intern" target="#hd40"
+								>siehe</ref>. </note> von einer dieser Ausgaben gibt es keine
+						erhaltenen Exemplare mehr. Die übrigen sind entweder unikal überliefert oder
+						in sehr wenigen, teilweise fragmentarischen, Exemplaren. </p>
+					<p> Für diese Untersuchung konnten 23 Exemplare im Original eingesehen werden;
+						bei weiteren zehn wurde auf digitale Reproduktionen zurückgegriffen. In der
+						Bibliographie sind diese jeweils mit * (für Autopsie am Original) und ° (für
+						Digitalisat) gekennzeichnet. Bei einigen wenigen Exemplaren musste auf die
+						Angaben im Verzeichnis der deutschen Drucke des 17. Jahrhunderts
+							(VD17),<note type="footnote"> VD17 – Verzeichnis der im deutschen
+							Sprachraum erschienenen Drucke des 17. Jahrhunderts. Online-Ausgabe.
+								<ref target="http://www.vd17.de">http://www.vd17.de</ref> [gesehen
+							am 02.11.2017]. </note> in lokalen Bibliothekskatalogen oder
+						Bibliographien zurückgegriffen werden. </p>
+					<p> Gerade dort, wo nur noch ein einziges Exemplar einer Ausgabe überliefert
+						ist, steht die stemmatologisch-genealogische Rekonstruktion vor
+						Schwierigkeiten: abhängig vom Zustand der Exemplare kommt es mitunter zu
+						Zeichen-, Text-, oder Seitenverlust. Darüber hinaus bleibt ausgabeninterne
+						Varianz unsichtbar. Eine bibliographische Beschreibung einer <hi
+							rend="italic">Ausgabe</hi> auf Basis nur eines einzigen <hi
+							rend="italic">Exemplars</hi> heißt, eine Aussage nur über deren <hi
+							rend="italic">wahrscheinliche</hi> Beschaffenheit auf einer äußerst
+						schmalen empirischen Basis zu machen. Ich werde dort, wo unikale
+						Überlieferung vorliegt, die bibliographische Beschreibung entsprechend um
+						Exemplar-Spezifika erweitern. </p>
+					<p> Ein Blick auf die Anzahl der Ausgaben in der Bibliographie Dünnhaupts<note
+							type="footnote"> Dünnhaupt 1991 (Anm. 5), S. 1680–1751, Nrn. 7.1 bis
+							7.34 sowie 12.1 bis 12.5. </note> wird dem aufmerksamen Leser zeigen,
+						dass sich die Anzahl der Ausgaben, die ich ermittelt habe, im Vergleich
+						geringer ausnimmt: 32 verifizierte Ausgaben gegenüber 38 Ausgaben in den
+						Personalbibliographien des Barock, wobei ich acht Ausgaben gefunden habe,
+						die Dünnhaupt unbekannt waren.<note type="footnote"> Hesselink 2014 (Anm.
+							3), S. 177 zufolge sei die Ethica im Zeitraum 1643–1727 mit „45 […]
+							Auflagen [sic] [nachgewiesen]“. Wie sie zu diesem – deutlich von meinen
+							Recherchen abweichenden – Ergebnis gelangt, wird aus ihrem Beitrag nicht
+							ersichtlich; eine Bibliographie ist dort nicht enthalten. </note> Diese
+						Diskrepanz erklärt sich daraus, dass ich diejenigen ‚Ausgaben‘
+						ausgeschlossen habe, die sich nicht in Bibliotheksbeständen<note
+							type="footnote"> Ein Hinweis zur Arbeitsökonomie: Ich habe systematisch
+							in Bibliotheken des deutschen Sprachraums (einschließlich Österreich und
+							Schweiz) recherchiert. Darüber hinaus in Bibliotheken im europäischen
+							(und nordamerikanischen) Ausland mit Sondersammelgebieten zu
+							(deutschsprachigen) frühneuzeitlichen Drucken. Überprüft habe ich die
+							Angaben in Dünnhaupts Bibliographie dort, wo ich keine Katalogauskunft
+							online bekommen konnte, entweder vor Ort oder durch schriftliche Anfrage
+							bei der jeweiligen Bibliothek. </note> nachweisen lassen. Dünnhaupt
+						erstellt eine konservative Maximalbibliographie, vor allem auf Basis der
+						Einträge in Katalogen, Verzeichnissen und älterer Forschungsliteratur. Durch
+						die Digitalisierung der meisten Bibliothekskataloge, Massendigitalisierungen
+						der historischen Bestände einiger Bibliotheken und einer damit
+						einhergehenden Bestandsüberprüfung ist die Überlieferungslage heute viel
+						genauer zu bestimmen. </p>
+					<p> Ich gehe daher bei der Ermittlung von Ausgaben zurückhaltend vor: Es muss
+						mindestens ein Exemplar in einer Bibliothek tatsächlich vorhanden sein, um
+						eine Ausgabe anzusetzen. Dort, wo durch Umlagerungen und Bestandsverluste
+						während des Zweiten Weltkriegs vor 1945 physisch nachgewiesene Exemplare
+						verschollen oder verloren sind, halte ich es für vertretbar, auch hier eine
+						Ausgabe zu postulieren.<note type="footnote"> Dies betrifft in zwei Fällen
+							im Katalog der Staatsbibliothek zu Berlin – Stiftung Preußischer
+							Kulturbesitz nachgewiesene Exemplare. Den Status ‚vermutlich
+							Kriegsverlust‘ habe ich überprüfen und bestätigen lassen. </note> Die so
+						ermittelten Ausgaben habe ich entsprechend gekennzeichnet. Ich plädiere
+						indes dafür, die Maximalbibliographie Dünnhaupts in der Hinterhand zu halten
+						für den Fall, dass durch Ankäufe von Bibliotheken oder im Zuge von
+						Digitalsierungsmaßnahmen Exemplare auftauchen, die sich den bei Dünnhaupt
+						verzeichneten Ausgaben zuordnen lassen. Es ist auch hier stets mit einer
+						künftigen Erweiterung der Ausgabenanzahl zu rechnen.<note type="footnote">
+							Es existieren wohl einige Exemplare der <hi rend="italics">Ethica</hi>
+							im Antiquariatshandel. In den Jahrbüchern der Auktionspreise für Bücher,
+							Handschriften und Autographen habe ich für den Zeitraum von 1980–2010
+							sechs verschiedene Exemplare in verschiedenen Antiquariaten ermitteln
+							können. Welchen Ausgaben diese Exemplare jeweils zugehören, kann zurzeit
+							nur vermutetet werden; ich habe entsprechende Angaben im Abschnitt zur
+								<ref type="intern" target="#hd8">Ausgabenchronologie</ref> gemacht.
+							– Zu bedenken ist überdies, dass außerdeutsche, vor allem nord- und
+							osteuropäische Bibliotheken ihre Bestände an frühneuzeitlichen
+							deutschsprachigen Drucken ebenfalls sukzessive über digitale Kataloge
+							zugänglich machen. Mit Neufunden ist hier daher stets zu rechnen.
+						</note>
+					</p>
+				</div>
+				<div n="2.2" type="section">
+					<head>Chronologischer Überblick der Überlieferung</head>
+					<p> Die folgende Bibliographie der <hi rend="italic">Ethica Complementoria</hi>-Drucke ist chronologisch unter Angabe des Druckortes sowie Druckers resp.
+						Verlegers angelegt. Dort, wo Druckjahr oder Druckort nicht angegeben sind,
+						aber ermittelt werden konnten, stehen diese in eckigen Klammern. Die
+						Siglierung erfolgt ebenfalls in eckigen Klammern, wobei der Großbuchstabe
+						für die Überlieferungsgruppe steht und die Ziffer die chronologische Folge
+						indiziert. </p>
+					<p> Der Titelaufnahme nach Weismann unter Beibehaltung der historischen Graphie
+							<note type="footnote"> In der Zitierweise folge ich weitestgehend den
+							Empfehlungen Weismanns 1981 (Anm. 6) unter Bewahrung folgender
+							typographischer Differenzierungen der Vorlage: ſ/s (Lang-s/Rund-s) und
+							ꝛ/r (R-plenaire/R-articulo) sowie Umlaute mit e/o- Superskriptum (aͤ,
+							oͤ, uͤ, ů) oder Umlautpünktchen (ü), Nasalstriche ā, ē, ō, ū und
+							Geminationsstriche n̄, m̄, sowie Interpunktionszeichen ( / . , ) werden
+							als Grapheme behandelt und zeichengetreu transgraphiert; vorkommende
+							Ligaturen (ch, ﬀ, ﬁ, ﬂ, ﬃ, ﬄ, ﬅ, tz, ß, ſſ ) werden dagegen aufgelöst.
+							Zur Markierung eines Zeilenumbruchs in der Vorlage steht ein vertikaler
+							Strich |. – Gebrochene Schrift in der Vorlage (Fraktur) wird hier mit
+							Antiqua umgesetzt bzw. durch eine halbfette Antiqua (Schwabacher).
+							Antiqua in der Vorlage wird durch Kursive umgesetzt, Kapitälchen im
+							Antiquasatz entsprechend durch kursive Kapitälchen. Vgl. ausführlich zur
+							vorlagengetreuen Transgraphierung <bibl> Annika Rockenberger: Sebastian
+								Brants Narrenschiff. Kritische Würdigung vorliegender Editionen und
+								prinzipielle Überlegungen zu einer Neu-Edition. In: editio 25
+								(2011), S. 42–73, hier S. 68 <ptr type="opac" cRef="778098753"/>
+							</bibl> sowie <bibl> Annika Rockenberger, Per Röcken: Vom
+								Offensichtlichen. Über Typographie und Edition am Beispiel barocker
+								Drucküberlieferung (Grimmelshausens Simplicissimus). In: editio 23
+								(2009), S. 21–45, bes. S. 23f. <ptr type="opac" cRef="632043458"/>
+							</bibl>
+						</note> folgen (a) Angaben zum Erhaltungszustand und Standort der bekannten
+						Exemplare, (b) Format und Kollation,<note type="footnote"> Dort, wo
+							Exemplare nicht eingesehen werden konnten oder beschädigt sind, werden
+							Format und Kollation nicht angegeben. </note> (c) Referenz auf die
+						Verzeichnisse von Dünnhaupt und das VD17 resp. VD18 sowie bei bislang
+						unbekannten oder seltenen Ausgaben (d) eine Kurzbeschreibung ihres Inhalts. </p>
+					<p> Am Ende der Bibliographie ist eine Negativliste derjenigen Ausgaben
+						angefügt, die bei Dünnhaupt oder an anderer Stelle verzeichnet sind, zu
+						denen ich jedoch keine Exemplare habe ermitteln können. </p>
+					<p> Im Text finden sich schließlich neun Abbildungen von Kupfer- oder
+						Holzschnittiteln unbekannterer Ausgaben der <hi rend="italic">Ethica</hi>.
+					</p>
+				</div>
+				<div n="A1" type="section">
+					<head>1643, Nürnberg [A1]</head>
+					<p>
+						<hi rend="italic">ETHICA | COMPLEMENTORIA</hi> | [Leerzeile] | <hi
+							rend="italic">Complemen-</hi> | tier-Buͤchlein / | Darin | Ein richtige
+						Art vnnd | Weiſe grundfoͤrmlich abge- | bildet wird / wie man ſo wol mit ho-
+						| hen Fuͤrſtlichen / als niedrigen Perſonen / | auch bey Geſellſchafften /
+						Jungfrawen | vnd Frawen / Hoffzierlich <hi rend="italic">converſi-</hi> |
+						ren / reden vnd vmbge[hen] | muͤſſe. | [Zierstück] | Nuͤrnberg / | Jm Jahr /
+						1643. </p>
+					<p>
+						<hi rend="italic">*°Bamberger Exemplar:</hi> Staatsbibliothek Bamberg,
+						Signatur: 22/Pol.d.48; unikal überliefert; Exemplar vollständig,
+						Zeichenverlust durch Tierfraß auf A1a, A2a </p>
+					<p>Kollation: 12° A–D12</p>
+					<p>VD17 00. Dünnhaupt 00</p>
+					<p>In der Forschung war diese Ausgabe bisher unbekannt.</p>
+					<p>Inhalt: typographischer Titel, Vorrede an den Leser, acht Komplimente.</p>
+				</div>
+				<div n="A2" type="section">
+					<head> o.J. [nach 1643, vor 1647], Hamburg (Heinrich Werner) [A2] </head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">COMPLEMEN-</hi> | <hi
+							rend="italic">TORIA,</hi> | [Leerzeile] | <hi rend="italic"
+							>Complemen-</hi> | tier-Buͤchlein / | [Leerzeile] | Darinn | Ein
+						richtige Art vnnd | Weiſe grundfoͤꝛmlich abgebild- | det wird / wie man ſo
+						wol mit hohen | Fuͤrſtlichen / als nidrigen Perſonen / | auch bey
+						Geſellſchafften / Jungfrawen | vnd Frawen Hofzierlich | <hi rend="italic"
+							>conver-</hi> | <hi rend="italic">ſiren,</hi> reden vnd vmbge- | hen
+						muͤſſe. | [Zierstück] | Erſtlich gedruckt zu Hamburg / | bey Heinrich
+						Werner. </p>
+					<p> <hi rend="italic">*Wolfenbütteler Exemplar</hi>: HAB Wolfenbüttel,
+						Signatur: 575.3 Quod. (2) </p>
+					<p> <hi rend="italic">°Münchener Exemplar</hi>: BSB München, Signatur: J.pract.
+						151; Permalink des Volldigitalisats: <ref
+							target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00033754-8"
+							>
+							http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00033754-8
+						</ref> – das <hi rend="italic">Münchener Exemplar</hi> ist unvollständig: es
+						fehlen die Blätter B4 und B6; Textverlust durch Beschädigung des Originals
+						auf D12a </p>
+					<p>Kollation: 12° A–D12</p>
+					<p>
+						<ref type="vd17">VD17 12:000669L</ref>. Dünnhaupt 7.2 </p>
+					<p>Zur Datierung <ref type="intern" target="#hd46">s.u.</ref></p>
+				</div>
+				<div n="A3" type="section">
+					<head>1645, o.O. [A3]</head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">COMPLEMENTORIA</hi> | <hi
+							rend="italic">Complemen-</hi> | tier-Buͤchlein / | Darin | Ein richtige
+						Art unnd | Weiſe grundfoͤrmlich abgebil- | det wird / wie man ſo wol mit
+						hohen | Fuͤrſtlichen / als niedrigen Perſonen / auch bey Geſellſchafften /
+						Jungfrawen | und Frawen / Hoffzierlich <hi rend="italic">conver</hi>
+						<hi rend="italic">ſ</hi>
+						<hi rend="italic">i-</hi> | ren / reden und umbgehen | muͤſſe. | [Zierstück]
+						| [Linie] | Jm Jahr / <hi rend="italic">1645.</hi>
+					</p>
+					<p> <hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog-August-Bibliothek Wolfenbüttel,
+						Signatur: 569.7 Quod. (2); unikal überliefert </p>
+					<p>Kollation: 12° A-C12</p>
+					<p>
+						<ref type="vd17">VD17 23:279620U</ref>. Dünnhaupt 7.1 </p>
+					<p> In der Forschung gilt diese Ausgabe als die <hi rend="italic">editio
+							princeps</hi>. Zur Diskussion <ref type="intern" target="#hd46"
+							>s.u.</ref></p>
+				</div>
+				<div n="B1" type="section">
+					<head>1647, Hamburg (Johann Naumann) [B1]</head>
+					<p>
+						<hi rend="italic">Complemen-</hi> | tier-Buͤchlein. | darin eine | Richtige
+						Art abgebil- | det wird / wie man ſo wol | mit hohen als niedrigen Per- |
+						ſohnen / auch bey Geſellſchafften vnd | Frauen-Zimmer hofzierlich | reden
+						vnd vmb gehen | ſol. | vermehret. | Dabey ein Anhang | Etlicher Alamodiſcher
+						Damen | Sprichwoͤrter. | [Zierstück] | Hamburg / | Bey Johan Naumann / |
+						Buchhaͤndlern. | 1647. </p>
+					<p>
+						<hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog-August-Bibliothek Wolfenbüttel, Signatur:
+						572.2 Quod. (2) </p>
+					<p><hi rend="italic">Freiburger Exemplar</hi>: Universitätsbibliothek Freiburg, Signatur: F831</p>
+					<p> <hi rend="italic">°Münchner Exemplar</hi>: Bayerische Staatsbibliothek München, Signatur: Ph.pr.
+						304 x; Permalink des Volldigitalisats: <ref
+							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10040194-8"
+							>
+							http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10040194-8
+						</ref> – im Digitalisat fehlen mehrere Seiten, einige sind unvollständig
+						gescannt </p>
+					<p>Kollation: 12° A–E12, F6</p>
+					<p>
+						<ref type="vd17">VD17 23:000540S</ref>. Dünnhaupt 7.3 </p>
+					<p> Inhalt: typographischer Titel, Musenanruf, Vorrede an den Leser, acht
+						Komplimente, Anhang mit 219 sog. Alamodischen Damensprichwörtern. Zu den
+						Erweiterungen <ref type="intern" target="#hd47">s.u.</ref></p>
+				</div>
+				<div n="B2" type="section">
+					<head> 1648, Liebstadt [fingierter Druckort], Lambertini Remeleri [fingierter
+						Drucker] [B2] </head>
+					<p>
+						<hi rend="bold">Gesamttitel der Druckersynthese</hi>
+					</p>
+					<p> [Kupfertitel] <hi rend="italic">Cochleatio Novissima</hi> | [Bildteil] | <hi
+							rend="italic">Foelix quem faciunt aliorum</hi> | <hi rend="italic"
+							>cornua cautum.</hi>
+					</p>
+					<p> [Typographischer Titel] <hi rend="italic">COCHLEATIO</hi> | <hi
+							rend="italic">NOVISSIMA</hi>. | Das iſt / | Ware Abbildung | der heut zu
+						Tag zu viel | vblicher Kunſt der Loͤff- | lerey. | So erſtlich kurtz
+						verfaſſet | durch den Hochverſtaͤndi- | gen Herrn | <hi rend="italic"
+							>Davidem Seladon Oſna-</hi> | <hi rend="italic">bruggenſem I.V.D.</hi> |
+						Nun aber an vielen Orten ver- | beſſert / Durch Herrn | <hi rend="italic"
+							>Gerardum Vogelium Mona-</hi> | <hi rend="italic">ſterio
+							VVeſtphalum</hi> der Loͤfflerey <hi rend="italic">pra-</hi> | <hi
+							rend="italic">cticum veteranum.</hi> | Gedruckt zu Liebſtadt / | <hi
+							rend="italic">Typis Lambertini Remeleri</hi> | Jm hoͤlzern Loͤffel auff
+						der | Reitgaſſen. | [Linie] | <hi rend="italic">M. DC. XLVIII.</hi>
+					</p>
+					<p>
+						<hi rend="bold">Zwischentitel des Complementierbüchleins</hi>
+					</p>
+					<p>
+						<hi rend="italic">Complemen-</hi> | <hi rend="italic">tier-</hi> |
+						Buͤchlein. | darinn eine | Richtige Art abge- | bildet wird / wie man ſo |
+						wol mit hohen als nidrigen | Perſohnen / auch bey Geſell- | ſchafften vnd
+						Frawen-Zimmer | hoffzierlich reden vnd vmb- | gehen ſol. | vermehret | Dabey
+						ein Anhang | Etlicher Alamodiſcher | Damen Sprich- | woͤrter. </p>
+					<p>
+						<hi rend="italic">*Berliner Exemplar</hi>: Staatsbibliothek zu Berlin – Stiftung Preußischer Kulturbesitz, Signatur: Yz 1555 </p>
+					<p>
+						<hi rend="italic">Oxforder Exemplar</hi>: Bodleian Library Oxford, Signatur
+						8° G 98 Linc. </p>
+					<p>
+						<hi rend="italic">*°Münchner Exemplar</hi>: Bayerische Staatsbibliothek München, Signatur: Rem. IV
+						2042; Permalink des Volldigitalisats: <ref
+							target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00104074-8"
+							>
+							http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00104074-8
+						</ref>
+					</p>
+					<p>
+						<hi rend="italic">*°Wolfenbütteler Exemplar</hi>: Herzog-August-Bibliothek Wolfenbüttel, Signatur:
+						165.10 Eth. </p>
+					<p> Kollation: 12° A–Q12, R4; durchgehend paginiert, pag. 3–391; das <hi
+							rend="italic">Complementierbüchlein</hi> allein: H10a–P4b (pag.
+						[189]–344). </p>
+					<p>
+						<ref type="vd17">VD17 23:288651V</ref>. Dünnhaupt 7.5 / 12.2 </p>
+					<p> Inhalt/Struktur: Das <hi rend="italic">Complimentierbuch</hi> als Teil einer
+							Druckersynthese,<note type="footnote"> Ich spreche dann von einer
+							Druckersynthese, wenn es einen gemeinsamen Haupttitel (typographisch
+							oder als Kupfertitel) gibt und/oder durchgehende Paginierung sowie
+							durchgehende Bogensignaturen vorhanden sind. Von einer
+							Buchbindersynthese spreche ich, wenn mehrere eigenständige Werke zu
+							einem Buch zusammengebunden sind, jedoch keine durchgehende Paginierung
+							und Bogensignaturen und keinen gemeinsamen Haupttitel aufweisen. Bei
+							Buchbindersynthesen kann es sich auch um nicht-zeitgenössische
+							Zusammenstellungen von Werken handeln während Druckersynthesen immer
+							zeitgenössisch sind. Druckersynthesen sind neue Werke, die aus (ehemals
+							oder alternativ) eigenständigen Werken mit Werkintention seitens eines
+							Kompilators/Verlegers/Druckers zusammengestellt und -gedruckt worden
+							sind. Buchbindersynthesen haben keinen Werkstatus. </note> hier zusammen
+						mit der <hi rend="italic">Löfflerey-Kunst</hi> und dem <hi rend="italic"
+							>Bettelstab der Liebe</hi>. Die einzelnen Teile haben eigene
+						Zwischentitel. Zur Herkunft der <hi rend="italic">Löfflerey-Kunst</hi>
+						<ref type="intern" target="#hd53">s.u.</ref></p>
+				</div>
+				<div n="D1" type="section">
+					<head>1648, Rinteln (Petrus Lucius) [D1]</head>
+					<p>
+						<hi rend="bold">Gesamttitel der Druckersynthese</hi>
+					</p>
+					<p> [Kupfertitel] Newes Complementir: vnd Trincir-Büchlein. [Bildteil] Rinteln;
+						Gedruckt vnd verlegt bey Petro Lucio. | Typogr.-Acad. 1648 </p>
+					<p>
+						<hi rend="bold">Zwischentitel des Ethica-Teils</hi>
+					</p>
+					<p> [typographischer Titel] Hoͤfliches vnd Vermehꝛtes | Complementier Buͤchlein
+						/ | Oder | Richtige Art vnd grundformliche Weiſe; | Wie man mit Hohen
+						Fuͤrſtlichen: So wohl auch | Niedrigen vnd Gemeinen Stands Perſonen / vnd
+						ſonſten bey Geſellſchafften / | Jungfrawen vnd Frawen / zierlich vnd
+						hoͤflich converſiren / reden | vnd vmbgehen moͤge. | [Zierstücke] | Rinteln
+						/ Druckts vnd verlegts Petrus Lucius / der Vniverſitaͤt Buchdrucker / |
+						[Linie] | Jm Jahr 1648. </p>
+					<p>
+						<hi rend="bold">Zwischentitel des Tranchier-Teils</hi>
+					</p>
+					<p> [typographischer Titel] New Vermehrtes | Trincier-Buͤchlein: | Wie man nach
+						rechteꝛ Jtalieniſcher auch jtzigeꝛ Art | vnd Manier allerhand Speiſen
+						zierlich zerſchneiden / | vnd hoͤflich fuͤrlegen ſoll: | Alles mit
+						zugehörigen Newen Kupfferſtuͤcken gezieret. | [Zierstück] | Rinteln / |
+						Druckts vnd verlegts Petrus Lucius / der Vniverſitaͤt beſtalter Buchdrucker
+						daſelbſt / | [Linie] | Jm 1 6 4 8. Jahr. </p>
+					<p>
+						<hi rend="italic">Nürnberger Exemplar</hi>: Germanisches Nationalmuseum Nürnberg, Signatur: 8˚ Gs.
+						2038. </p>
+					<p> <hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog-August-Bibliothek Wolfenbüttel,
+						Signatur: 166.1 Eth. (2) </p>
+					<p>
+						<hi rend="italic">Exemplare in Privatsammlung</hi>
+						<note type="footnote"> Ohne namentliche Nennung der Privatsammlung
+							nachgewiesen bei <bibl> Uwe Frenzel: Deutschsprachige Tranchierbücher
+								des Barock (1620–1724). Limitierte Aufl. Hamburg 2012, S. 26–29.
+									<ptr type="opac" cRef="719972051"/>
+							</bibl>
+						</note> und im <hi rend="italic">Antiquariatshandel</hi>.<note
+							type="footnote">
+							<bibl> Jahrbuch der Auktionspreise für Bücher, Handschriften und
+								Autographen 41 (1990), S. 295. <ptr type="opac" cRef="129074446"/>
+							</bibl>
+						</note>
+					</p>
+					<p>
+						<ref type="vd17">VD17 23:288736A</ref>. Dünnhaupt 7.4. </p>
+					<p> Das <hi rend="italic">Nürnberger Exemplar</hi> ist im VD17 nicht
+						verzeichnet. </p>
+					<p> Inhalt/Struktur: Das <hi rend="italic"> Höfliche und Vermehrte
+							Complementierbüchlein</hi> ist der erste Teil einer Druckersynthese mit
+						dem <hi rend="italic">Tranchierbuch</hi>. Die Ausgabe enthält einen
+						Kupfertitel sowie eine Dedicatio des Druckerverlegers Lucius. </p>
+				</div>
+				<div n="B3" type="section">
+					<head>1649, Hamburg (Johann Naumann) [B3]</head>
+					<p>
+						<hi rend="italic">Complemen</hi>tier | Buͤchlein. | darin eine | Richtige
+						Arth abgebildet wird / | wie man ſo wol mit hohen als mit nie- | drigen
+						Perſonen / auch bey Geſellſchaf- | ten und Frawen-zimmer hoffzier- | lich
+						reden und vmb gehen | ſol. | vermehret. | Dabey ein Anhang | Etlicher
+						alamodiſcher Damen | Sprichwoͤrter und itzt uͤb- | lichen Reyhme. | [Signet]
+						| Hamburg / | Bey Johan Naumann / Buchh. <hi rend="italic">1649.</hi>
+					</p>
+					<p>
+						<hi rend="italic">°Hamburger Exemplar</hi>: Staats- und
+						Universitätsbibliothek Hamburg, Signatur: Scrin A/1841; Permalink des
+						Volldigitalisats: <ref
+							target="http://resolver.sub.uni-hamburg.de/goobi/PPN730656381">
+							http://resolver.sub.uni-hamburg.de/goobi/PPN730656381 </ref>
+					</p>
+					<p>
+						<hi rend="italic">Heidelberger Exemplar</hi>: Universitätsbibliothek
+						Heidelberg, Signatur: Waldberg 3062 RES </p>
+					<p>
+						<hi rend="italic">Soester Exemplar</hi>: Stadtarchiv und Wissenschaftliche
+						Stadtbibliothek Soest, Signatur: 5 X 5. 17 (2 an) </p>
+					<p>Kollation: 12° A–F12</p>
+					<p>
+						<ref type="vd17">VD17 18:723608L</ref>. Dünnhaupt 7.6 </p>
+					<p> Das <hi rend="italic">Heidelberger</hi> und das <hi rend="italic">Soester
+							Exemplar</hi> sind nicht im VD17 verzeichnet. </p>
+					<p> Inhalt/Struktur: Die Ausgabe enthält gegenüber [B1] und [B2] zusätzlich das
+						Gedicht <hi rend="italic">Unterweisung heimlich zu lieben</hi>, 24 sog. <hi
+							rend="italic">Reime auf Konfektscheiben</hi> sowie die um ein Sprichwort
+						erweiterten <hi rend="italic">Alamodischen Damensprichwörter</hi>. </p>
+				</div>
+				<div n="A4" type="section">
+					<head>[1650], Nürnberg [A4]</head>
+					<p> [Kupfertitel] <hi rend="italic">ETHICA</hi> | <hi rend="italic"
+							>COMPLEMENTORIA</hi> | complemen- | tier Buchlein, darin | ein richtige
+						art vnd wei | ſe grundförmlich abge- | bildet wird, wie man | ſo wol mit
+						hohen Fürſt- | lichen, als niedrigen | perſonen; auch beÿ | Gseſelſchafften,
+						| Jungfrawen vndt | frawen, hofzier- | lich conversi- | ren reden vnd |
+						umbgehen muſſ- | se. | [Zierrat] | Nuͤrnberg. </p>
+					<p>
+						<hi rend="italic">*Berliner Exemplar</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: Px 1465&#x2039;a&#x203A; –
+						Kupfertitel. <graphic url="../images/img2.jpg"/><desc><ref target="#abb1"
+								type="intern">Abb. 1</ref></desc></p>
+					<p>
+						<hi rend="italic">Nürnberger Exemplar</hi>: Stadtbibliothek Nürnberg,
+						Signatur: Var. 8. 271; Exemplar beschädigt, Kupfertitel fehlt </p>
+					<p>Kollation: 12° A–D12</p>
+					<p>
+						<ref type="vd17">VD17 1:086510T</ref>. Dünnhaupt 00 </p>
+					<p> Die Datierung ist aus dem VD17 übernommen, eine Begründung wird dort nicht
+						angegeben. Diese Ausgabe hat keinen typographischen Titel. </p>
+				</div>
+				<div n="D2" type="section">
+					<head>1650, Rinteln (Petrus Lucius) [D2]</head>
+					<p>
+						<hi rend="bold">Gesamttitel der Druckersynthese</hi>
+					</p>
+					<p> [Kupfertitel] <hi rend="italic"> New Complementir vnd Trenchier-Büchlein:
+							Darinnen aūch von Taffeldecken.</hi> | [Bildteil] | <hi rend="italic">
+							Rinteln: Gedruckt vnd verlegt bey Petro Lucio. Typogr. Acad. 1650.</hi>
+					</p>
+					<p>
+						<hi rend="italic">Bloomingtoner Exemplar</hi>: Lilly Library, Indiana
+						University, Bloomington/Indiana (USA), Signatur: TX 885.N53 1650
+						[Transgraphiert nach der Reproduktion des Kupfertitels bei Frenzel 2012, S.
+						30] </p>
+					<p>
+						<hi rend="italic">Nürnberger Exemplar</hi>: Germanisches Nationalmuseum
+						Nürnberg, Signatur: 8° Gs. 1266; Fragment: Kupfertitel fehlt, vom <hi
+							rend="italic">Ethica</hi>-Teil sind nur sechs Blatt vorhanden und hier
+						hinter dem <hi rend="italic">Tranchier</hi>-Teil angebunden. </p>
+					<p>VD17 00. Dünnhaupt 00</p>
+				</div>
+				<div n="B4" type="section">
+					<head>1654, Hamburg (Johann Naumann) [B4]</head>
+					<p>
+						<hi rend="italic">Complemen</hi>tier | Buͤchlein / | darin eine | Richtige
+						Art abgebildet wird / | wie man ſo wol mit hohen als mit nie- | drigen
+						Perſonen / auch bey Geſellſchaff- | ten und Frawen-zimmer hoffzierlich |
+						reden und umbgehen ſoll. | Vermehret | Dabey ein Anhang | Etlicher
+						alamodiſcher Damen | Sprichwoͤrter / und itzt üblichen | Reyhme. |
+						[Druckersignet] | Hamburg / | Bey Johan Nauman / Buchh. 1654 </p>
+					<p>  <hi rend="italic">°Münchner Exemplar</hi>, Bayerische Staatsbibliothek
+						München: Signatur: Ph.pr. 305; unikal überliefert; Permalink des
+						Volldigitalisats: <ref
+							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10040196-9"
+							>
+							http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10040196-9
+						</ref>
+					</p>
+					<p>Kollation: 12° A–F12</p>
+					<p>VD17 00. Dünnhaupt 7.9</p>
+				</div>
+				<div n="C1" type="section">
+					<head> 1656, Liebstadt [fingierter Druckort] Lamprecht Raemmelern [fingierter
+						Verlag] [C1] </head>
+					<p>
+						<hi rend="bold">Gesamttitel der Druckersynthese</hi>
+					</p>
+					<p> [Kupfertitel] <hi rend="italic">Cochleatio Novissima.</hi> | <hi
+							rend="italic">Jterata atqvè aucta.</hi> | Eꝛneüete Löffleꝛei Kunſt. </p>
+					<p> [typographischer Titel] <hi rend="italic">Cochleatio Noviſſima</hi> | <hi
+							rend="italic">iterata atque aucta.</hi> | Das iſt: | Erneuͤte und |
+						vermehrte | Loͤfflerei-Kunſt | Abgefaſſet durch | David Seladon <hi
+							rend="italic">I.V.D.</hi> | verbeſſert von | Gerhard Vogelern. | mit
+						angefugten | Bettelſtab der Liebe. | wie auch der | <hi rend="italic">Ethica
+							Complementoria.</hi> | Liebſtat | Bei Lamprecht Raͤmmelern | auf der
+						Reitgaſſe im Hoͤlzern | Loͤffel. | Jm Jare. | [Linie] | D <hi rend="italic"
+							>IV</hi> ngfern geht heran! N <hi rend="italic">V</hi> n <hi
+							rend="italic">I</hi> ſt | g <hi rend="italic">V</hi> t Ze <hi
+							rend="italic">I</hi> t z <hi rend="italic">V</hi> freien: | Ihr <hi
+							rend="italic">MV</hi> ſſet e <hi rend="italic">VC</hi> h <hi
+							rend="italic">D</hi> er <hi rend="italic">E</hi> h f <hi rend="italic"
+							>V</hi> r <hi rend="italic">VV</hi> ar | ſonſt ganz <hi rend="italic"
+							>V</hi> erze <hi rend="italic">I</hi> en. </p>
+					<p>
+						<hi rend="bold">Zwischentitel des Ethica-Teils</hi>
+					</p>
+					<p>
+						<hi rend="italic">Ethica</hi> | <hi rend="italic">Complementoria</hi> | Das
+						iſt: | Complementir-Buͤchlein / | in welchem enthalten / eine rich- | tige
+						Art / wie man ſowol mit | hohen als nidrigen Standes- | Perſonen / | Bei |
+						Geſelſchafften und Frauen- | Zimmer hoffzierlich reden | und uͤmgehen ſolle.
+						| Neulichſt wider uͤberſehen / an | vielen Orten gebeſſert und | vermehrt |
+						Durch | Georg Grefflingern / | gekroͤnten Poeten / und | <hi rend="italic"
+							>Not. Pub.</hi> | Jm Jare. | [Linie] | <hi rend="italic">M. DC.
+							LVI.</hi>
+					</p>
+					<p>  <hi rend="italic">*°Münchner Exemplar</hi>, Bayerische Staatsbibliothek
+						München: Signatur P.o.germ. 236 f.; unikal überliefert; Permalink des
+						Volldigitalisats: <ref
+							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10106905-4"
+							>
+							http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10106905-4
+						</ref> – doppelseitiges Titelkupfer, linke Seite fast vollständig
+						ausgerissen </p>
+					<p>
+						<ref type="vd17">VD17 12:639118S</ref>. Dünnhaupt 12.4 </p>
+					<p> Kollation: 12° A–O12, P6. <hi rend="italic">Ethica</hi>-Teil J12a–P6b. </p>
+					<p> Inhalt/Struktur: Die <hi rend="italic">Ethica</hi>
+						<hi rend="italic">Complementoria</hi> ist Teil der Druckersynthese mit der
+							<hi rend="italic">Löfflerey-Kunst</hi> und dem <hi rend="italic"
+							>Bettelstab der Liebe</hi>. Der titelgebende Traktat zur Löfflerey ist
+						der erste Teil, gefolgt vom <hi rend="italic">Bettelstab der Liebe</hi> und
+						der <hi rend="italic">Ethica</hi>. Der Druck ist durchpaginiert; die
+						einzelnen Teile haben jeweils eigene Zwischentitel. – Enthält im <hi
+							rend="italic">Ethica</hi> -Teil den Musenanruf, <hi rend="italic"
+							>Alamodische Damensprichwörter</hi>, 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi> sowie im Anhang vier Lieder nebst Notation aus <hi
+							rend="italic">
+								<bibl> Seladons Weltliche Lieder (1651) <ptr type="opac" cRef="535683871"/>
+							</bibl>
+						</hi>. </p>
+				</div>
+				<div n="B5" type="section">
+					<head>1658, Hamburg (Johann Naumann) [B5]</head>
+					<p>
+						<hi rend="italic">Complementier</hi> | Buͤchlein / | Darin eine | Richtige
+						Art abgebildet wird / | wie man ſo wol mit hohen als mit nie- | drigen
+						Perſonen / auch bey Geſellſchaff- | ten und Frawen-zimmer hoffzierlich |
+						reden und umbgehen ſoll. | Vermehret | Dabey ein Anhang | Etlicher
+						alamodiſcher Damen | Sprichwoͤrter / und itzt uͤblichen | Reyhme. |
+						[Vignette] | Hamburg / | Bey Johan Nauman / Buchh. 1658. </p>
+					<p>
+						<hi rend="italic">Coburger Exemplare</hi>: Landesbibliothek Coburg, Signatur
+						Cas A 263 sowie Cas A 263a </p>
+					<p> <hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog August Bibliothek
+						Wolfenbüttel, Signatur: 578.2 Quod. (4) </p>
+					<p>Kollation: 12° A–F12</p>
+					<p>
+						<ref type="vd17">VD17 23:280354S</ref>. Dünnhaupt 7.11 </p>
+					<p> Das VD17 und Dünnhaupt verzeichnen die <hi rend="italic">Coburger
+							Exemplare</hi> nicht. </p>
+				</div>
+				<div n="B6" type="section">
+					<head>1660, Hamburg (Johann Naumann) [B6]</head>
+					<p> COMPLEMENtier | Buͤchlein / | Darin eine | Richtige Art abgebildet wird / |
+						wie man ſo wol mit hohen als mit nie- | drigen Perſonen / auch bey
+						Geſellſchaff- | ten und Frawen-zimmer hoffzierlich | reden und umbgehen
+						ſoll. | Vermehret / | Dabey ein Anhang | Etlicher alamodiſcher Damen |
+						Sprichwoͤrter / und itz uͤblichen | Reyhme. | [Druckersignet] | Hamburg / |
+						Bey Johan Nauman / Buchh. 1660. </p>
+					<p> <hi rend="italic">*Berliner Exemplar:</hi> Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: Bibl. Diez oct. 8137 </p>
+					<p> <hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog August Bibliothek
+						Wolfenbüttel, Signatur: P 248.12° Helmst. (2) </p>
+					<p>Kollation 12° A–F12</p>
+					<p>
+						<ref type="vd17">VD17 23:282790T</ref>. Dünnhaupt 7.13 </p>
+				</div>
+				<div n="C2" type="section">
+					<head>1660, o.O. [C2]</head>
+					<p>
+						<hi rend="bold">Gesamttitel der Druckersynthese</hi>
+					</p>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">Complementoria</hi> | Das
+						iſt: | Complementir-Buͤchlein / | in welchem enthalten / eine | richtige Art
+						/ wie man ſowol mit | hohen als nidrigen Standes- | Perſonen / | Bei |
+						Geſellſchafften und Frauen- | Zimmer hoffzierlich reden | und umbgehen
+						ſolle. | Neulichſt wider uͤberſehen / an | vielen Orten gebeſſert und ver- |
+						mehret. | Durch | Georg Grefflingern / | gekroͤnten Poeten / und | <hi
+							rend="italic">Not. Pub.</hi> | Mit angefuͤgten | Zuͤchtigen Tiſch- und
+						Leber- | Reimen / | J. Euphroſinen von Sitten- | bach. | [Linie] | M. DC.
+						LX. </p>
+					<p>
+						<hi rend="bold">Zwischentitel der Tisch- und Leberreime</hi>
+					</p>
+					<p> Euphroſinen von Sittenbach | Zuͤchtige | Tiſch- und Le-| ber-Reimen / | An
+						jhre Geſpielinnen. | [Zierstück] | Zu Leberſtatt. Druckts Georg Gözke |
+						[Linie] | <hi rend="italic">M DC LX.</hi>
+					</p>
+					<p>
+						<hi rend="bold">Zwischentitel des Tranchier-Teils</hi>
+					</p>
+					<p>
+						<hi rend="italic">Trenchir</hi> Buͤchlein | Wie man rechter Art | und
+						itzigen Gebrauch nach / | allerhand Speiſen ordentlich | auf die Tafel ſezen
+						/ zierlich | zerſchneiden und vorlegen / | auch artlich wiederum | abheben
+						ſoll. | Hiebevor an verſchiedenen | Orten heraus gegeben / neu- | lichſt
+						aber mit Fleiß uͤberſehen und | mit ſchoͤnen Kupfervorbildungen | ans Liecht
+						gebracht / | Durch | Andreas Kletten | <hi rend="italic">Cygn. Miſn.
+							&#x0026;</hi> | <hi rend="italic">Jur.Stud.</hi> | [Linie] | <hi
+							rend="italic">M DC LX.</hi>
+					</p>
+					<p> <hi rend="italic">*Dresdner Exemplar</hi>: Sächsische Landesbibliothek,
+						Staats- und Universitätsbibliothek Dresden, Signatur: Putz.17 8 32 (Sammlung
+						Walter Putz) </p>
+					<p>
+						<hi rend="italic">Londoner Exemplar</hi>: British Library London, Signatur: General
+						Reference Collection 711.a.20 </p>
+					<p> Kollation: 12° A–K, L5. Kupferstiche zum <hi rend="italic"
+							>Tranchier-Buch</hi> im Anhang </p>
+					<p>
+						<ref type="vd17">VD17 14:693255U</ref>. Dünnhaupt 7.12 </p>
+					<p> Inhalt/Struktur: typographischer Titel, Musenanruf, Vorrede an den Leser,
+						acht Komplimente; in Druckersynthese mit den <hi rend="italic">Tisch- und
+							Leberreimen</hi>, auf welche „G. Greflingers <hi rend="italic">N.
+							P.</hi> Reimen auff Confectscheiben“ mit eigener Überschrift folgen.
+							<note type="footnote">
+							<bibl> Jutta Weisz – Das deutsche Epigramm des 17. Jahrhunderts.
+								Stuttgart 1979, S. 200, Anm. 31 <ptr type="opac" cRef="023593032"/>
+							</bibl> – zufolge finden sich zumindest einige der Reime auf
+							Konfektscheiben als Nr. 178–191 im „Anhang Schimpff- vnd Ernsthaffter
+							Gedichte“ zu der – in der Forschung meist <bibl> Georg Greflinger
+								zugeschriebenen – Sammlung Seladons Weltliche Lieder (Frankfurt
+								1651) <ptr type="opac" cRef="535683871"/>
+							</bibl> . Auf Urheberschaft, Provenienz und Überlieferungsgeschichte des
+							„epigrammatischen Sonderfalls“ dieser Reime (Weisz 1979, S. 55) kann ich
+							an dieser Stelle ebensowenig eingehen wie auf die Frage, ob ihre
+							erstmalige Aufnahme in eine Ethica-Ausgabe – nämlich: Hamburg 1649 [B3]
+							– bereits für diesen Druck eine Beteiligung Georg Greflingers nahelegt.
+							Als Bearbeiter der Ethica wird er namentlich erst 1656 in [C1] genannt; also nach seiner Krönung zum Poeta Laureatus durch Johann
+							Rist (1654). Zu klären wäre auch, ob die namentliche Zuschreibung der
+							Reime auf Konfektscheiben an Greflinger als Indiz für dessen
+							tatsächliche Autor- oder zumindest Herausgeberschaft von Seladons
+							Weltliche Lieder zu werten ist. </note> Darauf folgt das <hi
+							rend="italic">Tranchier-Buch</hi>. </p>
+				</div>
+				<div n="X1" type="section">
+					<head>1663, Frankfurt (Georg Müller) [X1]</head>
+					<p> [Ethica Complementoria…], [Frankfurt/Main], [Georg Müller], [1663] </p>
+					<p> Das einzige erhaltene Exemplar dieser Ausgabe ist ein Fragment, es fehlen
+						die ersten 106 Seiten. </p>
+					<p>
+						<hi rend="bold">Zwischentitel des Tranchier-Buches</hi>
+					</p>
+					<p> Neues | <hi rend="italic">Trenchier-</hi> Buͤchlein / | Anleitende: | Wie
+						man rechter Art und izi- | gem Gebrauch nach / allerhand | Speiſen
+						ordentlich auf die Tafel ſezen / | zierlich zerſchneiden und vorliegen / |
+						auch artlich wiederum | abheben solle. | Hiebevor an verſchiedenen | Orten
+						heraus gegeben / neulichſt | aber mit Fleiß uͤberſehen und mit ſchoͤ- | nen
+						Kupfervorbildungen ans | Licht gebracht / | durch | Andreas Kletten <hi
+							rend="italic">Cygn.</hi>
+						<hi rend="italic">Miſn.</hi> | <hi rend="italic">&#x0026; Iur. Stud.</hi> |
+						[Zierstück] | Frankfurt / | [J]n Georg Müllers Verlag. | [Linie] | <hi
+							rend="italic">M DC LXIII.</hi>
+					</p>
+					<p>
+						<hi rend="bold">Zwischentitel der Tisch- und Leberreime</hi>
+					</p>
+					<p> Jungfer | Euphroſinen | von Sittenbach | Züchtige | Tiſch- und Le- |
+						ber-Reime / | An ihre Gespielinnen. | [Zierstück] | Zu Leberſtat / | Drukts
+						Georg Goͤzke. | [Linie] | M DC LXIII. </p>
+					<p>
+						<hi rend="bold">Überschrift der Reime auf Konfektscheiben</hi>
+					</p>
+					<p> Den übrigen Blattraum zu- | füllen / folgen: | G. Greflingers <hi
+							rend="italic">N.P.</hi> | Reimen auff Con- | fectſcheiben / </p>
+					<p> <hi rend="italic">*Dresdner Exemplar</hi>: Sächsische Landesbibliothek,
+						Staats- und Universitätsbibliothek Dresden, Signatur: Putz.17 8 49 (Sammlung
+						Walter Putz); unikal überliefert; Fragment: <hi rend="italic">Ethica</hi>-Teil herausgetrennt </p>
+					<p>Kollation: 12° [A–D12, E5] E6–12, F–J12, K8</p>
+					<p>
+						<ref type="vd17">VD17 14:693396H</ref>. Dünnhaupt 00 </p>
+				</div>
+				<div n="C2" type="section">
+					<head>1665, Amsterdam [C3]</head>
+					<p> [Kupfertitel] Erneüertes | [Com]plementir- und | [Tren]chir Büchlein. </p>
+					<p> [Typographischer Titel] <hi rend="italic">ETHICA</hi> | <hi rend="italic"
+							>Complementoria,</hi> | Das iſt: | Complementir- | Buͤchlein / | Jn
+						welchem enthalten / eine | richtige Art / wie man ſo wol mit | hohen als
+						nidrigen Standes-Per- | ſonen: bey | Geſellſchafften und | Frauen-Zimmer
+						Hofzier- | lich reden / und uͤmgehen | ſolle. | Neulich wider uͤberſehen /
+						und | an vielen Orten gebeſſert und | vermehret / durch | Georg Grefflingern
+						/ | gecroͤnten Poeten / und | <hi rend="italic">Not. Pub.</hi> | Mit
+						angefuͤgtem <hi rend="italic">Trenchir-</hi> | Buͤchlein / | auch züchtigen
+						Tiſch- und | Leber-Reimen. | AMSTERDAM. | [Linie] | Gedruckt Jm Jahr / 1665. </p>
+					<p>
+						<hi rend="italic">Berliner Exemplar</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: 8" Np 15854; als Kriegsverlust
+						bestätigt </p>
+					<p>
+						<hi rend="italic">Harvarder Exemplar</hi>: Harvard University Library,
+						Signatur: Houghton Coll. H 5076.65* </p>
+					<p> <hi rend="italic">*Münchner Exemplar</hi>: Bayerische Staatsbibliothek
+						München, Signatur: Res L.eleg.m. 411 <graphic url="../images/img3.jpg"
+								/><desc><ref target="#abb2" type="intern">Abb. 2</ref></desc></p>
+					<p>
+						<hi rend="italic">Princetoner Exemplar</hi>: Princeton University Library,
+						Signatur: Rare Books (EX) 3447.242.333s </p>
+					<p> Kollation: 12° A–J, K8; <hi rend="italic">Ethica</hi>-Teil A–D12, E5 (106
+						Seiten); 24 Kupferstiche zum <hi rend="italic">Tranchier-Buch</hi> im Anhang. </p>
+					<p>
+						<ref type="vd17">VD17 12:644479M</ref>. Dünnhaupt 7.16 </p>
+					<p> Inhalt/Struktur: Die Druckersynthese enthält einen eigenen Kupfertitel (s.u.
+						Abb. 3) und typographischen Titel (A1a), den Musenanruf (A1b), die <hi
+							rend="italic">Vorrede an den Leser</hi> (A2a/b) und die acht Komplimente
+						(A3a–E5a). Diesen folgen das <hi rend="italic">Tranchier-Buch</hi>
+						(E6a–H5b), die <hi rend="italic">Tisch- und Leberreime</hi> (H6a–K4b) und
+						die 24 <hi rend="italic">Reime auf Konfektscheiben</hi> (K5a–K8b). Den Band
+						schließen 24 zum <hi rend="italic">Tranchier-Buch</hi> gehörende
+						Kupferstiche ab. </p>
+				</div>
+				<div n="C4" type="section">
+					<head>1670, Amsterdam [C4]</head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">COMPLEMENTORIA,</hi> | Das
+						iſt: | Complementir- | Buͤchlein / | Jn welchem enthalten / eine rich- |
+						tige Art / wie man ſo wol mit hohen | als niedrigen Standes-Per- | ſonen:
+						bey | Geſellſchafften und Frauen- | Zimmer Hofzierlich reden / und |
+						uͤmgehen ſolle. | Neulich wieder uͤberſehen / und an | vielen Orten
+						gebeſſert und ver- | mehret / durch | Georg Grefflingern / gecroͤnten Poeten
+						/ und | <hi rend="italic">Not. Publ.</hi> | Mit angefuͤgtem <hi
+							rend="italic">Trenchier-</hi> | Buͤchlein / | Auch zuͤchtigen Tiſch- und
+						| Leber-Reimen. | AMSTERDAM / | [Zierband] | Gedruckt im Jahr / M. DC. LXX. </p>
+					<p>
+						<hi rend="italic">*Wolfenbütteler Exemplar</hi>: Herzog August Bibliothek
+						Wolfenbüttel, Signatur: Xb 6887; unikal überliefert – Kupfertitel. <graphic
+							url="../images/img4.jpg"/><desc><ref type="intern" target="#abb3">Abb.
+								3</ref></desc></p>
+					<p><ref type="vd17">VD17 23:683511A</ref>. Dünnhaupt 00.</p>
+				</div>
+				<div n="C5" type="section">
+					<head>1673, Amsterdam [C5]</head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">Complementoria</hi> | Das
+						iſt: | Complementir- | Buͤchlein / | Jn welchem enthalten / eine | richtige
+						Art / wie man ſo wol mit | hohen als nidrigen Standes- | Perſonen: bey |
+						Geſellſchafften und | Frauen-Zimmer Hofzierlich | reden und umgehen ſolle: |
+						Neulichſt wider uͤberſehen / | an vielen Orten gebeſſert und | vermehret /
+						durch | Georg Grefflingern / | gecroͤnten Poe: und | <hi rend="italic">N.
+							P.</hi> | Mit angefuͤgtem <hi rend="italic">Trenchir-</hi> | Buͤchlein /
+						| auch züchtigen Tiſch und | Leber-Reimen. | AMSTERDAM. | [Linie] | <hi
+							rend="italic">M DC LXXIII.</hi>
+					</p>
+					<p> <hi rend="italic">°Göttinger Exemplar</hi>: Niedersächsische Staats- und
+						Universitätsbibliothek Göttingen, Signatur: ALT 2002 A 327; unikal
+						überliefert; Permalink des Volldigitalisats: <ref
+							target="http://resolver.sub.uni-goettingen.de/purl?PPN61591750X">
+							http://resolver.sub.uni-goettingen.de/purl?PPN61591750X </ref>
+					</p>
+					<p>Kollation: 12° A–J, K8</p>
+					<p>
+						<ref type="vd17">VD17 7:703412D</ref>. Dünnhaupt 00 </p>
+					<p> Inhalt: typographischer Titel, Vorrede an den Leser, Musenanruf, acht
+						Komplimente, das <hi rend="italic">Tranchier-Buch</hi>, die <hi
+							rend="italic">Tisch- und Leberreime</hi>, sowie die 24 <hi rend="italic"
+							>Reime auf Konfektscheiben</hi>. </p>
+				</div>
+				<div n="F1" type="section">
+					<head> 1674, Kopenhagen (Drucker: Christian Wering, Verleger: Wolff Lamprecht)
+						[F1] </head>
+					<p> [Titelholzschnitt] <hi rend="italic">COMPLEMENTORIUM</hi>
+					</p>
+					<p> [typographischer Titel] <hi rend="italic">ETHICA</hi> | <hi rend="italic"
+						>Complementoria</hi> | Das iſt: | Complementir | Buͤchlein / | Jn
+						welchem enthalten / eine | richtige Art / wie man ſo wol mit hohen | als
+						niedrigen Standes- | Perſonen: bey | Geſelſchaften / und Frauenzim- | mer
+						Hoff zierlich reden und | umbgehen ſolle. | Neulichſt wieder uͤberſehen / an
+						vie- | len Orten gebeſſert und vermeh- | ret / durch | Georg Grefflingern /
+						| gekroͤnten Poeten / und | <hi rend="italic">Notar. Publ.</hi> | Mit
+						angefuͤgtem <hi rend="italic">Trenchir-</hi> | Buͤchlein / | Auch zuͤchtigen
+						Tiſch- und | Leber-Reimen. | [Linie] | Kopenhagen / Gedruckt bey Chriſtian
+						Wering | Univerſt. Buchdr. Jm Jahr. 1674. Jm | Verlag Wolff Lamprecht. </p>
+					<p> <hi rend="italic">°Hamburger Exemplar</hi>: Staats- und
+						Universitätsbibliothek Hamburg, Signatur: Scrin A/493; Holzschnitt. <graphic
+							url="../images/img6.jpg" xml:id="img6"/><desc><ref type="intern" target="#abb4">Abb.
+								4</ref></desc> Permalink des Volldigitalisats: <ref
+							target="http://resolver.sub.uni-hamburg.de/goobi/PPN779366484">
+							http://resolver.sub.uni-hamburg.de/goobi/PPN779366484 </ref>
+					</p>
+					<p>
+						<hi rend="italic">Kopenhagener Exemplare</hi>: Det Kongelige Bibliotek
+						København, Signatur: 14,-475 8° sowie Hielmst. 2624 8° </p>
+					<p> Kollation: 12° A–J12, <hi rend="italic">Ethica</hi>-Teil A–D12, E3; 21 von
+						23 gezählten, einseitigen Holzschnitten zum <hi rend="italic"
+							>Tranchier-Buch</hi> im Anhang </p>
+				</div>
+				<div n="C6" type="section">
+					<head>1675, Amsterdam [C6]</head>
+					<p> [Kupfertitel] Erneüertes | [Co]mplementir- und | [T]renchir-Büchlein. </p>
+					<p> [Typographischer Titel] <hi rend="italic">ETHICA</hi> | <hi rend="italic"
+							>COMPLEMENTORIA</hi> | Das iſt: | Complementir-| Buͤchlein / | Jn
+						welchem enthalten / ein | richtige Art / wie man ſo wol m[it] | hohen als
+						niedrigen Stands-Per-| ſonen: bey | Geſellſchafften und Frauen | Zimmer
+						Hofzierlich reden / und | umgehen ſolle. | Neulich wieder ůberſehen / und
+						a[n] | vielen Orten gebeſſert und ver- | mehret / durch | Georg Grefflingern
+						/ gecroͤn[-] | ten Poeten / und <hi rend="italic">Not. Publ.</hi> | Mit
+						angefuͤgtem | <hi rend="italic">Trenchier-</hi> Buͤchlein / | auch
+						zuͤchtigen | Tiſch- und Leber-Reimen | [Linie] Amſterdam / | [g]edruckt im
+						Jahr / <hi rend="italic">M. DC. LXXV</hi>
+					</p>
+					<p>
+						<hi rend="italic">Göttinger Exemplar</hi>: Niedersächsische Staats- und
+						Universitätsbibliothek Göttingen, Signatur: 8 POL I, 5660 RARA; unikal
+						überliefert; [transgraphiert nach Fotographie]<note type="footnote"> Mein
+							Dank für die Anfertigung und Übersendung von Fotographien geht an
+							Sibylle Söring, Niedersächsische Staats- und Universitätsbibliothek
+							Göttingen. </note>
+					</p>
+					<p>
+						<ref type="vd17">VD17 7:713552P</ref>. Dünnhaupt 7.20 </p>
+				</div>
+				<div n="E1" type="section">
+					<head>1676, Hannover (Thomas Heinrich Hauenstein) [E1]</head>
+					<p> [Kupfertitel] Erneuertes | <hi rend="italic">Complemeutir</hi> und |
+						Trenchir Büchlein </p>
+					<p> [typographischer Titel der <hi rend="italic">Ethica</hi> herausgetrennt] </p>
+					<p>
+						<hi rend="bold">Zwischentitel Tranchier-Buch</hi>
+					</p>
+					<p> Neues | <hi rend="italic">Trenchier-</hi> | Büchlein; | Anleitende | Wie man
+						rechter Art | und jetzigen Gebrauch nach | allerhand Speiſen ordentlich auf
+						| die Tafel ſetzen / zierlich zerſchnei- | den und vorlegen / auch artlich |
+						widerum abheben | ſolle || Hiebevor an verſchiedenen | Orten heraus gegeben
+						) neulichſt | aber mit Fleiß überſehen / und mit | ſchönen
+						Kupffer-vorbildun- | gen ans Liecht gebracht | durch | Andreas Kletten / |
+							<hi rend="italic">Cygn. Miſn. &#x0026; Jur. Stud.</hi> | [Zierstück] |
+						Hannover / | Bey Thomas Hein. Hauenſtein / | Jm Jahr 1676. </p>
+					<p>
+						<hi rend="bold">Zwischentitel Tisch- und Leberreime</hi>
+					</p>
+					<p> Jungfer | Ephroſinen von | Sittenbach | Züchtige | Tiſch und Le- | ber-Reyme
+						/ | An ihre Geſpillinen. | [Zierstück] | Zu Leberſtatt / | Druckts | Georg
+						Gözcke. | [Linie] | <hi rend="italic">M. DC. LXXVI.</hi>
+					</p>
+					<p> <hi rend="italic">*Berliner Exemplar</hi>: Staatsbibliothek zu Berlin,
+						Stiftung Preußischer Kulturbesitz, Signatur: Np 15856; unikal überliefert;
+						Exemplar stark beschädigt, Blatt- und Textverlust: typographischer Titel
+						fehlt; Kupfertitel. <graphic url="../images/img5.jpg"/><desc><ref
+								type="intern" target="#abb5">Abb. 5</ref></desc></p>
+					<p>VD17 00. Dünnhaupt 7.21</p>
+				</div>
+				<div n="F2" type="section">
+					<head> 1678, Kopenhagen (Drucker: Johann Adolph Baxman, Verleger: Wolfgang
+						Lamprecht) [F2] </head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">Complementoria</hi> | Det
+						er: | Complementeer- | Bog / | Huorudi indholdis en rictig | Maneer /
+						huorledis mand ſaa vel | Med høye ſo[m med nedrige] Stands-Perſoner: | [v]ed
+						| Selſkab [oc] Fruentimmer | effter Hof[ve]-Skick zierligen tale | [oc]
+						omgaaes ſkal / | Nyligen igjen ofverſeet / paa | mange Steder forbedret oc |
+						formeeret / ved | Georg Grefflinger / | kronede Poet / oc <hi rend="italic"
+							>Not. Pupl.</hi> | Med hosføyede <hi rend="italic">Trencheer-</hi>Bog /
+						| oc dertil hørige Kaaber-Stycker. | Orſaa ſmucke Læver-Rjm offver | Borde
+						at bruge / nyligen fordanſket | <hi rend="italic">Cum Gratia &#x0026;
+							Privileg</hi> | [Linie] | Kiøbenhafn / | Tryct hos Joh. Adolph Baxman /
+						| Aar 1678. | Paa Wolfg. Lamprechts Bekoſtn | oc fin dis hos hannem til
+						kiobs | i Skindergaden. </p>
+					<p> <hi rend="italic">°Kopenhagener Exemplar</hi>: Det Kongelige Bibliotek
+						København, Signatur: 14,-475 8°; Permalink des Volldigitalisats (Zugang via
+						ProQuest LLC, Early European Books): <ref
+							target="http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;res_dat=xri:eurobo:&amp;rft_dat=xri:eurobo:rec:den-kbd-all-130018793254-001"
+							>
+							http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&#x0026;res_dat=xri:eurobo:&#x0026;rft_dat=xri:eurobo:rec:den-kbd-all-130018793254-001
+						</ref></p>
+					<p> <hi rend="italic">*Osloer Exemplar</hi>: Universitetsbiblioteket Oslo,
+						Signatur: Sikring 976 </p>
+					<p>
+						<hi rend="italic">Trondheimer Exemplar</hi>: Norges
+						Teknisk-Naturvitenskapelige Universitet Trondheim, Gunnerusbiblioteket,
+						Signatur: GUNNERUS LibR Oct. 5698 </p>
+					<p> Kollation: klein 6° A–Ee6, <hi rend="italic">Ethica</hi>-Teil A–M6, N3 </p>
+					<p> VD17 00. Dünnhaupt [7.24]<note type="footnote"> Die Angabe bei Dünnhaupt ist
+							uneindeutig; vmtl. handelt es sich – angesichts der Standortangabe „Oslo
+							Universitätsbibliothek“ – um diese Ausgabe. </note>
+					</p>
+					<p> Inhalt/Struktur: Übersetzung der <hi rend="italic">Ethica</hi> (mit neuer
+						Widmungsvorrede des Verlegers Lamprecht), des <hi rend="italic"
+							>Tranchier-Buchs</hi> sowie eine Übertragung der <hi rend="italic"
+							>Tisch-und Leberreime</hi> als <hi rend="italic">geistliche</hi> und <hi
+							rend="italic">weltliche Leberreime</hi> ins Dänische. Die 24 <hi
+							rend="italic">Reime auf Konfektscheiben</hi> sind nicht enthalten. </p>
+				</div>
+				<div n="C7" type="section">
+					<head>1680, Amsterdam [C7]</head>
+					<p>
+						<hi rend="italic">ETHICA COM-</hi> | <hi rend="italic">PLEMENTORIA,</hi> |
+						Das iſt: | Complementir- | Buͤchlein / | Jn welchem enthalten / eine
+						richtige Art / wie man | ſo wol mit hohen als niedrigen | Stands-Perſonen:
+						bey | Geſellſchafften und Frauē- | Zimmer Hofzierlich reden / und | umgehen
+						ſolle: | neulich wieder uͤberſehen / | und an vielen Orten gebeſſert | und
+						vermehret / durch | Georg Grefflingern / | gecroͤnten Poeten / und | Not.
+						Publ. | Mit angefuͤgtem | <hi rend="italic">Trenchier-</hi> Buͤchlein | auch
+						zuͤchtigen | Tiſch- und Leber-Reimen. | [Linie] | Amſterdam / | Gedruckt im
+						Jahr / Anno <hi rend="italic">1680.</hi>
+					</p>
+					<p>
+						<hi rend="italic">Münchner Exemplar</hi>: Bayerische Staatsbibliothek
+						München, Signatur: L.eleg.m. 411 b [Transgraphierung nach den
+						Schlüsselseiten im VD17]; Unikal überliefert </p>
+					<p>
+						<ref type="vd17">VD17 12:644711C</ref>. Dünnhaupt 7.25 </p>
+				</div>
+				<div n="C8" type="section">
+					<head>1683, Amsterdam [C8]</head>
+					<p>[Ethica], [Amsterdam], [1683]</p>
+					<p>
+						<hi rend="italic">Berliner Exemplar</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: 8" Np 15858; unikal
+						überliefert; als Kriegsverlust bestätigt. Der Katalog der Staatsbibliothek
+						beschreibt das Exemplar als defekt, nur das <hi rend="italic"
+							>Tranchier-Buch</hi> und die <hi rend="italic">Tisch- und
+							Leberreime</hi> seien erhalten, die Seiten 5–108 (der <hi rend="italic"
+							>Ethica</hi> -Teil) fehlen. </p>
+					<p> Ein weiteres Exemplar im Antiquariatshandel.<note type="footnote"> Jahrbuch
+							der Auktionspreise für Bücher, Handschriften und Autographen 35 (1984),
+							S. 285. </note>
+					</p>
+					<p>Zur Diskussion <ref type="intern" target="#hd48">s.u.</ref></p>
+					<p>VD17 00. Dünnhaupt 7.27</p>
+				</div>
+				<div n="E2" type="section">
+					<head> 1684, Hannover/Frankfurt/Leipzig (Verleger: Thomas Heinrich Hauenstein
+						Erben) [E2] </head>
+					<p> [Kupfertitel] Der Erneuerte […] | Compl[…] | […] | T[…] | [Stechersignatur] </p>
+					<p> [typographischer Titel] Der erneuerte und viel | vermehrte | [rot]
+						Complimen-| [schwarz] tarius / | Und vollkommene | [rot] Trenchir |
+						[schwarz] Meiſter. | [rot] Jn welchem enthalten ein | [schwarz] ſonderbahre
+						Manier / wie man | ſowol mit hohen / als niedrigen Stands | Perſonen und
+						Geſellſchafften auffs zier- und höflichſte <hi rend="italic"
+							>converſiren</hi> und umgehen / inglei-| chen auch auff Collationen und
+						Hochzeiten / | [ſo]wie Speiſen zierlich zerſchneiden / oder | <hi
+							rend="italic">trenchiren</hi> und vorlegen ſolle. | [rot] Nebſt
+						angefuͤgten ſonder- | [schwarz] derbahren Tiſch- und Leber- | Reimen. |
+						[Linie] | [rot] Franckfurt und Leipzig / | [schwarz] Jn Verlegung | [rot]
+						Thomas Heinrich Hauenſteins | [schwarz] Seel. Erb. in Hannover. 1684. </p>
+					<p>
+						<hi rend="italic">Exemplar in Privatsammlung</hi>; unikal überliefert;
+						[Titel transgraphiert nach der Reproduktion des typographischen Titels in
+						Frenzel 2012, S. 103. Das Titelkupfer bei Frenzel ist entweder unvollständig
+						reproduziert oder im Original stark beschnitten und daher nicht vollständig
+						transgraphierbar.] </p>
+					<p>VD17 00. Dünnhaupt 00</p>
+				</div>
+				<div n="X4" type="section">
+					<head>1689, [Hannover, Wolfenbüttel] (Buchhändler: Gottlieb Heinrich Grentz)
+						[X4]</head>
+					<p>[Ethica], [1689]</p>
+					<p>°<hi rend="italics">Norrköpinger Exemplar</hi>: Norrköpings stadsbibliotek,
+						Signatur: Finspongssamlingen, Nr. 3331; unikal überliefert; Exemplar
+						beschädigt, typograpischer Titel sowie die ersten 4 Seiten des <hi rend="italics"
+							>Ethica</hi>-Teils
+						fehlen.</p>
+					<p>Inhalt: laut Katalog enthält die Druckersynthese die <hi rend="italics"
+							>Ethica</hi> mit <hi rend="italics">Tranchier-Buch</hi> und <hi
+							rend="italics">Leberreimen</hi>.</p>
+					<p>Das in der Forschung bisher unbekannte Exemplar konnte bisher nicht
+						eingesehen werden.</p>
+					<p>VD17 00. Dünnhaupt 00</p>
+				</div>
+				<div n="X2" type="section">
+					<head> 1695/1703,<note type="footnote"> Die bei Frenzel 2012 (Anm. 17), S. 94
+							angegebene Datierung auf 1703 wird nicht begründet, fällt aber mit dem
+							Ende der dokumentierten Wirkungszeit von Thomas Wiering (1684–1703) in
+							Hamburg unter der Adresse „Im Güldenen A.B.C.“ zusammen. Siehe auch
+								<bibl> Christoph Reske: Die Buchdrucker des 16. und 17. Jahrhunderts
+								im deutschen Sprachgebiet. Auf der Grundlage des gleichnamigen
+								Werkes von Josef Benzing. 2., überarb. u. erw. Aufl. Wiesbaden 2015
+								(Beiträge zum Buch- und Bibliothekswesen. 51), S. 368 <ptr
+									type="opac" cRef="825747252"/>
+							</bibl> . – Die alternative Datierung der Ausgabe auf 1695 findet sich –
+							ebenfalls ohne Begründung – bei Dünnhaupt 1991 (Anm. 5), S. 1687, Nr.
+							7.29. </note> Hamburg (Thomas Wiering) [X2] </head>
+					<p> Neu <hi rend="italic">A la modi</hi>ſch | Nach itziger gebraͤuchlichen Arth
+						eingerichtetes | <hi rend="italic">Complementir</hi>
+										<hi rend="italic">-</hi> | <hi rend="italic">Friſier-Trenchier-</hi> | und |
+						Kunſt-Buch. | Mit vielen nothwendigen Kupffern / alles bequemlich zu faſſen
+						/ ausgearbeitet | Gedruckt in <hi rend="italic">Hamburg,</hi> bey <hi rend="italic">Thomas</hi> von <hi
+							rend="italic">Wiering,</hi> im guͤlden <hi rend="italic">A, B, C.</hi>
+						in dieſem Jahr. </p>
+					<p>
+						<hi rend="italic">Berliner Exemplare</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: 8" Oo 13050 sowie 8" Oo
+						13050&#x2039;a&#x203A;; beide als Kriegsverlust bestätigt. </p>
+					<p>
+						<hi rend="italic">Münstersches Exemplar</hi>: Von und zur Mühlen’sche
+						Bibliothek Nünning, Senden-Bösensell, Signatur: E0655; unikal überliefert;
+						[Transkription nach der Reproduktion des typographischen Titels bei Frenzel]<note type="footnote">Frenzel 2012 (Anm. 17), S. 94.</note>
+					</p>
+					<p>VD17 00. Dünnhaupt 7.29</p>
+				</div>
+				<div n="X3" type="section">
+					<head>1700, Nürnberg [X3]</head>
+					<p> [Kupfertitel] Erneüertes | Complementir- und | Trenchir Büchlein. </p>
+					<p> [typographischer Titel] <hi rend="italic">ETHICA COMPLE-</hi> | <hi
+							rend="italic">MENTORIA,</hi> | Das iſt: | Complementir- | Buͤchlein / |
+						Jn welchem enthal- | ten / eine richtige Art / wie | man ſo wol mit hohen
+						als | niedrigen Stands-Perſonen: | bey | Geſellſchafften und Frauen- |
+						Zimmer Hofzierlich reden / | und umgehen ſolle. | Neulich wieder uͤberſehen
+						/ | und an vielen Orten gebeſſert | und vermehret / durch | Georg
+						Graͤflingern / gecroͤn- | ten Poeten / und <hi rend="italic">Not. Publ.</hi>
+						| Mit angefuͤgtem | <hi rend="italic">Trenchier-</hi>Buͤchlein / | auch
+						zuͤchtigen | Tiſch- und Leber-Reimen / | [Zierband] | NÜRNBERG / | Gedruckt
+						im Jahr / <hi rend="italic">M. DCC.</hi>
+					</p>
+					<p> <hi rend="italic">*Dresdner Exemplar</hi>: Sächsische Landesbibliothek,
+						Staats- und Universitätsbibliothek Dresden, Signatur: Putz. 17 8 31
+						(Sammlung Walter Putz); mglw. unikal überliefert; Kupfertitel</p>
+					<p><graphic url="../images/img7.jpg"/><desc><ref type="intern" target="#abb6"
+								>Abb. 6</ref></desc></p>
+					<p>
+						<hi rend="italic">Exemplar im Antiquariatshandel</hi>.<note type="footnote">
+							Jahrbuch der Auktionspreise für Bücher, Handschriften und Autographen 55
+							(2004), S. 297. </note>
+					</p>
+					<p>Kollation: 12° A–J, K8</p>
+					<p>
+						<ref type="vd17">VD17 14:695153G</ref>. Dünnhaupt 7.30 </p>
+				</div>
+				<div n="E3" type="section">
+					<head> 1705, Hannover/Wolfenbüttel (Verleger: Gottfried Freytag) [E3] </head>
+					<p> [Kupfertitel] Der Erneüerte und Vielvermehrte | Complimentarius | und |
+						Vollkommene | Trenchir-Meister </p>
+					<p> [typographischer Titel] Der erneuerte und viel | vermehrte | [rot]
+						Complemen- | [schwarz] tarius / | Und vollkommene | [rot] Trenchier- |
+						[schwarz] Meiſter. | [rot] In welchem enthalten ein | [schwarz] ſonderbahre
+						Manier / wie man | ſo wol mit hohen als niedrigen Stands- | Perſonen und
+						Geſellſchafften auffs zier- und | höfflichſte converſiren und umgehen /
+						inglei- | chem auch auff Collationen und Hochzeiten / | die Speiſen zierlich
+						zerſschneiden / oder | trenchiren und vorlegen ſolle. | [rot] Nebſt
+						angefuͤgten ſonderbahren | [schwarz] Tiſch- und Leber-Reimen. | [Strich] |
+						Hannover und Wolffenbuͤttel / | [rot] Verlegts Gottfried Freytag / |
+						[schwarz] Buchhaͤndl. in Hannover. </p>
+					<p>
+						<hi rend="italic">*Berliner Exemplar</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: Np 15860; Kupfertitel </p>
+					<p>
+						<hi rend="italic">Bloomingtoner Exemplar</hi>: Lilly Library, Indiana
+						University, Bloomington/Indiana (USA) Signatur: TX885. E7 </p>
+					<p>
+						<hi rend="italic">Göttinger Exemplar</hi>: Niedersächsische Staats- und
+						Universitätsbibliothek Göttingen, Signatur: 8 POL I, 5708<note
+							type="footnote"> Mein Dank für die Anfertigung und Übersendung von
+							Fotographien geht an Christoph Hornig, Universität Göttingen. </note><graphic
+								url="../images/img8.jpg"/><desc><ref type="intern" target="#abb7">Abb.
+									7</ref></desc>
+					</p>
+					<p>
+						<hi rend="italic">Wolfenbütteler Exemplar</hi>: Herzog August Bibliothek
+						Wolfenbüttel, Signatur: Hm 66 </p>
+					<p>Kollation: 12° A9, B11, C12, D11, E–K12</p>
+					<p>
+						<ref type="vd17">VD17 23:317690P</ref>. Dünnhaupt 7.31 </p>
+					<p> Inhalt/Struktur: Enthält die <hi rend="italic">Ethica</hi> (ohne den
+						Musenanruf), das <hi rend="italic">Tranchierbüchlein</hi>, die <hi
+							rend="italic">Tisch- und Leberreime</hi> sowie die 24 <hi rend="italic"
+							>Reime auf Konfektscheiben</hi>.<note type="footnote"> Die Datierung
+							stammt vom Zwischentitel des Tranchier-Buchs „Hannover und
+							Wolffenbuͤttel / Verlegts Gottfried Freytag / Buchhaͤndler im Jahr 1705“
+							(E12a). </note>
+					</p>
+				</div>
+				<div n="F3" type="section">
+					<head> 1708, Kopenhagen (Drucker: Johann Jacob Bornheinrich) [F3] </head>
+					<p>
+						<hi rend="italic">ETHICA</hi> | <hi rend="italic">Complementoria</hi> | Det
+						er: | Complementeer- | Bog / | Hvorudi indholdis en | rigtig Maneer /
+						hvorledis | mand ſaa vel med høye ſom nedri- | ge Stands-Perſoner: | Ved |
+						Selſkab og Fruentim̄er | effter Hofve-Skick zierligen tale | og omgaaes ſkal
+						/ | Nu paa ny ofverſeet / og paa | mange Steder forbedret og | formeeret /
+						ved | Georg Grefflinger / | kronede Poet / og <hi rend="italic">Not.
+							Publ.</hi> | Med hosføjede <hi rend="italic">Trencheer-</hi> | Bog / og
+						dertil hørige Kaaber- | Stycker. | Ogſaa ſmucke Læver-Rim | over Borde at
+						bruge / nyligen | fordanſket. | [Linie] | KJØBENHAVN / | Tryct og bekoſtet
+						af | Joh. Jacob Bornheinrich / 1708. </p>
+					<p>
+						<hi rend="bold">Zwischentitel des Tranchier-Buchs</hi>
+					</p>
+					<p> Ny | <hi rend="italic">Trencher</hi> -Bog / | Hvorudi gives Anledning |
+						Hvorledis mand ret / | maneerlig og ſom nu bruge- | ligt er / atſkillige
+						Spiſe or- | dentlig ſkal paa Bordet ſætte / de | ſamme zirligen forſkiere og
+						fore- | legge / ogsaa endeligen igien | artelig optage / Tilforne paa
+						atſkillige | Stæder oplagt / nu nyligen | med Fljd overſeet / og med |
+						ſkiønne Kaaber-Stycker | kommen til Liuſet | ved | Andreas Kletten Gyg. |
+						Miſn. Jur. Stud. | Nyligen | Fordansket i Kiøbenhafn / | Tryckt / af Johann
+						Jacob | Bornheinrich. | MDCCVIII.</p>
+					<p><hi rend="bold">Zwischentitel der</hi><hi rend="italicbold">Geistlichen Leberreime</hi></p>
+					<p> Geiſtlige | Lever-Rjm / | at bruge | Over Borde og | ellers udi anden |
+						Samquem. | [Vignette] | [Linie] | Tryckt i Kiøbenhafn / | Aar 1708. </p>
+					<p>
+						<hi rend="italic">Kopenhagener</hi>
+						<hi rend="italic">Exemplar</hi>: Det Kongelige Bibliotek Københaven,
+						Signatur: 14,-475 8° </p>
+					<p> <hi rend="italic">*Osloer Exemplar</hi>: Universitetsbiblioteket Oslo,
+						Signatur: Sikring 977; Exemplar beschädigt: Blätter A2, A3, A6, sowie Ee6
+						fehlen </p>
+					<p> Kollation: 12° A–Z6, Aa–Ee6. <hi rend="italic">Ethica</hi> A–M6, N3 (147
+						Seiten) </p>
+					<p>VD17 00. Dünnhaupt 7.31</p>
+				</div>
+				<div n="C9" type="section">
+					<head>1717, Amsterdam [C9]</head>
+					<p> [Kupfertitel] Erneūertes | Complementir- ūnd | Trenchir-Büchlein. </p>
+					<p> [Typographischer Titel] <hi rend="italic">ETHICA</hi>
+						<hi rend="italic">COMPLE-</hi> | <hi rend="italic">MENTORIA,</hi> | Das iſt:
+						| Complementir- | Buͤchlein / | Jn welchem enthalten / | eine richtige Art /
+						wie man ſo | wol mit hohen als niedrigen | Stands-Perſonen: bey |
+						Geſellſchaften u. Frau- | en-Zimmer hofzierlich reden / | und umbgehen
+						ſolle. | Neulich wieder uͤberſehen / | und an vielen Orten gebeſſert | und
+						vermehret / durch | Georg Graͤflingern / ge- | croͤnten Poeten / und <hi
+							rend="italic">Not. Publ.</hi> | Mit angefuͤgtem | <hi rend="italic"
+							>Trenchier-</hi> Buͤchlein / | auch zuͤchtigen | Tiſch- und
+						Leber-Reimen. | [Linie] | Amsterdam / | Gedruckt im Jahr/ M.DCCXVII. </p>
+					<p>
+						<hi rend="italic">Bamberger Exemplar</hi>: Staatsbibliothek Bamberg,
+						Signatur: 22/.2 N 3 </p>
+					<p> <hi rend="italic">*Dresdner Exemplar</hi>: Sächsische Landesbibliothek,
+						Staats- und Universitätsbibliothek Dresden, Signatur: 35.8.4365; Kupfertitel
+							<graphic url="../images/img9.jpg"/><desc><ref type="intern"
+								target="#abb8">Abb. 8</ref></desc></p>
+					<p>
+						<hi rend="italic">Frankfurter Exemplar</hi>: Universitätsbibliothek J. C.
+						Senckenberg, Frankfurt am Main, Signatur: Biblioth. Hirzel 124 </p>
+					<p> Kollation 12° A–J12, K4 (204 Seiten). <hi rend="italic">Ethica</hi>-Teil
+						A–D12, E5 (106 Seiten) </p>
+					<p>
+						<ref type="vd18">VD18 00</ref>. Dünnhaupt 7.33 </p>
+					<p> Inhalt/Struktur: Kupfertitel, typographischer Titel, Musenanruf, Vorrede an
+						den Leser, acht Komplimente; danach das <hi rend="italic"
+							>Tranchier-Buch</hi> und die <hi rend="italic">Tisch- und
+							Leberreime</hi>; die 24 <hi rend="italic">Reime auf Konfektscheiben</hi>
+						sind nicht enthalten. </p>
+					<div>
+						<head> 1727, o.O. (Civili Gratiano) [fingierter Herausgeber] [X6] </head>
+						<p> [rot] Buͤrgerliches | [schwarz] Auf allerhand Zufaͤlle eingerichtetes |
+							[rot] Complimentir- | [schwarz] Buͤchlein / | [rot] Aus welchem, die
+							mittlern Standes | [schwarz] ſind, erlernen koͤnnen, wie ſie in
+							oͤffentlichen Zuſam- | menkuͤnfften / als Hochzeiten / Kindtauffen / und
+							dergleichen / | wie auch in Privat-Beſuchungen und Geſellſchafften / ſo
+							wohl | gegen hoͤhere / als ihres gleichen Perſonen / inſonderheit aber |
+							dem loͤblichen Frauenzimmer / mit Gluͤckwuͤnſchung / Leid- | bezeugung
+							und annehmlichen Diſcurſen ſich | verhalten ſollen. | [Holzschnitt] |
+							Heraus gegeben von | [rot] <hi rend="italic">CIVILI GRATIANO.</hi> |
+							[schwarz] [Linie] | Jm Jahr Chriſti, 1727. (6) </p>
+						<p> <hi rend="italic">°Göttinger Exemplar</hi>: Niedersächsische Staats-
+							und Universitätsbibliothek Göttingen, Signatur: 8 POL I, 5716; unikal
+							überliefert; Permalink des Volldigitalisats: <ref
+								target="http://resolver.sub.uni-goettingen.de/purl?PPN627421849|LOG_0002"
+								> http://resolver.sub.uni-goettingen.de/purl?PPN627421849|LOG_0002
+							</ref>
+						</p>
+						<p>Kollation: A–F8</p>
+						<p>
+							<ref type="vd18">VD18 10880615</ref>. Dünnhaupt 7.34 [?]<note
+								type="footnote"> Ich vermute, dass es sich hierbei um den bei
+								Dünnhaupt unter 7.34 als Ethica-Ausgabe von 1727 verzeichneten Druck
+								handelt. Die Titelangaben stimmen jedoch nicht überein. </note>
+						</p>
+					</div>
+					<div>
+						<head>1728, o.O. [X5]</head>
+						<p>Das | Neu-alamodiſche / viel-vermehrte | nnd nach jetziger Art |
+							eingerichtete | Complementier- | Buͤchlein / | Worinnen eine ſonderbahre
+							Ma- | nier enthalten / wie man ſo wohl mit hohen | als niedern
+							Stands-Perſohnen / und ſonderbar | in Geſellſchafften mit Frauenzimmer
+							aufs zierlichſt | und hoͤfflichſte converſiren und ihnen | auffwarten
+							ſolle; | Nebſt einem Anhang unterſchiedlicher | Redens-Arten / auch
+							etlicher gewoͤhnlicher | Spruͤchwoͤrter und uͤblichen Reimen. |
+							[Holzschnitt] | Gedruckt in dem 1728 Jahr. </p>
+						<p><hi rend="italics">*°Münchner Exemplar</hi>: Universitätsbibliothek,
+							Ludwig-Maximilians-Universität München, Signatur: 8° Misc. 489/3; unikal
+							überliefert; Titel mit Holzschnitt <graphic width="40%"
+								url="../images/img10.jpg"/><desc><ref type="intern" target="#abb9"
+									>Abb. 9</ref></desc></p>
+						<p>Kollation: 8° A–G8</p>
+						<p>Inhalt: Typographischer Titel mit illustrierendem Holzschnitt,
+							Musenanruf, Vorrede an den Leser, zehn Komplimente, Briefsteller und
+							Gesprächsbeispiele.</p>
+						<p>VD18 00. Dünnhaupt 00</p>
+					</div>
+				</div>
+				<div n="2.3" type="section">
+					<head>Nicht verifizierbare Ausgaben // Negativliste</head>
+					<p> Folgende bei Dünnhaupt (1991) und an anderer Stelle verzeichnete Ausgaben
+						lassen sich nicht verifizieren: </p>
+					<p>
+						<hi rend="italic">Complementierbüchlein</hi>
+					</p>
+					<p>1650, [Hamburg], 7.7</p>
+					<p>1651, [Hamburg], 7.8</p>
+					<p>1655, Amsterdam, 7.10</p>
+					<p>
+						<hi rend="italic">Ethica Complementoria</hi>
+					</p>
+					<p> 1663, Hannover (Hauenstein), 7.14<note type="footnote"> Dünnhaupt 1991 (Anm.
+							5), S. 1686, Nr. 7.14 verzeichnet eine Ausgabe in einem Auktionskatalog
+							von 1975. Diese Ausgabe habe ich nicht verifizieren können. Frenzel 2012
+							(Anm. 17), S. 120 gibt an „Antiquariat; Hamburg, Dörling. 1975, A84, Nr.
+							774“. </note>
+					</p>
+					<p>1664, Hannover, 7.15</p>
+					<p> 1665, Hannover,<note type="footnote"> Frenzel 2012 (Anm. 17), S. 102, setzt
+							hier eine weitere Ausgabe der Ethica nach einem Exemplar in der Harvard
+							Library, Boston, mit der (inkorrekten) Signatur: H004185240 an.
+							Tatsächlich handelt es sich bei diesem Exemplar jedoch um eines der
+							Ausgabe [C3], Amsterdam 1665, mit der Signatur H 5076.65*. – Im <bibl>
+								Jahrbuch der Auktionspreise für Bücher, Handschriften und
+								Autographen ist im Jahrgang 50 (1999), S. 249 <ptr type="opac"
+									cRef="129074446"/>
+							</bibl> ein Exemplar „Hannover 1665“ gelistet. </note> 00 Dünnhaupt </p>
+					<p>1667, Nürnberg (Johann Kramer), 7.17</p>
+					<p>1671, Frankfurt, 7.18</p>
+					<p> 1674, o.O.,<note type="footnote"> Jahrbuch der Auktionspreise für Bücher,
+							Handschriften und Autographen 43 (1992), S. 368 listet ein unfirmiertes
+							„Neues Complimentir- und Trenchier-Büchlein“, welches Holzschnitte,
+							statt Kupferstiche enthält, auf. </note> 00 Dünnhaupt </p>
+					<p> 1675, Nürnberg,<note type="footnote"> Jahrbuch der Auktionspreise für
+							Bücher, Handschriften und Autographen 61 (2010), S. 44 verzeichnet ein
+							Exemplar einer Druckersynthese der Ethica mit dem Tranchier-Buch und
+							einem weiteren Buchteil. Dieses Exemplar hat einen Titelkupferstich.
+						</note> 00 Dünnhaupt </p>
+					<p>1677, Nürnberg, 7.22</p>
+					<p> 1677, Amsterdam, 7.23<note type="footnote"> Frenzel 2012 (Anm. 17), S. 102
+							gibt ein Exemplar dieser Ausgabe in einer Privatsammlung an.
+							Titelinformationen werden nicht mitgeteilt. </note>
+					</p>
+					<p>1678, o.O., 7.24</p>
+					<p>1681, Heidelberg, 7.26</p>
+					<p>1692, Amsterdam, 7.28</p>
+					<p>
+						<hi rend="italic">Löfflerey-Kunst</hi>
+					</p>
+					<p>1654, Frankfurt, 12.3</p>
+					<p>1658, Liebstadt [fingiert], 12.5</p>
+				</div>
+			</div>
+			<div n="3" type="chapter">
+				<head>Stemmatologische Rekonstruktion</head>
+				<div n="3.1" type="section">
+					<head>Vorläufiges Stemma</head>
+					<p>
+						<graphic url="../images/img1.png"/><desc><ref type="intern" target="#abb10"
+								>Abb. 10</ref></desc> Vorläufiges Stemma der <hi rend="italic"
+							>Ethica Complementoria</hi>
+					</p>
+				</div>
+				<div n="3.2" type="section">
+					<head>Die Überlieferungsgruppen</head>
+				</div>
+				<div n="3.2.1" type="section">
+					<head>Überlieferungsgruppe A: ‚Kern-Ethica‘</head>
+					<p> Ausgangspunkt für meine stemmatologischen Überlegungen ist der Nürnberger
+							<hi rend="italic">Ethica</hi>-Druck von 1643 [A1]. Da dieser Druck
+						unikal überliefert ist, keine der Bibliographien oder Forschungsbeiträge
+							<note type="footnote"> Hesselink erwähnt in ihrem Beitrag (oben Anm. 3,
+							S. 177) beiläufig den Nürnberger Druck von 1643, ohne näher auf dessen
+							Bedeutung als Erstausgabe einzugehen. </note> ihn verzeichnen und er
+						auch im VD17 bisher nicht nachgewiesen ist, beschreibe ich das erhaltene
+						Exemplar etwas ausführlicher. </p>
+					<p> [A1] ist ein Druck in Duodez (12°) aus vier Bogen. Den Konventionen für
+						volkssprachige Drucke der späteren Handpressenzeit entsprechend werden
+						gebrochene Schriften (Fraktur, Schwabacher) sowie Antiqua verwendet:
+						Textschrift ist die Fraktur; Hervorhebung einzelner volkssprachiger Wörter
+						oder Passagen innerhalb des Frakturtextes ist mit Schwabacher realisiert;
+						Antiqua wird zur Markierung lateinischer Wörter und Phrasen eingesetzt. Eine
+						griechische Kursive wird einmalig verwendet. Kapitelanfänge werden durch
+						dreizeilige Initialbuchstaben, jedoch nicht konsequent durch Seitenwechsel
+						markiert, Kapitelüberschriften stehen in Fraktur (größerer Schriftgrad) im
+						Axialsatz. </p>
+					<p> Der Satz ist durchgängig Blocksatz für die Prosateile, wobei eingestreute
+						Verse links eingezogen in kleinerer Type (Fraktur oder Antiqua) stehen. </p>
+					<p> Der typographische Titel in Akzidenzfraktur ist im Axialsatz gesetzt. Es
+						gibt keine Paginierung. </p>
+					<p> Der Druck besteht aus den folgenden makrostrukturellen Einheiten: </p>
+					<lg>
+						<l>Typographischer Titel A1a</l>
+						<l>Vorrede an den Leser A2a–A2b</l>
+						<l>Kapitel 1: Über die Komplimentierlehre A3a–A6b</l>
+						<l> Kapitel 2: Hof-Komplimente, inklusive 20 Hofregeln A6b–B10a </l>
+						<l>Kapitel 3: Votier-Komplimente B10a–B12b</l>
+						<l>Kapitel 4: Gesellschaft-Komplimente C1a–C10b</l>
+						<l>Kapitel 5: Hochzeits-Komplimente C11a–D2a</l>
+						<l>Kapitel 6: Jungfern-Komplimente D2a–D5b</l>
+						<l>Kapitel 7: Tanz-Komplimente D6a–D9b</l>
+						<l>Kapitel 8: Hausführungs-Komplimente D10a–D12b</l>
+					</lg>
+					<p> Die acht Kapitel sowie die <hi rend="italic">Vorrede an den Leser</hi>
+						machen – in der angegebenen Reihenfolge – den ‚Kerntext‘ der <hi
+							rend="italic">Ethica</hi> aus. Er dient in den folgenden
+						stemmatologischen Überlegungen als textueller Referenzpunkt. </p>
+					<p> Ich gehe davon aus, dass der Nürnberger <hi rend="italic">Ethica</hi>-Druck
+						von 1643 [A1] die <hi rend="italic">editio princeps</hi> darstellt. Ich gehe
+						des Weiteren davon aus, dass die Vorlage des Erstdrucks ein Manuskript
+						gewesen ist. Von wem dieses Manuskript stammt, ob es sich um das Werk eines
+						einzelnen Verfassers oder um eine Kompilation aus den Werken verschiedener
+						Verfasser handelt, lässt sich zum jetzigen Zeitpunkt und auf der Basis des
+						vorhandenen Materials nicht ermitteln. Ich stütze meine Überlegung, dass
+						[A1] ein Manuskript zur Vorlage gehabt hat, auf einen Passus in der <hi
+							rend="italic">Vorrede an den Leser</hi>, wo es heißt: </p>
+					<cit>
+						<quote>DEmnach der Author geſpuͤret / daſz diſz Buͤchlein von vornehmen
+							verstaͤndigen Leuten / denen es privatim ertheilet / ſehr beliebet / Es
+							aber deſz Abſchreiben halber mehr ſchwer als dienlich angeſtanden / als
+							hat mans dem gemeinen Nutzen / auff dero anhalten / endlich zum Druck
+							verfertigen wollen / (A2a)</quote>
+					</cit>
+					<p> Betrachtet man den näheren Kotext (die Vorrede und weitere Paratextelemente)
+						wie den generischen Kontext (Anleitungsliteratur) dieser Aussagen, so gibt
+						es m.E. keinen Grund dafür, hier eine Art Herausgeber-Fiktion anzunehmen;
+						bis zum Erweis des Gegenteils ist mithin davon auszugehen, dass diese
+						Hinweise zu Textgenese und Drucklegung den Tatsachen entsprechen. Allerdings
+						finden sich keine Angaben zu Zeitpunkt und Ort der Abfassung, zur
+						Kompilation des Manuskripts oder zur Verfasserfrage. Was sich dem
+						einleitenden Satz der Vorrede darüber hinaus entnehmen lässt, sind die
+						pädagogische Ausrichtung der <hi rend="italic">Ethica</hi> („denen es
+						privatim erteilet“), das Zielpublikum bzw. der Adressatenkreis („vornehme[]
+						verständige[] Leute“), sowie eine gewisse Popularität der dargestellten
+						Praxis, resp. ein Bedarf an Unterweisung im Komplimentieren. </p>
+					<p> Neben [A1] habe ich noch drei weitere Drucke der Überlieferungsgruppe [A]
+						zugeordnet. Dies sind: ein undatierter Druck von Heinrich Werner, Hamburg
+						[A2], ein unfirmierter Druck von 1645 [A3] sowie ein in Nürnberg
+						möglicherweise um 1650 entstandener Druck [A4]. </p>
+					<p> Da [A1] bis dato unbekannt war, ist in den Bibliographien [A3] als Erstdruck
+						angegeben. Auf Dünnhaupts Personalbibliographie gehen sowohl die Datierung
+						von [A2] auf 1646 als auch die Zuschreibung von [A3] an Heinrich Werner bzw.
+						den Druckort Hamburg zurück. Dünnhaupt selbst legt die Prämissen für seine
+						Schlussfolgerungen nicht offen; vermutlich war sein Gedankengang dieser: </p>
+					<p> (i) [A2] und [A3] ähneln einander typographisch (Buchformat, Bogenanzahl,
+						Einrichtung der Seite etc.) sowie grob – zumindest beim kursorischen Lesen –
+						im Textbestand. Dies legt <hi rend="italic">prima facie</hi> nahe, dass auch
+						[A3] in Hamburg, mutmaßlich sogar in der selben Druckerei entstanden ist und
+						– zumal in herstellungstechnischer Sicht – [A2] in zeitlicher Nähe zu [A3]
+						erstellt wurde. </p>
+					<p> (ii) Vermutlich scheut Dünnhaupt sich, einem nicht datierten Druck den
+						Status der <hi rend="italic">editio princeps</hi> zuzuschreiben und geht
+						daher stillschweigend vom zeitlichen Vorrang von [A3] aus. </p>
+					<p> (iii) Wir wissen von einer firmierten und datierten Ausgabe der <hi
+							rend="italic">Ethica</hi> bei Johann Naumann in Hamburg von 1647 [B1].
+						Diese Ausgabe unterscheidet sich jedoch typographisch wie inhaltlich sowohl
+						von [A3] als auch von [A2]. </p>
+					<p> (iv) Angesichts bestehender Ähnlichkeiten und Unterschiede scheint es somit
+						plausibel, den undatierten Hamburger Druck [A2] zeitlichen <hi rend="italic"
+							>zwischen</hi> dem oberflächlich ähnlichen, vermeintlichen Erstdruck von
+						1645 [A3] und der ‚Konkurrenz-Ausgabe‘ von 1647 [B1] einzuordnen. </p>
+					<p> Doch bereits innerhalb der so rekonstruierten Argumentation stellt sich die
+						Frage, warum [A2] <hi rend="italic">nach</hi> 1645 – dem Druckdatum von [A3]
+						– entstanden sein soll. Denn ersichtlich trägt [A2] als Titelzusatz den
+						Hinweis „erstlich gedruckt zu Hamburg“, was eher darauf hindeuten würde,
+						dass es sich hierbei um den Erstdruck – zumindest in Hamburg – handelt, der
+						demnach <hi rend="italic">vor</hi> [A3] hergestellt worden wäre. Wie sich
+						indes zeigen lässt, sind Dünnhaupts Schlussfolgerungen nicht nur in dieser
+						Hinsicht korrekturbedürftig. </p>
+					<p> Mit dem Auffinden von [A1] hat sich die Überlieferungslage grundlegend
+						verändert. Zunächst wird damit der Entstehungsort der <hi rend="italic"
+							>Ethica</hi> vom norddeutschen Raum in den mitteldeutschen verlegt.
+						Zweitens wird der Titelzusatz „erstlich gedruckt zu Hamburg“ in [A2] dadurch
+						erklärbar, dass es eine frühere Ausgabe <hi rend="italic">an einem anderen
+							Ort</hi> gegeben hat. Auch unabhängig von der Frage, ob diese frühere
+						Ausgabe die direkte Vorlage von [A2] (oder gar identisch mit [A1]) gewesen
+						ist, legt der Zusatz den Schluss nahe,<note type="footnote"> Eine Suche nach
+							der Phrase im VD17 ergibt 1086 Treffer bei 294.500 Titeln mit ca.
+							722.300 Exemplaren (Stand: Juli 2015). Link: <ref
+								target="http://www.vd17.de/index.php?article_id=25&amp;clang=0"
+								>http://www.vd17.de/index.php?article_id=25&amp;clang=0</ref>
+							[gesehen am 04.05.2016]. Die Formulierung ist recht selten und
+							bezeichnet in der überwiegenden Mehrheit der Fälle Drucke, die zunächst
+							an einem anderen Ort gedruckt worden waren. </note> dass zumindest die
+							<hi rend="italic">Ethica</hi> als Werk, möglicherweise aber auch eine
+						bestimmte Ausgabe derselben, einen gewissen Bekanntheitsgrad erlangt hatte,
+						sodass sich der Verleger/Drucker dazu veranlasst sah, zumal im Sinne eines
+						werbenden Verkaufsarguments, seine eigene Ausgabe mit einem entsprechenden
+						Hinweis zu markieren. Damit lässt sich festhalten, dass [A2] aller
+						Wahrscheinlichkeit nach <hi rend="italic">nach</hi> 1643 entstanden sein
+						wird (<hi rend="italic">terminus post quem</hi>). </p>
+					<p> Darüber hinaus wissen wir, dass Heinrich Werner, der Drucker von [A2] 1648
+						in Hamburg verstorben ist,<note type="footnote"> Reske ²2015 (Anm. 23), S.
+							366 und die GND geben als Wirkungsort Heinrich Werners Hamburg 1632–1648
+							an. Nach 1648 bis 1650 erscheinende Drucke der Offizin sind mit
+							„Heinrich Werner Witwe“ resp. „Literis Wernerianis“ firmiert. Link: <ref
+								target="http://d-nb.info/gnd/1037505999"
+								>http://d-nb.info/gnd/1037505999</ref> [gesehen am 02.11.2017].
+						</note> was den absoluten <hi rend="italic">terminus ante quem</hi>
+						bezeichnet. Weiter lässt der o.g. Titelzusatz den Schluss zu, dass [A2] auf
+						jeden Fall <hi rend="italic">vor</hi> der mit 1647 datierten und firmierten
+						Ausgabe [B1] hergestellt worden ist. Damit kann der Zeitraum für Herstellung
+						und Publikation von [A2] auf nach 1643 und wahrscheinlich vor 1647, bestimmt
+						aber vor 1648 eingegrenzt werden. </p>
+					<p> Dünnhaupt war davon ausgegangen, dass [A3] und [A2] die erste und zweite
+						Ausgabe der <hi rend="italic">Ethica</hi> mit unverändertem Textbestand aus
+						der gleichen Offizin sind. Ich habe den Text von [A1], [A3] sowie [A2]
+						miteinander verglichen und bin zu folgendem Ergebnis gekommen: </p>
+					<p> Die drei Ausgaben sind in jeweils <hi rend="italic">verschiedenen</hi>
+						Offizinen hergestellt worden. Dies liegt nahe einmal dadurch, dass (a) in
+						zwei der Ausgaben verschiedene Druckorte angegeben sind: Nürnberg und
+						Hamburg. Des Weiteren unterscheiden sich die Drucke (b) sprachlich deutlich
+						voneinander: so weist [A3] im Vergleich zu [A1] und [A2] kaum die Form ‚-mb‘
+						für ‚m‘ oder ‚mm‘ im Auslaut auf. ‚Dir‘, ‚mir‘, ‚wir‘ werden durchgängig mit
+						langem Vokal (‚dier‘, ‚mier‘, ‚wier‘) realisiert. </p>
+					<p> Im Vergleich von [A1] und [A2] sind die sprachlichen Unterschiede geringer,
+						jedoch nicht weniger signifikant: im Anlaut wird ‚d/D‘ häufig mit ‚t/T‘
+						realisiert, das Dehnungs-h wird im Vergleich seltener in [A2] verwendet. Die
+						maschinelle Textkollation ergab nur wenige substantielle Varianten,<note
+							type="footnote"> Eine vollständige Dokumentation, Systematisierung und
+							Erklärung der Varianz ist für die digitale Edition der Ethica
+							vorgesehen. Zur Veranschaulichung der stemmatologischen Argumentation
+							hier eine Auswahl:[A1] „Kurtzweil ohn Schaden / Fruͤhſtuͤck im Magen /
+							Peltze in Wintertagen / Jſt alles wol zu tragen.“ (C2b); [A2] „Kurtzweil
+							ohn Schaden / Fruͤſtuͤck im Magen / Peltz jm Winter tragen / Jſt alles
+							wol zu tragen.“ (C2b) – [A1] „vera literatura“ (C5b); [A2] „re
+							literaria“ (C5b) – [A1] „die holdſehligen Damen“ (D4a); [A2] „die
+							holdſeligen Frawen“ (D4a) – [A1] „daſz wenn ſie nur jhr Jungfraͤwlich
+							Freyens-Gebet Abends vnd Morgens fleiſzig repetiren / zu schieſzen jhnen
+							vnd bey Edle Junggesellen anzubringen vnd zu helffen pflegen /“ (D4a);
+							[A2] „daſz wenn ſie nur jhr Jungfraͤwliches Freyens-Gebet Abends vnd
+							Morgens fleiſziglich repetiren / ſie jhnen zu helffen / vnd bey den
+							edlen Jung-Geſellen anzubringen pflegen /“ (D4a) </note> die sich nicht
+						als druckereispezifische Sprachkonventionen erklären lassen. Die in beiden
+						Drucken vorkommenden Presskorruptelen und Fehler lassen keinen konkreten
+						Rückschluss auf etwaige Abhängigkeiten zu. </p>
+					<p> Darüber hinaus unterscheiden sich [A1] und [A2] von [A3] (c) stilistisch: in
+						[A3] sind alle deutschen Verse und Sprichwörter umgearbeitet, die
+						lateinischen Wörter und Phrasen sind getilgt. </p>
+					<p> Zu den chronologisch-genealogischen Relationen in der Überlieferungsgruppe
+						[A] argumentiere ich zusammenfassend wie folgt: Erstausgabe ist die
+						Nürnberger Ausgabe von 1643 [A1]. Wahrscheinlich geht [A2] – hergestellt
+						zwischen 1643 und 1647 bei Heinrich Werner in Hamburg – direkt auf [A1]
+						zurück. Die unfirmierte Ausgabe von 1645 [A3], die wahrscheinlich ebenfalls
+						auf [A1] – vmtl. aber <hi rend="italic">nicht</hi> auf [A2]<note
+							type="footnote"> [A1] und [A3] stehen sich sprachlich näher als [A1] und
+							[A2] oder [A2] und [A3]. [A2] weist eine signifikant andere – regional
+							gefärbte – Druckersprache auf. </note> – zurückgeht, ist weder in
+						Nürnberg noch in Hamburg entstanden. </p>
+					<p> [A4] ist eine unfirmierte, undatierte Ausgabe, die statt eines
+						typographischen Titels einen Kupfertitel (Abb. 2) mit der Ortsangabe
+						„Nuͤrnberg“ enthält. Im Umfang sowie der Verteilung der Kapitel auf die
+						Bogen ist [A4] identisch mit [A1]. Es ist nicht bekannt, auf wen die
+						Datierung 1650 zurückgeht. Der <hi rend="italic">fingerprint</hi>
+						<note type="footnote"> Fingerprints werden zur Identifikation von Alten
+							Drucken eingesetzt. Das VD17 führt die fingerprints der Ausgaben [A2]
+							e-e, n-n, mtt, SiEr C, [A3] e-i- r-4. i-ss labe C 1645A und [A4] e.o-
+							s:ur t.t, SiEr C. Den fingerprint von [A1] – e.o- l.en teer -mma C 1643C
+							– habe ich selbst ermittelt. </note> schließt aus, dass es sich um ein
+						Exemplar einer der anderen Ausgaben aus [A] mit alternativem Titelblatt
+						handelt. </p>
+				</div>
+				<div n="3.2.2" type="section">
+					<head>Überlieferungsgruppe B: Complementierbüchlein</head>
+					<p> Überlieferunggruppe [B] umfasst sechs Ausgaben: [B1] 1647, [B2] 1648, [B3]
+						1649, [B4] 1654, [B5] 1658, [B6] 1660. Die Drucke erscheinen mit Ausnahme
+						von [B2] in Hamburg bei dem Buchhändler Johann Naumann.<note type="footnote"
+							> GND-Datensatz <ref target="http://d-nb.info/gnd/128772115"
+								>http://d-nb.info/gnd/128772115</ref> (gesehen am 02.11.2017),
+							Lebensdaten 1627–1668. </note>
+					</p>
+					<p> Die erste Ausgabe der Gruppe [B] geht mit großer Wahrscheinlichkeit auf [A1]
+						– nicht auf den ebenfalls in Hamburg zeitnah hergestellten Druck [A2] –
+						zurück, wie Textkollationen von [A1], [A2], [A3] mit [B1] ergeben haben. </p>
+					<p> Gruppe [B] konstituiere ich aufgrund (i) materiell-medialer
+						Objekteigenschaften, (ii) paratextueller sowie (iii) textueller
+						Eigenschaften: </p>
+					<p> (i) [B] ist 12°, gegenüber [A] aber um zwei vollständige Bogen (E–F) im
+						Umfang erweitert.<note type="footnote"> In [B1] ist der Umfang lediglich um
+							anderthalb Bogen (E12, F6) erweitert. Ab [B3] sind es dann zwei
+							vollständige Bogen. </note>
+					</p>
+					<p> (ii) Gegenüber [A] ist (a) der Titel in [B] verändert: der lateinische
+						Haupttitel „Ethica Complementoria“ ist verschwunden, der
+						inhaltsbeschreibende Untertitel ist verkürzt um die Wortgruppe „und
+						grundförmliche Weise“. Außerdem weist der Titel den erweiterungsmarkierenden
+						Zusatz „vermehret“ auf sowie den Hinweis auf einen Anhang mit „alamodischen
+						Damensprichwörtern“. Im Gegensatz zu [A] sind die Drucke in [B] datiert und
+							firmiert.<note type="footnote"> Ab [B3] hat das Titelblatt verschiedene
+							Druckersignets von Johann Naumann. </note> Alle Drucke in [B] haben (b)
+						einen ‚Musenanruf‘ auf der verso-Seite des Titelblatts: </p>
+					<cit>
+						<quote><hi rend="italic">Mome!</hi><lb/> Pfy / ſchaͤme dich ins Hertz / was
+							magſtu doch verlachen /<lb/> Was tauſend deiner Art nicht koͤnnen
+							baͤſſer machen.<lb/>
+							<hi rend="italic">Plato!</hi><lb/> Man wil durch dieſes Buch kein hohes
+							Lob erjagen /<lb/> Nur jedem / der nicht weiß geſchickt zu ſeyn / was ſagen.<lb/>
+							<hi rend="italic">Euclio!</hi><lb/> Du wirſt dich als ein Narr vielmehr
+							vmb Geld bemuͤhen /<lb/> Als deinen Sohn geſchickt vnd hoͤfflich
+							zuerziehen. (A1b)</quote>
+					</cit>
+					<p> (iii) Textuelle Eigenschaften der Gruppe [B] gegenüber [A] lassen sich wie
+						folgt systematisieren: (a) Hinzufügungen zum Kern-Text der <hi rend="italic"
+							>Ethica</hi>: das sind zum einen zusätzliche volkssprachige Verse am
+						Ende von Sinneinheiten, zum anderen neue Prosatext-Absätze in den Kapiteln
+						1, 2, 4, 6, 7. (b) Auswechslungen innerhalb des Kern-Textes, vor allem der
+						volkssprachigen Verse. (c) Wegnahmen einzelner weniger Wörter sowie des
+						lateinischen Spruchs am Ende: „<hi rend="italic">Contentus hoc Catone;</hi>
+						Genug vor dieſzmahl. <hi rend="italic">Cœtera praxis habet.</hi>“ (d)
+						Addenda im Anhang der <hi rend="italic">Ethica</hi>: (1) 219<note
+							type="footnote">Ausschließlich [B3] hat 220 Sprichwörter.</note> so
+						genannte ‚alamodische Damensprichwörter‘ – zumeist nur einige wenige Worte
+						umfassende Sprüche und Erwiderungen für Gesprächsspiele<note type="footnote"
+							> Vgl. hierzu und zur weiteren Tradition der Sprichwörter im 17. und vor
+							allem 18. Jahrhundert auch die Bibliographie der im deutschsprachigen
+							Raum erschienenen Rätselbücher bis 1800 von <bibl> Heike Bismark:
+								Rätselbücher. Entstehung und Entwicklung eines frühneuzeitlichen
+								Buchtyps im deutschsprachigen Raum. Mit einer Bibliographie der
+								Rätselbücher bis 1800. Tübingen 2007 (Frühe Neuzeit. 122), bes. S.
+								171 <ptr type="opac" cRef="52432610X"/>
+							</bibl> . Bismark nennt Georg Greflinger als den Urheber der
+							Damensprichwörter (da sie der Forschungsliteratur folgend Greflinger für
+							den Autor der <hi rend="italics">Ethica</hi> resp. des <hi
+								rend="italics">Complimentierbüchleins</hi> hält). Sie kennt die
+							beiden Ausgaben der Löfflerey-Kunst von 1648 und die darin enthaltenen,
+							identischen 219 Damensprichwörter nicht. </note> – mit eigener
+						Zwischenüberschrift </p>
+					<cit>
+						<quote>Folget nun der Extract Der verbluͤmbten Reden und Spruͤch-woͤrter ſo
+							von den Allmod Dahmen gebrauchet werden / auffs fleißigſte aus den <hi
+								rend="italic">manû ſcriptis</hi> zuſammen getragen. (E9a)</quote>
+					</cit>
+					<p> Ab [B3] kommen als weitere Anhänge hinzu (2) das 12-strophige Gedicht <hi
+							rend="italic">Unterweisung heimlich zu lieben</hi>,<note type="footnote"
+							> Das Gedicht stammt aus der thematischen Gedicht- und Epigrammsammlung
+								<bibl> Seladons Beständige Liebe </bibl> : SELADONS | Beſtaͤndtige |
+							Liebe. | [Zierstück] | Franckfurt am Mayn / | [Linie] | Verlegt von
+							Edouard Schleichen | Buchhaͤndlern. | [Linie] | M. DC. XLIV. <ptr
+								type="opac" cRef="053021657"/>Hier, pag. 6–11. Die Sammlung wird
+							Georg Greflinger zugeschrieben. </note> unter der Überschrift: </p>
+					<cit>
+						<quote>Zu Erfuͤllung des uͤbrigen Raums. Beliebe der guͤnſtige Leſer die
+							Vnterweiſung heimlich zu lieben aus des Seladons Getichten. Jn der
+							Melodey: Wer fragt darnach / etc. (F7a)</quote>
+					</cit>
+					<p> Sowie (3) die 24 <hi rend="italic">Reime auf Konfektscheiben</hi>. Auf diese
+						„und itzt üblichen Reyhme“ wird ab [B3] auch im Titel zusammen mit den
+						Damensprichwörtern hingewiesen. Die Überschrift im Anhang lautet: </p>
+					<cit>
+						<quote>Reimen auff ConfectScheiben. 12. Vor Manns-Perſonen. […] Folgen 12.
+							andre vor Frawen. (F10a)</quote>
+					</cit>
+					<p> [B2] weicht von den übrigen Ausgaben in [B] in folgender Hinsicht ab: (i)
+						[B2] ist Teil einer Druckersynthese mit einem satirisch-erotischen Traktat
+						zur ‚Löfflerei‘ oder ‚Löffelkunst‘, d.h. einem Anleitungstext zur
+						gesellschaftlichen Anbahnung sowie dem juristischen Rahmen vor- und
+						außerehelicher sexueller Kontakte, der seinen Ursprung in der in das 16.
+						Jahrhundert zurückreichenden Tradition von ‚Lefflereyen‘ und ‚Hasereien‘
+						sowie vmtl. der 1644er Neuübersetzung der <hi rend="italic">Ars
+							Amatoria</hi> des Ovid ins Mitteldeutsche hat.<note type="footnote"> Wir
+							wissen über die <hi rend="italics">Löfflerey-Kunst</hi>, von der
+							insgesamt nur sechs Exemplare in drei Ausgaben erhalten sind, sehr
+							wenig. Eine Edition sowie eine Studie zur Textgeschichte sind in
+							Planung. </note> Neben dem <hi rend="italic">Complementierbüchlein</hi>
+						enthält die Druckersynthese den kurzen Text <hi rend="italic">Bettelstab der
+							Liebe</hi>.<note type="footnote"> Ein Verfasser dieses Textes ist nicht
+							bekannt. Meines Wissens kommt er ausschließlich in Druckersynthesen mit
+							der <hi rend="italics">Löfflerey-Kunst</hi> vor. Es handelt sich – grob
+							gesagt – um einen narrativen Text, der Anweisungen zu verschiedenen
+							Arten und Strategien der Werbung (‚Bettelei‘) um Gunst und (materielle)
+							Gaben ‚schöner, tugendhafter Frauen‘ gibt; die narrativen Passagen in
+							der Ich-Form sind durchsetzt mit Gedichten, Liedern (teilweise mit
+							Notation), exemplarischen Briefen und Anekdoten. </note>
+					</p>
+					<p> (ii) Im ansonsten mit [B1] identischen Titel hat [B2] keine der firmierenden
+						Angaben. </p>
+					<p> (iii) Am Ende der titelgebenden <hi rend="italic">Löfflerey-Kunst</hi> ist
+						das Gedicht <hi rend="italic">Unterweisung heimlich zu lieben</hi>
+						abgedruckt, welches ab [B3] im Anhang des <hi rend="italic"
+							>Complementierbüchleins</hi> „zur Erfüllung des übrigen Raumes“
+						enthalten ist. </p>
+					<p> (iv) Der Kern-Text von [B2], einschließlich der <hi rend="italic"
+							>Alamodischen Damensprichwörter</hi>, ist mit [B1] substantiell
+							identisch.<note type="footnote"> Die Kollation des Volldigitalisats von
+							[B2] mit dem von [B1] hat ergeben, dass es sich bei [B2] nicht um einen
+							seitengetreuen Nachdruck sondern um einen Neusatz mit
+							druckereispezifischen typographischen Konventionen handelt, der sich
+							jedoch im Textbestand lediglich durch einige wenige regionalsprachliche
+							Anpassungen, Fehlerkorrekturen sowie neue Setzerfehler unterscheidet.
+						</note>
+					</p>
+					<p> Gruppe [B] stellt gegenüber Gruppe [A] eine erhebliche textliche Bearbeitung
+						(in Form rhetorisch-stilistischer Umarbeitungen sowie erläuternder
+						Hinzufügungen) und gleichzeitig eine konzeptionelle Erweiterung (in Form der
+						zum scherzhaften Gesellschaftsspiel beigegebenen Sprichwörter und Reime) der
+						Kern-<hi rend="italic">Ethica</hi> dar. Wie in [A] wird ein Verfasser oder
+						Bearbeiter nicht genannt, trotz des Hinweises „vermehrt“ im Titel. </p>
+				</div>
+				<div n="3.2.3" type="section">
+					<head> Überlieferungsgruppe C: Druckersynthese mit Tranchierbuch und Leberreimen </head>
+					<p> Der Gruppe [C] habe ich neun Ausgaben zugeordnet, die sich von [B] aufgrund
+						(i) materiell-medialer Objekteigenschaften, (ii) paratextueller sowie (iii)
+						textueller Eigenschaften unterscheiden: </p>
+					<p> (i) Obwohl (a) das Format der Drucke in [C] und [B] drucktechnisch gesehen
+						ein Duodez ist, sind die Drucke in [C] gegenüber [B] kleinformatiger mit
+						Abmessungen zwischen 11,5 cm × 5,7 cm und 10,5 cm × 4,5 cm (Höhe × Breite).
+							<note type="footnote" xml:id="ftn49" n="49">
+							<p> Es konnten nicht von allen Exemplaren Abmessungen genommen werden:
+								[C1] 10 cm × 6 cm, [C2] 10,5 cm × 4,7 cm, [C3] 9,9 cm × 5,6 cm, [C4]
+								11,1 cm × 5,3 cm. </p>
+						</note> (b) Einige der Ausgaben ([C3], [C4], [C8], [C9]) haben zusätzlich
+						zum typographischen Titel einen Kupfertitel vorgebunden.<note
+							type="footnote" xml:id="ftn50" n="50">
+							<p rend="footnote text"> Die überlieferten Exemplare von [C2], [C5] und
+								[C7] enthalten keinen Kupfertitel. Da die Ausgaben jeweils unikal
+								überliefert und Kupfertitel i.d.R. dem Buchblock vorgebunden sind,
+								ist es denkbar, dass auch bei diesen Ausgaben ursprünglich
+								Kupfertitel enthalten waren, die jedoch mit der Zeit verloren
+								gegangen oder herausgetrennt worden sind. </p>
+						</note> (c) Bei allen Ausgaben in [C] handelt es sich um Druckersynthesen
+						mit anderen Werken: in [C1] mit der <hi rend="italic">Löfflerey-Kunst</hi>
+						und dem <hi rend="italic">Bettelstab der Liebe</hi>,<note type="footnote"
+							xml:id="ftn51" n="51">
+							<p rend="footnote text"> Die in der Druckersynthese [C1] enthaltene <hi
+									rend="italic">Löfflerey-Kunst</hi> ist gegenüber der in der
+								Druckersynthese [B2] enthaltenen im Ganzen stark bearbeitet und
+								erweitert, wobei die Abfolge der Einzelteile und Anhänge ebenfalls
+								verändert ist. </p>
+						</note> in den übrigen Ausgaben mit dem <hi rend="italic"
+							>Tranchier-Buch</hi>
+						<note type="footnote" xml:id="ftn52" n="52">
+							<p> Laut Frenzel 2012 (Anm. 17), S. 98–99, geht die Fassung des <hi
+									rend="italic">Tranchier-Buchs</hi>, die in der Druckersynthese
+								mit der <hi rend="italic">Ethica</hi> ab [C2] enthalten ist, auf die
+								von Andreas Klett stark bearbeiteten Ausgaben Jena 1657 sowie Jena
+								und Weimar 1659 (beide bei Kaspar Freyschmidt) zurück. Ein
+								Volldigitalisat der erstgenannten Ausgabe (<hi rend="italic"
+									>Dresdner Exemplar</hi>, unikal überliefert) findet sich unter
+								dem Permalink: <ref
+									target="http://digital.slub-dresden.de/id313666830"
+									>http://digital.slub-dresden.de/id313666830</ref> . –
+								Tranchierbücher sind eine weitere ‚Mode‘ des 17. Jahrhunderts. Sie
+								stammen – wie die Höflichkeitstraktate – aus dem italienischen
+								Kulturraum und sind seit der ersten deutschen Übersetzung des <hi
+									rend="italic">Tranchier-Buches</hi> des Giacomo Procacci 1620 in
+								dutzenden Ausgaben erschienen. Die deutsche Tradition wird oft mit
+								dem Namen Georg Philipp Harsdörffers in Verbindung gebracht, neuere
+								Forschungsbeiträge konnten jedoch zeigen, dass die am weitesten
+								verbreiteten und einflussreichsten Ausgaben nicht auf Harsdörffers
+									<hi rend="italic">Tranchier-Buch</hi> basieren sondern
+								wesentliche konzeptionelle und inhaltliche Umarbeitungen anderer
+								Autoren, unter anderem Andreas Kletts, sind. Eine kulturhistorische
+								Aufarbeitung der <hi rend="italic">Tranchier-Buch</hi>-Tradition
+								ist nach wie vor Desiderat. Vgl. aber die umfassende Bibliographie
+								von Frenzel 2012 (Anm. 17) sowie neuerdings <bibl> Claudine Moulin:
+									„Nach dem die Gäste sind, nach dem ist das Gespräch“.
+									Spracharbeit und barocke Tischkultur bei Georg Philipp
+									Harsdörffer. In: PerspektivWechsel oder: Die Wiederentdeckung
+									der Philologie. Bd. 2: Grenzgänge und Grenzüberschreitungen.
+									Zusammenspiele von Sprache und Literatur in Mittelalter und
+									Früher Neuzeit. Hg. v. Simone Schultz-Balluff und Nina Bartsch.
+									Berlin 2016, S. 261–287, bes. S. 263 mit Anm. 23. <ptr
+										type="opac" cRef="894856626"/>
+								</bibl>
+							</p>
+						</note> sowie den <hi rend="italic">Tisch- und Leberreimen</hi>.<note
+							type="footnote" xml:id="ftn53" n="53">
+							<p>
+								<hi rend="italic">Tisch- und Leberreime</hi> haben eine lange
+								Tradition, vor allem im niederdeutschen Sprachraum. Eine Recherche
+								im VD17 hat keine eigenständigen Publikationen ermitteln können, sie
+								tauchen jedoch in der aus der <hi rend="italic">Ethica</hi>-Druckersynthese bekannten Form 1673 (sowie 1687 und 1693) als
+								Anhang von <bibl> Alberti Sommers Neu-vermehrte anmuthige
+									Conversations-Gespräche: Sampt der zu End angehengten Jungfer
+									Euphroſinen von Sittenbach zuͤchtigen Tisch- und Leber-Reimen
+										<ptr type="gbv" cRef="535792263"/>
+								</bibl> auf. Zitiert nach dem Exemplar der Staatsbibliothek zu
+								Berlin – Stiftung Preußischer Kulturbesitz, Signatur: Np 15844. –
+								„Euphrosine von Sittenbach“ ist nach Dünnhaupt (Anm. 5, S. 1685)
+								Pseudonym des Stettiner Gymnasiallehrers und gekrönten Poeten
+								Heinrich Schaevius. Problematisch ist diese Zuschreibung, da
+								Dünnhaupt keine Begründung angibt; er übernimmt die Auflösung von
+									<bibl> Emil Weller: Lexicon Pseudonymorum. Wörterbuch der
+									Pseudonymen aller Zeiten und Völker, oder Verzeichniss jener
+									Autoren, die sich falscher Namen bedienten. Regensburg 1886, S.
+									527 <ptr type="opac" cRef="179644874"/>
+								</bibl>, wo sie ebenfalls unbegründet bleibt. Vgl. allgemein zu den
+									<hi rend="italic">Leberreimen</hi>
+								<bibl> Herman Brandes: Zur Geschichte der Leberreime. In: Jahrbuch
+									des Vereins für niederdeutsche Sprachforschung 14 (1888), S.
+									92–95 <ptr type="opac" cRef="129075760"/>
+								</bibl>, <bibl> L. H. Fischer: Zur Geschichte der Leberreime. In:
+									Jahrbuch des Vereins für niederdeutsche Sprachforschung 14
+									(1888), S. 95–99 <ptr type="opac" cRef="129075760"/>
+								</bibl> sowie <bibl> Otto Friedrich Gruppe: Die Leberreime. In:
+									Leben und Werke deutscher Dichter. Geschichte der deutschen
+									Poesie in den drei letzten Jahrhunderten. Hg. v. dems. 2. Aufl.,
+									Leipzig 1872, S. 680–688. <ptr type="opac" cRef="123060834"/>
+								</bibl>
+							</p>
+						</note>
+					</p>
+					<p> (ii) Der Paratext ist in folgender Hinsicht von stemmatologischem Interesse:
+						(a) Veränderungen des Titels: [C] enthält gegenüber [B] wieder den
+						lateinischen Haupttitel „ETHICA COMPLEMENTORIA“ (wie in [A]). Der Hinweis
+						auf die <hi rend="italic">Alamodischen Damensprichwörter</hi> und die <hi
+							rend="italic">Reime auf Konfektscheiben</hi> wird ersetzt durch den
+						Hinweis auf neuerliche Bearbeitung und Erweiterung des Textes, „Neulichſt
+						wider uͤberſehen / an vielen Orten gebeſſert und vermehrt“, erstmals mit der
+						namentlichen Nennung eines Bearbeiters: „Georg Grefflingern / gekroͤnten
+						Poeten / und <hi rend="italic">Not. Pub.</hi> “ [C3] bis [C9] haben darüber
+						hinaus den – auf die in der Druckersynthese hinzugekommenen Werke
+						verweisenden – Zusatz „Mit angefuͤgtem <hi rend="italic">Trenchir</hi>-Buͤchlein / auch züchtigen Tiſch- und Leber-Reimen.“ </p>
+					<p> [C1] und [C2] haben im Detail anderslautende Titel: [C1] enthält die <hi
+							rend="italic">Ethica</hi> in Druckersythese mit der titelgebenden <hi
+							rend="italic">Löfflerey-Kunst</hi> und hat einen eigenen typographischen
+						Zwischentitel, in dem lediglich der Hinweis auf die Bearbeitung und
+						Erweiterung sowie die Nennung Greflingers als Bearbeiter vorkommen, obwohl
+						der Text dieser Ausgabe der <hi rend="italic">Ethica</hi> ebenfalls die <hi
+							rend="italic">Alamodischen Damensprichwörter</hi> sowie die 24 <hi
+							rend="italic">Reime auf Konfektscheiben</hi> enthält. [C2] fehlt im
+						Titel der Hinweis auf das <hi rend="italic">Tranchier-Buch</hi>, obwohl es
+						sich – angesichts der durchgehenden Paginierung – um eine Druckersynthese
+							handelt.<note type="footnote" xml:id="ftn54" n="54">
+							<p rend="footnote text"> Frenzel 2012 (Anm. 17), S. 99 erwägt für [C2]
+								keine Drucker- sondern eine Buchbindersynthese, da „[d]ie einzelnen
+								Teile der Bücher […] vollständige Titelblätter [haben] aber nur in
+								der ersten Ausgabe [gemeint ist [C2]] die Teile, durch den
+								abgestimmten Lagenaufbau, separat herausgegeben worden sein
+								könnten.“ Frenzel liegt mit seiner Einschätzung – die die
+								durchgehende Paginierung unberücksichtigt lässt – falsch. </p>
+						</note>
+					</p>
+					<p> (b) Alle Ausgaben in [C] haben für die Einzelteile der Druckersynthesen
+						jeweils eigene Zwischentitel und sind durchpaginiert. </p>
+					<p> (iii) Textlich unterscheiden sich die Ausgaben in [C] von [B] vor allem
+						durch eine Reihe von (a) <hi rend="italic">Erweiterungen</hi>: So findet
+						sich ein zweiseitiger Einschub im ersten Kompliment: im zweiten Kompliment
+						kommen ein vierzeiliger Einschub, die Ergänzung einer Fußnote sowie eine
+						lateinischen Sentenz hinzu. Ein französisches Sprichwort ist im vierten
+						Kompliment eingefügt. Das sechste Kompliment ist erweitert um anderthalb
+						Seiten Text sowie um ein deutsches Sprichwort. Im siebten Kompliment sind
+						zwei Fußnoten sowie ein Literaturhinweis ergänzt. Das achte Kompliment
+						schließlich ist um zwei Seiten Text erweitert. (b) Allgemein ist der Text
+						einer gründlichen <hi rend="italic">Bearbeitung</hi> unterzogen worden: die
+						Verwendung lateinischer Synonyma ist gegenüber [B] deutlich reduziert,
+						einige <hi rend="italic">Historia</hi> sind dort, wo sie unverständlich
+						waren, mit Erläuterungen versehen. Lateinische Wörter und Phrasen sind
+						konsequent in Antiqua gesetzt. (c) <hi rend="italic">Weglassungen im
+							Anhang</hi>: Ab [C2] fehlen die <hi rend="italic">Alamodischen
+							Damensprichwörter</hi>, bereits in [C1] kommt die <hi rend="italic"
+							>Unterweisung heimlich zu lieben</hi> nicht mehr vor.<note
+							type="footnote" xml:id="ftn55" n="55">
+							<p rend="footnote text"> [C1] enthält dagegen einen Anhang mit vier
+								Liedern einschließlich musikalischer Notation: <hi rend="italic">Des
+									Coridons Traum</hi> (pag. 348–350); <hi rend="italic">Hans ohn
+									Sorge</hi> (pag. 351–353), <hi rend="italic">Der Ehelichen Liebe
+									Nuzen</hi> (pag. 354–356) und <hi rend="italic">Der unbeständige
+									Liebhaber</hi> (pag. 357–360). Sie stammen aus der vermutlich
+								von Georg Greflinger unter dem Schäfernamen <hi rend="italic"
+									>Seladon</hi> herausgegebenen Sammlung SELADONS | Weltliche |
+								LJieder. | Nechſt einem Anhang | Schimpff- vnd Ernſthaffter |
+								Gedichte. | [Vignette] | Franckfurt am Mayn / | Jn Verlegung / |
+								Caſpar Waechtlern / | Gedruckt / bey Matthias Kämpffern / | Jm Jahr
+								Chriſti / | M. DC. LI. </p>
+						</note> (d) <hi rend="italic">Umstellungen innerhalb der
+							Druckersynthese</hi>: Die 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi> wandern ab [C2] vom Anhang des <hi rend="italic"
+							>Ethica</hi> -Texts ans Ende der <hi rend="italic">Tisch- und
+							Leberreime</hi> (also zum abschließenden Teil der Druckersynthese), wo
+						sie mit der firmierenden Überschrift „G. Greflingers <hi rend="italic">N.
+							P.</hi> Reimen auff Confectscheiben“ versehen sind.<note type="footnote"
+							xml:id="ftn56" n="56">
+							<p rend="footnote text">In [C9] (Amsterdam 1717) sind die <hi
+									rend="italic">Reime auf Konfektscheiben</hi> nicht mehr
+								enthalten. </p>
+						</note>
+					</p>
+					<p> Dünnhaupt schreibt die unfirmierte Ausgabe [C2] ebenfalls dem Hamburger
+						Druckerverleger Johann Naumann zu.<note type="footnote" xml:id="ftn57"
+							n="57">
+							<p rend="footnote text"> In der Bibliographie steht hierzu lediglich
+								„gleiche Kollation [12° A–F]“ in Bezug auf die datierte und
+								firmierte Ausgabe von Naumann 1658 [B5] (Dünnhaupt 1991, Anm. 5, Nr.
+								7.11). Eine Überprüfung anhand des <hi rend="italic">Dresdner
+									Exemplars</hi> von [C2] hat demgegenüber ergeben, dass der <hi
+									rend="italic">Ethica</hi>-Teil der Druckersynthese lediglich
+								die Bogen A–D12, E1–7 umfasst. Die durchpaginierte (pag. 3–252) und
+								mit durchgehenden Bogensignaturen versehene Druckersynthese umfasst
+								die Bogen A–K in 12° und den Halbbogen L. </p>
+						</note> Konkrete Anhaltspunkte für diese Annahme gibt es m.W. nicht. Dagegen
+						spricht vielmehr, dass im selben Jahr bei Naumann ein datierter und
+						firmierter Druck des <hi rend="italic">Complementierbüchleins</hi> mit den
+							<hi rend="italic">Alamodischen Damensprichwörtern</hi> und der <hi
+							rend="italic">Unterweisung heimlich zu lieben</hi> erscheint [B6],
+						allerdings ohne das <hi rend="italic">Tranchier-Buch</hi> und die <hi
+							rend="italic">Leberreime</hi>. Darüber hinaus lautet der Titel – wie in
+						[C1] – „Ethica Complementoria“, während die übrigen sicher<note
+							type="footnote" xml:id="ftn58" n="58">
+							<p rend="footnote text"> ‚Sicher‘ heißt hier: die Ausgaben führen im
+								typografischen Titel den Namen Johann Naumann als Verleger, resp.
+								„Buchhändler“ und/oder sein Signet in Form einer Vignette mit dem
+								Spruchband „<hi rend="italic">Superata tellus sidera domat</hi>“.
+							</p>
+						</note> von Naumann stammenden Ausgaben [B1], [B3], [B4], [B5] und [B6] nur
+						„Complementierbüchlein“ im Titel führen.<note type="footnote" xml:id="ftn59"
+							n="59">
+							<p rend="footnote text"> Dünnhaupt war 1991 lediglich das <hi
+									rend="italic">Londoner Exemplar</hi> von [C2] bekannt (welches
+								er vermutlich nicht im Original hatte einsehen können), das <hi
+									rend="italic">Dresdner Exemplar</hi> ist erst zusammen mit
+								anderen Ausgaben des <hi rend="italic">Tranchierbuchs</hi> aus der
+								Sammlung Walter Putz im Jahr 2007 in den Bestand der Sächsischen
+								Landesbibliothek, Staats- und Universitätsbibliothek Dresden
+								übergegangen. </p>
+						</note>
+					</p>
+					<p> Zusammenfassend stellen sich die genealogisch-stemmatologischen Verhältnisse
+						innerhalb von [C] – sowie in Relation zur Gruppe [B] – folgendermaßen dar: </p>
+					<p> (i) Die <hi rend="italic">Ethica</hi>-Teile in [C] gehen nicht unmittelbar
+						auf Gruppe [A], die Kern-<hi rend="italic">Ethica</hi>, zurück: sie weisen
+						dagegen wie [B] den im Wortlaut veränderten Titel (die Wortgruppe „und
+						grundförmliche Weise“ ist weggelassen), den Musenanruf sowie einige der
+						Anhänge und alle textlichen Bearbeitungen und Erweiterungen auf. </p>
+					<p> (ii) Gegenüber [B] unterscheidet sich [C] indes durch den wiederum
+						modifizierten Titel, vor
+						allem aber durch den Formatwechsel, die Druckersynthese mit zwei weiteren
+						populären Werken (dem <hi rend="italic">Tranchier-Buch</hi> und den <hi
+							rend="italic">Tisch- und Leberreimen</hi> ) sowie durch substantielle
+						sprachliche und inhaltliche Bearbeitungen und Erweiterungen. </p>
+					<p> (iii) Dabei kann festgehalten werden, dass der <hi rend="italic">Ethica</hi>-Teil in [C1] (1656) textlich auf [B4] (1654) – und nicht etwa [B2] oder
+						[B3] – zurückgeht. [B2] kommt, obwohl wegen der Druckersynthese mit der <hi
+							rend="italic">Löfflerey-Kunst</hi> und dem <hi rend="italic">Bettelstab
+							der Liebe</hi> naheliegend, nicht als Vorlage für [C1] in Frage, da sie
+						zwar wie [B1] die <hi rend="italic">Alamodischen Damensprichwörter</hi> im
+						Anhang der <hi rend="italic">Ethica</hi> enthält und auch die <hi
+							rend="italic">Unterweisung heimlich zu lieben</hi><note type="footnote" xml:id="ftn60" n="60">
+							<p rend="footnote text"> Dort jedoch im Anhang des <hi rend="italic"
+									>Löfflerey-Kunst</hi>-Traktats. </p>
+						</note> mit abgedruckt ist, aber die <hi rend="italic">Reime auf
+							Konfektscheiben</hi> nicht vorkommen: diese treten erst ab [B3] hinzu.
+						[B3] kommt ebenfalls nicht als Vorlage von [C1] in Frage, da sie als
+						einziger Druck die um einen Spruch erweiterten und damit 220 Nummern
+						umfassenden <hi rend="italic">Alamodischen Damensprichwörter</hi> enthält,
+						die in keinem weiteren Vertreter von [B] oder [C] auftauchen. [C1] enthält
+						die ursprünglichen 219 Sprichwörter, wie sie in [B1] und [B4] enthalten
+						sind. Chronologisch als Vorlage ausgeschlossen sind die Ausgaben [B5] (1658)
+						und [B6] (1660). Daher wird [C1] aufgrund des kürzeren zeitlichen
+						Publikationsabstands wahrscheinlich [B4] – oder möglicherweise die ältere
+						Ausgabe [B1] – zur Vorlage gehabt haben.<note type="footnote" xml:id="ftn61"
+							n="61">
+							<p rend="footnote text"> [B1] und [B4] haben textlich betrachtet keine
+								signifikante Varianz, um hier eine gesicherte Entscheidung darüber,
+								welche Ausgabe als Vorlage gedient hat, treffen zu können. </p>
+						</note>
+					</p>
+					<p> (iv) Innerhalb der Gruppe [C] gibt es signifikante Unterschiede vor allem
+						zwischen den frühesten Ausgaben [C1], [C2] und [C3]. </p>
+					<p> [C1] ist Teil einer völlig anders konzipierten Druckersynthese, wobei der
+							<hi rend="italic">Ethica</hi>-Teil mit seiner praktischen Anleitung zur
+						norm-konformen gesellschaftsfähigen Konversation von der
+						satirisch-erotischen <hi rend="italic">Löfflerey-Kunst</hi>, die praktische
+						(non-konforme) Anleitung zum Anbahnen vor- und außerehelicher Sexualkontakte
+						geben will, subvertiert und konterkariert wird. [C1] ist unter <hi
+							rend="italic">diesem</hi> Aspekt [B2] ähnlich. </p>
+					<p> [C2] ist eine unfirmierte Ausgabe und die erste Druckersynthese mit den <hi
+							rend="italic">Tisch- und Leberreimen</hi> und dem <hi rend="italic"
+							>Tranchier-Buch</hi>, wobei anders als in [C3] bis [C9] die <hi
+							rend="italic">Leberreime</hi> direkt auf den <hi rend="italic"
+							>Ethica</hi>-Teil folgen, und zwar <hi rend="italic">vor</hi> dem <hi
+							rend="italic">Tranchier</hi>-Teil. [C2] hat keinen Kupfertitel. </p>
+					<p> [C3] ist die erste Ausgabe in [C], die einen Kupfertitel enthält. Sie ist
+						gegenüber [C2] ein Neusatz (drucktechnisch um anderthalb Blatt kürzer) unter
+						Angabe des (vermutlich fingierten) Druckorts „Amsterdam“<note
+							type="footnote" xml:id="ftn62" n="62">
+							<p rend="footnote text"> Dünnhaupt 1991 geht davon aus, dass „Amsterdam“
+								nicht der tatsächliche Druckort war. Die Ortsangabe „Amsterdam“ auf
+								deutschsprachigen Drucken des 17. Jahrhunderts ist ein gängiges
+								Verfahren zur Verschleierung des tatsächlichen Druckortes bei sog.
+								Raub- oder unrechtmäßigen Nachdrucken und solchen Drucken, die
+								aufgrund ihres Inhalts Gefahr liefen, der Zensur zum Opfer zu
+								fallen. </p>
+						</note> im Titel, den in der Folge alle weiteren Ausgaben in [C] tragen.
+						Textlich gesehen unterscheiden sich die Ausgaben in [C] nur punktuell durch
+						Fehlerkorrekturen und kleinere sprachlich-stilistische Bearbeitungen. </p>
+					<p> Die Gruppe [C] ist die zahlenmäßig größte und überlieferungsgeschichtlich
+						einflussreichste: alle weiteren Ausgaben der <hi rend="italic">Ethica</hi>
+						gehen in ihrer konzeptionellen Anlage – als Druckersynthese mit <hi
+							rend="italic">Tranchier-Buch</hi> und <hi rend="italic">Leberreimen</hi>
+						– sowie dem erweiterten und bearbeiteten Textbestand unmittelbar auf sie
+						zurück. </p>
+				</div>
+				<div n="3.2.4" type="section">
+					<head> Überlieferungsgruppe D: Höfliches Complementier- und Tranchierbüchlein </head>
+					<p> In Rinteln im Verlag des Universitätsbuchdruckers Petrus Lucius<note
+							type="footnote" xml:id="ftn63" n="63">
+							<p rend="footnote text"> Petrus Lucius, in Rinteln als Drucker und
+								Verleger der Universitätsdruckerei tätig von 1622 bis 1656. Siehe
+								auch Reske <hi rend="superscript">2</hi> 2015 (Anm. 23), S. 858–859.
+								Permalink zum Personendatensatz in der GND <ref
+									target="http://d-nb.info/gnd/121946401"
+									>http://d-nb.info/gnd/121946401</ref> [gesehen am 02.11.2017].
+							</p>
+						</note> erscheinen 1648 und 1650 zwei Ausgaben – [D1] und [D2] – der <hi
+							rend="italic">Ethica</hi> in Druckersynthese mit dem <hi rend="italic"
+							>Tranchier-Buch</hi>. Obwohl [D1] chronologisch nach dem Erscheinen der
+						ersten Ausgabe in [B] liegt, geht der Text der <hi rend="italic">Ethica</hi>
+						auf die Gruppe [A], genauer auf [A1] zurück, gegenüber der er jedoch
+						inhaltlich und sprachlich überarbeitet und erweitert sowie mit einer
+						Widmungsvorrede des Verlegers – namentlich an Georg Wetzel, Obrist der
+						schwedischen Krone und Kommandant der Festung Mansfeld, und seine an der
+						Universität Rinteln studierenden Söhne Hans-Ernst und Julius Wetzel –
+						versehen ist. </p>
+					<p> Gegenüber [A] ist [D] im Hinblick auf (i) materielle Eigenschaften in
+						folgender Hinsicht verschieden: (a) zunächst handelt es sich um eine
+						Druckersynthese der <hi rend="italic">Ethica</hi> mit einem weiteren Werk,
+						dem <hi rend="italic">Tranchier-Buch</hi>. [D1] hat einen Kupfertitel, der
+						beide Werkteile adressiert; die Einzelteile haben darüber hinaus eigene
+						typographische Zwischentitel. Das <hi rend="italic">Tranchier-Buch</hi>
+						folgt auf den Text der <hi rend="italic">Ethica</hi>. (b) bedingt durch die
+						Druckersynthese mit dem <hi rend="italic">Tranchier-Buch</hi>
+						<note type="footnote" xml:id="ftn64" n="64">
+							<p rend="footnote text"> Das <hi rend="italic">Tranchier-Buch</hi> in
+								[D1] geht Frenzel 2012 (Anm. 17), S. 29, zufolge auf die von
+								Matthias Gieger redigierte und von Paul Fürst in Nürnberg
+								herausgegebene <hi rend="italic">Tranchier-Buch</hi>-Ausgabe von
+								1642 zurück, ebenfalls in 8° quer. Der <hi rend="italic"
+									>Tranchier</hi>-Teil in [D2] ist nach Frenzel 2012 (Anm. 17),
+								S. 35, ein bearbeiteter Nachdruck der Ausgabe des <hi rend="italic"
+									>Trincir-Büchleins</hi> von Paul Fürst (Nürnberg 1649), die
+								bisher nicht im VD17 oder bei Dünnhaupt nachgewiesen ist, wobei sich
+								das unikal überlieferte Exemplar in Privatbesitz befindet. Eine
+								Reproduktion des Kupfertitels sowie des typographischen Titels und
+								des Zwischentitels finden sich in Frenzel 2012 (Anm. 17), S. 32–34;
+								eine bibliographische Beschreibung des Druckes ebd., S. 35.
+								Gegenüber dieser Ausgabe sei der Text des <hi rend="italic"
+									>Tranchier-Buchs</hi> in [D2] – vor allem im Vorwort – gekürzt,
+								aber um einen Abschnitt zum ‚Tischzeugfalten‘ im Umfang von acht
+								Blatt, die vor dem <hi rend="italic">Komplementier</hi>-Teil
+								eingefügt sind, erweitert. </p>
+						</note> ist die <hi rend="italic">Ethica</hi> in [D] in einem
+						Oktavquerformat (8° quer) gedruckt. (c) Infolge des Formatwechsels sowie der
+						Wahl einer verhältnismäßig großen Frakturtype für den Textsatz verteilt sich
+						der Text der <hi rend="italic">Ethica</hi> in [D1] auf fünfeinhalb Lagen
+						(A–E8, F3) gegenüber vier Lagen in Duodez in [A].<note type="footnote"
+							xml:id="ftn65" n="65">
+							<p rend="footnote text"> [D2] ist in nur zwei Exemplaren überliefert,
+								wobei das einzige in Europa nachgewiesene Exemplar im Germanischen
+								Nationalmuseum Nürnberg ein Fragment ist. Das einzige vollständig
+								erhaltene Exemplar in der Lilly Library der Indiana University,
+								Bloomington, konnte nicht eingesehen werden. </p>
+						</note>
+					</p>
+					<p> Bereits im typographischen Titel von [D1] wird mit dem Zusatz „hoͤfliches
+						vnd Vermehrtes Complementier Buͤchlein“ auf (ii) die inhaltliche Bearbeitung
+						der <hi rend="italic">Ethica</hi> gegenüber der Vorlage hingewiesen. Es
+						handelt sich um (a) Hinzufügungen im Umfang von einzelnen Sentenzen bis hin
+						zu mehreren Absätzen in den Kapiteln 1, 3, 4, 6 und 8 sowie eine mehrseitige
+							<hi rend="italic">Dedicatio</hi>. (b) Ersetzungen in Form von
+						Fehlerkorrekturen, druckereispezifischen sowie regionalsprachlichen
+						Schreibungen wie auch stilistischer Anpassungen einzelner Wörter oder
+						Phrasen – im Hinblick auf <hi rend="italic">aptum</hi> und Stilebene für den
+						hier eher als adlig anzunehmenden Adressatenkreis – kommen dagegen nur
+						vereinzelt vor. Umstellungen und Weglassungen haben sich nicht feststellen
+							lassen.<note type="footnote" xml:id="ftn66" n="66">
+							<p rend="footnote text"> Eine Textkollation von [D2] mit [D1] steht noch
+								aus. </p>
+						</note>
+					</p>
+					<p> Das <hi rend="italic">Höfliche und Vermehrte Complementierbüchlein</hi> wird
+						nach 1650 nicht mehr nachgedruckt oder als Vorlage für spätere Bearbeitungen
+						der <hi rend="italic">Ethica</hi> herangezogen. </p>
+				</div>
+				<div n="3.2.5" type="section">
+					<head> Überlieferungsgruppe E: Erneuertes und vermehrtes Complimentirbuch </head>
+					<p> Einige der späteren Ausgaben der <hi rend="italic">Ethica</hi> habe ich
+						einer neuen Gruppe zugeordnet. Diese Zuordnung ist jedoch unsicher: die
+						Ausgaben [E1] und [E2] sind unikal überliefert, z.T. stark beschädigt oder
+						Fragmente, Textvergleiche mit [C] und innerhalb der Gruppe [E] sind noch
+						nicht abgeschlossen.<note type="footnote" xml:id="ftn67" n="67">
+							<p rend="footnote text"> Kollationiert werden konnte bisher lediglich
+								die bei Gottfried Freytag in Hannover und Wolfenbüttel verlegte
+								Ausgabe [E3] anhand des <hi rend="italic">Wolfenbütteler
+									Exemplars</hi>. </p>
+						</note> Die Ausgaben in [E] stehen inhaltlich und konzeptionell betrachtet
+						der Druckersythese der <hi rend="italic">Ethica</hi> mit dem <hi
+							rend="italic">Tranchier-Buch</hi> und den <hi rend="italic">Tisch- und
+							Leberreimen</hi> in Gruppe [C] nahe und gehen vermutlich auf eine oder
+						mehrere Ausgaben in [C] zurück. </p>
+					<p> In Hannover erscheint 1676 bei dem Druckerverleger Thomas Heinrich
+						Hauenstein die <hi rend="italic">Ethica</hi> in Druckersynthese mit dem <hi
+							rend="italic">Tranchier-Buch</hi> sowie den <hi rend="italic">Tisch- und
+							Leberreimen</hi>, die im Anhang die 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi> enthalten [E1]. Gegenüber [C] hat diese Ausgabe
+						einen neuen, veränderten Kupfertitel <ref type="intern" target="#img5">(Abb.
+							4)</ref>, mit dem die <hi rend="italic">Ethica</hi> und das <hi
+							rend="italic">Tranchier-Buch</hi> gemeinsam angezeigt werden:
+						„Erneuertes Complementir und Trenchir Büchlein“. Der typographische Titel
+						der Druckersynthese ist vollständig überarbeitet: er zeigt die beiden
+						Hauptwerke <hi rend="italic">Ethica</hi> und <hi rend="italic"
+							>Tranchier-Buch</hi> gemeinsam an, weist Bearbeitungen und Erweiterungen
+						aus, enthält aber die Bearbeiter-Namen Georg Greflingers und Andreas Kletts
+						nicht mehr.<note type="footnote" xml:id="ftn68" n="68">
+							<p rend="footnote text"> Der Zwischentitel des <hi rend="italic"
+									>Tranchier-Buchs</hi> enthält den Namen Andreas Klett, der der
+									<hi rend="italic">Tisch- und Leberreime</hi> den fiktiven
+								Verfassernamen Euphrosine von Sittenbach. Die 24 <hi rend="italic"
+									>Reime auf Konfektscheiben</hi> weisen Georg Greflinger als
+								Verfasser aus. </p>
+						</note>
+					</p>
+					<p> [E2] erscheint 1684 bei Thomas Heinrich Hauensteins Erben. Die Ausgabe war
+						bisher unbekannt, das einzige erhaltene Exemplar befindet sich in
+						Privatbesitz. </p>
+					<p> Bei dem Druckerverleger Gottfried Freytag erscheint 1705 nochmals eine im
+						Titel gleiche Ausgabe der <hi rend="italic">Ethica</hi>, die ebenfalls das
+							<hi rend="italic">Tranchier-Buch</hi>, die <hi rend="italic">Tisch- und
+							Leberreime</hi> sowie die 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi> enthält. Anders als [E1] und [E2] enthält [E3] den
+						Musenanruf nicht. </p>
+				</div>
+				<div n="3.2.6" type="section">
+					<head> Überlieferungsgruppe F: Die dänischen Ausgaben (Complementeer-Bog) </head>
+					<p> 1674 erscheint eine firmierte Ausgabe [F1] der <hi rend="italic">Ethica</hi>
+						in Druckersynthese mit dem <hi rend="italic">Tranchier-Buch</hi> und den <hi
+							rend="italic">Tisch- und Leberreimen</hi> in Kopenhagen im Verlag
+						Wolfgang Lamprechts<note type="footnote" xml:id="ftn69" n="69">
+							<p rend="footnote text"> GND <ref
+									target="http://d-nb.info/gnd/1042224471"
+									>http://d-nb.info/gnd/1042224471</ref>. </p>
+						</note> und gedruckt in der Offizin Christian Jensen Werings.<note
+							type="footnote" xml:id="ftn70" n="70">
+							<p rend="footnote text"> GND <ref
+									target="http://d-nb.info/gnd/1037548647"
+									>http://d-nb.info/gnd/1037548647</ref>. Wirkungszeit in
+								Kopenhagen 1653–1692. </p>
+						</note> In textlicher Hinsicht ist sie weitgehend identisch mit den Ausgaben
+						der <hi rend="italic">Ethica</hi> -Druckersynthese in [C] und [E]. </p>
+					<p> Der Titelholzschnitt <ref type="intern" target="#img4">(Abb. 4)</ref> lässt
+						hingegen darauf schließen, dass [F1] nicht etwa eine Ausgabe aus [C] zur
+						Vorlage hatte, sondern aus [E]. Der Holzschnitt von [F1] zeigt ein Paar im
+						Gespräch, wobei der rechtsstehende Mann im Vollprofil, die links neben ihm
+						stehende Frau im Halbprofil dargestellt sind. Die männliche Figur hält einen
+						Schlapphut in der linken Hand, das linke Bein ist gut sichtbar mit
+						charakteristischem Beinkleid und Stiefel, die weibliche Figur trägt ein Tuch
+						um die Schultern und eine lange, am Rock befestigte Zierkette. Diese Szene
+						kommt in den Kupfertiteln aller übrigen Ausgaben der <hi rend="italic"
+							>Ethica</hi> nur ein weiteres Mal vor: nämlich in der Ausgabe [E1],
+						gedruckt in Hannover bei Thomas Heinrich Hauenstein 1676. Dort ist sie als
+						Kupferstich mit größerem Detailreichtum der Kleidung sowie ausgestaltetem
+						Hintergrund umgesetzt <ref type="intern" target="#img5">(Abb. 5)</ref>.
+						Diese bildliche Übereinstimmung ist stemmatologisch insofern relevant, als
+						dass sie beide Ausgaben, [F1] und [E1], von der Gruppe [C] scheidet und
+						gleichzeitig deren Abhängigkeit voneinander nahelegt. </p>
+					<p> Chronologisch betrachtet ist [F1] (1674) älter als [E1] (1676), so dass [F1]
+						als die Vorlage von [E1] in Frage käme. Ich meine jedoch, dass aufgrund der
+						Verwendung eines vereinfachenden Holzschnitts [F1] eher ein Bildnachschnitt
+						eines früheren Druckes – mit Kupferstich – ist; hierbei stütze ich meine
+						Überlegungen auf das <hi rend="italic">Prinzip der Vereinfachung</hi> beim
+						Herstellen von Nachdrucken. Möglicherweise gehen also sowohl [F1] als auch
+						[E1] auf eine nicht mehr greifbare frühere Ausgabe in der Gruppe [E] zurück.
+						Der wahrscheinlichste Kandidat hierfür könnte der sowohl bei Dünnhaupt als
+						auch bei Frenzel im Antiquariatshandel nachgewiesene Druck von 1663 in
+						Hannover bei Hauenstein sein:<note type="footnote" xml:id="ftn71" n="71">
+							<p rend="footnote text"> Dünnhaupt 1991 (Anm. 5), S. 1686, Nr. 7.14
+								sowie Frenzel 2012 (Anm. 17), S. 102. Das Antiquariat Dörling, in
+								dessen Auktionskatalog von 1975 diese Ausgabe gelistet ist, ist 1988
+								in Konkurs gegangen. Über den Verbleib der Ausgabe ist nichts weiter
+								bekannt. </p>
+						</note>
+					</p>
+					<p> Die Ausgabe der <hi rend="italic">Ethica</hi>-Druckersynthese, die in der
+						Offizin Hauenstein 1684 [E2] erschienen ist, ist ein seitengetreuer
+						Nachdruck von 1676 [E1]. Gehen wir nun davon aus, dass eine Ausgabe von 1663
+						aus der gleichen Offizin ebenfalls mit den erhaltenen [E1] und [E2]
+						typographisch – einschließlich des gegenüber [C] neu gestalteten
+							Kupfertitels<note type="footnote" xml:id="ftn72" n="72">
+							<p rend="footnote text"> Die Kupferstiche in [C] haben die Begrüßungs-
+								und Verbeugungsszenen wie in [C3], Abb. 3. </p>
+						</note> – übereinstimmt, so wäre die Ausgabe bei Hauenstein von 1663 eine
+						mögliche Vorlage für [F1], die Gruppe [E] also das Bindeglied zwischen [C]
+						und [F]. </p>
+					<p> [F2] (Kopenhagen 1678) und deren Nachdruck [F3] (Kopenhagen 1708) sind eine
+						Übersetzung der <hi rend="italic">Ethica</hi>-Druckersynthese ins Dänische,
+						zunächst ebenfalls im Verlag Wolfgang Lamprechts, später bei dem
+						Druckerverleger Johann Jacob Bornheinrich. </p>
+					<p> Ich gehe aufgrund der Übereinstimmungen des Druckorts Kopenhagen und des
+						Verlegers Lamprecht in [F1] und [F2] davon aus, dass die dänische
+						Übersetzung [F2] die deutsche Ausgabe [F1] zur Vorlage hatte.<note
+							type="footnote" xml:id="ftn73" n="73">
+							<p rend="footnote text"> Ein genauer Textvergleich von [F2] und [F3]
+								untereinander sowie mit der deutschen Ausgabe [F1] im Hinblick auf
+								die Übersetzungs- resp. Übertragungspraxis steht noch aus. </p>
+						</note>
+					</p>
+					<p> [F1] ist – mit Blick auf die interne Struktur – bis auf die firmierenden
+						Angaben im typographischen Titel sowie den Zwischentiteln der Einzelteile
+						der Druckersynthese und dem Titelholzschnitt von den Ausgaben in [E] nicht wesentlich
+						verschieden. Die Ausgabe enthält ebenfalls den Musenanruf und im Anhang an
+						die <hi rend="italic">Tisch- und Leberreime</hi> die 24 <hi rend="italic"
+							>Reime auf Konfektscheiben</hi> unter der Überschrift </p>
+					<p>
+						<cit>
+							<quote>Den uͤbrigen Blat-Raum zu erfuͤllen / folgen G. Greflingers <hi
+									rend="italic">N. P.</hi> Zwoͤlff Reimen auff
+								Confectſcheiben.</quote>
+						</cit></p>
+					<p> Im Anhang finden sich 23 nummerierte Holzschnitte zum <hi rend="italic"
+							>Tranchier-Buch</hi>,<note type="footnote" xml:id="ftn74" n="74">
+							<p rend="footnote text"> Die Verwendung von Holzschnitten statt
+								Kupferstichen lässt sich m.E. nur (druck)ökonomisch erklären: da
+								sowohl Text als auch Illustrationen im gleichen Druckvorgang
+								hergestellt werden können, lassen sich die Kosten reduzieren und die
+								Fertigstellung des Drucks gleichzeitig beschleunigen. Es sind keine
+								weiteren deutschsprachigen Ausgaben bekannt, die anstatt der
+								illustrierenden Kupferstiche im <hi rend="italic">Tranchier</hi>-Teil oder der Kupfertitel Holzschnitte enthalten. </p>
+						</note> jeweils auf einer recto-Seite. </p>
+					<p> Die erste dänischsprachige Ausgabe [F2] erscheint mit Druckprivileg in der
+						Offizin Johann Adolph Baxmann. Sie enthält gegenüber [F1] eine acht
+						Druckseiten umfassende, auf den 12. Juli 1678 datierte <hi rend="italic"
+							>Dedicatio</hi> des Verlegers Wolfgang Lamprecht an die Adligen Fredrich
+						Juel Ofvesøn til Willestrup oc Lundbeck Gaarde und Fredrich Wind Holgersøn
+						til Haarested-Gaard. </p>
+					<p> Weder [F2] noch [F3] enthalten dagegen den Musenanruf oder die 24 <hi
+							rend="italic">Reime auf Konfektscheiben</hi>. Ebenso ist in [F2] das
+						Verfasserpseudonym „Euphrosine von Sittenbach“ und der Drucker „Georg Gözke“
+							<note type="footnote" xml:id="ftn75" n="75">
+							<p rend="footnote text"> Ein Drucker namens Georg Götzke (alternativ:
+								Goetschius, Goezkius, Götsche) ist für den Zeitraum 1624–1663 in
+								Stettin belegt, vgl. Reske <hi rend="superscript">2</hi> 2015 (Anm.
+								23), S. 940. Es gibt keinen Nachweis eines Einzeldrucks der <hi
+									rend="italic">Tisch- und Leberreime</hi> in der Offizin Götzke.
+							</p>
+						</note> im Zwischentitel der <hi rend="italic">Tisch- und Leberreime</hi>
+						nicht enthalten.<note type="footnote" xml:id="ftn76" n="76">
+							<p> [F1] hat dagegen noch den das Pseudonym enthaltenden Zwischentitel
+								„Jungfer Euphroſinen Von Sittenbach Zuͤchtige Tiſch- und Leber-Reime
+								/ An jhre Geſpilinnen. [Zierstück] Kopenhagen / [Linie] Gedruckt bey
+								Chriſtian Wehring 1674.“ </p>
+						</note> Eine wesentliche inhaltlich-konzeptionelle Überarbeitung erfahren
+						die „züchtigen Tisch- und Leberreime“, die in der dänischen Ausgabe [F2]
+						durch zwei mit jeweils eigener Überschrift ausgewiesene Teile – nämlich
+						„geiſtlige Lefverrim“ (pag. 265–292) und „Verdſlige Rjm om Leveren“ (pag.
+						292–314) – ersetzt werden. Im eingesehenen <hi rend="italic">Osloer
+							Exemplar</hi> der Ausgabe [F3] sind dagegen keine „weltlichen
+						Leberreime“ enthalten.<note type="footnote" xml:id="ftn77" n="77">
+							<p rend="footnote text"> Das Exemplar hat an verschiedenen Stellen –
+								darunter am Ende des Druckes – Seitenverlust. Es ist nicht klar, ob
+								die ‚weltlichen Leberreime‘ in dieser <hi rend="italic">Ausgabe</hi>
+								nicht enthalten oder nur in diesem <hi rend="italic">Exemplar</hi>
+								verloren sind. </p>
+						</note>
+					</p>
+					<p> In [F3] haben beide Werkteile – das <hi rend="italic">Tranchier-Buch</hi>
+						und die <hi rend="italic">Leberreime</hi> – neue typographische
+						Zwischentitel. </p>
+				</div>
+				<div n="3.2.7" type="section">
+					<head> Ausgaben der <hi rend="italic">Ethica</hi> ohne Position im Stemma </head>
+					<p> Die fünf verbleibenden Ausgaben der <hi rend="italic">Ethica</hi>, [X1] in
+						Frankfurt bei Georg Müller 1663 gedruckt,<note type="footnote"
+							xml:id="ftn78" n="78">
+							<p rend="footnote text"> Die firmierenden Angaben in [X1] sind dem
+								ersten erhaltenen Zwischentitel (für das <hi rend="italic"
+									>Tranchier-Buch</hi>) entnommen. Anders als bei den <hi
+									rend="italic">Tisch- und Leberreimen</hi>, deren firmierende
+								Angaben teilweise fiktiv sind („Leberstadt bei Georg Gözke“), lässt
+								sich ein Druckerverleger Georg Müller in Frankfurt am Main im
+								entsprechenden Zeitraum (1652–1678) nachweisen. Siehe auch Reske <hi
+									rend="superscript">2</hi> 2015 (Anm. 23), S. 1099 sowie
+								Permalink zur GND <ref target="http://d-nb.info/gnd/1037659422"
+									>http://d-nb.info/gnd/1037659422</ref>
+								<hi rend="Hyperlink">[gesehen am 02.11.2017].</hi>
+							</p>
+						</note> [X2] in Hamburg bei Thomas Wiering zwischen 1695 und 1703 gedruckt,
+						[X3] in Nürnberg 1700 gedruckt, [X4] bei Gottlieb Heinrich Grentz 1689
+						gedruckt sowie [X5] 1728 ohne firmierende Angaben gedruckt, lassen sich zu
+						diesem Zeitpunkt noch nicht in das Stemma einordnen. Alle fünf Ausgaben sind
+						unikal überliefert, wobei [X1] ein Fragment ist: der <hi rend="italic"
+							>Ethica</hi>-Teil der Druckersynthese ist nicht erhalten.<note
+							type="footnote" xml:id="ftn79" n="79">
+							<p rend="footnote text"> Der typographische Titel des <hi rend="italic"
+									>Tranchier-Buchs</hi> beginnt auf der unpaginierten Seite 109.
+								Der Druck hat insgesamt 232 paginierte Seiten. Die durchgehende
+								Paginierung lässt darauf schließen, dass es mindestens ein weiteres
+								Werk in dieser Druckersynthese gegeben haben muss mit einem
+								maximalen Umfang von 106 Seiten resp. 52 Blatt. Dies entspricht dem
+								Umfang der <hi rend="italic">Ethica</hi>-Ausgaben in 12° aus der
+								Gruppe [C]. </p>
+						</note>
+					</p>
+					<p> [X1] unterscheidet sich in der Anordnung der Teile der Druckersynthese von
+						der ersten Ausgabe dieser Synthese, [C2]: auf den (nicht mehr erhaltenen)
+							<hi rend="italic">Ethica</hi>-Teil folgt das <hi rend="italic"
+							>Tranchier-Buch</hi>, danach die <hi rend="italic">Tisch- und
+							Leberreime</hi> mit dem Anhang der 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi>. Alle übrigen Ausgaben in Gruppe [C] haben die
+						gleiche Abfolge der Einzelteile der Druckersynthese wie in [X1]. Ob dies
+						bedeutet, dass [X1] in Gruppe [C] einzuordnen ist, kann zu diesem Zeitpunkt
+						nicht beantwortet werden. Eine Textkollation mit [C2] ist aufgrund des
+						vollständigen Verlusts des <hi rend="italic">Ethica</hi>-Teils in [X1]
+						nicht möglich. </p>
+					<p> [X2] ist ebenfalls eine Druckersynthese mit dem <hi rend="italic"
+							>Tranchier-Buch</hi> und anderen Werken, unterscheidet sich jedoch von
+						den übrigen Ausgaben in den Gruppen [C] und [E] sowie von [F1], [X1] und
+						[X3] durch (i) die Integration eines <hi rend="italic">Frisier-</hi> sowie
+						eines <hi rend="italic">Kunstbuches</hi> und (ii) das veränderte Buchformat
+						8° quer gegenüber dem kleinformatigen 12°. Das unikal überlieferte Exemplar
+						in der Von und zur Mühlen’schen Bibliothek Nünning (Senden-Bösensell bei
+						Münster) konnte bisher nicht eingesehen werden und eine Textkollation mit
+						anderen Ausgaben der <hi rend="italic">Ethica</hi> steht aus. Sie könnte
+						Aufschluss über die genealogischen Relationen und die Position von [X2] im
+						Stemma geben.<note type="footnote" xml:id="ftn80" n="80">
+							<p rend="footnote text">
+								<hi rend="color(262623)"> Eine Kurzbeschreibung der Ausgabe auf
+									Basis des</hi>
+								<hi rend="italic color(262623)">Münsterschen Exemplars</hi>
+								<hi rend="color(262623)">findet sich bei Frenzel 2012, S.
+									94–96.</hi>
+							</p>
+						</note>
+					</p>
+					<p> [X3] ist datiert und mit der Angabe des Druckortes Nürnberg versehen. Die
+						Ausgabe stimmt in Bezug auf den Kupfertitel und den typographischen Titel,
+						das Layout und die materiell-medialen Objekteigenschaften mit den Ausgaben
+						der Gruppe [C] überein. Sie enthält ebenfalls die Druckersynthese mit dem
+							<hi rend="italic">Tranchier-Buch</hi> und den <hi rend="italic">Tisch-
+							und Leberreimen</hi>, einschließlich der 24 <hi rend="italic">Reime auf
+							Konfektscheiben</hi> im Anhang. Verschieden ist sie lediglich
+						hinsichtlich des anderslautenden Druckorts. Es ist möglich, dass es sich bei
+						dieser Ausgabe ebenfalls um eine der Gruppe [C] zuzurechnende handelt. Eine
+						Textkollation steht noch aus. </p>
+					<p>[X4] ist ausweislich des Bibliothekskatalogs der Stadsbibliotek Norrköping
+						beim Buchhändler Gottlieb Heinrich Grentz 1689 gedruckt. Wiewohl der Titel
+						der Druckersynthese sowie die ersten vier Seiten des <hi rend="italics"
+							>Ethica</hi>-Teils verloren sind, lassen sich die Angaben wohl den
+						Zwischentiteln entnehmen. Bisher konnte die Ausgabe noch nicht eingesehen
+						werden, eine Einordnung in das Stemma ist daher bis auf weiteres nicht
+						möglich. Das Exemplar stammt aus der Sammlung der Familie de Geer, die im
+						17./18. Jahrhundert angelegt worden und 1913 aus dem Bestand des
+						Familiengutes Finspongsslott in die Stadtbibliothek übergegangen ist.</p>
+					<p> Das <hi rend="italic">Bürgerliche Complimentierbüchlein</hi> [X4] ist eine
+						umfassende konzeptionelle sowie inhaltliche Umarbeitung der <hi
+							rend="italic">Ethica</hi>. Ich rechne [X4] – anders als Dünnhaupt<note
+							type="footnote" xml:id="ftn81" n="81">
+							<p rend="footnote text"> Bei Dünnhaupt mit dem Kurztitel
+								„Complimentir-Büchlein… – o.O., 1727“ unter Nummer 7.34 verzeichnet.
+								Eine Durchsicht des Volldigitalisats des unikal überlieferten
+								Exemplars in der Niedersächsischen Staats- und
+								Universitätsbibliothek Göttingen hat ergeben, dass es sich um eine
+								grundsätzliche Umarbeitung der <hi rend="italic">Ethica</hi> (i.e.
+								ein völlig anderes Werk) handelt. </p>
+						</note> – daher nicht unter die Ausgaben der <hi rend="italic">Ethica</hi>;
+						der Vollständigkeit halber habe ich die Ausgabe dennoch in die Bibliographie
+						aufgenommen. </p>
+					<p>[X5] nimmt eine Sonderstellung ein: als jüngste bekannte Ausgabe der <hi
+							rend="italics">Ethica</hi> enthält es als einzige eine Erweiterung der
+						Kern-Ethica um zwei neue Komplimente, "Von galanten Complimentieren" sowie
+						"Von wol-anständigen Complementen bey Gastereyen und Mahlzeiten", die als
+						Kapitel II und III den Komplimenten der Kern-Ethica vorgeschaltet sind.
+						Außerdem enthält [X5] im Anhang der Komplimente zwei weitere Abschnitte mit
+						Gesprächsbeispielen für die Konversation mit Damen und "allerhand schöne
+						Redens-Arten". Eine erste Durchsicht des Textes legt eine Verwandschaft von
+						[X5] mit der Überlieferungsgruppe [B] nahe: so weist die 1728er Ausgabe
+						weder das <hi rend="italics">Tranchier-Buch</hi> noch die <hi
+							rend="italics">Leberreime</hi> der Ausgaben in den Überlieferungsgruppen
+						[C], [D], [E] oder [F] auf, gegenüber der Gruppe [A] jedoch den <hi
+							rend="italics">Musenanruf</hi>. Sowohl die <hi rend="italics">Vorrede an
+							den Leser</hi> als auch die acht Komplimente der Kern-Ethica weisen
+						mitunter umfangreiche Textbearbeitungen auf. Eine maschinelle Kollation soll
+						die stemmatologische Hypothese der Zugehörigkeit von [X5] zur
+						Überlieferungsgruppe [B] testen. Bis auf weiteres wird die Ausgabe jedoch
+						unter [X] geführt. </p>
+				</div>
+				<div n="3.2.8" type="section">
+					<head> Zur <hi rend="italic">Löfflerey-Kunst</hi>
+					</head>
+					<p> Die Überlieferungsgeschichte von <hi rend="italic">Ethica</hi> und <hi
+							rend="italic">Löfflerey-Kunst</hi> ist, das habe ich mehrfach
+						angedeutet, eng verwoben: zweimal – in [B2] 1648 und in [C1] 1656 – ist die
+							<hi rend="italic">Ethica</hi> Teil einer Druckersythese mit der
+						titelgebenden <hi rend="italic">Löfflerey-Kunst</hi> und dem <hi
+							rend="italic">Bettelstab der Liebe</hi>. Einmal (1648) erscheint die <hi
+							rend="italic">Löfflerey-Kunst</hi> unabhängig von der <hi rend="italic"
+							>Ethica</hi> [L]. </p>
+					<p> Wir wissen bislang nur wenig über die <hi rend="italic">Löfflerey-Kunst</hi>. 
+						Zum besseren Verständnis dennoch einige klärende Hinweise: </p>
+					<p> 1648 erscheinen zwei textlich und konzeptionell verschiedene Ausgaben – [L]
+						und [B2] – jeweils mit der fiktiven Drucker- und Druckortangabe „Lambert
+						Remmler, Liebstadt“. Der Titel von [L] lautet: </p>
+
+					<p>
+						<hi rend="bold"> 1648, Liebstadt [fingierter Druckort] (Typis Lambertini
+							Remeleri) [fingierter Drucker] [L]</hi></p>
+					<p>
+						<hi rend="italic">Cochleatio Noviſſima,</hi> | Das iſt: | Waare Abbildung |
+						der heut zu Tag zuviel uͤb- | licher Kunſt der Loͤfflerey. | So erſtlich
+						kurtz verfaſſet / durch den hoch- | verſtaͤndigen Herꝛn | <hi rend="italic"
+							>DAVIDEM SELADON OSNA- | bruggenſem, J.</hi>
+						<hi rend="italic smallcaps">v. d.</hi> | Nun aber an vielen Orten verbeſſert
+						/ | durch Herꝛn | <hi rend="italic">GERARDUM VOGELIUM MONA- | ſterio
+							Weﬅphalum</hi> der Loͤfflerey practi- | cum veteranum. | Sampt 219..
+						verbluͤmter Reden vnd Spruͤchwoͤrter / ſo von den | Alamodo Damen gebraucht
+						werden | Nebens einem kurtzen Anhang | vom | Bettelſtab der Liebe. |
+						Gedruckt zu Liebſtadt / | <hi rend="italic">Typis Lambertini Remeleri,</hi>
+						Jm hoͤltzern | Loͤffel auff der Reitgaſſen. | 1648. </p>
+					<p>Kollation: 8° A–K8</p>
+					<p>
+						<ref type="vd17">VD17 1:669768S</ref>. Dünnhaupt 12.1 </p>
+					<p>
+						<hi rend="italic">*Berliner Exemplar</hi>: Staatsbibliothek zu Berlin –
+						Stiftung Preußischer Kulturbesitz, Signatur: Yz 1551; unikal überliefert </p>
+					<p> Inhalt: In dieser Ausgabe der <hi rend="italic">Löfflerey-Kunst</hi> ist die
+							<hi rend="italic">Ethica</hi> nicht enthalten, jedoch tauchen die <hi
+							rend="italic">Alamodischen Damensprichwörter</hi> hier auf. </p>
+					<p> Wir wissen nicht, auf wessen Initiative hin oder unter wessen
+						Verfasserschaft die <hi rend="italic">Löfflerey-Kunst</hi> entstanden ist.
+						Es ist diskutiert worden, ob diese wie auch deren Synthese mit der <hi
+							rend="italic">Ethica</hi> von Georg Greflinger stammt, da er als
+						Bearbeiter der letztgenannten ab 1656 (erstmals in der Druckersynthese [C1])
+						genannt wird.<note type="footnote" xml:id="ftn82" n="82">
+							<p> Vgl. Dünnhaupt 1991 (Anm. 5), S. 1689: „Meine Attribution an
+								Greflinger wird erhärtet durch das Ps[eudonym] ‚Seladon‘ im Titel
+								sowie die beigedruckten <hi rend="italic">Alamodischen Damen
+									Sprüchwörter</hi>, die G. schon seiner [sic!] Ethica
+								complementoria beigefügt hatte.“ Anders als bei Dünnhaupt und im
+								VD17 wird bei Hayn/Gotendorf (Anm. 5), Bd. IV, S. 229–230 die <hi
+									rend="italic">Löfflerey-Kunst</hi> ohne Attribution an
+								Greflinger katalogisiert. Erdmann Neumeister schreibt sie in: <bibl>
+									De Poetis Germanicis huius seculi præcipuis dissertatio
+									compendiaria. 1695. [Nachdruck und Edition von Franz Heiduk und
+									Günter Merwald. Bern, München 1978] <ptr type="opac"
+										cRef="190899999"/>
+								</bibl> dagegen Greflinger zu (S. 350), wohingegen <bibl> Johannes
+									Bolte: Zu Georg Greflinger. In: Anzeiger für deutsches Alterthum
+									und deutsche Literatur 13 (1887), S. 103–144 <ptr type="gbv"
+										cRef="675993024"/>
+								</bibl>, hier S. 107 meint, bei Neumeisters Zuschreibung der <hi
+									rend="italic">Löfflerey-Kunst</hi> an Greflinger handle es sich
+								um eine Fehlzuschreibung aufgrund des gleichlautenden Pseudonyms
+								‚Seladon‘. In keiner der Bibliographien wird auf die Tradition der
+									<hi rend="italic">Lefflereien</hi> und <hi rend="italic"
+									>Hasereien</hi>, in denen die <hi rend="italic"
+									>Löfflerey-Kunst</hi> steht, eingegangen. Ich habe bislang fünf
+								weitere Drucke aus dieser Tradition, die bis 1593 zurückreichen,
+								recherchieren können. </p>
+						</note> Die Zuschreibung, die aufgrund der Namensähnlichkeit ‚Seladon‘
+						(einer Schreibvariante des Schäfernamens Greflingers) mit der
+						Verfasserfiktion ‚David Seladon I.V.D.‘ erwogen worden sein dürfte, ist
+						jedoch im Hinblick auf die Popularität ‚Seladons‘ als <hi rend="italic">nom
+							de plume</hi> in Folge des einflussreichen Fortsetzungsromans <bibl>
+							<hi rend="italic">Astrée</hi> (1607–1627) des Honoré d'Urfé <ptr
+								type="opac" cRef="151763542"/>
+						</bibl> nicht stichhaltig genug. </p>
+					<p> Neuerdings wurde die Hypothese aufgestellt,<note type="footnote"
+							xml:id="ftn83" n="83">
+							<p rend="footnote text"> Vgl. <bibl> Astrid Dröse: Georg Greflinger und
+									das weltliche Lied im 17. Jahrhundert. Berlin, Boston 2015
+									(Frühe Neuzeit. 191), S. 178 <ptr type="opac" cRef="787150584"/>
+								</bibl>. </p>
+						</note> dass die <hi rend="italic">Löfflerey-Kunst</hi>-Ausgaben in der
+						Offizin Matthäus Kempffers<note type="footnote" xml:id="ftn84" n="84">
+							<p rend="footnote text"> Matthäus Kempffer, Druckerverleger in Frankfurt
+								am Main, tätig von 1626–1665. Permalink zur GND <ref
+									target="http://d-nb.info/gnd/1037507002"
+									>http://d-nb.info/gnd/1037507002</ref> [gesehen am 02.11.2017].
+							</p>
+						</note> in Frankfurt entstanden seien, wo 1644 die Neuübersetzung von Ovids
+							<hi rend="italic">De Arte Amandi</hi> publiziert worden ist. Neben der
+						thematischen Ähnlichkeit (beide Texte enthalten Anleitungen zum Anbahnen
+						intimer vor- und außerehelicher Bekanntschaften und richten sich an junge
+						Männer), tragen die Drucke den fingierten Druckort „Liebstadt“ im Titel, der
+						sonst in keinem anderen Druck des 17. Jahrhunderts verwendet wird.<note
+							type="footnote" xml:id="ftn85" n="85">
+							<p rend="footnote text"> Eine Recherche nach dem Druckort „Liebstadt“ im
+								VD17 listet nur die drei Ausgaben der <hi rend="italic"
+									>Löfflerey-Kunst</hi> sowie <bibl>
+									<hi rend="italic">De Arte Amandi</hi> bei Kempffer 1644 auf.
+										<ptr type="gbv" cRef="452914655"/>
+								</bibl>
+							</p>
+						</note> Darüber hinaus ist in <hi rend="italic">De Arte Amandi</hi> die <hi
+							rend="italic">Unterweisung heimlich zu lieben</hi> (pag. 422–428) als
+						letztes Gedicht – ohne Herkunftsangabe – unter der Rubrik <hi rend="italic"
+							>Lieb und freundliche Reymen</hi> enthalten. Dieses Gedicht stammt aus
+						der Sammlung <bibl>
+							<hi rend="italic">Seladons beständige Liebe</hi> (1644) <ptr type="opac"
+								cRef="053021657"/>
+						</bibl>, die ebenfalls im Verlag Kempffers in Frankfurt erscheint. – In der
+						Ausgabe der <hi rend="italic">Löfflerey-Kunst</hi> von 1656 [C1] finden sich
+						im Anhang vier Gedichte aus der Liedersammlung <hi rend="italic">Seladons
+							weltliche Lieder</hi> (1651), welche ebenfalls bei Kempffer publiziert
+						worden ist; aus diesen Befunden wird sodann <hi rend="italic">per
+							analogiam</hi> geschlossen, dass Kempffer wahrscheinlich auch der
+						Verleger (und Initiator) der <hi rend="italic">Löfflerey-Kunst</hi>
+						-Ausgaben gewesen ist. </p>
+					<p> Bei dieser Überlegung wird allerdings außer Acht gelassen, dass es eine
+						weitere, textlich wie typographisch von [B2] verschiedene Ausgabe der <hi
+							rend="italic">Löfflerey-Kunst</hi> gibt, die keine Druckersynthese mit
+						der <hi rend="italic">Ethica</hi>, sondern lediglich mit dem <hi
+							rend="italic">Bettelstab der Liebe</hi> ist [L]. In dieser Ausgabe ist
+						die <hi rend="italic">Unterweisung heimlich zu lieben</hi> nicht enthalten,
+						dafür hat sie die <hi rend="italic">Alamodischen Damensprichwörter</hi> im
+						Anhang zum <hi rend="italic">Löfflerey-Traktat</hi>. Wir wissen nicht,
+						welche der beiden Ausgaben – [L] oder [B2] – die frühere ist: beide datieren
+						auf 1648. Sollte es sich bei [L] um die ältere Ausgabe handeln, ist eine
+						Beteiligung Kempffers aufgrund des Fehlens der <hi rend="italic"
+							>Unterweisung heimlich zu lieben</hi> nun eher unwahrscheinlich. Bis auf
+						weiteres sollte m.E. daher davon Abstand genommen werden, <hi rend="italic"
+							>alle</hi> Ausgaben der <hi rend="italic">Löfflerey-Kunst</hi> – [L],
+						[B2] und [C1] – dem Kempffer’schen Verlag und diesem nahestehenden Autoren
+						zuzuschreiben. </p>
+				</div>
+			</div>
+			<div n="4" type="chapter">
+				<head>Zur Verfasserfrage</head>
+				<p> Es ist hier nicht der Ort für eine ausführliche Diskussion von Fragen der
+					Autorschaft bzw. redaktionellen Bearbeitung der <hi rend="italic">Ethica</hi>.
+					In keiner der Ausgaben wird ein Verfasser genannt und den firmierenden Angaben
+					auf den Titelblättern und dem Paratext lässt sich lediglich entnehmen, dass für
+					die Bearbeitungen und Erweiterungen in der Gruppe [C] resp. den auf dieser
+					basierenden Gruppen [F] und [E] Georg Greflinger als Redakteur fungiert haben
+					dürfte. Ab [C1] wird er namentlich im Titel genannt: </p>
+				<cit>
+					<quote>Neulich wider uͤberſehen / und an vielen Orten gebeſſert und vermehret /
+						durch Georg Grefflingern / gecroͤnten Poeten / und <hi rend="italic">Not.
+							Pub.</hi></quote>
+				</cit>
+				<p> Ab [C2] ist er zudem als Verfasser der 24 <hi rend="italic">Reime auf
+						Konfektscheiben</hi> ausgewiesen: „G. Greflingers <hi rend="italic">N.
+						P.</hi> Reimen auff Confectscheiben“.<note type="footnote" xml:id="ftn86"
+						n="86">
+						<p rend="footnote text"> Dünnhaupt 1991 (Anm. 5), S. 1684 schreibt bereits
+							die <hi rend="italic">Ethica</hi>-Ausgabe von 1645 [A3] Greflinger als
+							Verfasser zu und führt gleichzeitig an, dass „Greflingers Autorschaft
+							erst ab 1665 im Titel <hi rend="italic">bestätigt</hi> [Hervorhebung AR]
+							[wird].“ Zur Ausgabe Amsterdam 1665 [C3] heißt es dann bei dems., S.
+							1686, „S. 225–232 ‚Reimen auf Confect-Scheiben‘ von Greflinger, der hier
+								<hi rend="italic">erstmals</hi> [Hervorhebung AR] im Titel zitiert
+							ist.“ Zur Ausgabe Amsterdam 1675 [C6] steht „Diese Ausgabe <hi
+								rend="italic">ausnahmsweise</hi> [Hervorhebung AR] mit G’s vollem
+							Namen im Titel.“ (ebd., S. 1687). Bereits [C1] und in der Folge alle
+							weiteren Ausgaben in [C] führen Greflingers vollen Namen einschließlich
+							seiner Berufsbezeichnung „Notarius Publicus“ sowie dem Ehrentitel <hi
+								rend="italic">poeta laureatus</hi> („gekröhnten Poeten“) im Titel.
+						</p>
+					</note>
+				</p>
+				<p> Sofern sich aus diesen Angaben<note type="footnote" xml:id="ftn87" n="87">
+						<p rend="footnote text"> Auf weitere mögliche Indizien – wie etwa einzelne
+							Übernahmen aus Greflinger zugeschriebenen Textsammlungen – und deren
+							Beurteilung kann ich hier nicht näher eingehen. </p>
+					</note> auf eine tatsächliche Bearbeitung des Textes auch der <hi rend="italic"
+						>Ethica</hi> schließen lässt, – wie auch immer diese im einzelnen ausgesehen
+					haben mag –, kommen für eine Beteiligung Greflingers nur die Ausgaben im
+					Zeitraum von 1656, dem Publikationsdatum von [C1], bis 1677, dem vmtl. Todesjahr
+					Greflingers, in Betracht. Meines Erachtens spricht indes nichts <hi
+						rend="italic">für</hi> Greflingers Autorschaft der ‚Kern-<hi rend="italic"
+						>Ethica</hi>‘ bzw. speziell der Erstausgabe der <hi rend="italic"
+						>Ethica</hi> von 1643 [A1]. Wie im Folgenden kurz angedeutet werden soll,
+					hat dieses Ergebnis Konsequenzen für die Konzeption einer künftigen Edition.
+				</p>
+			</div>
+			<div n="5" type="chapter">
+				<head>Ausblick: Zur Wahl der Textgrundlage für die Edition</head>
+				<p> Was die Wahl der Textgrundlage(n) einer künftigen Edition der <hi rend="italic"
+						>Ethica Complementoria</hi> betrifft, so stellen sich zunächst folgende
+					grundsätzliche Fragen: </p>
+				<p> (i) Soll <hi rend="italic">nur eine</hi> Ausgabe der – eher vagen und variablen
+					– Werk-Einheit <hi rend="italic">Ethica</hi> zum repräsentativen
+					Editionsgegenstand gemacht werden? Oder soll (auch) der Versuch unternommen
+					werden, durch synoptische Verfahren der Variantenpräsentation – oder zumindest
+					durch die ‚parallele‘ Edition <hi rend="italic">mehrerer</hi>
+					Werk-Repräsentationen – Überlieferungsgeschichte und Bearbeitungspraxis
+					augenfällig zu machen? </p>
+				<p> (ii) Wie genau soll eine, wie sollen mehrere Werk-Einheiten profiliert werden;
+					anhand welcher Kriterien (textuelle, paratextuelle, materiell-mediale)? Im
+					Prinzip wäre ja denkbar, (a) nur eine – noch näher zu bestimmende – ‚eigentliche
+					Kern-<hi rend="italic">Ethica</hi>‘ aus dem jeweiligen
+					typographisch-biblionomen Kontext herauszulösen, oder (b) Drucker- bzw.
+					Buchbindersynthesen als Werk-Einheiten zu begreifen; allerdings wäre in diesem
+					Falle wohl nicht mehr von einer ‚Edition der <hi rend="italic">Ethica</hi>‘ zu
+					sprechen. </p>
+				<p> (iii) Gerade vor dem Hintergrund aktueller archivalisch-dokumentologischer
+					Trends (zumal im Bereich <hi rend="italic">digitaler</hi> Edition) stellt sich
+					überdies die Frage, warum überhaupt <hi rend="italic">ein</hi> exponierter <hi
+						rend="italic">Text</hi> nur <hi rend="italic">einer</hi> als repräsentativ
+					exponierten Ausgabe zur Editionsgrundlage gemacht werden sollte. Noch
+					fragwürdiger als eine solche Beschränkung der Materialbasis erschiene hier
+					freilich jeder Versuch, die Ebene der empirischen Faktizität des einzelnen
+					Dokuments komparativ (Textidentität und Textvarianz) oder auf nicht-empirische
+					Abstraktionen hin (Werk und Fassung) zu überschreiten. Akzeptabel wäre dieser
+						Logik<note type="footnote" xml:id="ftn88" n="88">
+						<p rend="footnote text"> Auf deren wissenschaftsprogrammatische,
+							epistemologische, ontologische, editionspolitische usw. Prämissen kann
+							ich an dieser Stelle nicht näher eingehen. </p>
+					</note> zufolge allein ein möglichst objektives Erfassen und Erschließen aller
+					potentiell relevanten Informationen, um auf diesem Wege jeder denkbaren
+					Nachnutzung der Daten durch gegenwärtige wie künftige Nutzer eine Grundlage zu
+					bieten. </p>
+				<p> Eingedenk dieser Überlegungen sehe ich vor allem folgende Optionen: </p>
+				<p> (1) Eine pragmatische <hi rend="italic">Minimallösung</hi> wäre zweifellos, die
+					Erstausgabe [A1] zur alleinigen Grundlage einer Edition zu machen. Hierfür ließe
+					sich etwa das (rezeptions-) <hi rend="italic">theoretische</hi> Argument ins
+					Feld führen, dass „[d]iejenige Fassung […] als Text ediert werden [muss], die am
+					Schnittpunkt von Produktion und Rezeption Werkcharakter begründet hat“.<note
+						type="footnote" xml:id="ftn89" n="89">
+						<p rend="footnote text">
+							<bibl> Herbert Kraft: Editionsphilologie. Darmstadt 1990, S. 29. <ptr
+									type="opac" cRef="027418561"/>
+							</bibl>
+						</p>
+					</note>
+				</p>
+				<p> (2) Alternativ hierzu käme freilich auch ein Vertreter der
+					überlieferungsgeschichtlich einflussreichsten Gruppe [C] als Editionsgrundlage
+					in Betracht; also etwa [C2], da hier zum ersten Mal die Druckersynthese mit dem
+						<hi rend="italic">Tranchier-Buch</hi> sowie den <hi rend="italic">Tisch- und
+						Leberreimen</hi> vorliegt und die textlichen Bearbeitungen des <hi
+						rend="italic">Ethica</hi> -Textes gegenüber den früheren Ausgaben in [A] und
+					[B] am umfangreichsten sind, jedoch <hi rend="italic">innerhalb</hi> der Gruppe
+					[C] sowie in den von dieser abhängigen Gruppen [F] und [E] am stabilsten sind.
+					Wollte man ergänzend oder alternativ hierzu eine textgenetische Perspektive
+					eröffnen, wäre die synoptische Edition <hi rend="italic">einer ganzen
+						genealogischen Gruppe</hi> zu erwägen. </p>
+				<p> (3) Zu erwägen wäre alternativ die Edition derjenigen <hi rend="italic"
+						>Ethica</hi>-Ausgaben, die aufgrund ihrer Seltenheit und im Hinblick auf
+					Bestandsschutzmaßnahmen von Interesse sind: dies betrifft vor allem solche
+					Ausgaben, die unikal überliefert, nicht digitalisierbar und/oder von der
+					Benutzung ausgeschlossen sind oder aber aufgrund ihres Aufbewahrungsortes nur
+					schwer zugänglich sind. Infrage kämen dann bspw. die Ausgaben [A3], [D2], [E1],
+					[E2] (in Privatsammlung), [X2] oder [X5]. </p>
+				<p> (4) Freilich käme grundsätzlich auch irgendeine ‚Ausgabe später Hand‘ in Frage.
+					Zu bedenken ist allerdings, dass im Falle der <hi rend="italic">Ethica</hi> der
+						übliche<note type="footnote" xml:id="ftn90" n="90">
+						<p rend="footnote text"> Vgl. etwa <bibl> Bodo Plachta:
+								Editionswissenschaft. Stuttgart <hi rend="superscript">3</hi> 2013,
+								Kap. 5 <ptr type="gbv" cRef="772526567"/>
+							</bibl> oder <bibl> Rüdiger Nutt-Kofoth: Schreiben und Lesen. Für eine
+								produktions- <hi rend="italic">und</hi> rezeptionsorientierte
+								Präsentation des Werktextes in der Edition. In: Text und Edition.
+								Positionen und Perspektiven. Hrsg. von Bodo Plachta u.a. Berlin
+								2000, S. 165–202, hier S. 184f. <ptr type="opac" cRef="318093162"/>
+							</bibl>
+						</p>
+					</note> Autorbezug (Stichwort: ‚der Editor als Testamentsvollstrecker‘) als
+					Argument und Auswahlkriterium wegfällt. </p>
+				<p> (5) Wollte man ein rein <hi rend="italic">textuelles</hi> Kriterium in Anschlag
+					bringen, könnte diejenige Ausgabe gewählt werden, die faktisch den maximal
+					erweiterten und revidierten Text der gesamten Überlieferung bietet – wenn ich
+					recht sehe also: [E3] –, womit zumindest quantitativ ein Maximum an
+					Repräsentativität erreicht wäre.<note type="footnote" xml:id="ftn91" n="91">
+						<p> Nicht in Frage kommt wohl – und zwar primär aus
+							wissenschaftstheoretischen Gründen – die <hi rend="italic">
+								kontrafaktische Konstruktion eines idealen Mischtextes</hi>, der
+							etwa eine Art Maximal-Repräsentation des Überlieferungsgeschehens bieten
+							oder – als Repräsentation des ‚harten Kerns‘ der Überlieferung – all
+							diejenigen Elemente beinhalten könnte, die in möglichst vielen (oder
+							idealerweise: allen) Ausgaben enthalten sind. </p>
+					</note>
+				</p>
+				<p> (6) Nach dem oben zur Frage der Autorschaft Gesagten kommt die <hi rend="italic"
+						>autor-zentrierte Edition</hi> im klassischen Sinne als konzeptioneller
+					Bezugspunkt für die Wahl einer als ‚authentisch‘ exponierten Textgrundlage nicht
+					in Frage und entsprechend lassen sich einem etwaigen Autorbezug kaum<note
+						type="footnote" xml:id="ftn92" n="92">
+						<p rend="footnote text"> Es sei denn, man wollte die Beteiligung einer
+							zentralen, auch literarhistorisch exponierten <hi rend="italic"
+								>Bearbeiter</hi> -Instanz als werk-konstitutiven Faktor ansehen und
+							– orientiert an anachronistischen Vorstellungen literarischer
+							Autorschaft – diejenigen <hi rend="italic">Ethica</hi>-Ausgaben ins
+							Zentrum editorischer Aufmerksamkeit rücken, für die eine Beteiligung
+							Georg Greflingers zumindest wahrscheinlich ist. </p>
+					</note> Argumente in der Spur ‚Fassung früher Hand vs. Fassung später Hand‘
+					entnehmen. Daraus folgt indes <hi rend="italic">nicht</hi>, dass eine etwaige
+					Revisions- und Bearbeitungspraxis sich überhaupt nicht – etwa mit dem
+					etablierten Instrumentarium textgenetischer Edition – rekonstruieren und
+					darstellen ließe; nur sind entsprechende Veränderungen hier eben auf das Handeln
+					vieler verschiedener, meist anonymer Autoren bzw. Produktionsinstanzen
+					zurückzuführen, von denen keine eine exponierte Stellung (scil. ‚Autorschaft als
+						Werkherrschaft‘)<note type="footnote" xml:id="ftn93" n="93">
+						<p rend="footnote text"> Vgl. zu dieser Formulierung <bibl> Heinrich Bosse:
+								Autorschaft ist Werkherrschaft. Über die Entstehung des
+								Urheberrechts aus dem Geist der Goethezeit [1981] <ptr type="opac"
+									cRef="02394885X"/>. München 2014 <ptr type="gbv"
+									cRef="786710454"/>
+							</bibl>; vgl. zur weiteren Diskussion auch <bibl> Carlos Spoerhase: Was
+								ist ein Werk? Über philologische Werkfunktionen. In: Scientia
+								Poetica 11 (2007), S. 276–344. <ptr type="opac" cRef="22568697X"/>
+							</bibl>
+						</p>
+					</note> beanspruchen kann. </p>
+				<p> (7) Eine weitere Option wäre schließlich, eine <hi rend="italic">
+						Druckersynthese als konzeptionelle Werk-Einheit</hi> zu definieren und zum
+					zentralen (oder gar einzigen) Editionsgegenstand zu machen. – Gerade, weil eine
+					kombinatorisch-kompilatorische Orientierung das Handeln zeitgenössischer Text-
+					und Buchproduzenten faktisch angeleitet und dem auch entsprechende
+					Rezeptionsgewohnheiten entsprochen haben dürften, verspricht eine auf
+					typographisch-biblionome Einheiten fokussierende Edition ein Höchstmaß an <hi
+						rend="italic">historischer Stimmigkeit</hi>. Generell würde damit das
+					Augenmerk von der ‚Arbeitsweise des Autors‘ auf die sozio-kulturelle Einbettung
+					des Buchmediums verschoben. – Auch hier wäre indes zu klären, <hi rend="italic"
+						>welche</hi> Druckersynthese genau als Editionsgrundlage dienen und ob
+					(zusätzlich) eine komparativ-synoptische Perspektive eröffnet werden soll. </p>
+				<p> Ich kann an dieser Stelle keine elaborierte Editionskonzeption begründen und
+					beschränke mich daher – abschließend – auf folgende programmatische Andeutungen: </p>
+				<p> (i) Da derzeit überhaupt keine Edition der <hi rend="italic">Ethica</hi>
+					vorliegt, muss <hi rend="italic">kurzfristig</hi> gewährleistet sein, der
+					Forschung einen zuverlässigen Referenz-Text zur Verfügung zu stellen. Aus rein
+					pragmatisch-arbeitsökonomischen Gründen wird dies die – nach gängigen
+					Erfassungs- und Auszeichnungs-Standards<note type="footnote" xml:id="ftn94"
+						n="94">
+						<p rend="footnote text"> Die Textkodierung erfolgt nach dem XML-TEI
+							P5-Standard für digitale, wissenschaftliche Editionen in dem vom
+							Deutschen Textarchiv für die Erfassung und Kodierung deutscher Drucke
+							des 17.–19. Jahrhunderts angepassten Basisformat (DTABf – <ref
+								target="http://www.deutschestextarchiv.de/doku/basisformat"
+								>http://www.deutschestextarchiv.de/doku/basisformat</ref> [gesehen
+							am 02.11.2017]), welches ich im Detail modifiziert habe. Die
+							Zeichenkodierung erfolgt nach dem Unicode-Standard, Version 8.0 (Stand
+							Juni 2015), <ref target="http://www.unicode.org/versions/Unicode8.0.0/"
+								>http://www.unicode.org/versions/Unicode8.0.0/</ref> [gesehen am
+							02.11.2017]). </p>
+					</note> eingerichtete – digitale Edition des Erstdrucks [A1] sein. </p>
+				<p> (ii) <hi rend="italic">Mittelfristig</hi> wird diese Basis-Edition um eine
+					aktualisierte Version des oben entwickelten Stemmas sowie um eine schematische
+						<hi rend="italic">Struktur-Synopse</hi> der überlieferten Druck-Ausgaben
+					erweitert werden. Letztere soll zunächst die auf der Makro-Ebene der Text- bzw.
+					Dokumentstruktur bestehenden Varianz (Auswahl und Anordnung der einzelnen
+					Elemente) erfassen und dann sukzessive auf die substantielle Varianz der Meso-
+					und Mikro-Ebene (also etwa: Erweiterungen, Umstellungen, Ersetzungen,
+					Weglassungen innerhalb einzelner Komplimente) ausgeweitet werden. </p>
+				<p> (iii) Erst <hi rend="italic">längerfristig</hi> ist dann eine Erweiterung der
+					Basis-Edition um eine der oben unter (2), (3), (6) und (7) angedeuteten Optionen
+					zu erwägen.</p>
+				<p>
+					<pb/>
+				</p>
+				<div>
+					<head>Abbildungsverzeichnis</head>
+					<lg>
+
+						<l xml:id="abb1">Abb. 1: Kupfertitel [A4] – Staatsbibliothek zu Berlin –
+							Stiftung Preußischer Kulturbesitz, Signatur Px 1465&#x2039;a&#x203A; </l>
+						<l xml:id="abb2">Abb. 2: Kupfertitel [C3] – Bayerische Staatsbibliothek
+							München, Signatur Res L.eleg.m. 411 </l>
+						<l xml:id="abb3">Abb. 3: Kupfertitel [C4] – Herzog August Bibliothek
+							Wolfenbüttel, Signatur Xb 6887 </l>
+						<l xml:id="abb4">Abb. 4: Titelholzschnitt [F1] – Staats- und
+							Universitätsbibliothek Hamburg, Signatur Scrin A/493</l>
+						<l xml:id="abb5">Abb. 5: Kupfertitel [E1] – Staatsbibliothek zu Berlin –
+							Stiftung Preußischer Kulturbesitz, Signatur Np 15856 </l>
+						<l xml:id="abb6">Abb. 6: Kupfertitel [X3] – Sächsische Landesbibliothek,
+							Staats- und Universitätsbibliothek Dresden, Signatur Putz.17 8 31</l>
+
+
+						<l xml:id="abb7"> Abb. 7 Kupfertitel [E3] – Niedersächsische Staats- und
+							Universitätsbibliothek Göttingen, Signatur 8 POL I, 5708 </l>
+
+						<l xml:id="abb8"> Abb. 8 Kupfertitel [C9] – Sächsische Landesbibliothek,
+							Staats- und Universitätsbibliothek Dresden, Signatur 35.8.4365 </l>
+						<l xml:id="abb9"> Abb. 9 Holzschnitt [X5] – Universitätsbibliothek der
+							Ludwig-Maximilians-Universität München, Signatur 8° Misc. 489/3 </l>
+						<l xml:id="abb10">Abb. 10: Stemmatologische Rekonstruktion</l>
+					</lg>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
