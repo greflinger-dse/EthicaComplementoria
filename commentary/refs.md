@@ -2,7 +2,7 @@
 title: Quellen der Ethica Complementoria
 author: Annika Rockenberger
 date_created: 2013-08-29
-date: 2023-06-23
+date_modified: 2023-06-23
 ---
 
 # Intertextuelle Referenzen in der Erstausgabe der Ethica Complementoria 1643
