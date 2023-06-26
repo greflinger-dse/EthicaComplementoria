@@ -79,4 +79,4 @@
 * dynamic bibliography in Zotero group library (https://www.zotero.org/groups/189709/georg_greflinger__digitale_archiv_edition)
 * TO-DO: create schema for how print history was – and is – created using different tools and sources, sketch workflow
 * IDEA: modify style for Zotero in order to be able to export to a format like BibTex so that it can be mapped on <bibl> from TEI P5
-* (https://citationstyles.org/) (https://github.com/citation-style-language)  
+* (https://citationstyles.org/), (https://github.com/citation-style-language)
