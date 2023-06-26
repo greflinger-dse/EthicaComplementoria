@@ -80,3 +80,20 @@
 * TO-DO: create schema for how print history was – and is – created using different tools and sources, sketch workflow
 * IDEA: modify style for Zotero in order to be able to export to a format like BibTex so that it can be mapped on <bibl> from TEI P5
 * (https://citationstyles.org/), (https://github.com/citation-style-language)
+
+2023-06-26
+
+- since 2023-06-19, adding files to repo from GoogleDrive folders containing materials for the Ethica-DSE and the Greflinger-DSE
+- added folder [commentary](/commentary) with files recording sources of the Ethica print, based on A1 1643
+- added folder [notes](/notes) with files containing unspecific materials regarding the edition
+- documents in folder [transcriptions](/transcriptions) contained so far only XML-files; there are several MS Word documents with transcriptions which should be added and documented
+- transcription of the Löfflerey (1648) containing the Ethica, B2, based on the copy at the Herzog August library in Wolfenbüttel, HAB-WoBue_165-10 (/transcriptions/B2_cochleatio_1648_HAB-165-10.xml)
+  - two known copies, one in Berlin (SBB-SPK-Berlin_PK_Yz1555) and one in Wolfenbüttel (HAB-WoBue_165-10). Full-text transcription of the Wolfenbüttel copy, pp. 1-46. Some parts seem to be missing from p. 39 onwards, unclear. The Ethica-part starts at p. 182; transcribed to 195; then again from p. 315 the Alamodische Damensprichwörter (219 pieces) and the title page of the Bettelstab der Liebe p. 338-340.
+  - transcribed using the DTA schema and Unicode for special characters
+  - TO-DO: request digital copy to finish transcription --- sent order via email on 2023-06-26
+- transcription of the Löfflerei (1656) containing the Ethica, C1, based on copy at the Bavarian State Library in Munich, BSB-Pogerm-236.
+  - transcription without special Unicode number codes, but with special characters
+  - line by line, 164 pages, unsure if complete or not
+  - full scan in bw on GoogleDrive, can be transcribed w/ Transkribus if necessary; there are pages missing in the scan; transcribed from original in XML file, with date.
+- moved several DOCX and PDf transcriptions of the Löfflerey into the repo, see (/desc.md) for a description
+- added outline and draft for a study on the Löfflerey in (/notes/draft_loefflerey-dse.md), converted from MS Word file
