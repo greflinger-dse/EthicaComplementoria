@@ -29,7 +29,25 @@ Furthermore, I still toy with developing a description set for physical bibliogr
 
 ### Texts for the German Text Archive
 
-### Texts for the Studienausgabe
+ETHICA | COMPLEMENTORIA | [blank line] | Complemen- | tier-Buͤchlein / | Darin | Ein richtige Art vnnd | Weiſe grundfoͤrmlich abge- | bildet wird / wie man ſo wol mit ho- | hen Fuͤrſtlichen / als niedrigen Perſonen / | auch bey Geſellſchafften / Jungfrawen | vnd Frawen / Hoffzierlich converſi- | ren / reden vnd vmbge[hen] | muͤſſe. | [decorative woodcut] | Nuͤrnberg / | Jm Jahr / 1643.
+Based on the copy held at the Staatsbibliothek Bamberg.
+
+ETHICA | COMPLEMEN- | TORIA, | [Leerzeile] | Complemen- | tier-Buͤchlein / | [blank line] | Darinn | Ein richtige Art vnnd | Weiſe grundfoͤꝛmlich abgebild- | det wird / wie man ſo wol mit hohen | Fuͤrſtlichen / als nidrigen Perſonen / | auch bey Geſellſchafften / Jungfrawen | vnd Frawen Hofzierlich | conver- | ſiren, reden vnd vmbge- | hen muͤſſe. | [Zierstück] | Erſtlich gedruckt zu Hamburg / | bey Heinrich Werner.
+Based on the copy held at the Bayerische Staatsbibliothek München.
+
+COMPLEMENtier | Buͤchlein / | Darin eine | Richtige Art abgebildet wird / | wie man ſo wol mit hohen als mit nie- | drigen Perſonen / auch bey Geſellſchaff- | ten und Frawen-zimmer hoffzierlich | reden und umbgehen ſoll. | Vermehret / | Dabey ein Anhang | Etlicher alamodiſcher Damen | Sprichwoͤrter / und itz uͤblichen | Reyhme. | [Druckersignet] | Hamburg / | Bey Johan Nauman / Buchh. 1660.
+Based on the copy held at the Staatsbibliothek zu Berlin - Stiftung Preußischer Kulturbesitz.
+
+Das | Neu-alamodiſche / viel-vermehrte | nnd nach jetziger Art | eingerichtete | Complementier- | Buͤchlein / | Worinnen eine ſonderbahre Ma- | nier enthalten / wie man ſo wohl mit hohen | als niedern Stands-Perſohnen / und ſonderbar | in Geſellſchafften mit Frauenzimmer aufs zierlichſt | und hoͤfflichſte converſiren und ihnen | auffwarten ſolle; | Nebſt einem Anhang unterſchiedlicher | Redens-Arten / auch etlicher gewoͤhnlicher | Spruͤchwoͤrter und uͤblichen Reimen. | [Holzschnitt] | Gedruckt in dem 1728 Jahr.
+Based on the copy held at the Ludwig Maximilians Universität München - Universitätsbibliothek.
+
+### Texts for the bilingual edition
+
+ETHICA | Complementoria | Das iſt: | Complementir | Buͤchlein / | Jn welchem enthalten / eine | richtige Art / wie man ſo wol mit hohen | als niedrigen Standes- | Perſonen: bey | Geſelſchaften / und Frauenzim- | mer Hoff zierlich reden und | umbgehen ſolle. | Neulichſt wieder uͤberſehen / an vie- | len Orten gebeſſert und vermeh- | ret / durch | Georg Grefflingern / | gekroͤnten Poeten / und | Notar. Publ. | Mit angefuͤgtem Trenchir- | Buͤchlein / | Auch zuͤchtigen Tiſch- und | Leber-Reimen. | [Linie] | Kopenhagen / Gedruckt bey Chriſtian Wering | Univerſt. Buchdr. Jm Jahr. 1674. Jm | Verlag Wolff Lamprecht.
+Based on the copy held at the Staats- und Universitätsbibliothek Hamburg.
+
+ETHICA | Complementoria | Det er: | Complementeer- | Bog / | Huorudi indholdis en rictig | Maneer / huorledis mand ſaa vel | Med høye ſo[m med nedrige] Stands-Perſoner: | [v]ed | Selſkab [oc] Fruentimmer | effter Hof[ve]-Skick zierligen tale | [oc] omgaaes ſkal / | Nyligen igjen ofverſeet / paa | mange Steder forbedret oc | formeeret / ved | Georg Grefflinger / | kronede Poet / oc Not. Pupl. | Med hosføyede Trencheer-Bog / | oc dertil hørige Kaaber-Stycker. | Orſaa ſmucke Læver-Rjm offver | Borde at bruge / nyligen fordanſket | Cum Gratia & Privileg | [Linie] | Kiøbenhafn / | Tryct hos Joh. Adolph Baxman / | Aar 1678. | Paa Wolfg. Lamprechts Bekoſtn | oc fin dis hos hannem til kiobs | i Skindergaden.
+Based on the copy held at the Gunnerusbibliotek - Norges teknisk-naturvitenskapelige universitet, universitetsbibliotek.
 
 ## Textual Studies
 
