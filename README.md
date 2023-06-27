@@ -27,7 +27,7 @@ Furthermore, I still toy with developing a description set for physical bibliogr
 
 ## Digital Scholarly Edition
 
-### Texts for the German Text Archive
+### Texts for the [German Text Archive | Deutsches Textarchiv](http://www.deutschestextarchiv.de/)
 
 ETHICA | COMPLEMENTORIA | [blank line] | Complemen- | tier-Buͤchlein / | Darin | Ein richtige Art vnnd | Weiſe grundfoͤrmlich abge- | bildet wird / wie man ſo wol mit ho- | hen Fuͤrſtlichen / als niedrigen Perſonen / | auch bey Geſellſchafften / Jungfrawen | vnd Frawen / Hoffzierlich converſi- | ren / reden vnd vmbge[hen] | muͤſſe. | [decorative woodcut] | Nuͤrnberg / | Jm Jahr / 1643.
 Based on the copy held at the Staatsbibliothek Bamberg.
@@ -41,7 +41,7 @@ Based on the copy held at the Staatsbibliothek zu Berlin - Stiftung Preußischer
 Das | Neu-alamodiſche / viel-vermehrte | nnd nach jetziger Art | eingerichtete | Complementier- | Buͤchlein / | Worinnen eine ſonderbahre Ma- | nier enthalten / wie man ſo wohl mit hohen | als niedern Stands-Perſohnen / und ſonderbar | in Geſellſchafften mit Frauenzimmer aufs zierlichſt | und hoͤfflichſte converſiren und ihnen | auffwarten ſolle; | Nebſt einem Anhang unterſchiedlicher | Redens-Arten / auch etlicher gewoͤhnlicher | Spruͤchwoͤrter und uͤblichen Reimen. | [Holzschnitt] | Gedruckt in dem 1728 Jahr.
 Based on the copy held at the Ludwig Maximilians Universität München - Universitätsbibliothek.
 
-### Texts for the bilingual edition
+### Texts for the bilingual edition with the [Norwegian Society for Language and Letters | Bokselskap](https://www.bokselskap.no/)
 
 ETHICA | Complementoria | Das iſt: | Complementir | Buͤchlein / | Jn welchem enthalten / eine | richtige Art / wie man ſo wol mit hohen | als niedrigen Standes- | Perſonen: bey | Geſelſchaften / und Frauenzim- | mer Hoff zierlich reden und | umbgehen ſolle. | Neulichſt wieder uͤberſehen / an vie- | len Orten gebeſſert und vermeh- | ret / durch | Georg Grefflingern / | gekroͤnten Poeten / und | Notar. Publ. | Mit angefuͤgtem Trenchir- | Buͤchlein / | Auch zuͤchtigen Tiſch- und | Leber-Reimen. | [Linie] | Kopenhagen / Gedruckt bey Chriſtian Wering | Univerſt. Buchdr. Jm Jahr. 1674. Jm | Verlag Wolff Lamprecht.
 Based on the copy held at the Staats- und Universitätsbibliothek Hamburg.
