@@ -61,6 +61,32 @@ Based on the copy held at the Gunnerusbibliotek - Norges teknisk-naturvitenskape
 
 ### Blog
 
-Read about the *Ethica* and my related projects on the [Greflinger - Digitale Edition weblog](https://greflinger.hypotheses.org/). This blog is in mainly in German, with some English posts.
+Read about the *Ethica* and my related projects on the [Greflinger - Digitale Edition weblog](https://greflinger.hypotheses.org/). This blog is mainly in German; newer posts are mainly in  English.
 
 ## References
+
+Rockenberger, Annika. 2012a. “Georg Greflinger (ca. 1620–1677). Eine exemplarische Fallstudie zur Interrelation schriftstellerischer Praxisformen und deren Situierung im Literaturbetrieb des 17. Jahrhunderts.” Projekt. Berlin. AR Oslo.
+———. 2012b. “‚Ethica Complementoria‘. Aufbau eines digitalen Archivs frühneuzeitlicher Komplimentierliteratur auf Basis der digitalen Edition der Kommunikationslehre Greflingers. Ein Digital Humanities Projekt.” Projekt. Wolfenbüttel. AR Berlin.
+———. 2014. “Greflinger Edition auf dem 3. Workshop des Einstein-Zirkels Digital Humanities in Berlin ‘Grenzen überschreiten’, 28. Februar 2014.” Billet. March 10, 2014. http://greflinger.hypotheses.org/56.
+———. 2015a. “Ethica Complementoria, Das ist Höfliches Complementierbüchlein. Bibliografisches zum bisher unbekannten Nürnberger Erstdruck von 1643.” Aufsatz. Oslo.
+———. 2015b. “Ein Ethica Complementoria-Druck in der BSB München.” Billet. August 2, 2015. https://greflinger.hypotheses.org/156.
+———. 2015c. “Auf der Zielgeraden: Kollation der XML-Datei der Transgraphierung der Erstausgabe der Ethica Complementoria.” Billet. August 24, 2015. https://greflinger.hypotheses.org/173.
+———. 2016a. “Die Ethica Complementoria – Überlieferungverhältnisse, Bearbeitungen, Verfasserfrage eines Bestsellers frühneuzeitlicher deutschsprachiger Anstandsliteratur.” Sektionsvortrag presented at the 16. Internationale Tagung der Arbeitsgemeinschaft für germanistische Edition on the topic “Textrevisionen,” Graz, February 18.
+———. 2016b. “Ein Stemma der Ethica Complementoria-Überlieferung.” Billet. March 21, 2016. https://greflinger.hypotheses.org/238.
+———. 2016c. “Beitrag zur Überlieferung der Ethica Complementoria (1643–1717).” Weblog. May 27, 2016. http://greflinger.hypotheses.org/280.
+———. 2018a. Die Ethica Complementoria – Versuch einer bibliographisch-stemmatologischen Rekonstruktion der Überlieferungverhältnisse. Wolfenbütteler Notizen zur Buchforschung. Supplement. Wolfenbüttel: Herzog August Bibliothek. http://diglib.hab.de/ebooks/ed000738/start.htm.
+———. 2018b. “Ethica Complementoria – Bibliographie & Stemma veröffentlicht!” Billet. Greflinger – Digitale Edition (blog). April 3, 2018. https://greflinger.hypotheses.org/381.
+———. 2018c. “Das Ethica-Projekt hat eine DOI.” Weblog. Greflinger – Digitale Edition (blog). July 10, 2018. https://greflinger.hypotheses.org/403.
+———. 2018d. “Transkribus als Werkzeug für die Editorin (frühneuzeitlicher Drucküberlieferung).” Weblog. Greflinger – Digitale Edition (blog). August 28, 2018. https://greflinger.hypotheses.org/459.
+———. 2019. “Die Ethica Complementoria auf GitHub.” Blog. Greflinger – Digitale Edition (blog). February 12, 2019. https://greflinger.hypotheses.org/523.
+———. 2023a. “Training HTR-Models for a Bilingual Digital Edition of the Ethica Complementoria.” https://doi.org/10.48321/D1RP93.
+———. 2023b. “Training HTR-Models for a Bilingual Digital Edition of the Ethica Complementoria.” Weblog. Greflinger – Digitale Edition (blog). June 13, 2023. https://greflinger.hypotheses.org/550.
+———. 2023c. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 1: Recovering Files.” Weblog. Greflinger – Digitale Edition (blog). June 19, 2023. https://greflinger.hypotheses.org/568.
+———. 2023d. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 1: Recovering Files.” Weblog. Greflinger – Digitale Edition (blog). June 19, 2023. https://greflinger.hypotheses.org/568.
+———. 2023e. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 2: Setups and Fails.” Weblog. Greflinger – Digitale Edition (blog). June 20, 2023. https://greflinger.hypotheses.org/574.
+———. 2023f. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 2: Setups and Fails.” Weblog. Greflinger – Digitale Edition (blog). June 20, 2023. https://greflinger.hypotheses.org/574.
+———. 2023g. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 3: Filenames and Co-Workers.” Weblog. Greflinger – Digitale Edition (blog). June 21, 2023. https://greflinger.hypotheses.org/586.
+———. 2023h. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 3: Filenames and Co-Workers.” Weblog. Greflinger – Digitale Edition (blog). June 21, 2023. https://greflinger.hypotheses.org/586.
+———. 2023i. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 4: Digressions & Contemplations.” Weblog. Greflinger – Digitale Edition (blog). June 22, 2023. https://greflinger.hypotheses.org/614.
+———. 2023j. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 5: Sources.” Weblog. Greflinger – Digitale Edition (blog). June 23, 2023. https://greflinger.hypotheses.org/634.
+———. 2023k. “Ethica Complementoria Digital Scholarly Edition – Redux. Pt. 6: Transcriptions.” Weblog. Greflinger – Digitale Edition (blog). June 26, 2023. https://greflinger.hypotheses.org/668.
