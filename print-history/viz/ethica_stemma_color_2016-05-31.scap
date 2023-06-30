@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="0588FBD0-C352-4ACE-A225-F8659538C6A3">
+    <Notes>
+        <Note ID="2" FontSize="12.0" Position="1004.0,42.0" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.022702 0.079734 0.499862</Border>
+            </Appearance>
+            <String>Ethica Complementoria
+Nürnberg 1643</String>
+            <ConnectedNoteIDs>3-5, 7, 11</ConnectedNoteIDs>
+            <PointsToNoteIDs>3-5, 7, 11</PointsToNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="1194.0,75.0" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.022702 0.079734 0.499862</Border>
+            </Appearance>
+            <String>Ethica Complementoria
+Hamburg (Werner)
+[&gt;1643 / &lt; 1648]</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="1006.0,379.0" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.022702 0.079734 0.499862</Border>
+            </Appearance>
+            <String>Ethica Complementoria
+Nürnberg [1650]</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="1077.0,138.0" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.022702 0.079734 0.499862</Border>
+            </Appearance>
+            <String>Ethica Complementoria
+o.O. 1645</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="1307.0,264.0" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.077727 0.559807 0.805582</Border>
+            </Appearance>
+            <String>Höflichs… + Tranchier
+Rinteln (Lucius) 1648</String>
+            <ConnectedNoteIDs>2, 8, 111</ConnectedNoteIDs>
+            <PointsToNoteIDs>8</PointsToNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="1307.0,374.0" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.077727 0.559807 0.805582</Border>
+            </Appearance>
+            <String>Höflichs… + Tranchier
+Rinteln (Lucius) 1650</String>
+            <ConnectedNoteIDs>7, 112</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="707.0,232.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementierbüchlein
+Hamburg (Naumann) 1647</String>
+            <ConnectedNoteIDs>2, 12, 48</ConnectedNoteIDs>
+            <PointsToNoteIDs>12, 48</PointsToNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="707.0,357.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementierbüchlein
+Hamburg (Naumann) 1649</String>
+            <ConnectedNoteIDs>11, 13, 48, 53</ConnectedNoteIDs>
+            <PointsToNoteIDs>13, 53</PointsToNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="708.0,489.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementierbüchlein
+Hamburg (Naumann) 1654</String>
+            <ConnectedNoteIDs>12, 14</ConnectedNoteIDs>
+            <PointsToNoteIDs>14</PointsToNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="707.0,589.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementierbüchlein
+Hamburg (Naumann) 1658</String>
+            <ConnectedNoteIDs>13, 15</ConnectedNoteIDs>
+            <PointsToNoteIDs>15</PointsToNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="707.0,672.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementierbüchlein
+Hamburg (Naumann) 1660</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="222.0,295.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.98806 0.315936 0.08648</Border>
+            </Appearance>
+            <String>Löfflerey-Kunst
+„Liebstadt“ 1648b</String>
+            <ConnectedNoteIDs>17, 52, 57, 105</ConnectedNoteIDs>
+            <PointsToNoteIDs>52</PointsToNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="20.0,283.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.988026 0.886779 0.128897</Border>
+            </Appearance>
+            <String>Löfflerei-Kunst
+„Liebstadt“ 1648a</String>
+            <ConnectedNoteIDs>16, 103</ConnectedNoteIDs>
+            <PointsToNoteIDs>16</PointsToNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="15.0,395.0" Width="179.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.731856 0.242921 0.978714</Border>
+            </Appearance>
+            <String>Seladons weltliche Lieder
+1651
+Frankfurt (Mattheus Kämpffer)</String>
+            <ConnectedNoteIDs>53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="372.0,667.0" Width="73.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica
+„Greflinger“
+o.O. 1660</String>
+            <ConnectedNoteIDs>53, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>117</PointsToNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="374.0,766.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1665</String>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="374.0,826.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1670</String>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="374.0,886.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1673</String>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="374.0,945.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1675</String>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="374.0,1004.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1680</String>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="374.0,1065.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1683</String>
+            <ConnectedNoteIDs>90</ConnectedNoteIDs>
+            <PointsToNoteIDs>90</PointsToNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="860.0,1232.0" Width="182.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>erneuerte Complimentarius
++ Trenchier + Leberreime + Konfekt „GG“
+Hannover/Wolfenbüttel (Freytag)
+1705</String>
+            <ConnectedNoteIDs>113</ConnectedNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="323.0,295.0" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Complementier-büchlein</String>
+            <ConnectedNoteIDs>11-12</ConnectedNoteIDs>
+            <PointsToNoteIDs>12</PointsToNoteIDs>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="418.0,295.0" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Bettelstab
+der Liebe</String>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="225.0,521.0" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.98806 0.315936 0.08648</Border>
+            </Appearance>
+            <String>Löfflerey-Kunst
+„Liebstadt“ 1656</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="382.0,521.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Ethica
+„Greflinger“</String>
+            <ConnectedNoteIDs>12, 19-20</ConnectedNoteIDs>
+            <PointsToNoteIDs>20</PointsToNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="318.0,521.0" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Bettelstab
+der Liebe</String>
+        </Note>
+        <Note ID="56" FontSize="16.0" Position="1255.0,33.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>A</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="205.0,53.0" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.667972 0.119731 0.915127</Border>
+            </Appearance>
+            <String>Seladons Beständige Liebe
+1644
+Frankfurt (Eduard Schleich)
+„Unterweisung heimlich zu lieben“</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="877.0,356.0" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.412474 0.412474 0.412474</Border>
+            </Appearance>
+            <String>+ Konfektscheiben</String>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="877.0,374.0" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.667972 0.119731 0.915127</Border>
+            </Appearance>
+            <String>+ Unterweisung heimlich zu lieben</String>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="264.0,258.0" Width="191.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.667972 0.119731 0.915127</Border>
+            </Appearance>
+            <String>+ Unterweisung heimlich zu lieben</String>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="333.0,485.0" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.412474 0.412474 0.412474</Border>
+            </Appearance>
+            <String>+ Konfektscheiben</String>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="877.0,232.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.30689 0.30689 0.30689</Border>
+            </Appearance>
+            <String>+ Alamodische Damen-sprichwörter</String>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="445.0,667.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+o.O. 1660</String>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="515.0,667.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.819323 0.034386 0.054097</Border>
+            </Appearance>
+            <String>Trenchir-Büchlein
+Andreas Klett
+o.O. 1660</String>
+            <ConnectedNoteIDs>66</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="272.0,678.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Druckersynthese</String>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="1488.0,569.0" Width="140.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.255622 0.419839 0.132999</Border>
+            </Appearance>
+            <String>Neues Trenchir-Büchlein
+Andreas Klett
+Jena 1657  [8° quer]
+Weimar 1659/1660</String>
+            <ConnectedNoteIDs>64</ConnectedNoteIDs>
+            <PointsToNoteIDs>64</PointsToNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="583.0,768.0" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1665</String>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="473.0,767.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1665</String>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="274.0,779.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Druckersynthese</String>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1245.0,883.0" Width="107.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.87787 0.352461 0.54744</Border>
+            </Appearance>
+            <String>Ethica
+„Greflinger“
+Kopenhagen 1674</String>
+            <ConnectedNoteIDs>79, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>79</PointsToNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1355.0,883.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.87787 0.352461 0.54744</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime</String>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="1425.0,883.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.87787 0.352461 0.54744</Border>
+            </Appearance>
+            <String>Trenchier-
+Büchlein</String>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="584.0,827.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1670</String>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="474.0,827.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1670</String>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="584.0,888.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1673</String>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="477.0,887.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1673</String>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="860.0,855.0" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>[Ethica]
++ Trenchier + Leberreime + Konfekt „GG“
+Hannover (Hauenstein)
+1676</String>
+            <ConnectedNoteIDs>113, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>113</PointsToNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1245.0,954.0" Width="363.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.861505 0.138266 0.403253</Border>
+            </Appearance>
+            <String>Complementeer-Bog + geistl. &amp; weltl. Tischreime + Trenchier-Buch
+„Greflinger“
+Kopenhagen 1678 (da)</String>
+            <ConnectedNoteIDs>70, 80</ConnectedNoteIDs>
+            <PointsToNoteIDs>80</PointsToNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1245.0,1248.0" Width="363.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.861505 0.138266 0.403253</Border>
+            </Appearance>
+            <String>Complementeer-Bog + geistl. &amp; weltl. Tischreime + Trenchier-Buch
+„Greflinger“
+Kopenhagen (Baxman) 1708 (da)</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="81" FontSize="16.0" Position="1585.0,880.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>F</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="584.0,947.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1675</String>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="476.0,946.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1675</String>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="782.0,1489.0" Width="158.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.284705 0.130625 0.862053</Border>
+            </Appearance>
+            <String>Neu A la modisch
+(Complementier, Tranchier, Frisier, Kunst)
+Hamburg (Thomas Wiering)
+[1695 oder 1703]</String>
+            <Formatting>
+                <FormatRange Italic="Yes">0,101</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="505.0,1287.0" Width="186.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>Ethica + Trenchier + Leberreime
+Nürnberg
+um 1700</String>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="584.0,1005.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1680</String>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="476.0,1004.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1680</String>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="584.0,1066.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1683</String>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="473.0,1065.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1683</String>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="374.0,1414.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Ethica „Greflinger“
+Amsterdam 1717</String>
+            <ConnectedNoteIDs>27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="583.0,1416.0" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Tisch- und
+Leberreime
+„Leberstadt“ 1717</String>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="474.0,1415.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.966844 0.153536 0.098563</Border>
+            </Appearance>
+            <String>Trenchier-Büchlein
+Andreas Klett
+Amsterdam 1717</String>
+        </Note>
+        <Note ID="94" FontSize="16.0" Position="843.0,200.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>B</String>
+        </Note>
+        <Note ID="95" FontSize="16.0" Position="461.0,523.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>C</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="96" FontSize="16.0" Position="1416.0,226.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>D</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="497.0,300.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Druckersynthese</String>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="103.0,529.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Druckersynthese</String>
+        </Note>
+        <Note ID="99" FontSize="12.0" Position="1450.0,262.0" Width="122.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Druckersynthese/Buchbindersynthese</String>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="125.0,284.0" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.988026 0.886779 0.128897</Border>
+            </Appearance>
+            <String>Bettelstab
+der Liebe</String>
+        </Note>
+        <Note ID="101" FontSize="12.0" Position="5.0,326.0" Width="194.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.30689 0.30689 0.30689</Border>
+            </Appearance>
+            <String>+ Alamodische Damensprichwörter</String>
+        </Note>
+        <Note ID="102" FontSize="16.0" Position="460.0,254.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>B</String>
+        </Note>
+        <Note ID="103" FontSize="12.0" Position="17.0,53.0" Width="178.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.667972 0.119731 0.915127</Border>
+            </Appearance>
+            <String>De Arte Amandi
+1644
+Frankfurt (Mattheus Kämpffer)</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="400.0,5.0" Width="120.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.667972 0.119731 0.915127</Border>
+            </Appearance>
+            <String>Erstes Hundert Teutscher Reimen-Sprüche Salomons von Golaw
+1638
+Breslau</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="68.0,705.0" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>[Ethica] + Trenchier + Leberreime
+Frankfurt (Müller)
+1663</String>
+            <Formatting>
+                <FormatRange Italic="Yes">0,57</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="111" FontSize="12.0" Position="1488.0,76.0" Width="153.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.255622 0.419839 0.132999</Border>
+            </Appearance>
+            <String>Newes Trincir-Büchlein
+Matthias Gieger/Paul Fürst
+Nürnberg 1642</String>
+            <ConnectedNoteIDs>7, 112</ConnectedNoteIDs>
+            <PointsToNoteIDs>7, 112</PointsToNoteIDs>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="1488.0,368.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.255622 0.419839 0.132999</Border>
+            </Appearance>
+            <String>Vollständiges Trincir-Buch
+Matthias Gieger/Paul Fürst
+Nürnberg 1649</String>
+            <ConnectedNoteIDs>8, 111</ConnectedNoteIDs>
+            <PointsToNoteIDs>8</PointsToNoteIDs>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="860.0,986.0" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>erneuerte Complimentarius
++ Trenchier + Leberreime + Konfekt „GG“
+Hannover (Hauenstein Erben) 1684</String>
+            <ConnectedNoteIDs>42, 78</ConnectedNoteIDs>
+            <PointsToNoteIDs>42</PointsToNoteIDs>
+        </Note>
+        <Note ID="116" FontSize="16.0" Position="1036.0,727.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>E</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="862.0,746.0" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3">0.982685 0.282212 0.276811</Border>
+            </Appearance>
+            <String>Ethica + Trenchier + Leberreime + Konfekt „GG“
+Hannover (Hauenstein)
+1663</String>
+            <ConnectedNoteIDs>20, 70, 78</ConnectedNoteIDs>
+            <PointsToNoteIDs>70, 78</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,73</FormatRange>
+            </Formatting>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="29" Sticky="Yes" Position="695.0,194.0" Width="173.195312" Height="529.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.861505 0.138266 0.403253</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="51" Sticky="Yes" Position="211.0,247.0" Width="280.0" Height="329.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.988026 0.886779 0.128897</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="9" Sticky="Yes" Position="994.0,28.0" Width="286.0" Height="414.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.022702 0.079734 0.499862</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="10" Sticky="Yes" Position="1294.0,225.0" Width="152.0" Height="195.171875" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.077727 0.559807 0.805582</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="93" Sticky="Yes" Position="375.0,668.0" Width="326.0" Height="818.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1">0.966844 0.153536 0.098563</Border>
+                <Fill>0.982685 0.282212 0.276811</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="28" Sticky="Yes" Position="382.0,519.0" Width="109.0" Height="950.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1">0.966844 0.153536 0.098563</Border>
+                <Fill>0.966844 0.153536 0.098563</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="73" Sticky="Yes" Position="1233.0,866.0" Width="382.0" Height="444.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.928401 0.5723 0.700996</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="115" Sticky="Yes" Position="847.0,731.0" Width="208.0" Height="599.0" Faded="Yes">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.995719 0.812238 0.816601</Fill>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <AutoFit>2-5, 11-17, 49, 52-54, 56-58, 60-61, 63-66, 68-72, 74-77, 79-83, 86-89, 91-92, 94-98, 100-102, 112, 116</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="E148B3D7-65AD-47C2-919D-57FF57341E0B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="7E6118D0-87C4-4897-A87C-B828495CA502" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="DE24BA9B-2CD9-4273-BCBE-40F94FBD6590" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="BF08C042-6055-4FA8-8EAE-0A4705502F33" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="1F0DB026-957D-4FB0-B42C-4FF1F8CCC947" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="6793DA3C-C4C0-45F9-B853-4934017848C2" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="8980C901-AB3D-4920-817E-7131F8CC9E79" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="842.0,1191.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a3" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

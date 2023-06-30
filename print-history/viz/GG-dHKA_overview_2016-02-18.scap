@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="034C454E-44EB-4279-A623-34C11B392F49">
+    <Notes>
+        <Note ID="0" FontSize="15.0" Position="149.0,23.0" Width="579.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>GG_dHKA
+Georg Greflinger (1620-1677) – digitale Edition sämtlicher Werke und Schriften</String>
+            <ConnectedNoteIDs>1, 27</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,86</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="168.0,89.167969" Width="143.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Ethica Complementoria</String>
+            <ConnectedNoteIDs>0, 19, 25</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="20.0,152.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Basistransgraphierung: XML/TEI P5</String>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="366.0,365.0" Width="221.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Studienausgabe
+(Norwegische Beiträge zur Germanistik)</String>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="438.957031,480.0" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Annotation:
+- sprachliche Erläuterungen
+- Quellen
+- Überblickskommentar</String>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="438.957031,424.0" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Erstausgabe</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="438.957031,452.0" Width="158.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>‚wesentliche‘ Bearbeitungen</String>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="741.046875,365.160156" Width="94.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Löfflerei-Kunst</String>
+            <ConnectedNoteIDs>10-12, 25</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="631.046875,428.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Basistransgraphierung: XML/TEI P5</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="839.046875,429.0" Width="76.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Edierter Text</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="922.046875,429.0" Width="77.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Übersetzung</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="23.0,362.0" Width="198.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Dänische Übersetzung 1678/1708</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,30</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="43.117188,390.652344" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Basistransgraphierung: XML/TEI P5</String>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="44.117188,441.652344" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>‚Kulturtransfer‘-Studie</String>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="63.117188,413.652344" Width="262.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>bokselskap.no / Det Norske Nasjonalbiblioteket</String>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="49.0,179.0" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>TextGrid Repository</String>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="49.0,207.0" Width="156.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>DTA (Deutsches Textarchiv)</String>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="277.0,153.0" Width="152.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Überlieferungsverhältnisse</String>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="276.566406,181.0" Width="179.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Ausgabenchronologie / Stemma</String>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="276.566406,209.0" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>Varianz</String>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="660.0,89.167969" Width="241.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2"></Border>
+            </Appearance>
+            <String>der ganze Rest… (ca. 90.000 Druckseiten)</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="19" Sticky="Yes" Position="10.0,137.0" Width="220.0" Height="105.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.333263 0.550209 0.203198</Fill>
+            </Appearance>
+            <ConnectedNoteIDs>1</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="20" Sticky="Yes" Position="354.957031,349.0" Width="250.0" Height="204.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.959467 0.659347 0.625097</Fill>
+            </Appearance>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="21" Sticky="Yes" Position="13.117188,348.652344" Width="326.0" Height="127.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.567433 0.726981 0.94518</Fill>
+            </Appearance>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="25" Sticky="Yes" Position="265.566406,137.0" Width="201.0" Height="108.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <ConnectedNoteIDs>1, 9, 20-21</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="26" Sticky="Yes" Position="620.046875,349.0" Width="390.0" Height="120.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+                <Fill>0.87787 0.352461 0.54744</Fill>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <Stacks>
+        <Stack>6-7, 5</Stack>
+        <Stack>17-18</Stack>
+        <Stack>22-24</Stack>
+    </Stacks>
+    <AutoFit>1, 3-7, 9-15, 17-18, 23-24, 26</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="8F99AC89-72DC-4C28-B5A7-17B3E6A88EF0" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="F1562B04-C116-435D-87FE-29AC494BBFC5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="7E1B3D68-EEA1-43C5-B016-6CEBF725DC85" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882327 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="ADA36ED9-0604-4829-A689-D47F9434FA10" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="6E0EFCD4-72D5-4B98-81D9-363023827048" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="B52A2B52-5EED-426E-B5FB-95445712E68A" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="540D95CA-2081-45B9-B9BB-D502CB3925AD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
